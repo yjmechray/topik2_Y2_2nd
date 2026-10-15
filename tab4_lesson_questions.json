@@ -21,7 +21,7 @@
 "a": 3,
 "expKo": "정답: ④ — 지문의 '현실적인 방안이 시급하다'는 선택지 ④의 '실현 가능한 대책이 요구된다'와 정확한 유의어 패러프레이징입니다.",
 "expEn": "Professor 오현진 emphasized: '실현 가능한' = '현실적인' (feasible/realistic), '대책' = '방안/방법' (measure), and '요구된다' = '필요하다/시급하다' (is required/needed). Watch out for Choice ① ('이미 마련하고 있다' = already preparing).",
-"mem": "실현 가능한 = 현실적인 | 대책 = 방법·방안 | 요구된다 = 필요하다 (마련하고 있다 X!)",
+"mem": "Paraphrase Formula: '현실적인 방안' (realistic measure) = '실현 가능한 대책' (feasible countermeasure), and '시급하다' (urgent) = '요구된다' (is required). Trap: '마련하고 있다' (already preparing) is FALSE!",
 "vocabList": [
 "실현 가능한: feasible (= 현실적인)",
 "대책: countermeasure (= 방법/방안)",
@@ -49,7 +49,7 @@
 "a": 0,
 "expKo": "정답: ① — 해결하기 힘든 일로 머리가 복잡하고 괴로울 때 '골치(머리)가 아프다'를 씁니다.",
 "expEn": "'골치(가) 아프다' means to have a headache or feel mental distress over a troublesome problem. Compare with ② '콧대가 높다' (arrogant) and ③ '눈치가 빠르다' (quick to read the room).",
-"mem": "골치 아프다(문제 때문에 머리 아픔) | 콧대 높다(잘난 척·거만함) | 눈치 빠르다(분위기 파악 빠름)",
+"mem": "Body-Part Idiom Trio: '골치가 아프다' = brain aches over a hard problem; '콧대가 높다' = nose held high (arrogant); '눈치가 빠르다' = quick to read the room!",
 "vocabList": [
 "골치가 아프다: to have a headache over a problem",
 "콧대가 높다: to be arrogant / proud",
@@ -78,7 +78,7 @@
 "a": 1,
 "expKo": "정답: ② — 비유 구조에서 '새를 상자 안에 넣는 것'은 부모가 아이의 일(친구 관계 등)에 지나치게 '관여하고 간섭하여 구속하는 것'에 해당합니다.",
 "expEn": "By analogy ('아이도 이와 마찬가지다'), putting the bird in a box corresponds to parents meddling/interfering ('관여하다 / 간섭하다') in the child's life, which the child perceives as restraint ('구속').",
-"mem": "비유 대응: [새 = 아이] | [상자 안에 넣다 = 관여하다·구속하다] | [자꾸 = 부정적 반복!]",
+"mem": "Analogy Mapping: Bird ('새') = Child ('아이') | Putting in a box ('상자 안에 넣다') = Meddling & Restraining ('관여하다 / 구속하다') | Also remember: '자꾸' = repeated unwanted/negative action!",
 "vocabList": [
 "자꾸: repeatedly (negative nuance!)",
 "애쓰다: to strive / struggle (= 노력하다)",
@@ -111,7 +111,7 @@
 "a": 0,
 "expKo": "정답: ① — 작은 일부(하나)만 보고도 전체(열)를 알 수 있다는 뜻의 속담은 '하나를 보면 열을 안다'입니다.",
 "expEn": "'하나를 보면 열을 안다' literally means 'If you see one, you know ten'—used when a single detail reveals the whole person or situation.",
-"mem": "1(하나=작은 일부)을 보면 → 10(열=전체)을 안다!",
+"mem": "Proverb Math: Seeing 1 small habit ('하나를 보면') lets you know all 10 things ('열을 안다') about that person's character!",
 "vocabList": [
 "하나를 보면 열을 안다: seeing one, you know ten",
 "나뉘다: to be divided / split (능동: 나누다)",
@@ -140,7 +140,7 @@
 "a": 1,
 "expKo": "정답: ② — 빈칸 뒤의 '즉(바로)' 이하 문장에서 이긴 사람은 선택을 유지하고 진 사람은 바꾼다는 규칙적인 행동 패턴을 설명하므로 '일정한 경향이 있음을'이 정답입니다.",
 "expEn": "Look at the sentence after '즉' (namely): winners consistently maintain ('유지하다') their choice whereas ('반면에') losers switch. This predictable pattern is '일정한 경향' (a consistent tendency).",
-"mem": "빈칸 뒤 '즉' 확인! 이긴 사람(유지) vs 진 사람(변경) = 규칙적 패턴 = '일정한 경향'!",
+"mem": "Check the sentence right after '즉' (namely): Winners always keep ('유지하다') and losers always switch ('바꾸다'). That repeatable behavioral rule is a 'consistent tendency' ('일정한 경향'), NOT 'various kinds' ('다양한 종류')!",
 "vocabList": [
 "흔히: commonly (= 자주, 많이)",
 "자세히: in detail (= 구체적으로)",
@@ -173,7 +173,7 @@
 "a": 0,
 "expKo": "정답: ① — 빈칸 뒤에 부정 서술어 '않아야 한다'가 있으므로, 빈칸에는 '말을 꺼내다/말하다'라는 뜻의 관용어 '입 밖에 내다(입 밖에 내지)'가 들어가야 합니다.",
 "expEn": "Crucial exam tip from Professor 오현진: Always check the negative ending '않아야 한다' AFTER the blank! '입 밖에 내다' (to say out loud) + '않아야 한다' = must not say out loud.",
-"mem": "직접적인 말을 [입 밖에 내지] 않아야 한다 = 말하지 않아야 한다!",
+"mem": "Watch the negative ending after the blank! '입 밖에 내다' (put words outside the mouth = utter/speak) + '않아야 한다' (must NOT) = the coach must NOT utter direct words about mistakes!",
 "vocabList": [
 "부담감을 가지다: to feel pressure (= 무거운 마음)",
 "좋은 성적을 거두다: to achieve good results",
@@ -204,7 +204,7 @@
 "a": 0,
 "expKo": "정답: ① — 정확한 근거와 사실을 통해 독자가 기사를 '믿을 수 있게' 해야 하므로 '독자에게 신뢰를 주는'이 가장 알맞습니다.",
 "expEn": "Because unverified facts destroy reader trust ('믿지 않게 된다'), accurate grounds build credibility: '독자에게 신뢰를 주는' (giving trust to the reader).",
-"mem": "정확한 사실·근거 + 믿음 = '독자에게 신뢰를 주는'!",
+"mem": "Connect '믿지 않게 된다' (stop believing/trusting) and '정확한 근거와 사실' (accurate grounds and facts) directly to '독자에게 신뢰를 주는' (giving trust/credibility to the reader)!",
 "vocabList": [
 "신뢰를 주다: to give trust / credibility",
 "근거가 있다: to be well-grounded (= 타당하다)",
@@ -235,7 +235,7 @@
 "a": 2,
 "expKo": "정답: ③ — 본문의 '웃음을 유발하기도 한다'는 선택지 ③의 '웃음을 일으키는 역할도 한다'와 정확한 유의어입니다. (초창기=처음 시기, 유발하다=일으키다, 진화하다=발전하다)",
 "expEn": "Professor 오현진 highlighted three core synonym pairs in this passage: '초창기 = 처음 시기' (early period), '유발하다 = 일으키다' (to induce/cause), and '진화하다 = 발전하다' (to evolve/develop).",
-"mem": "이모티콘 지문 3대 유의어: [초창기 = 처음 시기] | [유발하다 = 일으키다] | [진화하다 = 발전하다]!",
+"mem": "3 Must-Know Emoticon Passage Synonyms: 1) '초창기' = '처음 시기' (early days), 2) '웃음을 유발하다' = '웃음을 일으키다' (induce/cause laughter), 3) '진화하다' = '발전하다' (evolve/develop)!",
 "vocabList": [
 "초창기: early period (= 처음 시기)",
 "표시하다: to display / express (= 나타내다)",
@@ -266,7 +266,7 @@
 "a": 1,
 "expKo": "정답: ② — 어른들이 어렸을 때 보던 만화와 장난감을 다시 찾는 것은 과거의 순수했던 '어린 시절을 되돌아보려는(회상하려는)' 심리 때문입니다.",
 "expEn": "'어렸을 때 보던 만화/장난감' (cartoons/toys from when they were young) directly maps to '어린 시절을 되돌아보려는' (looking back on one's childhood).",
-"mem": "어른들이 옛날 장난감·만화를 찾음 = '어린 시절을 되돌아보려는' 마음!",
+"mem": "Why do adults buy childhood cartoons and toys? Not to educate kids ('아이들을 교육하려는' X), but to look back on their own childhood ('어린 시절을 되돌아보려는' O)!",
 "vocabList": [
 "어린 시절: childhood",
 "되돌아보다: to look back on / reflect on",
@@ -297,7 +297,7 @@
 "a": 2,
 "expKo": "정답: ③ — 문제를 해결하기 위해 여러 사람이 함께 모여 진지하게 의논할 때 '머리를 맞대다(머리를 맞대고)'를 씁니다.",
 "expEn": "Professor 오현진 explained all four idioms in 5주차 1강: ① 담을 쌓다 (cut off contact/interest), ② 못을 박다 (declare firmly / hurt someone's heart), ③ 머리를 맞대다 (put heads together to discuss), ④ 고개를 숙이다 (bow head in shame/defeat).",
-"mem": "함께 모여 진지하게 의논하다 = 머리를 맞대다! (관계를 끊다 = 담을 쌓다)",
+"mem": "When people gather in one place ('한자리에 모여') to discuss a solution ('논의했다'), they put their heads together ('③ 머리를 맞대고')! ('담을 쌓다' = build a wall / cut off contact).",
 "vocabList": [
 "담을 쌓다: to cut off contact / interest",
 "못을 박다: to state firmly / hurt deeply",
@@ -327,12 +327,39 @@
 "a": 1,
 "expKo": "정답: ② — 본문의 '볼펜이나 만년필 글씨를 지울 때는 특수한 물질을 넣어 단단하게 만든 지우개를 사용한다'는 선택지 ②의 '특별한 물질이 들어가 있다'와 일치합니다. (퀴즈 연계: 특수하다 = 특별하다, 단단하다 = 딱딱하다)",
 "expEn": "Direct connection between the Week 5 Lecture 2 reading passage ('특수한 물질을 넣어 단단하게 만든 지우개') and the Week 5 Lecture 2 Quiz ('특수하다 = 특별하다')!",
-"mem": "연필 = 부드러운 지우개 | 볼펜·만년필 = 특수한(특별한) 물질을 넣은 단단한(딱딱한) 지우개!",
+"mem": "Eraser Contrast: Pencil ('연필') = soft eraser ('부드러운 지우개'). Pen/Ink ('볼펜/만년필') = hard eraser ('단단한 지우개') containing a special substance ('특수한 물질 = 특별한 물질')!",
 "vocabList": [
 "지우개 가루: eraser crumbs",
 "특수하다: to be special (= 특별하다)",
 "단단하다: to be hard / firm (= 딱딱하다)",
 "부드럽다: to be soft"
+]
+},
+{
+"passageKo": "[제47회 읽기 빈칸 문제] 조명은 단순히 실내를 밝히는 도구만이 아니다. 조명을 어떻게 설치하느냐에 따라 좁은 방이 넓어 보이기도 하고 차가운 공간이 따뜻해 보이기도 한다. 따라서 실내 조명을 설치할 때는 ( 빈칸 ) 선택하는 것이 중요하다.",
+"passageEn": "[47th TOPIK II Reading Blank] Lighting is not merely a tool to brighten an interior. Depending on how lighting is installed, a narrow room can look wide and a cold space can look warm. Therefore, when installing indoor lighting, it is important to choose it ( Blank ).",
+"qKo": "2. 다음을 읽고 ( 빈칸 )에 들어갈 내용으로 가장 알맞은 것을 고르십시오.",
+"qEn": "Choose the most appropriate expression for the blank (Verified Week 5 Lecture 2 Slide Options).",
+"o": [
+"① 방의 구조에 맞게",
+"② 장식에 따라 다르게",
+"③ 가격이 저렴한 것으로",
+"④ 유행하는 디자인으로"
+],
+"oEn": [
+"① Correct: 'suiting the structure/layout of the room' (since lighting makes a narrow room look wide, etc.).",
+"② Distractor on slide: 'differently according to the decoration'.",
+"③ Unmentioned ('something inexpensive').",
+"④ Unmentioned ('in a trendy design')."
+],
+"a": 0,
+"expKo": "정답: ① — 좁은 방을 넓어 보이게 하는 등 공간의 특성과 구조에 맞춰 조명을 설치해야 하므로 '① 방의 구조에 맞게'가 알맞습니다.",
+"expEn": "Verified from the Week 5 Lecture 2 learning material slide showing choices ① '방의 구조에 맞게' (suiting the structure of the room) and ② '장식에 따라 다르게' (differently according to the decoration).",
+"mem": "Memorize the two verified slide choices in Week 5 Lecture 2: '① 방의 구조에 맞게' (suiting the room's structure/layout) vs. '② 장식에 따라 다르게' (differently according to decoration)!",
+"vocabList": [
+"방의 구조: structure / layout of a room",
+"장식: decoration / ornament",
+"실내 조명: indoor lighting"
 ]
 }
 ]
@@ -340,8 +367,8 @@
 "6주차 (제52회)": {
 "1강": [
 {
-"passageKo": "[읽기 6번 광고문]\n안정된 내일을 위하여!\n고객님의 지갑을 소중히 생각하겠습니다.",
-"passageEn": "[Reading Q6 Ad]\nFor a stable tomorrow!\nWe will cherish our customers' wallets.",
+"passageKo": "[읽기 5번 광고문]\n안정된 내일을 위하여!\n고객님의 지갑을 소중히 생각하겠습니다.",
+"passageEn": "[Reading Q5 Ad]\nFor a stable tomorrow!\nWe will cherish our customers' wallets.",
 "qKo": "1. 다음은 무엇에 대한 글인지 고르십시오.",
 "qEn": "Choose what the following text is about.",
 "o": [
@@ -354,23 +381,50 @@
 "① Bookstore",
 "② Correct: Bank ('안정된 내일' [stable tomorrow] + '고객님의 지갑' [customer's wallet/money])",
 "③ Laundromat",
-"④ Photo studio ('오늘의 추억을 한 장에, 아름다운 모습 그대로 남기세요')"
+"④ Photo studio"
 ],
 "a": 1,
-"expKo": "정답: ② — '고객님의 지갑(돈/자산)'과 '안정된 내일(저축/금융)'을 다루는 곳은 '은행'입니다. (참고: '오늘의 추억을 한 장에, 아름다운 모습 그대로 남기세요'는 ④ 사진관입니다!)",
-"expEn": "'지갑' (wallet/money) and '안정된 내일' (stable financial future) point directly to ② 은행 (bank). Meanwhile, '오늘의 추억을 한 장에' (today's memory in one sheet/photo) is ④ 사진관 (photo studio).",
-"mem": "지갑·돈·안정된 내일 = ② 은행 | 추억을 한 장에·아름다운 모습 = ④ 사진관!",
+"expKo": "정답: ② — '고객님의 지갑(돈/자산)'과 '안정된 내일(저축/금융)'을 다루는 곳은 '은행'입니다.",
+"expEn": "'지갑' (wallet/money) and '안정된 내일' (stable financial future) point directly to ② 은행 (bank).",
+"mem": "Keywords: '지갑' (wallet/money) + '안정된 내일' (stable financial tomorrow) = '② 은행' (Bank)!",
 "vocabList": [
 "안정된 내일: stable tomorrow",
 "지갑: wallet",
-"소중히: preciously / with care",
-"추억을 남기다: to leave memories"
+"소중히: preciously / with care"
+]
+},
+{
+"passageKo": "[읽기 6번 광고문]\n오늘의 추억을 한 장에,\n아름다운 모습 그대로 남기세요.",
+"passageEn": "[Reading Q6 Ad]\nToday's memories on a single sheet,\nLeave your beautiful appearance just as it is.",
+"qKo": "2. 다음은 무엇에 대한 글인지 고르십시오.",
+"qEn": "Choose what the following text is about.",
+"o": [
+"① 서점",
+"② 은행",
+"③ 세탁소",
+"④ 사진관"
+],
+"oEn": [
+"① Bookstore",
+"② Bank",
+"③ Dry cleaner / Laundromat",
+"④ Correct: Photo studio ('추억을 한 장에' [memories on one sheet/photo] + '아름다운 모습 그대로 남기세요')"
+],
+"a": 3,
+"expKo": "정답: ④ — '오늘의 추억을 한 장(사진 한 장)에', '아름다운 모습 그대로 남기세요'는 사진을 찍어 주는 '사진관' 광고입니다.",
+"expEn": "'한 장' (one sheet/print of a photo), '추억' (memories), and '아름다운 모습 그대로 남기세요' (capture your beautiful appearance as it is) point to ④ 사진관 (photo studio).",
+"mem": "Keywords: '추억을 한 장에' (memories on a single photo sheet) + '아름다운 모습' (beautiful appearance) = '④ 사진관' (Photo studio)!",
+"vocabList": [
+"추억: fond memory",
+"한 장: one sheet (of paper/photo)",
+"모습: appearance / figure",
+"남기다: to leave behind / capture"
 ]
 },
 {
 "passageKo": "[읽기 7번 공익 광고]\n"엄마, 잘 다녀왔습니다." 참 반가운 한마디!\n우리 아이 학교 다니는 길을 지켜 주세요.\n학교 앞 천천히! 아이들이 있는지 한 번 더 살피세요.",
 "passageEn": "[Reading Q7 Public Ad]\n'Mom, I'm home safely!' What a welcoming phrase!\nPlease protect the road our children take to school.\nSlowly in front of schools! Check once more if there are children.",
-"qKo": "2. 다음은 무엇에 대한 글인지 고르십시오.",
+"qKo": "3. 다음은 무엇에 대한 글인지 고르십시오.",
 "qEn": "Choose what the following text is about.",
 "o": [
 "① 안전 운전",
@@ -387,7 +441,7 @@
 "a": 0,
 "expKo": "정답: ① — 어린이 보호구역(스쿨존)에서 '학교 앞 천천히!' 운전하며 아이들이 있는지 살피라는 '안전 운전' 캠페인 글입니다.",
 "expEn": "'학교 앞 천천히!' (Slow down in front of schools!) and checking for children on their way to school urges drivers to practice ① 안전 운전 (safe driving).",
-"mem": "학교 앞 천천히 + 아이들이 있는지 살피세요 = ① 안전 운전!",
+"mem": "Keywords: '학교 앞 천천히!' (Slowly in front of schools!) + '아이들이 있는지 한 번 더 살피세요' (Check once more for children) = '① 안전 운전' (Safe driving)!",
 "vocabList": [
 "반갑다: to be glad / welcoming",
 "살피다: to check / look carefully around",
@@ -397,7 +451,7 @@
 {
 "passageKo": "[읽기 8번 안내문]\n• 식사를 원하는 날짜와 시간, 인원수를 선택하십시오.\n• 연락 받을 분의 성함과 연락처를 입력하십시오.",
 "passageEn": "[Reading Q8 Notice]\n• Please select the desired date, time, and number of people for the meal.\n• Please enter the name (honorific) and contact number of the person to be contacted.",
-"qKo": "3. 다음은 무엇에 대한 글인지 고르십시오.",
+"qKo": "4. 다음은 무엇에 대한 글인지 고르십시오.",
 "qEn": "Choose what the following text is about.",
 "o": [
 "① 예약 방법",
@@ -414,12 +468,39 @@
 "a": 0,
 "expKo": "정답: ① — 식당 이용 전에 날짜, 시간, 인원수, 성함(이름의 높임말), 연락처를 선택·입력하라고 안내하므로 '예약 방법'입니다.",
 "expEn": "Selecting the date, time, headcount ('인원수'), and entering your name ('성함') and phone number ('연락처') describes ① 예약 방법 (how to make a reservation).",
-"mem": "날짜·시간·인원수 선택 + 성함·연락처 입력 = ① 예약 방법!",
+"mem": "Selecting meal date, time, party size ('인원수') + entering your name ('성함') and phone number ('연락처') = '① 예약 방법' (Reservation method)!",
 "vocabList": [
 "인원수: number of people",
 "성함: name (honorific of 이름)",
 "연락처: contact information",
 "이용 후기: user review"
+]
+},
+{
+"passageKo": "[제52회 읽기 21번 관용어 문제] 동료가 어려운 일을 겪고 있을 때 자기 이익만 생각하며 ( 21번 빈칸 ) 끝까지 함께 도우려는 태도가 필요하다.",
+"passageEn": "[52nd TOPIK II Reading Q21 Idiom] When a colleague is going through a difficult time, rather than only thinking of one's own gain, one needs an attitude of helping together until the end without pulling out.",
+"qKo": "5. 빈칸에 들어갈 알맞은 관용어를 고르십시오.",
+"qEn": "Choose the appropriate idiom for the blank (Verified Week 6 Lecture 1 Slide Options).",
+"o": [
+"① 앞뒤를 재고 (앞뒤를 재다)",
+"② 발을 빼지 않고 (발을 빼다)",
+"③ 눈을 감아 주고 (눈을 감아 주다)",
+"④ 손을 벌리지 않고 (손을 벌리다)"
+],
+"oEn": [
+"① '앞뒤를 재다' = to weigh pros and cons / calculate gains and losses",
+"② Correct: '발을 빼지 않고' = without pulling out / without withdrawing from involvement",
+"③ '눈을 감아 주다' = to turn a blind eye / overlook a fault",
+"④ '손을 벌리다' = to ask for money or help"
+],
+"a": 1,
+"expKo": "정답: ② — '발을 빼다'는 어떤 일이나 관계에서 물러서서 빠져나온다는 뜻이므로, '발을 빼지 않고'는 어려운 상황에서 도망치지 않고 끝까지 함께한다는 뜻입니다. (참고: ① '앞뒤를 재다'는 이익과 손해를 따져 보다라는 뜻입니다.)",
+"expEn": "Verified from the Week 6 Lecture 1 slide showing choices ① '앞뒤를 재고' (weighing pros and cons) and ② '발을 빼지 않고' (without pulling out / withdrawing).",
+"mem": "Know both Week 6 Lecture 1 slide idioms: '① 앞뒤를 재다' = measure front and back (weigh pros & cons); '② 발을 빼다' = pull your foot out (withdraw from involvement)!",
+"vocabList": [
+"앞뒤를 재다: to weigh pros and cons",
+"발을 빼다: to pull out / withdraw from involvement",
+"손을 떼다: to quit doing a task"
 ]
 }
 ],
@@ -444,7 +525,7 @@
 "a": 1,
 "expKo": "정답: ② — 상처를 건조하게 노출하는 대신 촉촉하게 유지하면서 외부 자극으로부터 '감싸서 보호해 주면' 더 빨리 회복된다는 맥락입니다.",
 "expEn": "Verified from the Week 6 Lecture 2 learning material choices: ① 깨끗하게 관리하면 vs ② 감싸서 보호해 주면.",
-"mem": "감싸다(wrap/cover) + 보호해 주다(protect) | 관리하다 = 감독하다!",
+"mem": "Contrast leaving a wound dry and exposed with keeping it moist and wrapping/covering it to protect it ('② 감싸서 보호해 주면')! Also remember: '관리하다 = 감독하다'.",
 "vocabList": [
 "관리하다: to manage / maintain (= 감독하다)",
 "감싸다: to wrap / cover / protect",
@@ -475,7 +556,7 @@
 "a": 3,
 "expKo": "정답: ④ — 어떤 일에 몹시 열중하거나 힘을 쏟을 때 '열을 올리다(열을 올린다)'를 사용합니다. 반대로 일을 그만둘 때는 '손을 떼다(①)', 관심을 끊을 때는 '담을 쌓다(③)'를 씁니다.",
 "expEn": "Verified exact 4 choices from the 7주차 1강 slide: ① 손을 뗀다 (quit), ② 이를 간다 (grind teeth), ③ 담을 쌓는다 (cut off interest), ④ 열을 올린다 (get heated up / enthusiastically absorbed in).",
-"mem": "적극적으로 열중하다 = ④ 열을 올리다! | 그만두다 = ① 손을 떼다 | 관심을 끊다 = ③ 담을 쌓다!",
+"mem": "Know all 4 verified options on the Week 7 Lecture 1 slide: '① 손을 뗀다' (quit work), '② 이를 간다' (grind teeth in anger), '③ 담을 쌓는다' (cut off interest), '④ 열을 올린다' (get passionately absorbed in = CORRECT)!",
 "vocabList": [
 "손을 떼다: to quit / withdraw from a task",
 "이를 갈다: to grind one's teeth (anger/determination)",
@@ -505,7 +586,7 @@
 "a": 1,
 "expKo": "정답: ② — 수업에 게임 방식을 도입하여 즉각적인 보상을 주면 학생들이 '수업에 보다(더) 집중할' 수 있게 됩니다. (오답 함정 ③ '게임에 흥미를 느낄'과 혼동 주의!)",
 "expEn": "Verified directly from the Week 7 Lecture 2 slide & lecture! The goal is helping students concentrate MORE on the class ('② 수업에 보다 집중할'), where the adverb '보다' means '더' (more).",
-"mem": "게임 방식 도입의 진짜 목적 = 게임 흥미(X)가 아니라 '② 수업에 보다(더) 집중할' 수 있게 함!",
+"mem": "Don't fall for Trap ③ ('게임에 흥미를 느낄' - feel interest in games)! The educational purpose of introducing quiz games into class is so students concentrate MORE ('보다 = 더') on the CLASS ('② 수업에 보다 집중할')!",
 "vocabList": [
 "방식을 도입하다: to introduce a method (= 방법을 가져오다)",
 "열의: enthusiasm (= 열정과 의지)",
@@ -539,7 +620,7 @@
 "a": 1,
 "expKo": "정답: ② — 교수님께서 강조하신 웹소설의 핵심 특징 2가지: (1) 눈이 피로하지(피곤하지) 않도록 문장을 짧게 쓴다, (2) 배경과 등장인물(나오는 사람)이 단순하다!",
 "expEn": "Professor 오현진 emphasized in the Week 8 review: '등장하다 = 나오다' (appear), '등장인물 = 나오는 사람' (characters), '피로하다 = 피곤하다' (tired/fatigued), and web novels have simple settings/characters and short sentences.",
-"mem": "웹소설 핵심: 등장하다=나오다 | 피로하다=피곤하다 | 짧은 문장 + 단순한 배경·등장인물!",
+"mem": "Web Novel ('웹소설') 2 Key Traits + 2 Synonyms: 1) Short sentences so eyes don't get tired ('피로하다 = 피곤하다'), 2) Simple setting & characters ('등장하다 = 나오다', '등장인물 = 나오는 사람')!",
 "vocabList": [
 "등장하다: to appear / emerge (= 나오다)",
 "등장인물: characters (= 나오는 사람)",
@@ -550,14 +631,14 @@
 ],
 "2강": [
 {
-"passageKo": "[신문 기사 제목 1]\n지지부진한 태풍 피해 복구, 속 터지는 주민들",
-"passageEn": "[Newspaper Headline 1]\nSluggish Typhoon Damage Recovery, Residents Bursting with Frustration",
+"passageKo": "[신문 기사 제목 1]\n지지부진한 태풍 피해 복구, 속 터지는 인주 주민들",
+"passageEn": "[Newspaper Headline 1]\nSluggish Typhoon Damage Recovery, Inju Residents Bursting with Frustration",
 "qKo": "1. 다음 신문 기사의 제목을 가장 잘 설명한 것을 고르십시오.",
 "qEn": "Choose the best explanation of the newspaper headline.",
 "o": [
-"① 태풍 피해 복구가 빠르게 이루어져서 주민들이 기뻐하고 있다.",
-"② 태풍 피해 복구가 잘 진행되지 않아 주민들이 답답해하고 있다.",
-"③ 주민들이 힘을 합쳐 태풍 피해를 스스로 복구하고 있다.",
+"① 태풍 피해 복구가 빠르게 이루어져서 인주 주민들이 기뻐하고 있다.",
+"② 태풍 피해 복구가 잘 진행되지 않아 인주 주민들이 답답해하고 있다.",
+"③ 인주 주민들이 힘을 합쳐 태풍 피해를 스스로 복구하고 있다.",
 "④ 태풍 피해 지역에 대한 정부의 지원금이 크게 늘어났다."
 ],
 "oEn": [
@@ -568,8 +649,8 @@
 ],
 "a": 1,
 "expKo": "정답: ② — 교수님 핵심 풀이: '지지부진하다' = '잘 진행되지 않다', '속(이) 터지다' = '답답해하다'!",
-"expEn": "Headline formula: '지지부진한 복구' = '복구가 잘 진행되지 않아' (recovery is not progressing well) + '속 터지는 주민들' = '주민들이 답답해하고 있다' (residents are frustrated).",
-"mem": "지지부진하다 = 잘 진행되지 않다 | 속 터지다 = 답답해하다!",
+"expEn": "Headline formula: '지지부진한 복구' = '복구가 잘 진행되지 않아' (recovery is not progressing well) + '속 터지는 인주 주민들' = '인주 주민들이 답답해하고 있다' (Inju residents are frustrated).",
+"mem": "Headline Formula #1: '지지부진하다' (sluggish) = '잘 진행되지 않다' (not progressing well) + '속 터지다' (insides bursting) = '답답해하다' (feel frustrated)!",
 "vocabList": [
 "지지부진하다: to be sluggish (= 잘 진행되지 않다)",
 "복구: recovery / restoration",
@@ -596,7 +677,7 @@
 "a": 2,
 "expKo": "정답: ③ — 교수님 강조 1순위! 수학의 모르는 수 '미지수(x)'는 신문 기사에서 무조건 '앞으로 어떻게 될지 알 수 없다'로 바뀝니다!",
 "expEn": "Professor 오현진 emphasized: '미지수이다' (is an unknown quantity) ALWAYS maps to '알 수 없다' (cannot be known / is uncertain) in the answer choices!",
-"mem": "미지수(x) = 모르는 수 = 선지에서 무조건 '알 수 없다' 찾기!",
+"mem": "Headline Formula #2: In math, '미지수' is the unknown variable 'x'. Whenever a headline ends with '미지수', immediately pick the choice ending with '알 수 없다' (cannot be known yet)!",
 "vocabList": [
 "신설: new establishment / construction",
 "공급하다: to supply (= 주다)",
@@ -623,7 +704,7 @@
 "a": 0,
 "expKo": "정답: ① — '큰 폭으로 하락'은 '크게 떨어지다', 물건을 만드는 회사인 '제조업체'가 '활기를 띠다'는 '분위기가 좋아지고 있다(활발해지다)'라는 뜻입니다.",
 "expEn": "'큰 폭으로 하락' = '크게 떨어져' (fell sharply) + '활기 띠는 제조업체' = '제조업체의 분위기가 좋아지고 있다' (manufacturing companies' atmosphere is getting lively).",
-"mem": "큰 폭으로 하락 = 크게 떨어지다 | 활기를 띠다 = 분위기가 좋아지다!",
+"mem": "Headline Formula #3: '큰 폭으로 하락' = '크게 떨어지다' (drop sharply) + '활기를 띠다' = '분위기가 좋아지다' (business atmosphere becomes lively)!",
 "vocabList": [
 "큰 폭으로 하락: sharp drop (= 크게 떨어지다)",
 "활기를 띠다: to take on vitality (= 분위기가 좋아지다)",
