@@ -2,7 +2,7 @@
 "1주차 (제35회)": {
 "1강": [
 {
-"frontTag": "1주차 1강 · 쓰기 51번 연습문제 (편지)",
+"frontTag": "1주차 1강 · 쓰기 51번 연습문제 (감사·반납 편지)",
 "frontMain": "영철 씨, 안녕하세요?\n지난번에 가방을 ( ㉠ ) 고맙습니다.\n덕분에 여행을 잘 다녀왔습니다.\n가방을 언제 ( ㉡ )?\n편하신 시간을 알려 주시면 제가 찾아가겠습니다.",
 "frontSub": "빈칸 ( ㉠ ), ( ㉡ )에 들어갈 알맞은 격식체·높임말 표현을 생각한 뒤 카드를 뒤집어 보세요!",
 "hintText": "㉠ 빌려주다 + -시- + -어서 | ㉡ 돌려주다(→드리다) + -(으)면 좋겠습니까?",
@@ -10,11 +10,11 @@
 "backEn": "㉠ Thank you for lending me the bag last time.\n㉡ When would it be good for me to return the bag to you?",
 "partnerLabel": "채점 기준 & 문법 공식 (5점 + 5점 = 10점)",
 "partnerText": "• 감사 이유 연결: 동사 + -아/어 주셔서 고맙습니다\n• 겸양 질문: 동사 + -아/어 드리면 좋겠습니까? / 되겠습니까?",
-"partnerExplain": "쓰기 51번은 반드시 격식체(-(스)ㅂ니다/습니까)와 높임말(-시-, 드리다)을 사용해야 감점되지 않습니다! (-어요 체 사용 금지!)",
-"mem": "영철 씨가 빌려줌 = 빌려 주셔서 | 내가 다시 줌 = 돌려 드리면 좋겠습니까?"
+"partnerExplain": "In Writing Q51, you MUST use formal polite endings (-(스)ㅂ니다/습니까) and honorifics (-시-, 드리다). Never use -어요 or -다!",
+"mem": "When the listener did a favor for you (lending the bag), use '-아/어 주셔서' (빌려 주셔서). When you do an action back to them (returning it), humble yourself with '드리다' + '-(으)면 좋겠습니까?' (돌려 드리면 좋겠습니까?)!"
 },
 {
-"frontTag": "1주차 1강 · 쓰기 51번 문법 변환 연습",
+"frontTag": "1주차 1강 · 쓰기 51번 안내문 '바라다' 변환 연습",
 "frontMain": "[공지·안내문 '바라다' 변환 연습]\n1. 관심이 있으신 분은 신청해 주십시오.\n2. 대중교통을 이용해 주십시오.\n3. 홈페이지를 참고해 주십시오.",
 "frontSub": "위 세 문장을 '바라다(-기 바랍니다)'를 활용하여 안내문 격식체로 바꿔 보세요!",
 "hintText": "동사 어간 + -(으)시기 바랍니다 / -아/어 주시기 바랍니다",
@@ -22,8 +22,8 @@
 "backEn": "1. Those interested are requested to apply.\n2. Please use public transportation.\n3. Please refer to the website.",
 "partnerLabel": "안내문 필수 종결 공식",
 "partnerText": "-아/어 주십시오 = -(으)시기 바랍니다 = -아/어 주시기 바랍니다",
-"partnerExplain": "51번 안내문·공지문 마지막 빈칸(연락/신청/참고 요청)에서 만점을 받는 핵심 문법입니다.",
-"mem": "안내문 마지막 부탁 문장 = '~하시기 바랍니다 / ~해 주시기 바랍니다'!"
+"partnerExplain": "Core grammar formula for scoring full points on the final blank of Q51 public notices (asking readers to apply, contact, or refer).",
+"mem": "Notice Final Blank Formula: Any polite imperative '-아/어 주십시오' (Please do ~) can be upgraded into formal notice style using '~하시기 바랍니다' or '~해 주시기 바랍니다'!"
 },
 {
 "frontTag": "1주차 1강 · 제35회 쓰기 51번 기출문제",
@@ -33,9 +33,9 @@
 "backKo": "㉠ 제가 쓰던 물건을 무료로 드리고 싶습니다 (이 물건들을 무료로 가져가실 분을 찾습니다)\n㉡ 필요하신 분은 금요일 전까지 연락해 주시기 바랍니다 (그전까지 연락해 주십시오)",
 "backEn": "㉠ So right now I would like to give away the items I used for free.\n㉡ If you need them, please contact me before Friday.",
 "partnerLabel": "교수님 풀이 핵심 포인트",
-"partnerText": "1. 제목('무료로 드립니다')을 먼저 읽고 ㉠에 활용!\n2. ㉡ 앞의 기한(금요일까지) + 뒤의 전화번호 → 연락 요청!",
-"partnerExplain": "51번은 제목에 가장 중요한 힌트가 들어 있습니다. '공부를 마치고(끝내고)' 고향에 가므로 방의 물건을 무료로 드린다는 내용이 들어가야 합니다.",
-"mem": "제목 힌트(무료로 드립니다) → ㉠ 물건을 무료로 드리고 싶습니다 | 전화번호 앞 → ㉡ 연락해 주시기 바랍니다!"
+"partnerText": "1. 제목('무료로 드립니다')을 먼저 읽고 ㉠에 그대로 활용!\n2. ㉡ 앞의 기한(금요일까지) + 뒤의 전화번호 → 연락 요청!",
+"partnerExplain": "Professor 오현진 emphasized: The title of Q51 ('무료로 드립니다') gives away the exact answer for Blank ㉠! And a phone number after Blank ㉡ always signals 'Please contact me' ('연락해 주시기 바랍니다').",
+"mem": "Step 1: Read the Title ('무료로 드립니다' = Giving away for free) and plug it into Blank ㉠ ('물건을 무료로 드리고 싶습니다'). Step 2: See the phone number after Blank ㉡ and write '연락해 주시기 바랍니다' (Please contact me)!"
 }
 ],
 "2강": [
@@ -48,104 +48,186 @@
 "backEn": "㉡ Only then can society be stably maintained (can the organization operate smoothly without problems).",
 "partnerLabel": "쓰기 52번 필수 형식 규칙",
 "partnerText": "반드시 평서형 격식체(-ㄴ다/-는다/-다) 사용! (-습니다, -어요 절대 금지!)",
-"partnerExplain": "기계의 나사(개인)가 제자리에 있어야 기계(사회/조직)가 정상적으로 작동하고 안정을 유지할 수 있다는 비유 구조입니다.",
-"mem": "52번은 설명문이므로 무조건 '-다 / -ㄴ다 / -는다'로 끝내기! '그래야' 뒤에는 긍정적 결과!"
+"partnerExplain": "Just as every small screw ('나사') must be in its place for a machine to work ('작동하다'), every individual ('개인') must be in their place so that society/the organization can be stably maintained ('유지될 수 있다').",
+"mem": "Q52 Golden Rule: Because Q52 is an expository text ('설명문'), ALWAYS end with plain declarative '-다 / -ㄴ다 / -는다' (NEVER '-습니다' or '-어요'). After '그래야' (Only then), state the positive outcome ('사회가 안정적으로 유지될 수 있다')!"
 }
 ]
 },
 "2주차 (제36회)": {
+"1강": [
+{
+"frontTag": "2주차 1강 · 제36회 쓰기 51번 초대·행사 안내 연습",
+"frontMain": "[초대 및 참석 여부 확인 메일]\n안녕하십니까? 다음 주 금요일에 저희 학과에서 졸업생 초청 특강을 진행합니다. 바쁘시겠지만 꼭 ( ㉠ ). 참석이 가능하신 분은 수요일까지 ( ㉡ ).",
+"frontSub": "초청 안내문의 ( ㉠ ), ( ㉡ )을 격식체(-(스)ㅂ니다 / 바랍니다)로 완성하세요!",
+"hintText": "㉠ 참석해 주시면 감사하겠습니다 / 오셔서 자리를 빛내 주시기 바랍니다 | ㉡ 연락해 주시기 바랍니다",
+"backKo": "㉠ 참석해 주시면 감사하겠습니다 (참석해 주시기 바랍니다)\n㉡ 연락해 주시기 바랍니다 (알려 주십시오)",
+"backEn": "㉠ We would appreciate it if you could attend despite your busy schedule.\n㉡ Those who can attend, please contact us by Wednesday.",
+"partnerLabel": "초청·안내문 필수 패턴",
+"partnerText": "• 참석 요청: 꼭 참석해 주시면 감사하겠습니다 / 참석해 주시기 바랍니다\n• 회신 요청: ~(요일)까지 연락해 주시기 바랍니다 / 알려 주시기 바랍니다",
+"partnerExplain": "After '바쁘시겠지만 꼭' (Although you must be busy, जरूर/by all means...), always invite the reader politely to attend ('참석해 주시면 감사하겠습니다').",
+"mem": "Invitation Formula: '바쁘시겠지만 꼭' + '참석해 주시면 감사하겠습니다' (We'd be grateful if you attend), followed by deadline + '연락해 주시기 바랍니다' (Please let us know)!"
+}
+],
 "2강": [
 {
-"frontTag": "2주차 2강 · 쓰기 52번 대조 연결어 연습",
+"frontTag": "2주차 2강 · 쓰기 52번 대조 연결어('반면에') 연습",
 "frontMain": "[가위바위보 관찰 설명문]\n사람들이 아무 생각 없이 가위바위보를 하는 것 같지만 자세히 관찰해 보면 일정한 경향이 있음을 발견할 수 있다. 즉 이긴 사람은 자신이 선택한 것을 그대로 유지하는 반면에 진 사람은 ( ㉠ ).",
 "frontSub": "대조 연결어미 '반면에'의 성질을 이용하여 ( ㉠ )을 평서형(-다)으로 완성하세요!",
 "hintText": "앞절: 이긴 사람(그대로 유지하다) ↔ 뒷절: 진 사람(다른 것으로 바꾸다)",
 "backKo": "㉠ 다른 것으로 바꾼다 (자신이 선택한 것을 다른 것으로 변경한다)",
 "backEn": "㉠ whereas the person who lost changes it to something else.",
 "partnerLabel": "'반면에' 대조 공식",
-"partnerText": "[앞절 A] -는 반면에 [뒷절 A의 반대 내용]",
-"partnerExplain": "'유지하다(그대로 계속 똑같이 하다)'의 반의 표현은 '다른 것으로 바꾸다(전환하다/변경하다)'입니다.",
-"mem": "이긴 사람 = 그대로 유지하다 ↔ 반면에 ↔ 진 사람 = 다른 것으로 바꾼다!"
+"partnerText": "[앞절 A: 이긴 사람 → 그대로 유지하는] 반면에 [뒷절 B: 진 사람 → 다른 것으로 바꾼다]",
+"partnerExplain": "'유지하다' (to keep as is) in the front clause must be contrasted with its antonym '다른 것으로 바꾸다' (changes to something else) in the back clause after '반면에'.",
+"mem": "Mirror Rule for '반면에' (on the other hand/whereas): Winner ('이긴 사람') = keeps choice as is ('그대로 유지하다') ↔ Loser ('진 사람') = switches to another ('다른 것으로 바꾼다')!"
 }
 ]
 },
 "3주차 (제37회)": {
+"1강": [
+{
+"frontTag": "3주차 1강 · 쓰기 52번 당위·부정 서술형 연습",
+"frontMain": "[운동 선수 지도 설명문]\n운동 선수가 실수에 대한 부담감을 가지게 되면 경기에서 좋은 성적을 거두기가 어렵다. 그렇기 때문에 감독은 선수를 지도할 때 ( ㉠ ).",
+"frontSub": "3주차 1강 지문의 핵심 내용을 바탕으로 감독이 주의해야 할 점을 평서형('-어야 한다')으로 완성하세요!",
+"hintText": "실수를 떠올리게 하는 직접적인 말을 하지 말아야 한다 / 입 밖에 내지 않아야 한다",
+"backKo": "㉠ 실수를 떠올리게 하는 직접적인 말을 하지 말아야 한다\n(또는: 실수를 생각나게 하는 말을 입 밖에 내지 않아야 한다)",
+"backEn": "㉠ Therefore, when coaching an athlete, a coach must not say direct words that remind them of mistakes.",
+"partnerLabel": "원인 → 당위적 결론('그렇기 때문에 ~어야 한다') 공식",
+"partnerText": "• 부정적 원인: 부담감을 가지면 좋은 성적을 거두기 어렵다\n• 해결책(당위): 부담감을 주는 직접적인 말을 하지 말아야 한다 (-지 않아야 한다)",
+"partnerExplain": "Connects the Week 3 Lecture 1 reading passage directly to Writing Q52 sentence construction using '-지 말아야 한다' or '-지 않아야 한다'.",
+"mem": "When a passage states that Mistake Pressure ('부담감') hurts performance ('좋은 성적을 거두기 어렵다'), the conclusion after '그렇기 때문에' must state what the coach must NOT do ('직접적인 말을 하지 말아야 한다')!"
+}
+],
 "2강": [
 {
 "frontTag": "3주차 2강 · 쓰기 52번 '반대로' 반의어 뒤집기 공식",
-"frontMain": "[설명문 빈칸 완성]\n긍정적인 결과를 기대할수록 좋은 결과를 얻을 확률이 높다. 반대로 ( ㉡ ).",
+"frontMain": "[설명문 빈칸 완성 — 교수님 핵심 강조!]\n긍정적인 결과를 기대할수록 좋은 결과를 얻을 확률이 높다. 반대로 ( ㉡ ).",
 "frontSub": "교수님께서 강조하신 '반대로' 뒤집기 공식을 적용하여 ( ㉡ )을 완성하세요!",
 "hintText": "긍정적인 결과를 기대할수록 → 부정적으로 생각하면 | 확률이 높다 → 얻기 어렵다 / 확률이 낮다",
 "backKo": "㉡ 부정적으로 생각하면 좋은 결과를 얻기 어렵다\n(또는: 부정적인 결과를 생각할수록 좋은 결과를 얻을 확률이 낮다)",
 "backEn": "㉡ Conversely, if you think negatively, it is difficult to obtain a good result.",
 "partnerLabel": "교수님 3주차 2강 핵심 공식",
 "partnerText": "1. 긍정적인 결과를 기대하다 ↔ 부정적으로 생각하면\n2. 좋은 결과를 얻을 확률이 높다 ↔ 좋은 결과를 얻기 어렵다 (확률이 낮다)",
-"partnerExplain": "쓰기 52번에서 빈칸 앞에 '반대로'나 '반면에'가 나오면 앞 문장의 핵심 단어들을 반의어로 뒤집고 '-다'로 끝내면 만점입니다!",
-"mem": "반대로 = 앞 문장 반의어 퍼즐! [긍정적→부정적] + [확률이 높다→얻기 어렵다]!"
+"partnerExplain": "Professor 오현진's #1 Q52 Strategy: When '반대로' (Conversely) appears before a blank, flip every keyword in the previous sentence to its antonym and end with '-다'!",
+"mem": "Antonym Puzzle Formula for '반대로': Flip '긍정적' (positive) → '부정적' (negative), and flip '확률이 높다' (high probability) → '얻기 어렵다' (hard to obtain) or '확률이 낮다' (low probability)!"
 }
 ]
 },
 "4주차 (제41회)": {
 "1강": [
 {
-"frontTag": "4주차 1강 · 제41회 쓰기 51번 기출 유형",
-"frontMain": "[안내 및 문의 메일]\n그동안 저희 도서관을 이용해 주셔서 감사합니다. 도서관 시설 공사로 인해 다음 주 월요일부터 금요일까지 휴관합니다. 이 기간에는 도서 대출이 ( ㉠ ). 이용에 불편을 드려 ( ㉡ ).",
+"frontTag": "4주차 1강 · 제41회 쓰기 51번 기출 유형 (안내·사과문)",
+"frontMain": "[시설 공사 및 이용 제한 안내문]\n그동안 저희 도서관을 이용해 주셔서 감사합니다. 도서관 시설 공사로 인해 다음 주 월요일부터 금요일까지 휴관합니다. 이 기간에는 도서 대출이 ( ㉠ ). 이용에 불편을 드려 ( ㉡ ).",
 "frontSub": "도서관 휴관 안내문의 빈칸 ( ㉠ ), ( ㉡ )을 격식체(-(스)ㅂ니다)로 완성하세요!",
-"hintText": "㉠ 불가능합니다 / 어렵습니다 | ㉡ 죄송합니다 / 양해 부탁드립니다",
+"hintText": "㉠ 불가능합니다 / 어렵습니다 | ㉡ 죄송합니다 / 양해해 주시기 바랍니다",
 "backKo": "㉠ 불가능합니다 (어렵습니다 / 되지 않습니다)\n㉡ 대단히 죄송합니다 (양해해 주시기 바랍니다)",
 "backEn": "㉠ Book borrowing will not be possible during this period.\n㉡ We sincerely apologize for the inconvenience.",
 "partnerLabel": "휴관·공사 안내문 필수 표현",
-"partnerText": "• 이용 제한: 이용이 불가능합니다 / 어렵습니다\n• 사과 표현: 불편을 드려 죄송합니다",
-"partnerExplain": "시설 공사로 문을 닫는(휴관하는) 상황이므로 대출이 어렵다는 안내와 사과의 표현이 들어가야 자연스럽습니다.",
-"mem": "공사·휴관 → ㉠ 이용이 어렵습니다/불가능합니다 | 불편을 드려 → ㉡ 죄송합니다!"
+"partnerText": "• 이용 제한: ~이/가 불가능합니다 / 어렵습니다 / 중단됩니다\n• 사과 표현: 이용에 불편을 드려 죄송합니다",
+"partnerExplain": "Whenever a facility closes ('휴관합니다') for construction or repairs ('공사/수리'), state that service is unavailable ('불가능합니다/어렵습니다') and apologize for the inconvenience ('죄송합니다').",
+"mem": "Facility Closure ('공사/휴관') Pair: ㉠ Service is unavailable ('이용이 불가능합니다 / 어렵습니다') + ㉡ Apology after '불편을 드려' ('죄송합니다')!"
+}
+],
+"2강": [
+{
+"frontTag": "4주차 2강 · 쓰기 52번 시대 변화·진화 설명문 연습",
+"frontMain": "[이모티콘의 변화 설명문]\n초창기 이모티콘은 단순히 기호를 조합하여 감정을 표시하는 정도였다. 그러나 최근에는 캐릭터와 결합하여 재미를 주고 웃음을 유발하기도 한다. 이처럼 이모티콘은 시대의 변화와 사용자의 요구에 맞춰 ( ㉡ ).",
+"frontSub": "초창기와 최근의 변화를 요약하여 ( ㉡ )을 평서형(-다)으로 완성하세요!",
+"hintText": "끊임없이 진화를 계속하고 있다 / 계속해서 발전하고 있다 / 다양하게 변화하고 있다",
+"backKo": "㉡ 끊임없이 진화를 계속하고 있다 (계속해서 발전하고 있다 / 다양하게 변화하고 있다)",
+"backEn": "㉡ Like this, emoticons are ceaselessly continuing to evolve (develop) in line with changes of the times and user demands.",
+"partnerLabel": "'이처럼(요약 결론)' 설명문 공식",
+"partnerText": "과거(초창기: 단순 기호) → 현재(최근: 캐릭터 결합·웃음 유발) ⇒ 결론(이처럼): 끊임없이 진화/발전하고 있다",
+"partnerExplain": "When a passage contrasts the early period ('초창기') with recent advancements ('최근') and ends with '이처럼' (Like this), summarize the ongoing development ('진화를 계속하고 있다 / 발전하고 있다').",
+"mem": "Past ('초창기') vs. Present ('최근') + '이처럼' (Like this) = summarize that it is continually evolving/developing ('끊임없이 진화를 계속하고 있다 / 발전하고 있다')!"
 }
 ]
 },
 "5주차 (제47회)": {
 "1강": [
 {
-"frontTag": "5주차 1강 · 제47회 쓰기 51번 기출 유형",
-"frontMain": "[모임 일정 변경 및 참석 여부 확인]\n이번 주 토요일에 예정되었던 동아리 모임 장소가 변경되었습니다. 기존 식당이 예약을 받지 않아서 학교 앞 한국식당으로 ( ㉠ ). 모임에 참석하실 수 있는지 ( ㉡ ).",
+"frontTag": "5주차 1강 · 제47회 쓰기 51번 기출 유형 (장소 변경 안내)",
+"frontMain": "[모임 일정·장소 변경 및 참석 확인 메일]\n이번 주 토요일에 예정되었던 동아리 모임 장소가 변경되었습니다. 기존 식당이 예약을 받지 않아서 학교 앞 한국식당으로 ( ㉠ ). 모임에 참석하실 수 있는지 ( ㉡ ).",
 "frontSub": "모임 장소 변경 안내 메일의 ( ㉠ ), ( ㉡ )을 격식체로 완성하세요!",
 "hintText": "㉠ 장소를 바꾸었습니다 / 변경했습니다 | ㉡ 알려 주시기 바랍니다 / 답변해 주십시오",
-"backKo": "㉠ 장소를 바꾸었습니다 (장소를 변경하였습니다)\n㉡ 회신해 주시기 바랍니다 (알려 주시기 바랍니다 / 연락해 주십시오)",
+"backKo": "㉠ 장소를 바꾸었습니다 (장소를 변경하였습니다)\n㉡ 알려 주시기 바랍니다 (회신해 주시기 바랍니다 / 연락해 주십시오)",
 "backEn": "㉠ We changed the venue to Korea Restaurant in front of the school.\n㉡ Please let us know whether you can attend the meeting.",
 "partnerLabel": "일정·장소 변경 안내 공식",
-"partnerText": "• 변경 완료: ~으로 바꾸었습니다 / 변경하였습니다\n• 참석 확인 요청: ~는지 알려 주시기 바랍니다",
-"partnerExplain": "앞 문장의 '장소가 변경되었습니다'를 받아 ㉠에는 바꾼 이유와 결과를, ㉡에는 참석 여부를 알려 달라는 요청을 씁니다.",
-"mem": "장소 변경 → ㉠ ~으로 바꾸었습니다 | 참석 여부 → ㉡ 알려 주시기 바랍니다!"
+"partnerText": "• 변경 완료: ~(으)로 장소를 바꾸었습니다 / 변경하였습니다\n• 참석 확인 요청: ~는지 알려 주시기 바랍니다",
+"partnerExplain": "Blank ㉠ explains what the venue was changed to ('한국식당으로 장소를 바꾸었습니다'), and Blank ㉡ asks members to reply whether they can attend ('알려 주시기 바랍니다').",
+"mem": "Venue Change Formula: '장소가 변경되었습니다' → ㉠ '~으로 장소를 바꾸었습니다' (changed the place to ~), and after '참석하실 수 있는지' (whether you can attend) → ㉡ '알려 주시기 바랍니다' (please let us know)!"
+}
+],
+"2강": [
+{
+"frontTag": "5주차 2강 · 제47회 쓰기 52번 도구·기능 대조 설명문",
+"frontMain": "[지우개의 원리 설명문]\n보통 연필 글씨를 지울 때는 부드러운 지우개를 사용한다. 반면에 볼펜이나 만년필 글씨를 지울 때는 ( ㉠ ). 단단한 지우개는 잉크가 묻은 종이 표면을 얇게 긁어내어 글씨를 지운다.",
+"frontSub": "앞 문장('연필 → 부드러운 지우개')과 뒷문장('단단한 지우개')을 연결하여 ( ㉠ )을 평서형(-다)으로 완성하세요!",
+"hintText": "특수한 물질을 넣어 단단하게 만든 지우개를 사용한다 / 단단한 지우개를 사용한다",
+"backKo": "㉠ 단단한 지우개를 사용한다 (특수한 물질을 넣어 단단하게 만든 지우개를 사용한다)",
+"backEn": "㉠ On the other hand, when erasing ballpoint pen or fountain pen marks, one uses a hard eraser (made by adding a special substance).",
+"partnerLabel": "앞뒤 문장 꼬리 물기 공식",
+"partnerText": "• 앞 문장: 연필 글씨 → 부드러운 지우개를 사용한다\n• 빈칸 뒤 문장 주어: '단단한 지우개는...' → 따라서 ㉠은 '단단한 지우개를 사용한다'!",
+"partnerExplain": "Always check the subject of the sentence right AFTER the blank! Since the next sentence starts with '단단한 지우개는' (A hard eraser...), Blank ㉠ must introduce '단단한 지우개를 사용한다'.",
+"mem": "Chain-Link Strategy: The first sentence has '부드러운 지우개를 사용한다' (uses a soft eraser), and the sentence right after Blank ㉠ starts with '단단한 지우개는' (As for a hard eraser...). So ㉠ is '단단한 지우개를 사용한다'!"
 }
 ]
 },
 "6주차 (제52회)": {
 "1강": [
 {
-"frontTag": "6주차 1강 · 쓰기 53번 원고지 작성 기본 규칙",
-"frontMain": "[쓰기 53번(200~300자) 원고지 사용법 핵심 퀴즈]\n1. 글을 맨 처음 시작할 때 첫 칸은 어떻게 할까요?\n2. 문장이 끝나고 마침표(.)를 찍은 뒤 다음 문장('그 결과...')을 쓸 때 줄을 바꿔야 할까요?",
-"frontSub": "교수님께서 강의에서 강조하신 원고지 작성 규칙 2가지를 떠올려 보세요!",
-"hintText": "1. 문단 첫 시작 = 한 칸 띄우기 | 2. 같은 문단 안에서는 줄 바꾸지 않고 바로 이어 쓰기!",
-"backKo": "1. 맨 처음 시작할 때(문단 시작) 무조건 첫 한 칸을 비우고(띄우고) 두 번째 칸부터 씁니다.\n2. 문장이 끝나도 주제가 바뀌지 않으면 줄을 바꾸지 말고 그 줄에 쭉 이어서 씁니다!",
-"backEn": "1. Leave the very first box blank at the start of a paragraph.\n2. Do NOT start a new line after a period within the same topic—continue writing on the same line!",
-"partnerLabel": "원고지 줄 끝 띄어쓰기 주의사항",
-"partnerText": "'그 결과'는 원래 '그'와 '결과'를 띄어 쓰지만, 만약 '그'가 줄의 맨 마지막 칸에 오면 다음 줄 첫 칸에는 빈칸 없이 바로 '결'을 씁니다!",
-"partnerExplain": "원고지 줄의 맨 첫 칸은 새 문단이 시작될 때만 비웁니다. 줄이 바뀔 때는 자동 띄어쓰기가 되므로 첫 칸을 비우지 마세요!",
-"mem": "문단 처음만 첫 칸 비우기! | 마침표 뒤에는 줄 바꾸지 말고 쭉 이어 쓰기!"
+"frontTag": "6주차 1강 · 쓰기 53번 원고지 작성 3대 기본 규칙",
+"frontMain": "[쓰기 53번(200~300자) 원고지 사용법 핵심 퀴즈]\n1. 글을 맨 처음 시작할 때 첫 칸은 어떻게 할까요?\n2. 문장이 끝나고 마침표(.)를 찍은 뒤 다음 문장('그 결과...')을 쓸 때 줄을 바꿔야 할까요?\n3. 줄의 맨 마지막 칸에 '그'를 썼다면 다음 줄 첫 칸은 비워야 할까요?",
+"frontSub": "교수님께서 강의에서 직접 그려 주신 원고지 작성 규칙 3가지를 떠올려 보세요!",
+"hintText": "1. 첫 칸 비우기 | 2. 줄 바꾸지 않고 바로 이어 쓰기 | 3. 다음 줄 첫 칸은 비우지 않고 바로 '결' 쓰기",
+"backKo": "1. 문단 맨 처음 시작할 때만 첫 한 칸을 비우고 두 번째 칸부터 씁니다.\n2. 문장이 끝나도 주제가 바뀌지 않으면 줄을 바꾸지 말고 그 줄에 쭉 이어서 씁니다!\n3. 줄 끝에서 줄이 바뀔 때는 다음 줄 첫 칸을 비우지 않고 바로 첫 칸에 '결(결과)'을 씁니다!",
+"backEn": "1. Indent (leave 1 box blank) ONLY at the very start of a paragraph.\n2. Do NOT start a new line after a period within the same topic—continue on the same line!\n3. Never leave a blank spacing box at the left edge of a new row.",
+"partnerLabel": "원고지 감점 제로(0) 골든 룰",
+"partnerText": "문단 첫 시작만 첫 칸 비우기! | 마침표 뒤 줄 바꿈 금지! | 새 줄 첫 칸 빈칸 금지!",
+"partnerExplain": "In Writing Q53, you write a single unified paragraph (or two when the chart topic shifts). Never hit 'Enter' after every sentence!",
+"mem": "3 Golden Manuscript Paper ('원고지') Rules: 1) Leave the 1st box blank at the start of the paragraph, 2) Keep writing on the SAME line after a period (don't start a new line for '그 결과'), 3) Never put a blank space at the left edge of a new row!"
+},
+{
+"frontTag": "6주차 1강 · 쓰기 53번 순위 변화 도표 서술 연습",
+"frontMain": "[도표: 고등학생 희망 직업 어떻게 달라졌을까?]\n• 조사 대상: 고등학생 10,000명\n• 2008년 순위: 1위 교사, 2위 회사원, 3위 공무원, 4위 간호사, 5위 개인 사업\n• 2018년 순위: 1위 교사, 2위 간호사, 3위 건축가, 4위 공무원, 5위 군인\n\n위 도표의 도입부와 1위·2위 변화를 원고지 문장으로 서술해 보세요!",
+"frontSub": "교안의 '고등학생 희망 직업' 순위 변화 도표를 53번 공식으로 문장화하는 연습입니다!",
+"hintText": "고등학생 10,000명을 대상으로 ... 조사하였다. 그 결과 2008년과 2018년 모두 '교사'가 1위로 나타났으나, 2위는 '회사원'에서 '간호사'로 바뀌었다.",
+"backKo": "고등학생 10,000명을 대상으로 '고등학생 희망 직업이 어떻게 달라졌는가'에 대해 조사하였다. 그 결과 2008년과 2018년 모두 '교사'가 1위를 차지하였으나, 2위는 2008년 '회사원'에서 2018년 '간호사'로 상승하였다.",
+"backEn": "A survey was conducted targeting 10,000 high school students on how their desired jobs changed. As a result, 'teacher' ranked 1st in both 2008 and 2018, whereas 2nd place changed from 'office worker' in 2008 to 'nurse' in 2018.",
+"partnerLabel": "순위 도표 필수 어휘",
+"partnerText": "• 1위 유지: 2008년과 2018년 모두 '교사'가 1위를 차지하였다 (유지하였다)\n• 순위 변동: '간호사'는 4위에서 2위로 상승한 반면에, '공무원'은 3위에서 4위로 하락하였다",
+"partnerExplain": "Verified from the course learning material chart ('고등학생 희망 직업 어떻게 달라졌을까? 조사 대상: 고등학생 10,000명').",
+"mem": "Ranking Chart Formula: 1) State what stayed #1 in both years ('모두 교사가 1위를 차지하였으나'), 2) Contrast what rose ('간호사는 4위에서 2위로 상승한 반면에') vs. what fell ('공무원은 3위에서 4위로 하락하였다')!"
+}
+],
+"2강": [
+{
+"frontTag": "6주차 2강 · 제52회 쓰기 53번 성별 응답 이유 서술 공식",
+"frontMain": "[쓰기 53번 설문조사 이유(남자 vs 여자) 연결 연습]\n• 가장 많은 응답: '~'라고 ( ㉠ ).\n• 성별 2순위 이유 비교: 이어 남자는 자유로운 생활을 원해서, 여자는 직장 생활을 ( ㉡ ) 응답하였다.",
+"frontSub": "교안 슬라이드에 나온 설문조사 성별 응답 이유 서술 문장을 완성해 보세요!",
+"hintText": "㉠ 응답한 경우가 가장 많았다 | ㉡ 유지하고 싶어서라고",
+"backKo": "㉠ 응답한 경우가 가장 많았다\n㉡ 유지하고 싶어서라고 (응답하였다)",
+"backEn": "㉠ Cases responding that '...' were the most numerous.\n㉡ Next, men responded that it was because they wanted a free lifestyle, and women responded that it was because they wanted to maintain their working life.",
+"partnerLabel": "교안 검증 설문조사 이유 서술 템플릿",
+"partnerText": "• 1순위: ~(이)라고 응답한 경우가 가장 많았다.\n• 2순위 성별 대조: 이어 남자는 ~을/를 원해서, 여자는 ~을/를 유지하고 싶어서라고 응답하였다.",
+"partnerExplain": "Verified verbatim from the Week 6 Lecture 2 learning material slide! Memorize '이어 남자는 ~해서, 여자는 ~어서라고 응답하였다' for quoting survey reasons.",
+"mem": "Quoting Survey Reasons Formula: 1st place = '~라고 응답한 경우가 가장 많았다' (those who answered ~ were the most numerous). 2nd place = '이어 남자는 ~원해서, 여자는 직장 생활을 유지하고 싶어서라고 응답하였다'!"
 }
 ]
 },
 "7주차 (제60회)": {
-"2강": [
+"1강": [
 {
-"frontTag": "7주차 2강 · 쓰기 53번 설문조사 그래프 첫 문장 공식",
-"frontMain": "[쓰기 53번 도입부 작성 연습]\n• 조사 대상: 성인 남녀 3천 명\n• 조사 주제: 아이를 꼭 낳아야 하는가\n\n위 정보를 사용하여 쓰기 53번의 첫 문장과 두 번째 문장 시작('그 결과')까지 원고지 띄어쓰기에 맞춰 완성하세요!",
-"frontSub": "교수님께서 칠판(원고지)에 직접 한 글자씩 써 주신 53번 만점 도입부 공식입니다!",
-"hintText": "[조사 대상]을/를 대상으로 '[조사 주제]'에 대해 조사하였다. 그 결과...",
-"backKo": "성인 남녀 3천 명을 대상으로 '아이를 꼭 낳아야 하는가'에 대해 조사하였다. 그 결과...",
-"backEn": "A survey was conducted targeting 3,000 adult men and women regarding 'Must one necessarily have children?'. As a result...",
-"partnerLabel": "원고지 칸별 띄어쓰기 정밀 체크 (␠ = 빈칸)",
-"partnerText": "␠성인␠남녀␠3천␠명을␠대상으로␠'아이를␠꼭␠낳아야␠하는가'에␠대해␠조사하였다.␠그␠결과...",
-"partnerExplain": "교수님 말씀: "특히 53번 그래프 문제 꼭 다 맞아야 돼요. 그래프가 더 쉽습니다!" 첫 문장 공식만 외우면 53번 시작이 완벽해집니다.",
-"mem": "53번 만능 첫 문장: [대상]을/를 대상으로 '[주제]'에 대해 조사하였다. 그 결과..."
+"frontTag": "7주차 1강 · 제60회 쓰기 51번 기출문제 (간접화법 주의!)",
+"frontMain": "[제목: 도서관을 이용하고 싶습니다]\n한국대학교를 졸업한 학생인데 도서관을 이용하고 싶습니다. 선배에게 물어보니 졸업생이 도서관을 이용하려면 출입증이 ( ㉠ ). 출입증을 만들려면 ( ㉡ )? 방법을 알려 주시면 감사하겠습니다.",
+"frontSub": "교수님께서 강의에서 강조하신 '선배에게 물어보니(간접화법!)' 단서를 활용하여 ( ㉠ ), ( ㉡ )을 완성하세요!",
+"hintText": "㉠ 있어야 한다고 들었습니다 / 필요하다고 합니다 (선배가 한 말 전달!) | ㉡ 어떻게 해야 합니까 / 무엇이 필요합니까",
+"backKo": "㉠ 있어야 한다고 합니다 (필요하다고 들었습니다 / 있어야 한다고 들었습니다)\n㉡ 어떻게 해야 합니까 (어떻게 신청해야 합니까 / 무엇을 준비해야 합니까)",
+"backEn": "㉠ When I asked my senior, I heard that an entry pass is required if a graduate wants to use the library.\n㉡ What should I do to make an entry pass? I would appreciate it if you could let me know the method.",
+"partnerLabel": "교수님 7주차 강의 1순위 주의사항 (간접화법!)",
+"partnerText": "• 앞부분 단서: '선배에게 물어보니' → 누가 말했어요? 선배가 말했어요!\n• 따라서 ㉠은 단순 '필요합니다'보다 간접 인용('있어야 한다고 합니다 / 필요하다고 들었습니다')을 써야 만점!\n• ㉡ 뒤의 '?'와 '방법을 알려 주시면' → '어떻게 해야 합니까?'",
+"partnerExplain": "Directly from Professor 오현진's lecture transcript: Because the sentence says '선배에게 물어보니' (When I asked a senior), the senior told you that an entry pass ('출입증') is required—so use indirect quotation ('있어야 한다고 합니다 / 필요하다고 들었습니다')!",
+"mem": "Professor's Crucial Clue in '도서관을 이용하고 싶습니다': Look at '선배에게 물어보니' (When I asked my senior)! Since the SENIOR told you an entry pass ('출입증') is needed, use indirect speech in ㉠ ('있어야 한다고 합니다 / 필요하다고 들었습니다'), and ask '어떻게 해야 합니까?' (How do I do it?) in ㉡!"
 },
 {
 "frontTag": "7주차 1·2강 · 쓰기 53번 그래프 증감·비율 필수 표현",
@@ -156,8 +238,22 @@
 "backEn": "1. Increase: 증가하다 = 늘어나다\n2. Decrease: 감소하다 = 줄어들다\n3. Highest proportion: appeared the highest at X%",
 "partnerLabel": "쓰기 53번 시제 & 어미 규칙",
 "partnerText": "설문조사와 과거 그래프는 이미 끝난 결과이므로 과거형 평서문('-았/었다', '조사하였다', '나타났다')으로 통일합니다.",
-"partnerExplain": "7주차 1강 퀴즈 3번 '증가하다 = 늘어나다 (O)'는 읽기뿐만 아니라 쓰기 53번에서도 직접 쓰이는 핵심 어휘입니다.",
-"mem": "그래프 위로(↑) = 증가하였다·늘어났다 | 아래로(↓) = 감소하였다·줄어들었다!"
+"partnerExplain": "Week 7 Lecture 1 Quiz Q3 ('증가하다 = 늘어나다 (O)') is tested in both Reading and Writing Q53 graph reports!",
+"mem": "Graph Verb Pairs for Q53: Arrow UP (↑) = '증가하였다 / 늘어났다' (increased). Arrow DOWN (↓) = '감소하였다 / 줄어들었다' (decreased). Highest % = '~%로 가장 높게 나타났다'!"
+}
+],
+"2강": [
+{
+"frontTag": "7주차 2강 · 쓰기 53번 설문조사 그래프 첫 문장 공식",
+"frontMain": "[쓰기 53번 도입부 원고지 작성 연습]\n• 조사 대상: 성인 남녀 3천 명\n• 조사 주제: 아이를 꼭 낳아야 하는가\n\n위 정보를 사용하여 쓰기 53번의 첫 문장과 두 번째 문장 시작('그 결과')까지 원고지 띄어쓰기에 맞춰 완성하세요!",
+"frontSub": "교수님께서 원고지 화면에 직접 한 글자씩 써 주신 53번 만점 도입부 공식입니다!",
+"hintText": "[조사 대상]을/를 대상으로 '[조사 주제]'에 대해 조사하였다. 그 결과...",
+"backKo": "성인 남녀 3천 명을 대상으로 '아이를 꼭 낳아야 하는가'에 대해 조사하였다. 그 결과...",
+"backEn": "A survey was conducted targeting 3,000 adult men and women regarding 'Must one necessarily have children?'. As a result...",
+"partnerLabel": "원고지 칸별 띄어쓰기 정밀 체크 (␠ = 빈칸)",
+"partnerText": "␠성인␠남녀␠3천␠명을␠대상으로␠'아이를␠꼭␠낳아야␠하는가'에␠대해␠조사하였다.␠그␠결과...",
+"partnerExplain": "Professor 오현진's advice: 'Especially for the Q53 graph problem, you must get full marks—the graph problem is easier than Q52!' Memorizing this first-sentence formula guarantees a perfect opening.",
+"mem": "Universal Q53 First Sentence Formula: Indent 1 box (␠), then write '[Target]을/를 대상으로 '[Topic]'에 대해 조사하였다. 그 결과...' on the exact same line!"
 }
 ]
 },
@@ -172,8 +268,22 @@
 "backEn": "• Q51: Formal polite + Honorifics\n• Q52: Plain formal declarative (-다)\n• Q53: Survey report declarative (-다) on manuscript paper (원고지)",
 "partnerLabel": "MAIA 중간고사 만점 전략 요약",
 "partnerText": "51번에 '-어요'나 '-다' 쓰지 않기! | 52번에 '-습니다' 쓰지 않기! | 53번 원고지 첫 칸 비우기 & 마침표 뒤 줄 바꾸지 않기!",
-"partnerExplain": "이 세 가지 형식 규칙만 지켜도 쓰기 영역에서 형식 감점 0점을 달성할 수 있습니다!",
-"mem": "51번 = -습니다/습니까(높임말) | 52번 = -다(반대로 뒤집기) | 53번 = 조사하였다(원고지 이어 쓰기)!"
+"partnerExplain": "Following these three register rules alone prevents all form/grammar point deductions ('형식 감점 0점') on the midterm writing section!",
+"mem": "Ending Cheat Code: Q51 = '-(스)ㅂ니다 / -(스)ㅂ니까?' + Honorifics ('바랍니다/주셔서/드리다') | Q52 = '-ㄴ다/-는다/-다' (NO -습니다!) | Q53 = '조사하였다. 그 결과 ~로 나타났다'!"
+}
+],
+"2강": [
+{
+"frontTag": "8주차 총정리 · 쓰기 51·52번 핵심 함정 3대장",
+"frontMain": "[중간고사 직전 쓰기 고득점 함정 체크!]\n1. 51번에서 '선배에게 물어보니 ~ ( ㉠ )'처럼 다른 사람에게 들은 내용을 전달할 때 쓰는 표현은?\n2. 52번에서 빈칸 앞에 '반대로' 또는 '반면에'가 있을 때 풀이 공식은?\n3. 51번 안내문 마지막 문장에서 전화번호 앞 빈칸에 쓰는 만능 문장은?",
+"frontSub": "1~8주차 쓰기 강의에서 교수님께서 가장 강조하신 3대 핵심 포인트입니다!",
+"hintText": "1. 간접화법(-다고 합니다 / -다고 들었습니다) | 2. 앞 문장 반의어 뒤집기 + -다 | 3. 연락해 주시기 바랍니다",
+"backKo": "1. 간접화법 활용: ~(으)ㄹ 수 있다고 합니다 / ~이/가 필요하다고 들었습니다\n2. 반의어 뒤집기: 앞 문장의 핵심 어휘를 반의어로 바꾸고 '-다'로 종결 (예: 긍정적→부정적, 확률이 높다→얻기 어렵다)\n3. 만능 연락 요청: 궁금한 점이 있으시면(필요하신 분은) 언제든지 연락해 주시기 바랍니다",
+"backEn": "1. Indirect quotation (-다고 합니다 / 들었습니다)\n2. Antonym inversion + -다 ending\n3. Universal contact request (연락해 주시기 바랍니다)",
+"partnerLabel": "1~8주차 쓰기 총정리 완료",
+"partnerText": "이 3가지 패턴을 외워 두면 중간고사 쓰기 주관식 빈칸에서 막힘없이 답안을 작성할 수 있습니다!",
+"partnerExplain": "Combines the top lessons from Week 1 ('무료로 드립니다'), Week 3 ('반대로'), and Week 7 ('도서관을 이용하고 싶습니다').",
+"mem": "3 Ultimate Writing Keys: 1) '선배에게 물어보니' → use indirect speech ('필요하다고 합니다'), 2) '반대로/반면에' → flip to antonyms + '-다', 3) Phone number after blank → '연락해 주시기 바랍니다'!"
 }
 ]
 }
