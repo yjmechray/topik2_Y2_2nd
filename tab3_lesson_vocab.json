@@ -1,0 +1,642 @@
+{
+"1주차 (제35회)": {
+"1강": [
+{
+"wordKo": "실현 가능한",
+"pos": "1주차 1강 읽기 · 관형구",
+"meaningEn": "feasible / realizable / practically achievable",
+"partnerKo": "교수님 유의어: 현실적인 (=) / 지금 현재 할 수 있는 (=)",
+"explainEn": "Matches '현실적인 방안' (realistic measure) in the unemployment reading passage.",
+"mem": "실현(실제로 이루어짐) + 가능한 = 지금 당장 할 수 있는 '현실적인'!"
+},
+{
+"wordKo": "대책",
+"pos": "1주차 1강 읽기 · 명사",
+"meaningEn": "countermeasure / policy measure / solution",
+"partnerKo": "교수님 유의어: 방법 (=) / 방안 (=)",
+"explainEn": "A plan or policy prepared to deal with a difficult problem ('취업률을 높일 수 있는 대책').",
+"mem": "문제를 해결하는 방법·방안 = 대책!"
+},
+{
+"wordKo": "요구되다",
+"pos": "1주차 1강 읽기 · 동사",
+"meaningEn": "to be required / demanded / needed",
+"partnerKo": "교수님 유의어: 필요하다 (=) / 시급하다 (=)",
+"explainEn": "Passive of '요구하다'; used in main-idea choices ('실현 가능한 대책이 요구된다' = '필요하다').",
+"mem": "지문의 '시급하다/필요하다' → 정답 선지에서 '요구된다'로 패러프레이징!"
+},
+{
+"wordKo": "마련하다",
+"pos": "1주차 1강 읽기 · 동사",
+"meaningEn": "to prepare / arrange / establish",
+"partnerKo": "오답 함정 주의: '대책을 마련하고 있다(이미 준비 중)' ≠ '대책이 요구된다(필요하다)'",
+"explainEn": "Means to prepare or set up; watch out for distractor choices claiming the government is ALREADY preparing measures.",
+"mem": "마련하다 = 준비하여 만들다! (필요하다 ≠ 이미 마련하고 있다 함정 주의!)"
+},
+{
+"wordKo": "골치(가) 아프다",
+"pos": "1주차 1강 읽기 21번 · 관용어",
+"meaningEn": "to have a headache over a problem / be deeply troubled",
+"partnerKo": "기출 선택지 ①: 골치만 아프고\n유의 표현: 머리가 복잡하고 힘들다",
+"explainEn": "'골치' means brain/head; used when a difficult problem causes worry and mental distress.",
+"mem": "해결 안 되는 문제 때문에 골치(머리)가 아프다 = 걱정이 되어 힘들다!"
+},
+{
+"wordKo": "콧대(가) 높다",
+"pos": "1주차 1강 읽기 21번 · 관용어",
+"meaningEn": "to be arrogant / haughty / stuck-up",
+"partnerKo": "기출 선택지 ②: 콧대만 높아지고\n유의어: 잘난 체하다 / 거만하다",
+"explainEn": "Literally 'nose bridge is high'; describes someone who becomes proud and looks down on others.",
+"mem": "코를 높이 들고 잘난 척함: 콧대가 높다 = 거만하고 잘난 체하다!"
+},
+{
+"wordKo": "눈치(가) 빠르다",
+"pos": "1주차 1강 읽기 21번 · 관용어",
+"meaningEn": "to be quick-witted / quick to read the room or others' moods",
+"partnerKo": "기출 선택지 ③: 눈치만 빨라지고\n반의어: 눈치가 없다",
+"explainEn": "Quickly sensing the atmosphere or another person's hidden thoughts/intentions.",
+"mem": "분위기나 남의 마음을 눈으로 빨리 알아챔 = 눈치가 빠르다!"
+}
+],
+"2강": [
+{
+"wordKo": "자꾸",
+"pos": "1주차 2강 읽기 · 부사 (교수님 강조!)",
+"meaningEn": "repeatedly / over and over (with a negative nuance)",
+"partnerKo": "유의어: 자주 / 계속\n핵심 차이: '자꾸'는 부정적인 상황(원하지 않는 행동 반복)에 사용!",
+"explainEn": "Professor 오현진 emphasized that while '자꾸' means '자주' (often), '자꾸' carries a NEGATIVE nuance ('새가 상자 밖으로 자꾸 나오려고 한다').",
+"mem": "자주(일반적 빈도) vs 자꾸(실수·도망 등 부정적인 행동을 계속 반복할 때)!"
+},
+{
+"wordKo": "안정을 찾다",
+"pos": "1주차 2강 읽기 · 동사구",
+"meaningEn": "to find stability / regain peace of mind",
+"partnerKo": "본문 문맥: 자유로운 공간에서는 안정을 찾고\n반의 상황: 불안해하다",
+"explainEn": "Calming down and feeling safe without anxiety ('안정 = 위험하지 않고 마음이 편안한 상태').",
+"mem": "자유로운 공간에 있으면 마음이 편안해져 '안정을 찾다'!"
+},
+{
+"wordKo": "애쓰다",
+"pos": "1주차 2강 읽기 · 동사",
+"meaningEn": "to struggle / strive / make every effort",
+"partnerKo": "교수님 유의어: 노력하다 (=) / 힘쓰다 (=)",
+"explainEn": "Native Korean verb meaning to exert mental and physical effort ('도망치려고 애쓰지 않는다' = '노력하지 않는다').",
+"mem": "애(마음/힘) + 쓰다(use) = 마음을 다해 '노력하다'!"
+},
+{
+"wordKo": "마찬가지다",
+"pos": "1주차 2강 읽기 · 명사+이다",
+"meaningEn": "to be the same / no different",
+"partnerKo": "교수님 유의어: 같다 (=) / 똑같다 (=)",
+"explainEn": "Used to bridge an analogy ('아이도 이와 마찬가지다' = '아이도 새와 똑같다').",
+"mem": "'A도 이와 마찬가지다' = 비유(새 → 아이)를 연결하는 핵심 표현!"
+},
+{
+"wordKo": "구속 (구속하다)",
+"pos": "1주차 2강 읽기 · 명사/동사",
+"meaningEn": "restraint / confinement / restriction of freedom",
+"partnerKo": "비유 대응: 새를 상자 안에 넣다 = 아이에 대한 구속(지나친 간섭)\n반의어: 자유",
+"explainEn": "Restricting someone's freedom of action or thought ('아이는 이를 구속이라 생각하고').",
+"mem": "새의 '상자' = 아이의 '구속(자유를 묶어 못 움직이게 함)'!"
+},
+{
+"wordKo": "관여하다",
+"pos": "1주차 2강 읽기 · 동사",
+"meaningEn": "to interfere in / meddle in / get involved in",
+"partnerKo": "기출 선택지 ②: 친구와의 관계에 관여하려고\n유의어: 간섭하다 / 끼어들다",
+"explainEn": "Stepping into and meddling in matters (such as a child's friendships) rather than leaving them autonomous.",
+"mem": "관(관계할 관) + 여(참여할 여) = 부모가 아이 일에 지나치게 끼어들고 간섭하다!"
+},
+{
+"wordKo": "벗어나다",
+"pos": "1주차 2강 읽기 · 동사",
+"meaningEn": "to escape from / break free from / get out of",
+"partnerKo": "비유 대응: 상자 밖으로 나오다 = 구속에서 벗어나다",
+"explainEn": "To break free from restraint, danger, or a confined boundary ('거기에서 벗어나려고 한다').",
+"mem": "구속이나 압박에서 밖으로 탈출하다 = 벗어나다!"
+}
+]
+},
+"2주차 (제36회)": {
+"1강": [
+{
+"wordKo": "하나를 보면 열을 안다",
+"pos": "2주차 1강 읽기 21번 · 속담",
+"meaningEn": "Seeing one, you know ten (A small clue reveals the whole)",
+"partnerKo": "기출 선택지 ①: 하나를 보면 열을 안다\n의미: 작은 일부만 보고도 전체나 사람의 성격을 알 수 있다",
+"explainEn": "Proverb meaning that observing just one small action allows you to judge the entire situation or person.",
+"mem": "1(하나)만 봐도 10(열=전체)을 알 수 있다!"
+},
+{
+"wordKo": "나뉘다 (나뉘었다)",
+"pos": "2주차 1강 읽기 · 동사",
+"meaningEn": "to be divided / split into sides",
+"partnerKo": "능동사: 나누다 (to divide) → 피동사: 나뉘다 (to be divided)",
+"explainEn": "Explained by Professor 오현진 when describing opinions or groups splitting into two sides ('이쪽과 저쪽으로 나뉘었다').",
+"mem": "나누다(내가 나누다) → 나뉘다(의견이나 편이 둘로 갈라지다)!"
+},
+{
+"wordKo": "단기적인 정책",
+"pos": "2주차·1주차 읽기 · 명사구",
+"meaningEn": "short-term policy",
+"partnerKo": "반의어: 장기적인 대책 / 근본적인 해결책",
+"explainEn": "A temporary, short-sighted measure ('보여 주기 식의 단기적인 정책') that cannot solve root problems.",
+"mem": "단기(짧은 기간) ↔ 장기(긴 기간)!"
+},
+{
+"wordKo": "시급하다",
+"pos": "2주차·1주차 읽기 · 형용사",
+"meaningEn": "to be urgent / pressing",
+"partnerKo": "유의어: 급하다 / 빨리 해결해야 한다 / 요구된다",
+"explainEn": "So urgent that it cannot be delayed any longer ('현실적인 방안이 시급하다').",
+"mem": "시(시간 시) + 급(급할 급) = 시간이 없어 아주 급하고 필요하다!"
+}
+],
+"2강": [
+{
+"wordKo": "순서를 정하다",
+"pos": "2주차 2강 읽기 · 동사구",
+"meaningEn": "to decide the order / sequence",
+"partnerKo": "본문 첫 문장: 어떤 일의 순서를 정할 때 (누가 1번, 2번으로 할지 정할 때)",
+"explainEn": "Deciding who goes first, second, third, etc.",
+"mem": "누가 먼저 할지 1번·2번 차례를 결정함 = 순서를 정하다!"
+},
+{
+"wordKo": "흔히",
+"pos": "2주차 2강 읽기 · 부사 (교수님 강조!)",
+"meaningEn": "commonly / frequently / often",
+"partnerKo": "교수님 유의어: 자주 (=), 많이 (=)",
+"explainEn": "Adverb meaning commonly seen or done all the time ('사람들은 흔히 가위바위보를 이용한다').",
+"mem": "흔하다(common) → 흔히 = 보통 자주, 많이!"
+},
+{
+"wordKo": "자세히 (자세하다)",
+"pos": "2주차 2강 읽기 · 부사/형용사 (교수님 강조!)",
+"meaningEn": "in detail / closely / specifically",
+"partnerKo": "교수님 유의어: 구체적으로 / 구체적이다 (=), 세밀하게 (=)",
+"explainEn": "Professor 오현진 highlighted: '자세하다' = '구체적이다' (detailed/concrete).",
+"mem": "자세히 관찰하다 = 아주 구체적이고 꼼꼼하게 보다!"
+},
+{
+"wordKo": "즉",
+"pos": "2주차 2강 읽기 · 접속부사",
+"meaningEn": "namely / in other words / that is to say",
+"partnerKo": "교수님 유의어: 바로 (=), 다시 말하면 (=)",
+"explainEn": "Crucial reading clue! The sentence after '즉' explains the exact answer to the blank right before it.",
+"mem": "빈칸 뒤에 '즉'이 나오면? '즉' 뒤의 문장이 바로 빈칸의 정답 설명!"
+},
+{
+"wordKo": "이기다 / 지다 / 비기다",
+"pos": "2주차 2강 읽기 · 승패 동사 3총사",
+"meaningEn": "to win (이기다) / to lose (지다) / to tie or draw (비기다)",
+"partnerKo": "반의어: 이기다 ↔ 지다\n0대 0 동점: 비기다 (무승부)",
+"explainEn": "Professor 오현진 taught all three outcomes together during the rock-paper-scissors lecture!",
+"mem": "승리 = 이기다 | 패배 = 지다 | 0:0 똑같음 = 비기다!"
+},
+{
+"wordKo": "반면에",
+"pos": "2주차 2강 읽기 & 쓰기 52번 · 연결어미",
+"meaningEn": "on the other hand / whereas",
+"partnerKo": "유의 표현: 반대로 / -(으)나 / -지만\n문맥: 이긴 사람은 유지하는 반면에 진 사람은 바꾼다",
+"explainEn": "Contrasts two opposite behaviors or facts between the front clause and back clause.",
+"mem": "앞절과 뒷절이 정반대일 때 쓰는 대조 핵심 연결어 = 반면에!"
+},
+{
+"wordKo": "일정한 경향",
+"pos": "2주차 2강 읽기 정답 핵심어 · 명사구",
+"meaningEn": "a consistent tendency / regular behavioral pattern",
+"partnerKo": "기출 정답 ②: 일정한 경향이 있음을\n오답 ①: 다양한 종류가 있음을 (X)",
+"explainEn": "When winners always keep their move and losers always switch, that repeatable pattern is '일정한 경향'.",
+"mem": "이긴 사람은 유지, 진 사람은 변경 → 규칙적인 행동 패턴 = '일정한 경향'!"
+}
+]
+},
+"3주차 (제37회)": {
+"1강": [
+{
+"wordKo": "부담감(을) 가지다",
+"pos": "3주차 1강 읽기 · 명사+동사",
+"meaningEn": "to feel a sense of burden / psychological pressure",
+"partnerKo": "교수님 유의어: 무거운 마음을 가지다 (=) / 심리적 압박을 느끼다",
+"explainEn": "Mental pressure ('실수에 대한 부담감') that prevents an athlete from performing well.",
+"mem": "부담감 = 잘해야 한다는 무거운 마음의 압박!"
+},
+{
+"wordKo": "좋은 성적을 거두다",
+"pos": "3주차 1강 읽기 · 연어(Collocation)",
+"meaningEn": "to achieve good results / get a good score or record",
+"partnerKo": "교수님 유의어: 좋은 점수를 받다 (=) / 좋은 결과를 얻다 (=)",
+"explainEn": "'거두다' literally means to harvest crops; figuratively used with '성적/성과/승리' to mean achieving results.",
+"mem": "성적·성과·승리는 항상 동사 '거두다(성적을 거두다)'와 짝꿍!"
+},
+{
+"wordKo": "그렇기 때문에",
+"pos": "3주차 1강 읽기 · 접속어",
+"meaningEn": "therefore / because of that / for that reason",
+"partnerKo": "교수님 유의어: 그래서 (=) / 따라서 (=) / 그러므로 (=)",
+"explainEn": "Connects the cause (athlete's pressure) to the required coaching method in the next sentence.",
+"mem": "앞 문장(원인) → 그렇기 때문에(그래서) → 뒷문장(중심 생각/해결책)!"
+},
+{
+"wordKo": "지도하다",
+"pos": "3주차 1강 읽기 · 동사",
+"meaningEn": "to coach / instruct / guide",
+"partnerKo": "교수님 유의어: 가르치다 (=)",
+"explainEn": "For a coach ('감독') or teacher to guide and train athletes or students ('감독은 선수를 지도할 때').",
+"mem": "감독이 선수를 지도하다 = 가르치다!"
+},
+{
+"wordKo": "떠올리게 하다",
+"pos": "3주차 1강 읽기 · 사동 표현",
+"meaningEn": "to remind of / cause to recall / bring to mind",
+"partnerKo": "교수님 유의어: 생각나게 하다 (=) / 기억나게 하다 (=)",
+"explainEn": "Causative of '떠오르다' (to come to mind); making someone remember past mistakes ('실수를 떠올리게 하는 말').",
+"mem": "떠오르다(생각나다) + -게 하다 = 다시 생각나게 하다(떠올리게 하다)!"
+},
+{
+"wordKo": "입 밖에 내다",
+"pos": "3주차 1강 읽기 21번 정답 · 관용어",
+"meaningEn": "to utter / speak out loud / mention",
+"partnerKo": "기출 정답 ①: 입 밖에 내지 (않아야 한다)\n의미: 말을 꺼내어 밖으로 표현하다",
+"explainEn": "Literally 'put outside the mouth' = to say out loud. Combined with '-지 않아야 한다', it means 'must NOT utter/mention'.",
+"mem": "말을 입 밖으로 꺼내다 = 말하다! + '않아야 한다' = 말하지 않아야 한다!"
+}
+],
+"2강": [
+{
+"wordKo": "독자에게 신뢰를 주다",
+"pos": "3주차 2강 읽기 · 구(Phrase)",
+"meaningEn": "to give trust / credibility to the reader",
+"partnerKo": "기출 선택지 ①: 독자에게 신뢰를 주는\n비교 선택지 ②: 독자에게 새로운 정보를 주는",
+"explainEn": "Making readers believe and trust the article through accurate facts or objective evidence.",
+"mem": "신뢰(믿음)를 주다 = 독자가 글을 믿게 만들다!"
+},
+{
+"wordKo": "-(으)ㄹ수록",
+"pos": "3주차 2강 쓰기 52번 · 연결어미",
+"meaningEn": "the more [A], the more [B]",
+"partnerKo": "본문 문장: 긍정적인 결과를 기대할수록 좋은 결과를 얻을 확률이 높다",
+"explainEn": "Proportional grammar pattern indicating that as Condition A intensifies, Result B increases or decreases.",
+"mem": "기대할수록 확률이 높다 = 많이 기대하면 할수록 성공 가능성도 커진다!"
+},
+{
+"wordKo": "확률이 높다",
+"pos": "3주차 2강 쓰기 52번 · 구(Phrase)",
+"meaningEn": "the probability / likelihood is high",
+"partnerKo": "반의 표현: 확률이 낮다 / 가능성이 적다 / 얻기 어렵다",
+"explainEn": "'확률' means mathematical/statistical probability or likelihood.",
+"mem": "확률이 높다(성공 가능성 ↑) ↔ 확률이 낮다 / ~기 어렵다(성공 가능성 ↓)!"
+},
+{
+"wordKo": "반대로",
+"pos": "3주차 2강 쓰기 52번 핵심 · 부사",
+"meaningEn": "conversely / on the contrary / in the opposite way",
+"partnerKo": "쓰기 52번 공식: '반대로' 뒤의 빈칸은 앞 문장 단어들을 모두 반의어로 뒤집기!",
+"explainEn": "Signals that you must invert both the subject/condition ('긍정적 → 부정적') and predicate ('확률이 높다 → 얻기 어렵다').",
+"mem": "쓰기 52번에 '반대로'가 보이면? 앞 문장의 반의어 퍼즐 맞추기!"
+}
+]
+},
+"4주차 (제41회)": {
+"1강": [
+{
+"wordKo": "초창기",
+"pos": "4·5주차 이모티콘 지문 · 명사",
+"meaningEn": "early days / initial period / beginning stage",
+"partnerKo": "교수님 유의어: 처음 시기 (=) / 초기 (=)",
+"explainEn": "'초창기 이모티콘은 감정을 표시하는 정도였으나' (In the early days, emoticons merely displayed emotions).",
+"mem": "초(처음 초) + 창(시작할 창) + 기(시기 기) = 어떤 것이 처음 시작된 시기!"
+},
+{
+"wordKo": "표시하다",
+"pos": "4·5주차 이모티콘 지문 · 동사",
+"meaningEn": "to express / indicate / display with a sign",
+"partnerKo": "유의어: 나타내다 (=) / 표현하다 (=)",
+"explainEn": "To show or mark feelings or information outwardly ('감정을 표시하는 정도').",
+"mem": "감정을 기호나 그림으로 나타내다 = 표시하다!"
+},
+{
+"wordKo": "웃음을 유발하다",
+"pos": "4·5주차 이모티콘 지문 · 연어",
+"meaningEn": "to induce / cause / trigger laughter",
+"partnerKo": "교수님 유의어: 웃음을 일으키다 (=) / 웃게 만들다 (=)",
+"explainEn": "'유발하다' means to cause or trigger a phenomenon or emotion ('재미를 주고 웃음을 유발하기도 한다').",
+"mem": "유발하다 = 어떤 결과나 현상을 끌어내어 '일으키다'!"
+},
+{
+"wordKo": "끊임없이",
+"pos": "4·5주차 이모티콘 지문 · 부사",
+"meaningEn": "ceaselessly / continually / without stopping",
+"partnerKo": "유의어: 계속해서 (=) / 멈추지 않고 (=)",
+"explainEn": "Derived from '끊이다' (to stop/be cut off) + '-없이' (without) = without ever stopping.",
+"mem": "끊어짐이 없이 계속 = 끊임없이!"
+},
+{
+"wordKo": "진화하다 (진화를 계속하다)",
+"pos": "4·5주차 이모티콘 지문 · 동사",
+"meaningEn": "to evolve / develop into a more advanced form",
+"partnerKo": "교수님 유의어: 발전하다 (=) / 변화하고 발달하다",
+"explainEn": "Used figuratively for technology or media ('이모티콘은 끊임없이 진화를 계속하고 있다') advancing from simple symbols to moving characters.",
+"mem": "단순한 기호 → 캐릭터 → 움직이는 만화로 발전함 = 진화하다!"
+}
+],
+"2강": [
+{
+"wordKo": "어린 시절을 되돌아보다",
+"pos": "4주차 2강 읽기 · 구(Phrase)",
+"meaningEn": "to look back on / reflect on one's childhood",
+"partnerKo": "기출 선택지 ②: 어린 시절을 되돌아보려는\n비교 선택지 ①: 아이들을 교육하려는",
+"explainEn": "'되돌아보다' means to look back on the past and reminisce.",
+"mem": "되(다시) + 돌아보다(look back) = 과거(어린 시절)를 회상하다!"
+},
+{
+"wordKo": "여론(의견)을 수렴하다",
+"pos": "4주차 퀴즈 & 읽기 · 연어",
+"meaningEn": "to gather / collect public opinions",
+"partnerKo": "유의어: 의견을 모으다 (=)\n반의어: 확산하다 = 퍼지다",
+"explainEn": "Standard TOPIK II collocation where an organization collects diverse opinions into a unified policy.",
+"mem": "여러 사람의 의견을 하나로 모으다 = 의견을 수렴하다!"
+},
+{
+"wordKo": "전통 방식을 고수하다",
+"pos": "4주차 퀴즈 & 읽기 · 연어",
+"meaningEn": "to adhere / stick firmly to a traditional method",
+"partnerKo": "유의어: 전통 방식을 굳게 지키다 (=)\n반의어: 방식을 전환하다 (바꾸다)",
+"explainEn": "Refusing to change to a modern method and keeping the original way intact.",
+"mem": "바꾸지(전환하지) 않고 옛날 방식을 끝까지 지키다 = 고수하다!"
+}
+]
+},
+"5주차 (제47회)": {
+"1강": [
+{
+"wordKo": "담을 쌓다",
+"pos": "5주차 1강 읽기 21번 ① · 관용어",
+"meaningEn": "to build a wall (completely cut off contact or interest)",
+"partnerKo": "기출 선택지 ①: 담을 쌓고\n의미: 관계를 완전히 끊거나 관심을 전혀 두지 않다",
+"explainEn": "Literally 'build a wall'; used when someone completely severs ties with a person or has zero interest in a subject.",
+"mem": "사이에 높은 담(벽)을 쌓아 아예 안 보고 관계를 끊다 = 담을 쌓다!"
+},
+{
+"wordKo": "못을 박다",
+"pos": "5주차 1강 읽기 21번 ② · 관용어",
+"meaningEn": "to drive a nail (1. state with finality / 2. hurt someone's heart deeply)",
+"partnerKo": "기출 선택지 ②: 못을 박고\n의미 1: 바꿀 수 없게 확실히 말하다 / 의미 2: 가슴에 깊은 상처를 주다",
+"explainEn": "Used either for declaring something definitively so it cannot be changed, or causing deep emotional pain ('가슴에 못을 박다').",
+"mem": "망치로 못을 쾅 박듯 (1) 딱 잘라 확실히 말하다 (2) 마음에 상처를 주다!"
+},
+{
+"wordKo": "머리를 맞대다",
+"pos": "5주차 1강 읽기 21번 ③ · 관용어",
+"meaningEn": "to put heads together (gather and discuss seriously to solve a problem)",
+"partnerKo": "기출 선택지 ③: 머리를 맞대고\n유의 표현: 함께 모여 진지하게 의논하다",
+"explainEn": "Literally 'touch foreheads together'; people gathering closely to brainstorm and solve a shared problem.",
+"mem": "문제를 해결하려고 여러 사람이 가까이 모여 의논함 = 머리를 맞대다!"
+},
+{
+"wordKo": "고개를 숙이다",
+"pos": "5주차 1강 읽기 21번 ④ · 관용어",
+"meaningEn": "to bow one's head (yield, admit defeat, feel ashamed, or show respect)",
+"partnerKo": "기출 선택지 ④: 고개를 숙이고\n의미: 잘못을 부끄러워하거나 상대에게 굴복하다(또는 존경하다)",
+"explainEn": "Lowering one's head out of shame, defeat, or humility.",
+"mem": "부끄럽거나 져서 머리를 아래로 내리다 = 고개를 숙이다!"
+}
+],
+"2강": [
+{
+"wordKo": "지우개 가루",
+"pos": "5주차 2강 지우개 지문 · 명사구",
+"meaningEn": "eraser crumbs / shavings",
+"partnerKo": "본문 문맥: 글씨를 지울 때 나오는 지우개 가루",
+"explainEn": "Key term from the Week 5 Lecture 2 reading passage comparing soft vs. hard erasers.",
+"mem": "지우개로 글씨를 지우면 생기는 부스러기 = 지우개 가루!"
+},
+{
+"wordKo": "특수한 물질",
+"pos": "5주차 2강 지우개 지문 · 명사구",
+"meaningEn": "special substance / particular material",
+"partnerKo": "퀴즈 연계: 특수하다 = 특별하다 (=)\n본문: 특수한 물질을 넣어 단단하게 만든 지우개",
+"explainEn": "A special substance added to make the eraser hard ('단단하다 = 딱딱하다') for erasing ink or rough paper.",
+"mem": "보통(일반적/보편적)이 아닌 '특별한' 물질 = 특수한 물질!"
+},
+{
+"wordKo": "부드러운 지우개 ↔ 단단한 지우개",
+"pos": "5주차 2강 지우개 지문 · 핵심 대조",
+"meaningEn": "soft eraser (for pencil) ↔ hard/firm eraser (for pen/ink)",
+"partnerKo": "유의어: 단단하다 = 딱딱하다 (1주차 2강 퀴즈)\n반의어: 부드럽다 / 말랑말랑하다",
+"explainEn": "Soft erasers erase pencil marks gently, whereas hard erasers containing special substances erase ink by scraping the paper surface.",
+"mem": "연필 글씨 = 부드러운 지우개 | 볼펜·만년필 글씨 = 특수한 물질을 넣은 단단한 지우개!"
+}
+]
+},
+"6주차 (제52회)": {
+"1강": [
+{
+"wordKo": "유사하다 ↔ 상이하다",
+"pos": "6주차 1강 핵심 대조 · 형용사",
+"meaningEn": "to be similar (비슷하다) ↔ to be different/disparate (다르다)",
+"partnerKo": "유사하다 = 비슷하다 (Q1)\n상이하다 = 다르다 (Q2)",
+"explainEn": "High-frequency academic contrast pair in TOPIK II Reading content-match questions.",
+"mem": "유사(비슷함) ↔ 상이(서로 다름)! 글자 모양이 비슷하니 절대 혼동 금지!"
+},
+{
+"wordKo": "논리가 모순되다",
+"pos": "6주차 1강 핵심 · 구(Phrase)",
+"meaningEn": "the logic is contradictory / inconsistent",
+"partnerKo": "퀴즈 유의어: 앞뒤가 맞지 않다 (=)",
+"explainEn": "Used when a speaker's first claim and second claim clash logically.",
+"mem": "창(모)과 방패(순)처럼 말의 앞뒤가 맞지 않다 = 모순되다!"
+},
+{
+"wordKo": "요구를 일축하다",
+"pos": "6주차 1강 핵심 · 연어",
+"meaningEn": "to flatly reject / dismiss a demand out of hand",
+"partnerKo": "퀴즈 유의어: 받아들이지 않다 (=)\n반의어: 채택하다 = 받아들이다 (3주차 2강)",
+"explainEn": "Refusing even to consider a demand or rumor.",
+"mem": "일축하다 = 단칼에 거절하여 받아들이지 않다!"
+}
+],
+"2강": [
+{
+"wordKo": "깨끗하게 관리하면",
+"pos": "6주차 2강 읽기 빈칸 ① · 구(Phrase)",
+"meaningEn": "if one manages/maintains it cleanly",
+"partnerKo": "기출 선택지 ①: 깨끗하게 관리하면\n비교 선택지 ②: 감싸서 보호해 주면",
+"explainEn": "Option ① from the Week 6 Lecture 2 (제52회) reading blank question.",
+"mem": "관리하다 = 감독하다·유지하다 / 깨끗하게 관리하면!"
+},
+{
+"wordKo": "감싸서 보호해 주면",
+"pos": "6주차 2강 읽기 빈칸 ② · 구(Phrase)",
+"meaningEn": "if one wraps/covers and protects it",
+"partnerKo": "기출 선택지 ②: 감싸서 보호해 주면\n어휘: 감싸다 (to wrap/cover warmly)",
+"explainEn": "Option ② from the Week 6 Lecture 2 (제52회) reading blank question.",
+"mem": "감싸다(wrap around) + 보호해 주다(protect)!"
+},
+{
+"wordKo": "의심스럽다 = 수상하다",
+"pos": "6주차 2강 & 1주차 1강 비교 · 형용사",
+"meaningEn": "to be doubtful/suspicious = to be suspicious/fishy",
+"partnerKo": "6주차 2강: 의심스럽다 = 수상하다 (O)\n1주차 1강: 의심스럽다 = 신뢰하다 (X)",
+"explainEn": "The #1 cross-week exam connection in this course!",
+"mem": "중간고사 1순위! [의심스럽다 = 수상하다(O)] vs [신뢰하다(X)]!"
+}
+]
+},
+"7주차 (제60회)": {
+"1강": [
+{
+"wordKo": "손을 떼다",
+"pos": "7주차 1강 읽기 21번 ① · 관용어",
+"meaningEn": "to take one's hands off (quit / withdraw from a task or business)",
+"partnerKo": "기출 선택지 ①: 손을 뗀다\n의미: 하던 일을 그만두거나 관계를 끊다",
+"explainEn": "Literally 'remove one's hands'; means to stop doing an activity or pull out of a project completely.",
+"mem": "하던 일에서 손을 떼다 = 일을 그만두다! (반대: 손을 대다 = 시작하다)"
+},
+{
+"wordKo": "이를 갈다",
+"pos": "7주차 1강 읽기 21번 ② · 관용어",
+"meaningEn": "to grind one's teeth (harbor fierce anger or determination to win)",
+"partnerKo": "기출 선택지 ②: 이를 간다\n의미: 몹시 분해하거나 꼭 이기려고 굳게 마음먹다",
+"explainEn": "Grinding one's teeth out of intense resentment or fierce determination before a match.",
+"mem": "너무 분하거나 꼭 복수하려고 이(치아)를 으드득 갈다 = 이를 갈다!"
+},
+{
+"wordKo": "열을 올리다",
+"pos": "7주차 1강 읽기 21번 ④ · 관용어",
+"meaningEn": "to raise heat/fever (get deeply enthusiastic or absorbed in)",
+"partnerKo": "기출 선택지 ④: 열을 올린다\n유의 표현: 어떤 일에 몹시 열중하다 / 푹 빠지다",
+"explainEn": "Becoming passionately absorbed or heated up in promoting, studying, or competing in something.",
+"mem": "몸에 열이 날 정도로 어떤 일에 푹 빠져 열심히 함 = 열을 올리다!"
+},
+{
+"wordKo": "증가하다 ↔ 감소하다",
+"pos": "7주차 1강 & 쓰기 53번 · 핵심 동사",
+"meaningEn": "to increase (늘어나다) ↔ to decrease (줄어들다)",
+"partnerKo": "증가하다 = 늘어나다 (↑)\n감소하다 = 줄어들다 (↓)",
+"explainEn": "Essential graph description verbs for TOPIK II Writing Q53.",
+"mem": "그래프 화살표 위(↑) = 증가하다·늘어나다 | 아래(↓) = 감소하다·줄어들다!"
+}
+],
+"2강": [
+{
+"wordKo": "방식을 도입하다",
+"pos": "7주차 2강 읽기 · 연어 (교수님 강조!)",
+"meaningEn": "to introduce / adopt a method or system",
+"partnerKo": "교수님 풀이: 방식 = 방법 (=) / 도입하다 = 가져오다 (=)",
+"explainEn": "'수업에 게임 방식을 도입하면' = '수업에 게임하는 방법을 가져오면'.",
+"mem": "방식(방법) + 도입하다(새로 들여오다·가져오다)!"
+},
+{
+"wordKo": "열의(를) 갖다",
+"pos": "7주차 2강 읽기 · 명사+동사 (교수님 강조!)",
+"meaningEn": "to have enthusiasm / zeal / eager determination",
+"partnerKo": "교수님 풀이: 열의 = 열정(뜨거운 마음)과 의지(내가 하겠다는 마음)!",
+"explainEn": "Professor 오현진 broke '열의' down syllable by syllable: '열(열정 - passion) + 의(의지 - willpower)'.",
+"mem": "열(열정) + 의(의지) = '저도 할래요!' 하는 뜨거운 마음 = 열의!"
+},
+{
+"wordKo": "흥미진진하다",
+"pos": "7주차 2강 읽기 · 형용사 (교수님 강조!)",
+"meaningEn": "to be thrilling / full of interest / super fun",
+"partnerKo": "교수님 풀이: 아주 재미있다 (=)",
+"explainEn": "'흥미진진한 퀴즈를 풀며' = solving super interesting and exciting quizzes.",
+"mem": "흥미(재미)가 진진(넘쳐흐름) = 아주 재미있다!"
+},
+{
+"wordKo": "용어와 개념을 익히다",
+"pos": "7주차 2강 읽기 · 구(Phrase) (교수님 강조!)",
+"meaningEn": "to master / learn terminology and concepts",
+"partnerKo": "교수님 풀이: 용어 = 단어 / 개념 = 컨셉 / 익히다 = 배우다, 공부하다, 익숙하게 만들다!",
+"explainEn": "Professor 오현진 explained '익히다' as studying and making something familiar ('익숙하게 만들다').",
+"mem": "용어(단어)와 개념(컨셉)을 내 것으로 익숙하게 배우다 = 익히다!"
+},
+{
+"wordKo": "즉각적으로",
+"pos": "7주차 2강 읽기 · 부사 (교수님 강조!)",
+"meaningEn": "immediately / instantaneously / on the spot",
+"partnerKo": "교수님 풀이: 바로 (=), 즉시 (=)",
+"explainEn": "'퀴즈의 정답을 맞힌 학생에게는 즉각적으로 보상을 주다' = giving a reward immediately on the spot.",
+"mem": "즉각적으로 = 기다리지 않고 그 자리에서 '바로, 즉시'!"
+},
+{
+"wordKo": "수업에 보다 집중할",
+"pos": "7주차 2강 읽기 빈칸 정답 · 구(Phrase)",
+"meaningEn": "to concentrate MORE on the class",
+"partnerKo": "기출 선택지 ②: 수업에 보다 집중할 (수 있게 된다)\n부사 '보다' = 더 (more)",
+"explainEn": "In '수업에 보다 집중할', the adverb '보다' means '더' (more), describing the positive educational effect of classroom quiz games.",
+"mem": "부사 '보다' = '더(more)'! 수업에 보다 집중하다 = 수업에 더 집중하다!"
+}
+]
+},
+"8주차 (중간고사 총정리)": {
+"1강": [
+{
+"wordKo": "등장하다 (등장인물)",
+"pos": "8주차 1·2강 웹소설 지문 · 동사",
+"meaningEn": "to appear / emerge on the scene (characters in a story)",
+"partnerKo": "교수님 풀이: 등장하다 = 세상에 새로 나오다 (=)\n등장인물 = 소설·드라마에 나오는 사람",
+"explainEn": "'새로운 문화 콘텐츠들이 등장하고 있다' = new cultural contents are appearing.",
+"mem": "등장하다 = 무대나 세상에 '나오다'! 등장인물 = 나오는 사람!"
+},
+{
+"wordKo": "눈이 피로하다",
+"pos": "8주차 1·2강 웹소설 지문 · 형용사구",
+"meaningEn": "one's eyes get fatigued / tired",
+"partnerKo": "교수님 풀이: 피로하다 = 피곤하다 (=)",
+"explainEn": "'컴퓨터 화면에서 읽어도 눈이 피로하지 않도록' = so that readers' eyes do not get tired on screens.",
+"mem": "눈이 피로하다 = 눈이 피곤하다!"
+},
+{
+"wordKo": "배경과 등장인물",
+"pos": "8주차 1·2강 웹소설 지문 · 명사구",
+"meaningEn": "setting/background and characters",
+"partnerKo": "웹소설 특징: 배경과 등장인물이 단순하다 (복잡하지 않다)",
+"explainEn": "Web novels keep the setting ('배경') and characters ('등장인물') simple and use short sentences ('문장도 짧게 쓴다') so readers' eyes don't get tired.",
+"mem": "웹소설 2대 특징: ① 배경·등장인물이 단순함 ② 눈이 피로하지 않게 문장을 짧게 씀!"
+}
+],
+"2강": [
+{
+"wordKo": "지지부진하다",
+"pos": "8주차 신문기사 제목 1 · 형용사",
+"meaningEn": "to be sluggish / make very slow progress",
+"partnerKo": "교수님 풀이: 잘 진행되지 않다 (=)\n기출 제목: 지지부진한 태풍 피해 복구",
+"explainEn": "Headline word describing recovery work ('복구') that is dragging on and barely progressing.",
+"mem": "태풍 피해 복구가 지지부진하다 = 복구가 빨리 안 되고 '잘 진행되지 않다'!"
+},
+{
+"wordKo": "속(이) 터지다",
+"pos": "8주차 신문기사 제목 1 · 관용어",
+"meaningEn": "to be bursting with frustration / suffocated with impatience",
+"partnerKo": "교수님 풀이: 답답해하다 (=)\n기출 제목: 속 터지는 주민들 → 주민들이 답답해하고 있다",
+"explainEn": "Because typhoon recovery is sluggish ('지지부진한'), the residents feel extreme frustration ('속 터지는 주민들' = '답답해하고 있다').",
+"mem": "지지부진한(잘 진행되지 않는) 복구 + 속 터지는(답답해하는) 주민들!"
+},
+{
+"wordKo": "미지수이다",
+"pos": "8주차 신문기사 제목 2 · 명사+이다 (교수님 강조!)",
+"meaningEn": "to be an unknown quantity / uncertain whether it will happen",
+"partnerKo": "교수님 풀이: 앞으로 어떻게 될지 '알 수 없다' (=)\n기출: 안정적으로 공급하는 것은 미지수이다 = 안정적으로 줄 수 있을지 알 수 없다",
+"explainEn": "From mathematical unknown 'x' ('미지수'); in newspaper headlines it always paraphrases to '알 수 없다' or '불투명하다'.",
+"mem": "신문기사에 '미지수이다'가 나오면? 무조건 선지에서 '알 수 없다' 찾기!"
+},
+{
+"wordKo": "큰 폭으로 하락",
+"pos": "8주차 신문기사 제목 3 · 명사구",
+"meaningEn": "a drop by a large margin / sharp fall",
+"partnerKo": "교수님 풀이: 크게 떨어지다 (=)\n반의어: 큰 폭으로 상승 (크게 오르다)",
+"explainEn": "'기름값 큰 폭으로 하락' = oil prices fell sharply ('크게 떨어져').",
+"mem": "큰 폭으로(크게) + 하락(떨어짐) = 크게 떨어지다!"
+},
+{
+"wordKo": "활기를 띠다",
+"pos": "8주차 신문기사 제목 3 · 관용구",
+"meaningEn": "to take on vitality / become lively and booming",
+"partnerKo": "교수님 풀이: 분위기가 좋아지다 (=) / 활발해지다 (=)\n기출 제목: 활기 띠는 제조업체",
+"explainEn": "Because oil prices dropped sharply, manufacturing companies ('제조업체' = 물건을 만드는 회사) are booming ('활기를 띠다' = '분위기가 좋아지고 있다').",
+"mem": "제조업체가 활기를 띠다 = 회사가 힘이 나고 분위기가 좋아지다!"
+}
+]
+}
+}
