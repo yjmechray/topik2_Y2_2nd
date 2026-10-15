@@ -48,7 +48,7 @@
 ],
 "a": 0,
 "expKo": "정답: ① — 해결하기 힘든 일로 머리가 복잡하고 괴로울 때 '골치(머리)가 아프다'를 씁니다.",
-"expEn": "'골치(가) 아프다' means to have a headache or feel mental distress over a troublesome problem. Compare with ② '콧대가 높다' (arrogant) and ③ '눈치가 빠르다' (quick to read the room).",
+"expEn": "'골치(가) 아프다' means to have a headache or feel mental distress over a troublesome problem. Compare with ② '콧대가 높다' (ar arrogant) and ③ '눈치가 빠르다' (quick to read the room).",
 "mem": "골치 아프다(문제 때문에 머리 아픔) | 콧대 높다(잘난 척·거만함) | 눈치 빠르다(분위기 파악 빠름)",
 "vocabList": [
 "골치가 아프다: to have a headache over a problem",
@@ -338,6 +338,91 @@
 ]
 },
 "6주차 (제52회)": {
+"1강": [
+{
+"passageKo": "[읽기 6번 광고문]\n안정된 내일을 위하여!\n고객님의 지갑을 소중히 생각하겠습니다.",
+"passageEn": "[Reading Q6 Ad]\nFor a stable tomorrow!\nWe will cherish our customers' wallets.",
+"qKo": "1. 다음은 무엇에 대한 글인지 고르십시오.",
+"qEn": "Choose what the following text is about.",
+"o": [
+"① 서점",
+"② 은행",
+"③ 빨래방",
+"④ 사진관"
+],
+"oEn": [
+"① Bookstore",
+"② Correct: Bank ('안정된 내일' [stable tomorrow] + '고객님의 지갑' [customer's wallet/money])",
+"③ Laundromat",
+"④ Photo studio ('오늘의 추억을 한 장에, 아름다운 모습 그대로 남기세요')"
+],
+"a": 1,
+"expKo": "정답: ② — '고객님의 지갑(돈/자산)'과 '안정된 내일(저축/금융)'을 다루는 곳은 '은행'입니다. (참고: '오늘의 추억을 한 장에, 아름다운 모습 그대로 남기세요'는 ④ 사진관입니다!)",
+"expEn": "'지갑' (wallet/money) and '안정된 내일' (stable financial future) point directly to ② 은행 (bank). Meanwhile, '오늘의 추억을 한 장에' (today's memory in one sheet/photo) is ④ 사진관 (photo studio).",
+"mem": "지갑·돈·안정된 내일 = ② 은행 | 추억을 한 장에·아름다운 모습 = ④ 사진관!",
+"vocabList": [
+"안정된 내일: stable tomorrow",
+"지갑: wallet",
+"소중히: preciously / with care",
+"추억을 남기다: to leave memories"
+]
+},
+{
+"passageKo": "[읽기 7번 공익 광고]\n"엄마, 잘 다녀왔습니다." 참 반가운 한마디!\n우리 아이 학교 다니는 길을 지켜 주세요.\n학교 앞 천천히! 아이들이 있는지 한 번 더 살피세요.",
+"passageEn": "[Reading Q7 Public Ad]\n'Mom, I'm home safely!' What a welcoming phrase!\nPlease protect the road our children take to school.\nSlowly in front of schools! Check once more if there are children.",
+"qKo": "2. 다음은 무엇에 대한 글인지 고르십시오.",
+"qEn": "Choose what the following text is about.",
+"o": [
+"① 안전 운전",
+"② 건강 관리",
+"③ 전기 절약",
+"④ 환경 보호"
+],
+"oEn": [
+"① Correct: Safe driving ('학교 앞 천천히!' = Drive slowly in front of schools!)",
+"② Health management",
+"③ Saving electricity",
+"④ Environmental protection"
+],
+"a": 0,
+"expKo": "정답: ① — 어린이 보호구역(스쿨존)에서 '학교 앞 천천히!' 운전하며 아이들이 있는지 살피라는 '안전 운전' 캠페인 글입니다.",
+"expEn": "'학교 앞 천천히!' (Slow down in front of schools!) and checking for children on their way to school urges drivers to practice ① 안전 운전 (safe driving).",
+"mem": "학교 앞 천천히 + 아이들이 있는지 살피세요 = ① 안전 운전!",
+"vocabList": [
+"반갑다: to be glad / welcoming",
+"살피다: to check / look carefully around",
+"안전 운전: safe driving"
+]
+},
+{
+"passageKo": "[읽기 8번 안내문]\n• 식사를 원하는 날짜와 시간, 인원수를 선택하십시오.\n• 연락 받을 분의 성함과 연락처를 입력하십시오.",
+"passageEn": "[Reading Q8 Notice]\n• Please select the desired date, time, and number of people for the meal.\n• Please enter the name (honorific) and contact number of the person to be contacted.",
+"qKo": "3. 다음은 무엇에 대한 글인지 고르십시오.",
+"qEn": "Choose what the following text is about.",
+"o": [
+"① 예약 방법",
+"② 일정 문의",
+"③ 이용 후기",
+"④ 제품 소개"
+],
+"oEn": [
+"① Correct: Reservation method (selecting date, time, party size, name, and phone number)",
+"② Schedule inquiry",
+"③ User review",
+"④ Product introduction"
+],
+"a": 0,
+"expKo": "정답: ① — 식당 이용 전에 날짜, 시간, 인원수, 성함(이름의 높임말), 연락처를 선택·입력하라고 안내하므로 '예약 방법'입니다.",
+"expEn": "Selecting the date, time, headcount ('인원수'), and entering your name ('성함') and phone number ('연락처') describes ① 예약 방법 (how to make a reservation).",
+"mem": "날짜·시간·인원수 선택 + 성함·연락처 입력 = ① 예약 방법!",
+"vocabList": [
+"인원수: number of people",
+"성함: name (honorific of 이름)",
+"연락처: contact information",
+"이용 후기: user review"
+]
+}
+],
 "2강": [
 {
 "passageKo": "[제52회 읽기 빈칸 문제] 상처가 났을 때 무조건 건조하게 두는 것보다 상처 부위를 촉촉하게 유지하고 ( 빈칸 ) 상처가 더 빨리 아물고 흉터도 적게 남는다.",
