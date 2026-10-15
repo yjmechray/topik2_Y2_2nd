@@ -8,7 +8,7 @@
 "a": 1,
 "expKo": "정답: X — '의심스럽다'(확신이 없고 수상하다)와 '신뢰하다'(굳게 믿다)는 서로 반대되는 의미(반의어)이므로 '=' 기호는 틀렸습니다.",
 "expEn": "False (X): '의심스럽다' (doubtful/suspicious) and '신뢰하다' (to trust/believe) have opposite meanings. In Week 6 Lecture 2 Q1, the true synonym pair appears: '의심스럽다 = 수상하다' (O).",
-"mem": "본 과목 퀴즈 중 유일한 대표 X 함정! [의심스럽다 = 수상하다 (O, 6주차)] ≠ [신뢰하다 (X, 1주차)]"
+"mem": "Golden Exam Rule: This is the ONLY 'X' (False) quiz item in the entire course! Doubt (의심스럽다) is the opposite of Trust (신뢰하다). Its true synonym in Week 6 is 수상하다 (suspicious)!"
 },
 {
 "qKo": "2. 붐비다 = 인파가 많다",
@@ -17,7 +17,7 @@
 "a": 0,
 "expKo": "정답: O — 고유어 동사 '붐비다'는 한자어 표현 '인파(사람의 물결)가 많다'와 동일한 의미의 유의어입니다.",
 "expEn": "True (O): Both describe a place packed and congested with many people.",
-"mem": "인파(人波 = 사람 물결)가 많으면 장소가 복잡하게 '붐비다'! (반의어: 한산하다)"
+"mem": "Think of '인파' as 'human waves' (인=person, 파=wave). When there are many waves of people (인파가 많다), the place is crowded (붐비다)!"
 },
 {
 "qKo": "3. 비록 = 아무리 그렇게 해도",
@@ -26,7 +26,7 @@
 "a": 0,
 "expKo": "정답: O — 양보 부사 '비록'은 '-더라도', '-지만'과 함께 쓰여 '아무리 그렇게 해도'라는 뜻을 나타냅니다.",
 "expEn": "True (O): '비록' is a concessive adverb meaning 'even though / no matter how much it is so'.",
-"mem": "비록 ~더라도 = 아무리 그렇게 해도 (결론이 바뀌지 않는 양보 표현)"
+"mem": "Whenever you see '비록' (even though), think: 'no matter how much it is so (아무리 그렇게 해도), the final result won't change!'"
 },
 {
 "qKo": "4. 유연하다 <-> 뻣뻣하다",
@@ -35,7 +35,7 @@
 "a": 0,
 "expKo": "정답: O — 기호가 '<->'(반의어)임에 주의하세요! 부드럽고 잘 구부러지는 '유연하다'와 굳어 있는 '뻣뻣하다'는 정확한 반의어입니다.",
 "expEn": "True (O): Pay attention to the '<->' (antonym) symbol! '유연하다' (flexible) and '뻣뻣하다' (stiff/rigid) are exact opposites.",
-"mem": "기호 확인 필수! 유연하다(부드러움) ↔ 뻣뻣하다(굳어 있음). 만약 '=' 기호로 바뀌면 X!"
+"mem": "Watch the '<->' (opposite) arrow! A gymnast's body is flexible (유연하다), whereas a frozen board is stiff/rigid (뻣뻣하다). Since '<->' means opposites, this statement is True (O)!"
 }
 ],
 "2강": [
@@ -46,7 +46,7 @@
 "a": 0,
 "expKo": "정답: O — 아이디어, 광고, 방법 등이 기존과 다르게 '참신하다'는 것은 '새롭다'와 같은 뜻입니다.",
 "expEn": "True (O): '참신하다' (novel/fresh/original) is a direct synonym of '새롭다' (new).",
-"mem": "참신한 아이디어 = 새로운 아이디어! (반의어: 2주차 1강 진부하다 = 식상하다)"
+"mem": "A '참신한 아이디어' (novel/fresh idea) is a brand-new (새롭다) idea! (Opposite in Week 2: 진부하다 = 식상하다 [stale/cliché])."
 },
 {
 "qKo": "2. 애매하다 = 모호하다",
@@ -55,7 +55,7 @@
 "a": 0,
 "expKo": "정답: O — 기준이나 경계가 분명하지 않다는 뜻으로, 두 단어를 합쳐 '애매모호하다'라고도 자주 씁니다.",
 "expEn": "True (O): Both mean vague, indistinct, or unclear ('분명하지 않다'), and combine into '애매모호하다'.",
-"mem": "한 단어로 합쳐서 암기: [애매 + 모호 = 애매모호하다] ↔ 분명하다/명확하다"
+"mem": "Koreans literally glue these two words together into one 4-syllable word: '애매모호하다' (vague and ambiguous)!"
 },
 {
 "qKo": "3. 견고하다 = 튼튼하다",
@@ -64,7 +64,7 @@
 "a": 0,
 "expKo": "정답: O — 건물, 성벽, 조직 등이 쉽게 무너지지 않고 '견고하다'는 것은 고유어 '튼튼하다'와 유의어입니다.",
 "expEn": "True (O): '견고하다' (solid/sturdy) maps directly to '튼튼하다' (strong/durable).",
-"mem": "견고한 건물·다리 = 튼튼한 건물·다리!"
+"mem": "Think of a fortress wall or bridge: '견고하다' (solidly built) = '튼튼하다' (strong and sturdy so it won't collapse)!"
 },
 {
 "qKo": "4. 단단하다 = 딱딱하다",
@@ -73,7 +73,7 @@
 "a": 0,
 "expKo": "정답: O — 물체의 성질이 부드럽지 않고 굳어 있다는 점에서 '단단하다'와 '딱딱하다'는 유의어입니다.",
 "expEn": "True (O): Both describe physical hardness or rigidity (opposite of '부드럽다').",
-"mem": "교수님 5주차 지우개 지문에서도 재등장: 단단하다 = 딱딱하다 ↔ 부드럽다!"
+"mem": "Both mean physically hard like a rock or a hard pen-eraser (단단하다 = 딱딱하다), opposite of soft (부드럽다)!"
 }
 ]
 },
@@ -86,7 +86,7 @@
 "a": 0,
 "expKo": "정답: O — 표현이나 생각이 너무 흔하고 오래되어 새롭지 않다는 뜻의 유의어입니다.",
 "expEn": "True (O): Both describe ideas or stories that are overused, stale, and no longer fresh.",
-"mem": "1주차 [참신하다 = 새롭다] ↔ 2주차 [진부하다 = 식상하다(오래되어 뻔하다)]!"
+"mem": "'식상하다' literally comes from getting sick of eating (식) the same food over and over. An overused, cliché story is '진부하다 = 식상하다' (stale/trite)!"
 },
 {
 "qKo": "2. 합리적이다 = 이치에 맞다",
@@ -95,7 +95,7 @@
 "a": 0,
 "expKo": "정답: O — '합리(合理)' 자체가 '이치(논리)에 맞다'라는 한자어이므로 정확한 유의어입니다.",
 "expEn": "True (O): '합리적' literally means conforming ('합') to reason/logic ('리' = 이치).",
-"mem": "합(맞을 합) + 리(이치 리) = 이치에 맞다!"
+"mem": "Break down the syllables: '합' (fit/match = 맞다) + '리' (reason/logic = 이치) → '합리적이다' literally translates to '이치에 맞다' (makes logical sense)!"
 },
 {
 "qKo": "3. 비합리적이다 = 불합리하다",
@@ -104,7 +104,7 @@
 "a": 0,
 "expKo": "정답: O — 부정 접두사 '비(非)'와 '불(不)'이 결합하여 둘 다 '이치에 맞지 않는다'는 뜻을 나타냅니다.",
 "expEn": "True (O): Both prefixes '비-' and '불-' negate '합리', meaning irrational/unreasonable.",
-"mem": "비(非)합리적 = 불(不)합리하다 = 이치에 맞지 않다!"
+"mem": "Both '비-' (non-/un-) and '불-' (not/irr-) are negative prefixes attached to '합리' (rational). So both mean irrational/unreasonable!"
 },
 {
 "qKo": "4. 부당하다 = 옳지 않다",
@@ -113,7 +113,7 @@
 "a": 0,
 "expKo": "정답: O — 이치나 도리에 맞지 않고 '부당하다'는 것은 '옳지 않다'와 유의어입니다.",
 "expEn": "True (O): '부당하다' (unjust/unfair) means not right or improper ('옳지 않다').",
-"mem": "부당한 대우 = 옳지 않은 대우 (반의어: 정당하다 = 마땅하다)"
+"mem": "Unfair treatment at work is '부당한 대우' = treatment that is NOT right or fair (옳지 않다)!"
 }
 ],
 "2강": [
@@ -124,7 +124,7 @@
 "a": 0,
 "expKo": "정답: O — 기술이나 만듦새가 아주 곱고 정밀하다는 뜻으로 '정교하다'와 '세밀하다'는 유의어입니다.",
 "expEn": "True (O): Both describe something finely detailed, intricate, and meticulous.",
-"mem": "기계 부품이나 조각이 아주 정밀함: 정교하다 = 세밀하다!"
+"mem": "Think of a Swiss watch or precision CNC part: '정교하다' (elaborate/precision-crafted) = '세밀하다' (finely detailed/meticulous)!"
 },
 {
 "qKo": "2. 타당하다 = 근거가 있다",
@@ -133,7 +133,7 @@
 "a": 0,
 "expKo": "정답: O — 주장이 논리적이고 이치에 맞아 '타당하다'는 것은 확실한 '근거가 있다'와 통합니다.",
 "expEn": "True (O): A valid ('타당하다') argument is one supported by a logical basis ('근거가 있다').",
-"mem": "타당한 주장 = 확실한 근거가 있는 주장!"
+"mem": "When is an opinion valid/sound (타당하다)? When it is backed by solid evidence/grounds (근거가 있다)!"
 },
 {
 "qKo": "3. 성립하다 = 성사되다",
@@ -142,7 +142,7 @@
 "a": 0,
 "expKo": "정답: O — 계약, 협상, 조건 등이 성공적으로 이루어지다라는 뜻의 유의어입니다.",
 "expEn": "True (O): Both share '성(成 - achieve)' and mean a deal or condition is successfully established.",
-"mem": "성(이룰 성): 계약이 성립하다 = 거래가 성사되다!"
+"mem": "Both start with '성' (from 성공 = success)! A contract or deal is successfully established/closed (성립하다 = 성사되다)!"
 },
 {
 "qKo": "4. 무산되다 = 실패하다",
@@ -151,7 +151,7 @@
 "a": 0,
 "expKo": "정답: O — 계획이나 협상이 안개처럼 흩어져 없어진다는 '무산되다'는 '실패하다'와 유의어입니다.",
 "expEn": "True (O): '무산되다' means a plan or negotiation falls through, matching '실패하다'.",
-"mem": "3번·4번 반의어 세트: [성립하다 = 성사되다(성공)] ↔ [무산되다 = 실패하다]!"
+"mem": "'무산' literally means 'vanishing like mist on a mountain.' When a plan vanishes into thin air (무산되다), it fails (실패하다)! (Opposite of Q3 성립하다/성사되다)."
 }
 ]
 },
@@ -164,7 +164,7 @@
 "a": 0,
 "expKo": "정답: O — 관계, 대화, 교류 등을 '단절하다'는 고유어 '끊다'와 정확한 유의어입니다.",
 "expEn": "True (O): '단절하다' (to sever/disconnect) maps directly to the native Korean verb '끊다'.",
-"mem": "대화가 단절되다 = 대화가 끊기다!"
+"mem": "Both Chinese characters in '단절' mean 'to cut.' Severing ties or communication (단절하다) = cutting it off (끊다)!"
 },
 {
 "qKo": "2. 출간하다 = 발행하다",
@@ -173,7 +173,7 @@
 "a": 0,
 "expKo": "정답: O — 책이나 신문, 잡지 등을 세상에 펴낸다는 뜻의 출판 유의어입니다.",
 "expEn": "True (O): Both mean to publish or issue books, periodicals, or print materials.",
-"mem": "신간 도서를 출간하다 = 발행하다 (출판하다)!"
+"mem": "Book/magazine publishing twin verbs: '출간하다' (publish a book) = '발행하다' (issue/publish print media)!"
 },
 {
 "qKo": "3. 개정하다 = 고치다",
@@ -182,7 +182,7 @@
 "a": 0,
 "expKo": "정답: O — 법률, 규정, 교과서 등의 내용을 바르게 '개정하다'는 '고치다'와 유의어입니다.",
 "expEn": "True (O): '개정하다' means to officially amend or revise a law/rule, matching '고치다'.",
-"mem": "법을 고치다 = 개정하다! (기계를 고치다 = 6주차 2강 수리하다!)"
+"mem": "Two ways '고치다' (to fix) is tested: Fixing a LAW/RULE = '개정하다' (amend, Week 3). Fixing a BROKEN MACHINE = '수리하다' (repair, Week 6)!"
 },
 {
 "qKo": "4. 폐지하다 = 없애다",
@@ -191,7 +191,7 @@
 "a": 0,
 "expKo": "정답: O — 제도, 법안, 규칙 등을 더 이상 쓰지 않고 '폐지하다'는 '없애다'와 유의어입니다.",
 "expEn": "True (O): '폐지하다' (to abolish/repeal) maps directly to '없애다' (to eliminate).",
-"mem": "3번·4번 비교: 법을 고치면 [개정하다], 법을 아예 없애면 [폐지하다]!"
+"mem": "Compare Q3 & Q4: If you fix/revise a law, it's '개정하다 = 고치다'. If you abolish/get rid of a law completely, it's '폐지하다 = 없애다'!"
 }
 ],
 "2강": [
@@ -202,7 +202,7 @@
 "a": 0,
 "expKo": "정답: O — 의견, 건의안, 작품 등을 골라서 '채택하다'는 '받아들이다'와 유의어입니다.",
 "expEn": "True (O): '채택하다' (to adopt/accept a proposal) matches '받아들이다'.",
-"mem": "반의어 짝꿍 주의: [채택하다 = 받아들이다(3주차)] ↔ [일축하다 = 받아들이지 않다(6주차)]!"
+"mem": "'채택하다' (adopt a proposal/idea) = '받아들이다' (accept/take in). (Opposite in Week 6: 일축하다 = 받아들이지 않다 [reject flatly])."
 },
 {
 "qKo": "2. 폐기하다 = 버리다",
@@ -211,7 +211,7 @@
 "a": 0,
 "expKo": "정답: O — 못 쓰게 된 물건, 문서, 조약 등을 '폐기하다'는 '버리다'와 유의어입니다.",
 "expEn": "True (O): '폐기하다' (to dispose of/scrap) maps directly to '버리다' (to throw away).",
-"mem": "쓰레기나 기밀 문서를 폐기하다 = 버리다!"
+"mem": "Trash/waste is called '폐기물'. So '폐기하다' (dispose of/scrap documents or waste) = '버리다' (throw away)!"
 },
 {
 "qKo": "3. 대체하다 = 대신하다",
@@ -220,7 +220,7 @@
 "a": 0,
 "expKo": "정답: O — 다른 것으로 바꾸어 '대체하다'는 '대신하다'와 유의어입니다.",
 "expEn": "True (O): Both mean to substitute or replace one thing with another ('대체 에너지').",
-"mem": "대체 에너지 = 석유를 대신하는 에너지!"
+"mem": "Both start with '대' (substitute/in place of)! '대체 에너지' (alternative energy) replaces (대신하다) fossil fuels!"
 },
 {
 "qKo": "4. 유지하다 = 보존하다",
@@ -229,7 +229,7 @@
 "a": 0,
 "expKo": "정답: O — 원래의 상태나 가치를 잃지 않고 지킨다는 점에서 '유지하다'와 '보존하다'는 유의어입니다.",
 "expEn": "True (O): Both mean maintaining or preserving an existing state, order, or heritage.",
-"mem": "그대로 계속 지키다: 유지하다 = 보존하다!"
+"mem": "Keeping something in its original state without changing it: '유지하다' (maintain) = '보존하다' (preserve)!"
 }
 ]
 },
@@ -242,7 +242,7 @@
 "a": 0,
 "expKo": "정답: O — 방향, 분위기, 정책, 생각 등을 다른 쪽으로 '전환하다'는 '바꾸다'와 유의어입니다.",
 "expEn": "True (O): '전환하다' (to switch/convert direction or mood) maps directly to '바꾸다'.",
-"mem": "기분 전환 = 기분을 바꾸다! 발상의 전환 = 생각을 바꾸다!"
+"mem": "Think of '기분 전환' (changing/refreshing your mood): '전환하다' (switch/convert) = '바꾸다' (change)!"
 },
 {
 "qKo": "2. 고수하다 = 지키다",
@@ -251,7 +251,7 @@
 "a": 0,
 "expKo": "정답: O — 기존의 원칙, 입장, 전통 방식을 바꾸지 않고 굳게 '고수하다'는 '지키다'와 유의어입니다.",
 "expEn": "True (O): '고수하다' means sticking firmly to an existing principle or method ('지키다').",
-"mem": "1번·2번 반의어 대비: [전환하다 = 바꾸다] ↔ [고수하다 = 지키다]!"
+"mem": "Contrast Q1 & Q2: Q1 '전환하다 = 바꾸다' (switch/change) vs. Q2 '고수하다 = 지키다' (stubbornly stick to and keep the old way)!"
 },
 {
 "qKo": "3. 확산하다 = 퍼지다",
@@ -260,7 +260,7 @@
 "a": 0,
 "expKo": "정답: O — 소문, 유행, 문화, 감염 등이 널리 '확산하다'는 고유어 '퍼지다'와 유의어입니다.",
 "expEn": "True (O): '확산하다' (to spread widely) corresponds directly to '퍼지다'.",
-"mem": "소문이나 한류가 널리 확산하다 = 퍼지다!"
+"mem": "When rumors, K-pop, or viruses spread outward everywhere: '확산하다' (proliferate/diffuse) = '퍼지다' (spread out)!"
 },
 {
 "qKo": "4. 수렴하다 = 모이다",
@@ -269,7 +269,7 @@
 "a": 0,
 "expKo": "정답: O — 여러 의견이나 선이 한곳으로 '수렴하다'는 '모이다(모으다)'와 유의어입니다.",
 "expEn": "True (O): '수렴하다' means to converge or gather opinions together ('모이다/모으다').",
-"mem": "3번·4번 방향 반의어 대비: [확산하다 = 밖으로 퍼지다] ↔ [수렴하다 = 하나로 모이다]!"
+"mem": "Contrast Q3 & Q4 directions: Q3 '확산하다 = 퍼지다' (spread OUTWARD) vs. Q4 '수렴하다 = 모이다' (opinions gather/converge INWARD to one point)!"
 }
 ],
 "2강": [
@@ -280,7 +280,7 @@
 "a": 0,
 "expKo": "정답: O — 어떤 일이나 현상이 더 빨리 진행되도록 재촉하여 '촉진하다'는 시기를 '앞당기다'와 유의어입니다.",
 "expEn": "True (O): Verified from the official Week 4 Lecture 2 Quiz! '촉진하다' (to accelerate/promote) = '앞당기다' (to hasten/bring forward).",
-"mem": "발전을 촉진하다 = 시기를 빠르게 앞당기다!"
+"mem": "'앞당기다' literally means 'pull (당기다) to the front (앞)' so it happens sooner = '촉진하다' (accelerate/speed up)!"
 },
 {
 "qKo": "2. 억제하다 = 막다",
@@ -289,7 +289,7 @@
 "a": 0,
 "expKo": "정답: O — 감정이나 현상이 함부로 일어나지 못하게 눌러 '억제하다'는 고유어 '막다'와 유의어입니다.",
 "expEn": "True (O): Verified from the official Week 4 Lecture 2 Quiz! '억제하다' (to suppress/curb) = '막다' (to hold back/prevent).",
-"mem": "1번·2번 반의어 세트: [촉진하다 = 앞당기다(빠르게 함)] ↔ [억제하다 = 막다(못 하게 누름)]!"
+"mem": "Contrast Q1 & Q2: Q1 '촉진하다 = 앞당기다' (speed up/accelerate) vs. Q2 '억제하다 = 막다' (suppress/block from rising)!"
 },
 {
 "qKo": "3. 권장하다 = 권고하다",
@@ -298,7 +298,7 @@
 "a": 0,
 "expKo": "정답: O — 어떤 일을 하도록 권하여 장려하는 '권장하다'와 권하여 말해주는 '권고하다'는 유의어입니다.",
 "expEn": "True (O): Verified from the official Week 4 Lecture 2 Quiz! Both share '권(勸 - encourage/advise)' and mean to recommend or encourage.",
-"mem": "권(권할 권) 공통 한자: 독서를 권장하다 = 안전 수칙을 권고하다!"
+"mem": "Both start with '권-' (to recommend/encourage)! '권장하다' (encourage/recommend) = '권고하다' (officially advise/recommend)!"
 },
 {
 "qKo": "4. 보류하다 = 미루다",
@@ -307,7 +307,7 @@
 "a": 0,
 "expKo": "정답: O — 결정을 당장 내리지 않고 나중으로 남겨 두는 '보류하다'는 고유어 '미루다'와 유의어입니다.",
 "expEn": "True (O): Verified from the official Week 4 Lecture 2 Quiz! '보류하다' (to defer/withhold a decision) = '미루다' (to postpone/put off).",
-"mem": "결정을 보류하다 = 결정을 다음으로 미루다! (1번 앞당기다 ↔ 4번 미루다)"
+"mem": "Putting a decision on hold for later (보류하다) = postponing/pushing it off (미루다)! (Opposite of Q1 앞당기다 [move up])."
 }
 ]
 },
@@ -320,7 +320,7 @@
 "a": 0,
 "expKo": "정답: O — 권리, 안전, 품질 등이 틀림없이 지켜지도록 '보장하다'는 '책임을 지다'와 유의어입니다.",
 "expEn": "True (O): '보장하다' (to guarantee/secure) means taking responsibility to ensure something.",
-"mem": "품질과 안전을 보장하다 = 끝까지 책임을 지다!"
+"mem": "When a company guarantees (보장하다) product quality or safety, they take full responsibility for it (책임을 지다)!"
 },
 {
 "qKo": "2. 금지하다 = 못 하게 하다",
@@ -329,7 +329,7 @@
 "a": 0,
 "expKo": "정답: O — 법이나 규칙으로 어떤 행동을 '금지하다'는 '못 하게 하다'와 같은 뜻입니다.",
 "expEn": "True (O): '금지하다' (to prohibit/forbid) means to stop or not allow someone to do something.",
-"mem": "출입을 금지하다 = 들어오지 못 하게 하다! (반의어: 허용하다 = 허락하다)"
+"mem": "'금지하다' (prohibit/ban, like 주차 금지 = No Parking) literally means 'not allowing people to do it' (못 하게 하다)!"
 },
 {
 "qKo": "3. 안도하다 = 안심하다",
@@ -338,7 +338,7 @@
 "a": 0,
 "expKo": "정답: O — 걱정이나 위험에서 벗어나 마음이 놓인다는 뜻으로 '안도하다'와 '안심하다'는 유의어입니다.",
 "expEn": "True (O): Both express psychological relief after escaping worry or danger ('안도의 한숨').",
-"mem": "안도(安堵)의 한숨 = 마음이 놓여 안심(安心)하다!"
+"mem": "Both start with '안' (peaceful/safe)! Breathing a sigh of relief (안도하다) = feeling relieved and at ease in your heart (안심하다)!"
 },
 {
 "qKo": "4. 상징하다 = 대표하다",
@@ -347,7 +347,7 @@
 "a": 0,
 "expKo": "정답: O — 추상적인 개념이나 집단의 특징을 구체적인 대상으로 나타낸다는 점에서 유의어입니다.",
 "expEn": "True (O): '상징하다' (to symbolize) and '대표하다' (to represent) are synonymous in reading passages.",
-"mem": "비둘기가 평화를 상징하다 = 대표하다!"
+"mem": "A dove symbolizes (상징하다) peace = it represents/stands for (대표하다) peace!"
 }
 ],
 "2강": [
@@ -358,7 +358,7 @@
 "a": 0,
 "expKo": "정답: O — 어떤 부분을 특별히 두드러지게 힘주어 나타낸다는 뜻의 유의어입니다.",
 "expEn": "True (O): '강조하다' (to emphasize) and '부각하다' (to highlight/make stand out) are synonyms.",
-"mem": "장점을 강조하다 = 장점을 눈에 띄게 부각하다!"
+"mem": "Emphasizing a key point strongly (강조하다) = highlighting it so it stands out prominently (부각하다)!"
 },
 {
 "qKo": "2. 간접적이다 = 직접적이지 않다",
@@ -367,7 +367,7 @@
 "a": 0,
 "expKo": "정답: O — '간접적'은 '직접적'의 반의어이므로 '직접적이지 않다'와 정확한 동의 표현입니다.",
 "expEn": "True (O): Since '간접적' (indirect) is the opposite of '직접적' (direct), it equals '직접적이지 않다'.",
-"mem": "간접적 ↔ 직접적 → 그러므로 [간접적이다 = 직접적이지 않다]!"
+"mem": "Simple logic equation: '간접적이다' (indirect) = NOT (이지 않다) + direct (직접적)!"
 },
 {
 "qKo": "3. 보편적이다 = 일반적이다",
@@ -376,7 +376,7 @@
 "a": 0,
 "expKo": "정답: O — 모든 것이나 사회 전반에 두루 널리 통한다는 뜻에서 '보편적이다'와 '일반적이다'는 유의어입니다.",
 "expEn": "True (O): Both describe values or phenomena that are universal and generally applicable.",
-"mem": "누구에게나 통하는 보편적인 생각 = 일반적인 생각!"
+"mem": "Something universal that applies to everyone (보편적이다) = something general/common (일반적이다)!"
 },
 {
 "qKo": "4. 특수하다 = 특별하다",
@@ -385,7 +385,7 @@
 "a": 0,
 "expKo": "정답: O — 보통의 것과 다르게 구별된다는 뜻에서 '특수하다'와 '특별하다'는 유의어입니다. (지우개 지문: 특수한 물질)",
 "expEn": "True (O): Both share '특(特 - special)' and contrast with Q3 '보편적이다/일반적이다'.",
-"mem": "3번·4번 반의어 세트: [보편적이다 = 일반적이다] ↔ [특수하다 = 특별하다]!"
+"mem": "Both start with '특-' (special)! Also appears in the Week 5 Eraser passage: '특수한 물질' = '특별한 물질' (special substance)!"
 }
 ]
 },
@@ -398,7 +398,7 @@
 "a": 0,
 "expKo": "정답: O — 모양이나 성질이 서로 '유사하다'는 고유어 '비슷하다'와 정확한 유의어입니다.",
 "expEn": "True (O): '유사하다' is the formal Sino-Korean synonym of '비슷하다' (similar).",
-"mem": "유사한 사례 = 비슷한 사례!"
+"mem": "'유사하다' is the formal academic word for '비슷하다' (similar/alike)!"
 },
 {
 "qKo": "2. 상이하다 = 다르다",
@@ -407,7 +407,7 @@
 "a": 0,
 "expKo": "정답: O — 서로 '상이(相異)하다'는 것은 서로 '다르다'라는 뜻의 한자어입니다.",
 "expEn": "True (O): '상이하다' (to be different/disparate) maps directly to '다르다'.",
-"mem": "1번·2번 반의어 세트: [유사하다 = 비슷하다] ↔ [상이하다 = 다르다]!"
+"mem": "Watch out for Q1 vs. Q2! Q1 '유사하다 = 비슷하다' (similar) ↔ Q2 '상이하다 = 다르다' (different). Don't confuse '유사' and '상이'!"
 },
 {
 "qKo": "3. 모순되다 = 앞뒤가 맞지 않다",
@@ -416,7 +416,7 @@
 "a": 0,
 "expKo": "정답: O — 창(모)과 방패(순)처럼 말이나 행동의 '앞뒤가 서로 맞지 않다'는 것을 '모순되다'라고 합니다.",
 "expEn": "True (O): '모순되다' (contradictory) means that front and back do not match logically ('앞뒤가 맞지 않다').",
-"mem": "모순(창과 방패) = 말이나 논리의 앞뒤가 맞지 않다!"
+"mem": "'모순' comes from the Chinese tale of an unstoppable spear (모) vs. an unbreakable shield (순)—a logical contradiction where front and back don't match (앞뒤가 맞지 않다)!"
 },
 {
 "qKo": "4. 일축하다 = 받아들이지 않다",
@@ -425,7 +425,7 @@
 "a": 0,
 "expKo": "정답: O — 상대방의 요구나 소문을 단호하게 물리쳐 '일축하다'는 '받아들이지 않다(거절하다)'와 유의어입니다.",
 "expEn": "True (O): '일축하다' means to flatly dismiss or refuse to accept ('받아들이지 않다').",
-"mem": "3주차 2강 [채택하다 = 받아들이다] ↔ 6주차 1강 [일축하다 = 받아들이지 않다]!"
+"mem": "Opposite of Week 3 '채택하다 = 받아들이다' (adopt/accept)! '일축하다' means to flatly dismiss and NOT accept (받아들이지 않다)!"
 }
 ],
 "2강": [
@@ -436,7 +436,7 @@
 "a": 0,
 "expKo": "정답: O — 믿기 어렵고 이상하여 '의심스럽다'는 '수상하다'와 정확한 유의어입니다! (1주차 1강 '의심스럽다 = 신뢰하다(X)'와 비교!)",
 "expEn": "True (O): Here is the true synonym of '의심스럽다'! Compare with Week 1 Lecture 1 Q1 where '의심스럽다 = 신뢰하다' was False (X).",
-"mem": "드디어 등장한 진짜 짝꿍: [의심스럽다 = 수상하다 (O)] ≠ [신뢰하다 (X)]!"
+"mem": "The #1 Midterm Cross-Week Pair! Week 1 '의심스럽다 = 신뢰하다' was FALSE (X), whereas Week 6 '의심스럽다 = 수상하다' (doubtful = suspicious/fishy) is TRUE (O)!"
 },
 {
 "qKo": "2. 불평하다 = 투덜거리다",
@@ -445,7 +445,7 @@
 "a": 0,
 "expKo": "정답: O — 마음에 들지 않아 못마땅하게 여기는 말을 한다는 점에서 '불평하다'와 '투덜거리다'는 유의어입니다.",
 "expEn": "True (O): Both describe expressing dissatisfaction or grumbling complaints.",
-"mem": "불만스럽게 불평하다 = 작은 소리로 계속 투덜거리다!"
+"mem": "Complaining out loud when dissatisfied (불평하다) = grumbling/muttering under your breath (투덜거리다)!"
 },
 {
 "qKo": "3. 고치다 = 수리하다",
@@ -454,7 +454,7 @@
 "a": 0,
 "expKo": "정답: O — 고장 나거나 허름한 기계·물건을 '고치다'는 한자어 '수리하다'와 유의어입니다.",
 "expEn": "True (O): When fixing broken objects or facilities, '고치다' equals '수리하다'.",
-"mem": "고치다 2대 짝꿍: [법·규칙을 고치다 = 개정하다(3주차)] / [기계·물건을 고치다 = 수리하다(6주차)]!"
+"mem": "Remember the 2 meanings of '고치다' (to fix): Fix a broken machine/facility = '수리하다' (Week 6). Fix/amend a law or rule = '개정하다' (Week 3)!"
 },
 {
 "qKo": "4. 대답하다 = 답변하다",
@@ -463,7 +463,7 @@
 "a": 0,
 "expKo": "정답: O — 질문이나 부름에 응하여 말한다는 뜻에서 '대답하다'와 '답변하다'는 유의어입니다.",
 "expEn": "True (O): Both mean to reply or respond to a question.",
-"mem": "질문에 대답하다 = 공식적으로 답변하다!"
+"mem": "Both contain '답' (answer)! '대답하다' (everyday answer/reply) = '답변하다' (formal response to a question)!"
 }
 ]
 },
@@ -476,7 +476,7 @@
 "a": 0,
 "expKo": "정답: O — 남의 말이나 내용을 깨달아 알다라는 뜻에서 '이해하다'와 '알아듣다'는 유의어입니다.",
 "expEn": "True (O): '이해하다' (to understand) corresponds to the native Korean verb '알아듣다'.",
-"mem": "설명 내용을 이해하다 = 말을 알아듣다!"
+"mem": "'알아듣다' literally combines '알다' (know) + '듣다' (hear) = to hear and understand (이해하다)!"
 },
 {
 "qKo": "2. 예측하다 = 예상하다",
@@ -485,7 +485,7 @@
 "a": 0,
 "expKo": "정답: O — 앞으로 일어날 일을 미리 헤아려 짐작한다는 뜻에서 '예측하다'와 '예상하다'는 유의어입니다.",
 "expEn": "True (O): Both share '예(豫 - beforehand)' and mean forecasting or anticipating future results.",
-"mem": "미래 결과를 미리 짐작함: 예측하다 = 예상하다!"
+"mem": "Both start with '예-' (beforehand/in advance)! Predicting/forecasting the future (예측하다) = expecting/anticipating it (예상하다)!"
 },
 {
 "qKo": "3. 증가하다 = 늘어나다",
@@ -494,7 +494,7 @@
 "a": 0,
 "expKo": "정답: O — 수나 양이 많아진다는 뜻으로, 쓰기 53번 그래프 문제의 필수 핵심 유의어입니다.",
 "expEn": "True (O): Essential for Writing Q53 graphs! '증가하다' (Sino-Korean) = '늘어나다' (native Korean).",
-"mem": "그래프 필수 반의어 세트: [증가하다 = 늘어나다(↑)] ↔ [감소하다 = 줄어들다(↓)]!"
+"mem": "Must-know for Writing Q53 Graphs: Arrow UP (↑) is '증가하다 = 늘어나다' (increase). Arrow DOWN (↓) is '감소하다 = 줄어들다' (decrease)!"
 },
 {
 "qKo": "4. 배제하다 = 제외하다",
@@ -503,7 +503,7 @@
 "a": 0,
 "expKo": "정답: O — 어떤 대상이나 가능성을 받아들이지 않고 빼버린다는 뜻의 유의어입니다.",
 "expEn": "True (O): Both mean to exclude, rule out, or leave out from a group or consideration.",
-"mem": "가능성을 배제하다 = 명단에서 제외하다(빼다)!"
+"mem": "Both contain '제' (remove/exclude)! Ruling out a possibility (배제하다) = excluding/leaving it out of the list (제외하다)!"
 }
 ],
 "2강": [
@@ -514,7 +514,7 @@
 "a": 0,
 "expKo": "정답: O — 모임, 대회, 수업 활동 등에 함께 들어간다는 뜻에서 '참가하다'와 '참여하다'는 유의어입니다.",
 "expEn": "True (O): Both mean to participate or take part in an event or activity.",
-"mem": "대회에 참가하다 = 수업에 열의를 갖고 참여하다!"
+"mem": "Both start with '참-' (join/take part)! Joining a contest (참가하다) = participating in class activities (참여하다)!"
 },
 {
 "qKo": "2. 끝나다 = 마치다",
@@ -523,7 +523,7 @@
 "a": 0,
 "expKo": "정답: O — 일이나 과정이 마무리되다라는 뜻에서 '끝나다(끝내다)'와 '마치다'는 유의어입니다.",
 "expEn": "True (O): Both express finishing or concluding a task, class, or study ('공부를 마치고').",
-"mem": "수업이 끝나다 = 공부를 마치다!"
+"mem": "When class or study comes to an end (끝나다) = you finish/conclude it (마치다, like '공부를 마치고' in Writing Q51)!"
 },
 {
 "qKo": "3. 거절하다 = 사양하다",
@@ -532,7 +532,7 @@
 "a": 0,
 "expKo": "정답: O — 상대방의 제의나 도움을 받아들이지 않는다는 뜻에서 '거절하다'와 '사양하다'는 유의어입니다.",
 "expEn": "True (O): Both mean turning down or declining an offer or request.",
-"mem": "부탁을 거절하다 = 겸손하게 제안을 사양하다!"
+"mem": "Turning down a request (거절하다) = politely declining an offer/favor (사양하다)!"
 },
 {
 "qKo": "4. 관리하다 = 감독하다",
@@ -541,7 +541,7 @@
 "a": 0,
 "expKo": "정답: O — 일이나 시설, 사람들을 맡아보며 지휘·통제한다는 뜻에서 유의어입니다.",
 "expEn": "True (O): '관리하다' (to manage/administer) and '감독하다' (to supervise/oversee) are synonyms.",
-"mem": "시설과 인원을 관리하다 = 현장을 철저히 감독하다!"
+"mem": "Managing a facility or team (관리하다) = supervising/overseeing the site like a director/coach (감독하다)!"
 }
 ]
 },
@@ -554,7 +554,7 @@
 "a": 0,
 "expKo": "정답: O — 여러 사람에게 공식적으로 널리 '공지하다'는 고유어 '알리다'와 정확한 유의어입니다.",
 "expEn": "True (O): Verified from Week 8 Lecture 1 Official Quiz: '공지하다' (to announce/post a notice) = '알리다' (to inform).",
-"mem": "공지(公知) 사항 = 모두에게 널리 알리는 내용!"
+"mem": "Think of the '공지사항' (Notice/Announcement) board on your LMS: '공지하다' (announce publicly) = '알리다' (inform everyone)!"
 },
 {
 "qKo": "2. 책임지다 = 맡다",
@@ -563,7 +563,7 @@
 "a": 0,
 "expKo": "정답: O — 어떤 일이나 임무를 자기 일로 받아 끝까지 '책임지다'는 '맡다'와 유의어입니다.",
 "expEn": "True (O): Verified from Week 8 Lecture 1 Official Quiz: '책임지다' (take responsibility) = '맡다' (take charge of).",
-"mem": "중요한 역할을 책임지다 = 임무를 맡다!"
+"mem": "Taking responsibility for a role (책임지다) = taking charge of the duty (맡다)! (Compare Week 5: 보장하다 = 책임을 지다)."
 },
 {
 "qKo": "3. 알맞다 = 적당하다",
@@ -572,7 +572,7 @@
 "a": 0,
 "expKo": "정답: O — 기준이나 정도에 넘치거나 모자라지 않고 꼭 맞는다는 뜻에서 '알맞다'와 '적당하다'는 유의어입니다.",
 "expEn": "True (O): Verified from Week 8 Lecture 1 Official Quiz: '알맞다' (fitting/suitable) = '적당하다' (appropriate).",
-"mem": "가장 알맞은 것을 고르시오 = 가장 적당한(적절한) 것을 고르시오!"
+"mem": "Every TOPIK question asks '가장 알맞은 것을 고르십시오' (Choose the most suitable one) = '적당하다' (appropriate/fitting)!"
 },
 {
 "qKo": "4. 가깝다 = 인접하다",
@@ -581,7 +581,7 @@
 "a": 0,
 "expKo": "정답: O — 거리가 멀지 않고 바로 옆에 붙어 있거나 이웃해 있다는 한자어 '인접하다'는 고유어 '가깝다'와 유의어입니다.",
 "expEn": "True (O): Verified from Week 8 Lecture 1 Official Quiz: '가깝다' (close/near) = '인접하다' (adjacent/neighboring).",
-"mem": "지하철역과 인접한 아파트 = 지하철역과 가까운 아파트!"
+"mem": "'인접하다' means neighboring/adjacent (touching right next door), which equals '가깝다' (close/near)!"
 }
 ],
 "2강": [
@@ -592,7 +592,7 @@
 "a": 0,
 "expKo": "정답: O — 교수님 웹소설 강의에서 강조하신 '새로운 문화 콘텐츠들이 등장하고 있다'의 '등장하다'는 '나오다'와 같은 뜻입니다.",
 "expEn": "True (O): Taught by Professor 오현진 in the Web Novel lecture: '등장하다' = '나오다' ('등장인물' = 나오는 사람).",
-"mem": "등장하다 = 세상에 새로 나오다! 등장인물 = 소설·드라마에 나오는 사람!"
+"mem": "In the Web Novel lecture, '등장인물' means the characters who appear (나오는 사람) in a story. So '등장하다' = '나오다' (appear/come out)!"
 },
 {
 "qKo": "2. 피로하다 = 피곤하다 (강의 핵심 유의어)",
@@ -601,25 +601,79 @@
 "a": 0,
 "expKo": "정답: O — '컴퓨터 화면에서 읽어도 눈이 피로하지 않도록'에서 '피로하다'는 '피곤하다'와 유의어입니다.",
 "expEn": "True (O): Emphasized in lecture: '눈이 피로하지 않도록' = '눈이 피곤하지 않게'.",
-"mem": "눈의 피로 = 눈이 피곤함!"
+"mem": "From the Web Novel passage: '눈이 피로하지 않도록' (so the eyes don't get fatigued) = '피곤하다' (tired)!"
 },
 {
-"qKo": "3. 지지부진하다 = 잘 진행되지 않다 (강의 신문기사 핵심)",
+"qKo": "3. 초창기 = 처음 시기 (강의 핵심 유의어)",
+"qEn": "초창기 (early days / initial period) = 처음 시기 (beginning period)",
+"o": ["O (맞다)", "X (틀리다)"],
+"a": 0,
+"expKo": "정답: O — 이모티콘 지문에서 '초창기'는 어떤 것이 처음 시작된 '처음 시기'와 유의어입니다.",
+"expEn": "True (O): Emphasized in the Emoticon lecture: '초창기' = '처음 시기'.",
+"mem": "From the Emoticon passage: '초' means beginning/first (처음) and '기' means period (시기) → '초창기' = '처음 시기' (early days)!"
+},
+{
+"qKo": "4. 유발하다 = 일으키다 (강의 핵심 유의어)",
+"qEn": "유발하다 (to induce / cause) = 일으키다 (to cause / give rise to)",
+"o": ["O (맞다)", "X (틀리다)"],
+"a": 0,
+"expKo": "정답: O — '웃음을 유발하기도 한다'에서 '유발하다'는 어떤 현상이나 감정을 '일으키다'와 유의어입니다.",
+"expEn": "True (O): Emphasized in the Emoticon lecture: '웃음을 유발하다' = '웃음을 일으키다'.",
+"mem": "From the Emoticon passage: '웃음을 유발하다' (induce/trigger laughter) = '웃음을 일으키다' (cause laughter)!"
+},
+{
+"qKo": "5. 진화하다 = 발전하다 (강의 핵심 유의어)",
+"qEn": "진화하다 (to evolve) = 발전하다 (to develop / advance)",
+"o": ["O (맞다)", "X (틀리다)"],
+"a": 0,
+"expKo": "정답: O — '끊임없이 진화를 계속하고 있다'에서 '진화하다'는 더 나은 단계로 '발전하다'와 유의어입니다.",
+"expEn": "True (O): Emphasized in the Emoticon lecture: '진화하다' = '발전하다'.",
+"mem": "When emoticons evolve (진화하다) from simple text symbols into animated characters, they develop/advance (발전하다)!"
+},
+{
+"qKo": "6. 지지부진하다 = 잘 진행되지 않다 (신문기사 핵심)",
 "qEn": "지지부진하다 (to be sluggish / make slow progress) = 잘 진행되지 않다 (to not progress well)",
 "o": ["O (맞다)", "X (틀리다)"],
 "a": 0,
 "expKo": "정답: O — 신문 기사 제목 '지지부진한 태풍 피해 복구'에서 '지지부진하다'는 일이 매우 더디고 '잘 진행되지 않다'라는 뜻입니다.",
-"expEn": "True (O): Headline key pair: '지지부진한 복구' = '복구가 잘 진행되지 않아', and '속 터지는 주민들' = '주민들이 답답해하고 있다'.",
-"mem": "지지부진하다 = 진행이 느리고 잘 안 되다! 속 터지다 = 답답해하다!"
+"expEn": "True (O): Headline key pair: '지지부진한 복구' = '복구가 잘 진행되지 않아'.",
+"mem": "Newspaper Headline #1: '지지부진한 복구' (sluggish recovery dragging its feet) = '복구가 잘 진행되지 않다' (recovery is not progressing well)!"
 },
 {
-"qKo": "4. 미지수이다 = 알 수 없다 (강의 신문기사 핵심)",
+"qKo": "7. 속(이) 터지다 = 답답해하다 (신문기사 핵심)",
+"qEn": "속이 터지다 (to burst with frustration) = 답답해하다 (to feel frustrated / suffocated)",
+"o": ["O (맞다)", "X (틀리다)"],
+"a": 0,
+"expKo": "정답: O — 신문 기사 제목 '속 터지는 인주 주민들'은 복구가 늦어져 주민들이 매우 '답답해하고 있다'라는 뜻입니다.",
+"expEn": "True (O): Headline key pair: '속 터지는 인주 주민들' = '인주 주민들이 답답해하고 있다'.",
+"mem": "'속이 터지다' literally means your 'insides are bursting' because recovery is so slow = feeling super frustrated (답답해하다)!"
+},
+{
+"qKo": "8. 미지수이다 = 알 수 없다 (신문기사 핵심)",
 "qEn": "미지수이다 (to be an unknown quantity / uncertain) = 알 수 없다 (cannot be known / uncertain)",
 "o": ["O (맞다)", "X (틀리다)"],
 "a": 0,
 "expKo": "정답: O — 교수님 반도체 공장 기사 강의에서 수학의 모르는 수 '미지수(x)'는 한마디로 '앞으로 어떻게 될지 알 수 없다'라는 뜻이라고 강조하셨습니다!",
 "expEn": "True (O): Emphasized by Professor 오현진 in the Semiconductor Supply headline: '안정적으로 공급하는 것은 미지수이다' = '안정적으로 줄 수 있을지 알 수 없다'.",
-"mem": "수학의 미지수(x) = 모르는 수 = 앞으로 될지 안 될지 '알 수 없다'!"
+"mem": "Professor's #1 Headline Tip: In math, '미지수' is the unknown variable 'x'. In a headline, '미지수이다' ALWAYS means '알 수 없다' (cannot be known yet)!"
+},
+{
+"qKo": "9. 큰 폭으로 하락 = 크게 떨어지다 (신문기사 핵심)",
+"qEn": "큰 폭으로 하락 (fall by a large margin) = 크게 떨어지다 (drop sharply)",
+"o": ["O (맞다)", "X (틀리다)"],
+"a": 0,
+"expKo": "정답: O — 신문 기사 제목 '기름값 큰 폭으로 하락'은 기름값이 '크게 떨어졌다'는 뜻입니다.",
+"expEn": "True (O): '큰 폭으로' = '크게' (by a large margin), '하락' = '떨어지다' (fall/drop).",
+"mem": "'큰 폭으로' = by a wide margin/sharply (크게) + '하락' = drop/fall (떨어지다). Opposite: '큰 폭으로 상승' = rise sharply (크게 오르다)!"
+},
+{
+"qKo": "10. 활기를 띠다 = 분위기가 좋아지다 (신문기사 핵심)",
+"qEn": "활기를 띠다 (to take on vitality / boom) = 분위기가 좋아지다 (atmosphere improves / becomes lively)",
+"o": ["O (맞다)", "X (틀리다)"],
+"a": 0,
+"expKo": "정답: O — '활기 띠는 제조업체'는 기름값 하락 덕분에 물건을 만드는 회사의 '분위기가 좋아지고 있다(활발해지다)'는 뜻입니다.",
+"expEn": "True (O): '활기를 띠다' means to become lively, vibrant, and booming ('분위기가 좋아지다').",
+"mem": "'활기' means vitality/lively energy. When manufacturing companies '활기를 띠다', their business atmosphere becomes lively and booming (분위기가 좋아지다)!"
 }
 ]
 }
