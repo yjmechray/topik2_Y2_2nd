@@ -48,7 +48,7 @@
 ],
 "a": 0,
 "expKo": "정답: ① — 해결하기 힘든 일로 머리가 복잡하고 괴로울 때 '골치(머리)가 아프다'를 씁니다.",
-"expEn": "'골치(가) 아프다' means to have a headache or feel mental distress over a troublesome problem. Compare with ② '콧대가 높다' (ar arrogant) and ③ '눈치가 빠르다' (quick to read the room).",
+"expEn": "'골치(가) 아프다' means to have a headache or feel mental distress over a troublesome problem. Compare with ② '콧대가 높다' (arrogant) and ③ '눈치가 빠르다' (quick to read the room).",
 "mem": "골치 아프다(문제 때문에 머리 아픔) | 콧대 높다(잘난 척·거만함) | 눈치 빠르다(분위기 파악 빠름)",
 "vocabList": [
 "골치가 아프다: to have a headache over a problem",
@@ -463,22 +463,23 @@
 "o": [
 "① 손을 뗀다 (손을 떼다)",
 "② 이를 간다 (이를 갈다)",
-"③ 발을 뺀다 (발을 빼다)",
+"③ 담을 쌓는다 (담을 쌓다)",
 "④ 열을 올린다 (열을 올리다)"
 ],
 "oEn": [
 "① to take one's hands off / quit doing a task",
 "② to grind one's teeth in anger or fierce determination",
-"③ to pull one's foot out / withdraw from involvement",
+"③ to build a wall / completely cut off interest or contact",
 "④ Correct: to raise heat / get passionately absorbed and enthusiastic in doing something"
 ],
 "a": 3,
-"expKo": "정답: ④ — 어떤 일에 몹시 열중하거나 힘을 쏟을 때 '열을 올리다(열을 올린다)'를 사용합니다. 반대로 일을 그만둘 때는 '손을 떼다(①)'를 씁니다.",
-"expEn": "Professor 오현진 explained the Week 7 Lecture 1 idioms: ① 손을 떼다 (quit/stop doing), ② 이를 갈다 (grind teeth in anger/revenge), ④ 열을 올리다 (get heated up / enthusiastically absorbed in).",
-"mem": "적극적으로 열중하다 = 열을 올리다! | 하던 일을 그만두다 = 손을 떼다!",
+"expKo": "정답: ④ — 어떤 일에 몹시 열중하거나 힘을 쏟을 때 '열을 올리다(열을 올린다)'를 사용합니다. 반대로 일을 그만둘 때는 '손을 떼다(①)', 관심을 끊을 때는 '담을 쌓다(③)'를 씁니다.",
+"expEn": "Verified exact 4 choices from the 7주차 1강 slide: ① 손을 뗀다 (quit), ② 이를 간다 (grind teeth), ③ 담을 쌓는다 (cut off interest), ④ 열을 올린다 (get heated up / enthusiastically absorbed in).",
+"mem": "적극적으로 열중하다 = ④ 열을 올리다! | 그만두다 = ① 손을 떼다 | 관심을 끊다 = ③ 담을 쌓다!",
 "vocabList": [
 "손을 떼다: to quit / withdraw from a task",
 "이를 갈다: to grind one's teeth (anger/determination)",
+"담을 쌓다: to cut off contact / interest",
 "열을 올리다: to get enthusiastic / deeply absorbed in"
 ]
 }
