@@ -422,7 +422,7 @@
 ]
 },
 {
-"passageKo": "[읽기 7번 공익 광고]\n"엄마, 잘 다녀왔습니다." 참 반가운 한마디!\n우리 아이 학교 다니는 길을 지켜 주세요.\n학교 앞 천천히! 아이들이 있는지 한 번 더 살피세요.",
+"passageKo": "[읽기 7번 공익 광고]\n'엄마, 잘 다녀왔습니다.' 참 반가운 한마디!\n우리 아이 학교 다니는 길을 지켜 주세요.\n학교 앞 천천히! 아이들이 있는지 한 번 더 살피세요.",
 "passageEn": "[Reading Q7 Public Ad]\n'Mom, I'm home safely!' What a welcoming phrase!\nPlease protect the road our children take to school.\nSlowly in front of schools! Check once more if there are children.",
 "qKo": "3. 다음은 무엇에 대한 글인지 고르십시오.",
 "qEn": "Choose what the following text is about.",
@@ -658,30 +658,30 @@
 ]
 },
 {
-"passageKo": "[신문 기사 제목 2]\n반도체 공장 신설, 인력 안정적으로 공급하는 것은 미지수",
-"passageEn": "[Newspaper Headline 2]\nNew Semiconductor Factory Construction: Stable Supply of Manpower Remains an Unknown Quantity",
+"passageKo": "[신문 기사 제목 2]\n제2 공장 가동, 반도체 안정적 공급은 미지수",
+"passageEn": "[Newspaper Headline 2]\nPlant 2 Starts Operation ('가동'), Stable Supply of Semiconductors Remains an Unknown Quantity ('미지수')",
 "qKo": "2. 다음 신문 기사의 제목을 가장 잘 설명한 것을 고르십시오.",
-"qEn": "Choose the best explanation of the newspaper headline.",
+"qEn": "Choose the best explanation of the newspaper headline (Professor's Must-Memorize Question!).",
 "o": [
-"① 반도체 공장이 새로 생기면서 일할 사람을 구하기가 쉬워졌다.",
-"② 인력이 부족하여 반도체 공장을 짓는 계획이 취소되었다.",
-"③ 반도체 공장을 새로 짓지만 인력을 안정적으로 줄 수 있을지는 알 수 없다.",
-"④ 반도체 공장에 필요한 인력을 외국에서 데려오기로 결정했다."
+"① 제2 공장이 가동을 멈추면서 반도체 공급이 부족해졌다.",
+"② 제2 공장이 반도체 생산을 시작했지만 공급이 안정될지는 불확실하다.",
+"③ 반도체 공급이 안정되면서 제2 공장을 새로 짓기로 결정했다.",
+"④ 제2 공장에서 반도체를 안정적으로 공급하여 수출이 크게 늘었다."
 ],
 "oEn": [
-"① Opposite of '미지수'.",
-"② False: The factory is being built, not canceled.",
-"③ Correct! '공급하다' = '주다', '미지수이다' = '알 수 없다'!",
-"④ Unmentioned."
+"① False: '가동' means starting operation/production, not stopping.",
+"② Correct! '가동' = '생산을 시작했지만' (started production), '미지수' = '불확실하다 / 알 수 없다' (uncertain/unknown)!",
+"③ Reversed.",
+"④ Opposite of '미지수'."
 ],
-"a": 2,
-"expKo": "정답: ③ — 교수님 강조 1순위! 수학의 모르는 수 '미지수(x)'는 신문 기사에서 무조건 '앞으로 어떻게 될지 알 수 없다'로 바뀝니다!",
-"expEn": "Professor 오현진 emphasized: '미지수이다' (is an unknown quantity) ALWAYS maps to '알 수 없다' (cannot be known / is uncertain) in the answer choices!",
-"mem": "Headline Formula #2: In math, '미지수' is the unknown variable 'x'. Whenever a headline ends with '미지수', immediately pick the choice ending with '알 수 없다' (cannot be known yet)!",
+"a": 1,
+"expKo": "정답: ② — 교수님 강조 1순위! '가동'은 공장이 움직여 '생산을 시작하다'라는 뜻이고, 수학의 모르는 수 '미지수(x)'는 '불확실하다(확실하지 않다 / 알 수 없다)'로 바뀝니다!",
+"expEn": "Professor 오현진 explicitly said in the lecture transcript: '제2 공장이 반도체 생산을 시작했지만(가동이니까 생산하는 거죠) 공급이 안정될지는 불확실하다(확실하지 않다—왜냐면 미지수라고 했잖아요). 반드시 다 외워 두세요!'",
+"mem": "Headline Formula #2: '가동' = factory starts production ('생산을 시작하다') + '미지수' = unknown variable 'x' = '불확실하다 / 알 수 없다' (uncertain/cannot be known)!",
 "vocabList": [
-"신설: new establishment / construction",
-"공급하다: to supply (= 주다)",
-"미지수이다: to be uncertain / unknown (= 알 수 없다)"
+"가동하다: to operate / start production (= 생산을 시작하다)",
+"공급 ↔ 수요: supply ↔ demand",
+"미지수이다: to be uncertain / unknown (= 불확실하다 / 알 수 없다)"
 ]
 },
 {
@@ -709,6 +709,595 @@
 "큰 폭으로 하락: sharp drop (= 크게 떨어지다)",
 "활기를 띠다: to take on vitality (= 분위기가 좋아지다)",
 "제조업체: manufacturing company (= 물건을 만드는 회사)"
+]
+}
+]
+},
+"9주차 (제64회)": {
+"1강": [
+{
+"passageKo": "[제64회 읽기 10번 도표 — 고등학생 희망 직업 어떻게 달라졌을까?]\n• 조사 대상: 고등학생 10,000명\n• 2008년 순위: 1위 교사, 2위 회사원, 3위 공무원, 4위 간호사, 5위 개인 사업\n• 2018년 순위: 1위 교사, 2위 간호사, 3위 건축가, 4위 공무원, 5위 군인",
+"passageEn": "[64th TOPIK II Reading Q10 Chart — How Have High School Students' Desired Jobs Changed?]\n• Target: 10,000 high school students\n• 2008 Ranking: 1st Teacher, 2nd Office Worker, 3rd Civil Servant, 4th Nurse, 5th Personal Business\n• 2018 Ranking: 1st Teacher, 2nd Nurse, 3rd Architect, 4th Civil Servant, 5th Soldier",
+"qKo": "1. 다음 그래프의 내용과 같은 것을 고르십시오.",
+"qEn": "Choose the statement that matches the chart.",
+"o": [
+"① 1위 순위의 직업이 바뀌었다.",
+"② 공무원은 순위의 변화가 없었다.",
+"③ 군인이 새롭게 5위 안에 들었다.",
+"④ 간호사는 4위로 순위가 떨어졌다."
+],
+"oEn": [
+"① False: 1st place ('교사' - teacher) stayed the same in both 2008 and 2018.",
+"② False: Civil servant ('공무원') dropped from 3rd to 4th place.",
+"③ Correct! Soldier ('군인') newly entered the top 5 (at 5th place in 2018).",
+"④ False: Nurse ('간호사') rose from 4th place to 2nd place."
+],
+"a": 2,
+"expKo": "정답: ③ — 2008년 5위는 '개인 사업'이었으나 2018년 5위에 '군인'이 새로 등장했으므로 '③ 군인이 새롭게 5위 안에 들었다'가 일치합니다.",
+"expEn": "In 2018, '군인' (soldier) newly entered the top 5 at 5th place, replacing '개인 사업'.",
+"mem": "Check 5th place in 2018: '군인' (soldier) newly entered the Top 5 ('새롭게 5위 안에 들었다')! ('교사' stayed #1, and '간호사' rose from 4th to 2nd).",
+"vocabList": [
+"희망 직업: desired job",
+"순위: ranking",
+"새롭게: newly",
+"군인 / 건축가 / 간호사: soldier / architect / nurse"
+]
+},
+{
+"passageKo": "[제64회 읽기 16번 빈칸]\n상담을 통해 책을 추천해 주는 서점이 있어 화제가 되고 있다. 서점 주인은 손님과 오랜 시간 대화를 나눈 후 ( 빈칸 ) 책을 추천해 준다. 상처 받은 사람에게는 위로가 되는 책을, 자신감이 부족한 사람에게는 용기를 주는 책을 추천하는 방식으로 서비스를 제공한다.",
+"passageEn": "[64th TOPIK II Reading Q16 Blank]\nA bookstore that recommends books through counseling is becoming a hot topic. After having a long conversation with a customer, the bookstore owner recommends books that ( Blank ). They provide the service by recommending comforting books to hurt people and encouraging books to those lacking confidence.",
+"qKo": "2. ( 빈칸 )에 들어갈 내용으로 가장 알맞은 것을 고르십시오.",
+"qEn": "Choose the most appropriate expression for the blank.",
+"o": [
+"① 내용이 재미있는",
+"② 지식을 전달하는",
+"③ 사람들이 많이 읽는",
+"④ 손님의 상황에 맞는"
+],
+"oEn": [
+"① 'whose content is fun'",
+"② 'that convey knowledge'",
+"③ 'that people read a lot (bestsellers)'",
+"④ Correct! 'suiting the customer's situation' (comfort for the hurt, courage for the unconfident)."
+],
+"a": 3,
+"expKo": "정답: ④ — 상처 받은 사람에게는 위로를, 자신감이 부족한 사람에게는 용기를 주는 책을 추천하므로 '④ 손님의 상황에 맞는'이 정답입니다.",
+"expEn": "Recommending comforting books to hurt people and courage-giving books to those lacking confidence means prescribing books tailored to the customer's situation ('손님의 상황에 맞는').",
+"mem": "Hurt person → comfort book; Unconfident person → courage book = recommending books tailored to the customer's situation ('④ 손님의 상황에 맞는')!",
+"vocabList": [
+"상담: counseling / consultation",
+"화제가 되다: to become a hot topic",
+"위로가 되다: to be comforting",
+"상황에 맞다: to suit the situation"
+]
+},
+{
+"passageKo": "[제64회 읽기 21번 관용어 문제]\n내비게이션은 목적지까지 길을 안내해 주는 기기이다. 내비게이션이 없이 낯선 곳에 갔다가 길을 못 찾아 ( 21번 빈칸 ) 본 적이 있는 사람이라면 내비게이션이 얼마나 편리한지 느꼈을 것이다. 그러나 우리의 뇌는 스스로 정보를 찾았을 때 그 정보를 오래 기억하는 특성이 있다.",
+"passageEn": "[64th TOPIK II Reading Q21 Idiom]\nA navigation system is a device that guides you to your destination. Anyone who has ever gone to an unfamiliar place without navigation and broken into a cold sweat unable to find the way would have felt how convenient navigation is.",
+"qKo": "3. ( 21번 빈칸 )에 들어갈 알맞은 관용어를 고르십시오.",
+"qEn": "Choose the appropriate idiom for the blank.",
+"o": [
+"① 앞뒤를 재어 (앞뒤를 재다)",
+"② 진땀을 흘려 (진땀을 흘리다)",
+"③ 발목을 잡아 (발목을 잡다)",
+"④ 귀를 기울여 (귀를 기울이다)"
+],
+"oEn": [
+"① '앞뒤를 재다' = to weigh pros and cons",
+"② Correct! '진땀을 흘리다' = to sweat bullets / break into a cold sweat in a difficult spot",
+"③ '발목을 잡다' = to hold someone back / hinder",
+"④ '귀를 기울이다' = to listen attentively"
+],
+"a": 1,
+"expKo": "정답: ② — 낯선 곳에서 길을 찾지 못해 매우 당황하고 고생하며 애를 먹었을 때 '진땀을 흘리다(진땀을 흘려)'를 씁니다.",
+"expEn": "'진땀을 흘리다' means to break into a cold sweat or struggle hard in a nerve-wracking situation (such as being lost in an unfamiliar place).",
+"mem": "When you get lost in an unfamiliar place ('낯선 곳에서 길을 못 찾아'), you panic and sweat bullets ('② 진땀을 흘려')!",
+"vocabList": [
+"진땀을 흘리다: to break into a cold sweat / struggle hard",
+"앞뒤를 재다: to weigh pros and cons",
+"발목을 잡다: to hold back / hinder",
+"귀를 기울이다: to listen closely"
+]
+},
+{
+"passageKo": "[제64회 읽기 25~27번 신문 기사 제목]\n25. '관광버스 추락, 안전벨트로 승객 전원 목숨 건져'\n26. '침묵 깬 김민수 의원, 대통령 선거 출마설 부인'\n27. '민간 우주선 무사 귀환, 우주여행 시대 성큼'",
+"passageEn": "[64th TOPIK II Reading Q25-27 Newspaper Headlines]\n25. 'Tour Bus Plunges, All Passengers Save Their Lives Thanks to Seatbelts'\n26. 'Rep. Kim Min-su Breaks Silence, Denies Presidential Election Run Rumors'\n27. 'Private Spacecraft Returns Safely, Space Travel Era One Big Step Closer'",
+"qKo": "4. 위 26번 신문 기사 제목('침묵 깬 김민수 의원, 대통령 선거 출마설 부인')을 가장 잘 설명한 것을 고르십시오.",
+"qEn": "Choose the best explanation of Headline 26.",
+"o": [
+"① 김 의원이 대통령 선거에 나가느냐는 질문에 계속 답하지 않고 있다.",
+"② 김 의원이 마음을 바꾸어 대통령 선거에 나가겠다고 최종 발표하였다.",
+"③ 김 의원이 대통령 선거에 나간다고 선언하자 사람들이 열렬히 환영했다.",
+"④ 김 의원이 대통령 선거에 나간다는 것이 사실이 아니라고 입장을 밝혔다."
+],
+"oEn": [
+"① False: He broke his silence ('침묵 깬').",
+"② Opposite of '부인' (denial).",
+"③ Opposite of '부인' (denial).",
+"④ Correct! '출마설 부인' = stated that the rumor of running for president is NOT true ('사실이 아니라고 입장을 밝혔다')."
+],
+"a": 3,
+"expKo": "정답: ④ — '침묵을 깨다'는 그동안 말을 하지 않다가 입장을 밝힌 것이고, '출마설 부인'은 선거에 나간다는 소문(설)이 사실이 아니라고 부정('부인하다')한 것입니다. (참고: 25번 '전원 목숨 건져' = 모두 살았다 / 27번 '성큼' = 가능성이 더욱 높아졌다)",
+"expEn": "'부인하다' (to deny) means stating that a rumor ('출마설') is not true ('사실이 아니라고 입장을 밝혔다'). Also remember Q25 '전원 목숨 건져' = everyone survived ('모두 살았다') and Q27 '성큼' = came much closer ('가능성이 더욱 높아졌다')!",
+"mem": "3 Headline Keywords in 64th TOPIK: 1) '전원 목숨 건져' = everyone survived ('모두 살았다'), 2) '출마설 부인' = denied the rumor ('사실이 아니라고 밝혔다'), 3) '우주여행 시대 성큼' = came a big step closer ('가능성이 더욱 높아졌다')!",
+"vocabList": [
+"전원 목숨을 건지다: all passengers survive",
+"침묵을 깨다: to break silence",
+"출마설을 부인하다: to deny rumors of running for office",
+"무사 귀환 / 성큼: safe return / a big step closer"
+]
+}
+],
+"2강": [
+{
+"passageKo": "[제64회 읽기 28번 빈칸]\n새해에 세운 목표를 효과적으로 이루려면 한 주 단위로 계획을 세우는 것이 좋다. 주마다 계획을 세우면 ( 빈칸 ) 때문이다. '건강한 식습관 기르기'라는 새해 결심이 한 주 단위가 되면 '라면 안 먹기', '채소 챙겨 먹기'처럼 구체적인 계획으로 바뀐다. 이렇게 하면 작은 목표를 달성하는 횟수가 늘어 한 해의 목표에 가까워진다.",
+"passageEn": "[64th TOPIK II Reading Q28 Blank]\nTo effectively achieve a goal set in the New Year, it is good to make plans on a weekly basis. This is because if you make plans every week, ( Blank ). When a New Year's resolution like 'developing healthy eating habits' becomes a weekly unit, it turns into concrete plans like 'not eating instant noodles' and 'making sure to eat vegetables'.",
+"qKo": "1. ( 빈칸 )에 들어갈 내용으로 가장 알맞은 것을 고르십시오.",
+"qEn": "Choose the most appropriate expression for the blank.",
+"o": [
+"① 한 해의 목표를 확인하기",
+"② 계획을 세우는 데 집중하기",
+"③ 자신의 능력을 보여 줄 수 있기",
+"④ 실천 가능한 계획을 세울 수 있기"
+],
+"oEn": [
+"① 'confirming the year's goal'",
+"② 'focusing on making plans'",
+"③ 'being able to show off one's ability'",
+"④ Correct! 'being able to set practicable/actionable plans' (like 'not eating ramen' this week)."
+],
+"a": 3,
+"expKo": "정답: ④ — '라면 안 먹기', '채소 챙겨 먹기'처럼 구체적이고 당장 행동으로 옮길 수 있는('실천 가능한') 계획을 세울 수 있기 때문입니다.",
+"expEn": "Breaking a big annual goal into weekly plans turns it into concrete, actionable steps ('실천 가능한 계획' = practicable/doable plans, just like Week 1's '실현 가능한 대책'!).",
+"mem": "Notice the parallel with Week 1 ('실현 가능한 대책')! Turning a vague New Year's resolution into weekly goals lets you set concrete, doable plans ('④ 실천 가능한 계획을 세울 수 있기')!",
+"vocabList": [
+"단위: unit (한 주 단위: weekly basis)",
+"새해 결심: New Year's resolution",
+"실천 가능한 계획: practicable / actionable plan",
+"달성하다: to achieve (a goal)"
+]
+},
+{
+"passageKo": "[제64회 읽기 29번 빈칸 — 무지개 굴절]\n무지개는 빛이 공기 중의 물방울을 통과할 때 굴절되어 나타나는 현상이다. 그래서 비가 그친 직후 해가 뜰 때 무지개가 잘 생긴다. 이때 ( 빈칸 ) 않으면 무지개가 만들어지기 어렵다. 공기에 먼지 등의 오염 물질이 섞이면 물방울들이 먼지 주위로 모여 빛이 통과하는 것을 막기 때문이다.",
+"passageEn": "[64th TOPIK II Reading Q29 Blank — Rainbow Refraction]\nA rainbow is a phenomenon that appears when light is refracted as it passes through water droplets in the air. Therefore, rainbows form well when the sun comes out right after it stops raining. At this time, if ( Blank ) not, it is difficult for a rainbow to form. This is because if pollutants such as dust are mixed in the air, water droplets gather around the dust and block light from passing through.",
+"qKo": "2. ( 빈칸 )에 들어갈 내용으로 가장 알맞은 것을 고르십시오.",
+"qEn": "Choose the most appropriate expression for the blank.",
+"o": [
+"① 해가 뜨지",
+"② 비가 그치지",
+"③ 빛이 약하지",
+"④ 공기가 깨끗하지"
+],
+"oEn": [
+"① 'the sun does not rise'",
+"② 'the rain does not stop'",
+"③ 'the light is not weak'",
+"④ Correct! 'if the air is not clean' (+ 않으면) — explained by the next sentence ('공기에 먼지 등의 오염 물질이 섞이면...')."
+],
+"a": 3,
+"expKo": "정답: ④ — 바로 뒷문장에서 '공기에 먼지 등의 오염 물질이 섞이면 빛이 통과하는 것을 막는다'고 이유를 설명하므로, '④ 공기가 깨끗하지 (않으면)'이 정답입니다.",
+"expEn": "Look at the sentence right after the blank: if dust or pollutants ('먼지 등의 오염 물질') mix into the air, light cannot pass through. Therefore, if the air is not clean ('④ 공기가 깨끗하지 않으면'), a rainbow cannot form!",
+"mem": "Always read the '기 때문이다' sentence right after the blank! Since dust and pollutants ('먼지 등의 오염 물질') block the light, a rainbow won't form if the air is not clean ('④ 공기가 깨끗하지 않으면')!",
+"vocabList": [
+"굴절되다: to be refracted",
+"오염 물질: pollutants",
+"물방울: water droplet",
+"통과하다: to pass through"
+]
+}
+]
+},
+"10주차 (제83회)": {
+"1강": [
+{
+"passageKo": "[제83회 읽기 16~17번 빈칸]\n16. 필름형 스피커는 종이보다 얇고 투명해서 ( 16번 빈칸 ) 사용할 수 있다. 이 스피커를 활용하면 컴퓨터 화면이나 액자뿐만 아니라 벽이나 천장에서도 소리가 나오게 할 수 있다.\n17. 여권은 국제 신분증으로 통할 뿐만 아니라 한 국가의 정체성과 문화를 드러내기도 한다. 그래서 많은 국가들은 여권의 ( 17번 빈칸 ) 결정한다. 여권 표지의 색깔을 국가의 상징색으로 표현하거나 국가를 상징하는 문양을 넣기도 한다.",
+"passageEn": "[83rd TOPIK II Reading Q16-17 Blanks]\n16. Film-type speakers are thinner than paper and transparent, so they can be used by ( Blank 16 ). Using this speaker, sound can come out from computer screens, picture frames, walls, or ceilings.\n17. A passport not only serves as an international ID but also reveals a nation's identity and culture. Therefore, many countries decide the passport's ( Blank 17 ). They express the cover color in the national symbolic color or insert national emblems.",
+"qKo": "1. 위 16번과 17번 빈칸에 들어갈 말로 가장 알맞은 짝을 고르십시오.",
+"qEn": "Choose the correct pair for Blank 16 and Blank 17.",
+"o": [
+"① 16번: 소리 크기를 높여 / 17번: 두께를 자율적으로",
+"② 16번: 단독 형태로 분리해 / 17번: 이용 범위를 확실히",
+"③ 16번: 다양한 물건에 붙여 / 17번: 디자인을 신중하게",
+"④ 16번: 특수한 영역을 제한해 / 17번: 발급 방식을 구체적으로"
+],
+"oEn": [
+"① Q16: raising volume / Q17: thickness autonomously",
+"② Q16: separating into standalone form / Q17: usage scope definitely",
+"③ Correct! Q16: '다양한 물건에 붙여' (attaching to various objects) / Q17: '디자인을 신중하게' (design carefully)",
+"④ Q16: restricting special areas / Q17: issuance method concretely"
+],
+"a": 2,
+"expKo": "정답: ③ — 16번은 화면, 액자, 벽, 천장, 옷, 커튼 등 '다양한 물건에 붙여' 사용할 수 있다는 내용이고, 17번은 표지 색깔과 상징 문양, 문화재 그림 등 여권의 '디자인을 신중하게' 결정한다는 내용입니다.",
+"expEn": "In Q16, putting film speakers on screens, frames, walls, and curtains = '다양한 물건에 붙여' (attaching to various objects). In Q17, choosing cover colors, emblems, and cultural heritage images = '디자인을 신중하게' (deciding the design carefully).",
+"mem": "Q16 Film Speaker = attach to screens, frames, walls, curtains ('다양한 물건에 붙여'). Q17 Passport colors/emblems = decide the design carefully ('디자인을 신중하게')!",
+"vocabList": [
+"투명하다: to be transparent",
+"정체성: identity",
+"신중하게: carefully / prudently",
+"상징하다: to symbolize (= 대표하다, 5주차 퀴즈!)"
+]
+},
+{
+"passageKo": "[제83회 읽기 21번 관용어 문제]\n소방관은 재난 현장에서 끔찍한 상황을 자주 접하기 때문에 정신 건강에 위험이 따른다. 최근 이러한 문제가 심각해지자 인주시가 해결을 위해 ( 21번 빈칸 ). 인주시는 빠른 시일 내에 정신 건강에 대해 조사를 실시하고 문제를 겪는 소방관이 있으면 전문 상담사를 보내 상담을 진행하기로 했다.",
+"passageEn": "[83rd TOPIK II Reading Q21 Idiom]\nBecause firefighters frequently encounter horrific situations at disaster sites, risks to their mental health follow. Recently, as this problem became serious, Inju City stepped up actively to solve it.",
+"qKo": "2. ( 21번 빈칸 )에 들어갈 알맞은 관용어를 고르십시오.",
+"qEn": "Choose the appropriate idiom for the blank.",
+"o": [
+"① 등 떠밀었다 (등 떠밀다)",
+"② 눈을 맞췄다 (눈을 맞추다)",
+"③ 발 벗고 나섰다 (발 벗고 나서다)",
+"④ 손에 땀을 쥐었다 (손에 땀을 쥐다)"
+],
+"oEn": [
+"① '등 떠밀다' = to push someone from behind / force someone to do something",
+"② '눈을 맞추다' = to make eye contact",
+"③ Correct! '발 벗고 나서다' = to throw off one's shoes and step up / actively take the lead in helping or solving a problem",
+"④ '손에 땀을 쥐다' = to hold sweat in one's hands / be on the edge of one's seat with tension"
+],
+"a": 2,
+"expKo": "정답: ③ — 어떤 문제를 해결하거나 남을 돕기 위해 적극적으로 앞장설 때 '발(신발)을 벗고 나서다'를 사용합니다.",
+"expEn": "'발 벗고 나서다' literally means 'take off one's shoes and jump into the water/field to help'—idiomatically meaning to step forward actively and enthusiastically to solve a problem.",
+"mem": "Picture taking off your shoes ('발 벗고') to jump right into a flooded rice paddy to help: '③ 발 벗고 나섰다' = actively stepped up to solve the firefighters' mental health problem!",
+"vocabList": [
+"발 벗고 나서다: to actively step forward to help/solve",
+"손에 땀을 쥐다: to be thrilled / on the edge of one's seat",
+"등 떠밀다: to push/force someone into doing something"
+]
+},
+{
+"passageKo": "[제83회 읽기 25~27번 신문 기사 제목]\n25. 드라마 '진실' 인기 효과, 원작 베스트셀러 1위\n26. 기습 폭우에 차량 '엉금엉금', 출근길 정체\n27. 온라인 거래 사기 급증, 정부 대책 마련은 미흡",
+"passageEn": "[83rd TOPIK II Reading Q25-27 Newspaper Headlines]\n25. Effect of Drama 'Truth' Popularity: Original Novel Hits #1 Bestseller\n26. Sudden Torrential Rain Makes Cars Crawl ('엉금엉금'), Morning Commute Congested\n27. Online Transaction Fraud Surges, Government Countermeasure Preparation Remains Insufficient ('미흡')",
+"qKo": "3. 위 26번과 27번 신문 기사 제목의 핵심 어휘 풀이로 옳은 것을 고르십시오.",
+"qEn": "Choose the correct explanation of Headlines 26 and 27.",
+"o": [
+"① 26번: 큰비에 차량 사고가 잇따르면서 대중교통 이용자가 몰렸다.",
+"② 26번: 갑자기 많이 쏟아진 비(기습 폭우)로 차들이 천천히 운행(엉금엉금)하면서 출근길이 막혔다(정체).",
+"③ 27번: 온라인 거래 사기를 막기 위해 마련한 정부의 대책이 큰 효과를 거두었다.",
+"④ 27번: 온라인 거래 사기는 줄었지만 정부의 대책 마련이 아직 부족하다."
+],
+"oEn": [
+"① False: '엉금엉금' means crawling slowly, not car accidents.",
+"② Correct! '기습 폭우' = sudden heavy rain, '엉금엉금' = driving slowly, '정체' = traffic congestion ('막혔다').",
+"③ False: '대책 마련은 미흡' means preparation of measures is insufficient ('충분하지 않다').",
+"④ False: '급증' means surged/increased rapidly ('늘었지만'), not decreased."
+],
+"a": 1,
+"expKo": "정답: ② — 26번 '기습 폭우(갑자기 쏟아진 비)' + '엉금엉금(천천히 운행)' + '정체(길이 막힘)'이며, 27번 정답은 ① '온라인 거래 사기가 늘었지만(급증) 정부의 대책 마련은 충분하지 않다(미흡)'입니다.",
+"expEn": "Memorize all 3 headlines from 83rd TOPIK: Q25 '원작 베스트셀러 1위' = original book ranked #1 in sales ('판매량 1위를 차지했다'); Q26 '기습 폭우 + 엉금엉금 + 정체' = sudden heavy rain made cars crawl and blocked the commute; Q27 '급증 + 미흡' = surged, but government measures are insufficient ('충분하지 않다')!",
+"mem": "83rd TOPIK Headline Trio: 1) '기습 폭우' = sudden heavy rain, 2) '엉금엉금' = crawling slowly ('천천히 운행'), 3) '미흡' = insufficient/inadequate ('충분하지 않다')!",
+"vocabList": [
+"기습 폭우: sudden torrential rain",
+"엉금엉금: crawling slowly (= 천천히)",
+"정체: traffic congestion (= 길이 막히다)",
+"급증: sharp increase (= 크게 늘다)",
+"미흡하다: to be insufficient (= 충분하지 않다)"
+]
+}
+],
+"2강": [
+{
+"passageKo": "[제83회 읽기 28~29번 빈칸]\n28. 최근 한국의 편의점 업체가 해외로 진출하면서 현지에서 큰 인기를 끌고 있다. 인테리어에서 판매 상품까지 ( 28번 빈칸 ) 전략을 썼기 때문이다. 보통 마트가 해외에 진출할 때는 현지인의 취향에 맞추려고 하는데 이 편의점 업체는 이와 반대되는 방법을 써서 성공한 것이다.\n29. 고대 이집트 피라미드를 건축할 때 거대한 바위를 모래 위에서 운반해야 했는데 이를 위해서는 ( 29번 빈칸 ) 기술이 중요했다. 모래에 수분이 일정하게 유지되면 모랫길이 단단해져서 운반이 수월했기 때문이다.",
+"passageEn": "[83rd TOPIK II Reading Q28-29 Blanks]\n28. Recently, Korean convenience store companies advancing overseas are gaining huge popularity locally. This is because they used a strategy of ( Blank 28 ) from interior design to products sold. Usually, when marts advance overseas, they try to adapt to local tastes, but this convenience store succeeded by using the opposite method.\n29. When building ancient Egyptian pyramids, giant rocks had to be transported over sand, and for this, the technique of ( Blank 29 ) was important. Because when moisture in the sand is maintained consistently, the sandy road becomes firm and transport becomes easy.",
+"qKo": "1. 위 28번과 29번 빈칸에 들어갈 말로 가장 알맞은 짝을 고르십시오.",
+"qEn": "Choose the correct pair for Blank 28 and Blank 29.",
+"o": [
+"① 28번: 한국 편의점을 그대로 재현하는 / 29번: 적정량의 물을 뿌리는",
+"② 28번: 편의점의 특성을 최대한 감추는 / 29번: 모래를 부드럽게 만드는",
+"③ 28번: 판매자의 기호에 맞추는 / 29번: 바위의 무게를 계산하는",
+"④ 28번: 빠뜨리지 않고 홍보하는 / 29번: 운반하는 사람들을 배치하는"
+],
+"oEn": [
+"① Correct! Q28: 'recreating Korean convenience stores as they are' (opposite of localizing) / Q29: 'sprinkling an appropriate amount of water' (to keep sand moist and firm).",
+"② False.",
+"③ False.",
+"④ False."
+],
+"a": 0,
+"expKo": "정답: ① — 28번은 '현지인의 취향에 맞추는 것과 반대되는 방법'이므로 '④ 한국 편의점을 그대로 재현하는'이고, 29번은 '모래에 수분이 일정하게 유지되면 모랫길이 단단해진다'고 했으므로 '① 적정량의 물을 뿌리는'이 정답입니다.",
+"expEn": "In Q28, the opposite of adapting to local tastes is recreating the Korean convenience store as it is ('한국 편의점을 그대로 재현하는'). In Q29, maintaining moisture ('수분') in the sand to make the road firm ('단단해져서') requires sprinkling the right amount of water ('적정량의 물을 뿌리는').",
+"mem": "Q28 Opposite of localizing = recreating Korean convenience stores as is ('한국 편의점을 그대로 재현하는'). Q29 Moisture ('수분') makes sand firm ('단단하다') = sprinkling the right amount of water ('적정량의 물을 뿌리는')!",
+"vocabList": [
+"그대로 재현하다: to recreate / reproduce as is",
+"취향 / 기호: taste / preference",
+"적정량: appropriate amount",
+"수월하다: to be easy / smooth"
+]
+}
+]
+},
+"11주차 (제91회)": {
+"1강": [
+{
+"passageKo": "[제91회 읽기 16~17번 빈칸]\n16. 타조는 멀리서 적이 다가와도 머리를 모래에 파묻고 있다. 그래서 위험이나 위기를 모르는 척 피하는 사람을 타조에 비유하곤 한다. 그런데 사실 타조는 ( 16번 빈칸 ) 위해 이런 행동을 한다. 시각보다 청각이 발달한 타조는 땅에서 울리는 발소리를 듣고 적이 오는지를 파악하려는 것이다.\n17. 섬유 유연제는 섬유에 막을 씌워 옷감을 부드럽게 하고 향기도 남긴다. 그런데 수건처럼 물기를 빠르게 흡수해야 하는 소재에는 유연제를 넣는 것이 좋은 것만은 아니다. 유연제가 만든 막이 오히려 섬유의 ( 17번 빈칸 ) 때문이다.",
+"passageEn": "[91st TOPIK II Reading Q16-17 Blanks]\n16. Even when an enemy approaches from afar, an ostrich buries its head in the sand. However, in fact, the ostrich does this in order to ( Blank 16 ). With hearing more developed than sight, the ostrich listens to footsteps echoing in the ground to figure out if an enemy is coming.\n17. Fabric softener coats fibers with a film to make cloth soft and leave a scent. However, for materials like towels that must absorb moisture quickly, adding softener is not always good. Because the film created by the softener actually ( Blank 17 ) of the fiber.",
+"qKo": "1. 위 16번과 17번 빈칸에 들어갈 말로 가장 알맞은 짝을 고르십시오.",
+"qEn": "Choose the correct pair for Blank 16 and Blank 17.",
+"o": [
+"① 16번: 적의 움직임을 알기 / 17번: 흡수력을 떨어뜨리기",
+"② 16번: 먹이를 빨리 구하기 / 17번: 향기를 없애기",
+"③ 16번: 머리를 깨끗이 씻기 / 17번: 색깔을 변형시키기",
+"④ 16번: 다른 타조를 공격하기 / 17번: 촉감을 거칠게 만들기"
+],
+"oEn": [
+"① Correct! Q16: 'to know the enemy's movement' (listening to footsteps in the ground) / Q17: 'lowers the absorbency' (coating prevents towels from absorbing water).",
+"② False.",
+"③ False.",
+"④ False."
+],
+"a": 0,
+"expKo": "정답: ① — 16번 타조는 땅에서 울리는 발소리를 듣고 적이 오는지 파악하려는 것이므로 '① 적의 움직임을 알기'이고, 17번 수건에 섬유 유연제를 쓰면 얇은 막이 생겨 물기 흡수를 방해하므로 '③ 흡수력을 떨어뜨리기'입니다.",
+"expEn": "Ostriches put their heads in the sand to hear enemy footsteps ('① 적의 움직임을 알기'), and fabric softener film reduces a towel's water absorbency ('③ 흡수력을 떨어뜨리기').",
+"mem": "Ostrich ('타조') puts ear to the sand = to detect enemy movement ('적의 움직임을 알기'). Fabric softener ('섬유 유연제') on towels = lowers water absorbency ('흡수력을 떨어뜨리기')!",
+"vocabList": [
+"파묻다: to bury",
+"청각 ↔ 시각: hearing ↔ sight",
+"섬유 유연제: fabric softener",
+"흡수력을 떨어뜨리다: to lower absorbency"
+]
+},
+{
+"passageKo": "[제91회 읽기 21번 관용어 문제]\n최근 미술 전시회 수요가 증가하면서 돈벌이에 급급한 전시회가 늘고 있다. 일부 전시 관계자들이 홍보 자료에 복제품 전시임을 밝히지 않고 입장료 수입만을 챙기는 것이다. 전문가들은 이런 전시 행태가 미술계 발전의 ( 21번 빈칸 ) 수 있다고 우려한다. 전시회에 실망한 사람들이 미술에 대한 관심을 아예 끊을 수 있기 때문이다.",
+"passageEn": "[91st TOPIK II Reading Q21 Idiom]\nRecently, as demand for art exhibitions increases, exhibitions obsessed with making money are growing. Some organizers do not disclose in promotional materials that the exhibition is of replicas and only pocket admission revenue. Experts worry that this practice could hold back the development of the art world.",
+"qKo": "2. ( 21번 빈칸 )에 들어갈 알맞은 관용어를 고르십시오.",
+"qEn": "Choose the appropriate idiom for the blank.",
+"o": [
+"① 입맛에 맞을 (입맛에 맞다)",
+"② 가슴을 울릴 (가슴을 울리다)",
+"③ 발목을 잡을 (발목을 잡다)",
+"④ 손을 맞잡을 (손을 맞잡다)"
+],
+"oEn": [
+"① '입맛에 맞다' = to suit one's taste",
+"② '가슴을 울리다' = to touch/move one's heart deeply",
+"③ Correct! '발목을 잡다' = to grab one's ankle / hold back or hinder progress/development",
+"④ '손을 맞잡다' = to join hands / cooperate"
+],
+"a": 2,
+"expKo": "정답: ③ — 발전이나 앞으로 나아가는 것을 방해하고 막는다는 뜻의 관용어는 '발목을 잡다(③ 발목을 잡을)'입니다.",
+"expEn": "'발목을 잡다' literally means 'to grab someone's ankle so they cannot move forward'—idiomatically meaning to hinder or hold back development ('미술계 발전의 발목을 잡을 수 있다').",
+"mem": "If someone grabs your ankle ('발목을 잡다'), you can't run forward! So '미술계 발전의 발목을 잡다' means holding back/hindering the development of the art world!",
+"vocabList": [
+"발목을 잡다: to hold back / hinder progress",
+"복제품: replica / reproduction",
+"우려하다: to worry / be concerned"
+]
+},
+{
+"passageKo": "[제91회 읽기 25~27번 신문 기사 제목]\n25. 가수 진영, 3년 만의 콘서트에 구름 관중\n26. 한국 탁구의 간판 김수미, 올해 국제 대회 금메달 싹쓸이\n27. 대출 금리 하락세, 부동산 시장 기지개",
+"passageEn": "[91st TOPIK II Reading Q25-27 Newspaper Headlines]\n25. Singer Jinyoung Draws Cloud of Spectators ('구름 관중') at First Concert in 3 Years\n26. Korea Table Tennis Ace ('간판') Kim Su-mi Sweeps ('싹쓸이') Gold Medals at International Tournaments This Year\n27. Loan Interest Rates on Downward Trend ('하락세'), Real Estate Market Stretches Awake ('기지개')",
+"qKo": "3. 위 25, 26, 27번 신문 기사 제목의 핵심 어휘 풀이로 옳은 것을 고르십시오.",
+"qEn": "Choose the correct explanation of Headlines 25, 26, and 27.",
+"o": [
+"① 25번 '구름 관중': 콘서트를 열었으나 관중의 호응이 적었다.",
+"② 26번 '금메달 싹쓸이': 올해 국제 대회에서 금메달을 따기 위해 훈련 중이다.",
+"③ 27번 '대출 금리 하락세, 부동산 시장 기지개': 대출 금리가 떨어지면서 부동산 시장이 살아나기 시작했다.",
+"④ 27번 '부동산 시장 기지개': 대출 금리가 하락했지만 부동산 시장의 거래는 줄어들고 있다."
+],
+"oEn": [
+"① False: '구름 관중' (cloud of spectators) means a huge crowd gathered ('수많은 관중이 몰렸다').",
+"② False: '싹쓸이' (clean sweep) means she won ALL the gold medals ('모두 금메달을 땄다').",
+"③ Correct! '하락세' = falling ('떨어지면서'), '기지개(를 켜다)' = waking up / beginning to revive ('살아나기 시작했다')!",
+"④ Opposite of '기지개'."
+],
+"a": 2,
+"expKo": "정답: ③ — 25번 '구름 관중' = 수많은 관중이 몰렸다(①), 26번 '간판(대표 선수) + 싹쓸이(모두 땄다)'(③), 27번 '하락세(떨어지면서) + 기지개(시장이 다시 살아나기 시작했다)'(①)입니다!",
+"expEn": "Memorize all 3 headline idioms in 91st TOPIK: 1) '구름 관중' = huge crowd gathered like clouds ('수많은 관중이 몰렸다'); 2) '간판' = representative star ('대표 선수') + '싹쓸이' = swept all ('모두 땄다'); 3) '기지개' = stretching after sleep = market beginning to revive ('살아나기 시작했다')!",
+"mem": "91st TOPIK Headline Trio: 1) '구름 관중' = spectators gathered like clouds ('수많은 관중이 몰렸다'), 2) '싹쓸이' = swept ALL medals ('모두 땄다'), 3) '기지개' = market waking up and reviving ('살아나기 시작했다')!",
+"vocabList": [
+"구름 관중: huge crowd of spectators (= 수많은 관중)",
+"간판 선수: flagship / representative player (= 대표 선수)",
+"싹쓸이: clean sweep (= 모두 따다/차지하다)",
+"기지개를 켜다: to stretch awake / begin to revive (= 살아나기 시작하다)"
+]
+}
+],
+"2강": [
+{
+"passageKo": "[제91회 읽기 19~20번 — 남극의 황제펭귄]\n매서운 남극의 겨울, 황제펭귄들은 겹겹이 붙어 서로의 체온으로 추위를 견딘다. 무리 전체가 돌면서 바깥쪽과 안쪽에 있는 펭귄들이 계속 서로의 위치를 바꾼다. 안에서 몸을 데운 펭귄은 밖으로 나가고 밖에서 추위에 떨던 펭귄은 안으로 들어오는 것이다. ( 19번 빈칸 ) 그 움직임은 아주 느리지만 쉬지 않고 이루어져 한 마리의 펭귄이 줄곧 찬바람을 맞고 서 있는 일이 없다. 그렇게 쉼 없이 둥글게 돌면서 펭귄들은 다 함께 살아남는다.",
+"passageEn": "[91st TOPIK II Reading Q19-20 — Emperor Penguins in Antarctica]\nIn the fierce Antarctic winter, emperor penguins huddle in layers and endure the cold with each other's body heat. As the whole group rotates, penguins on the outside and inside keep switching positions. ( Blank 19 ) that movement is very slow, it happens without resting so no single penguin stands facing the cold wind the whole time. Rotating like that, the penguins survive together.",
+"qKo": "1. ( 19번 빈칸 )에 들어갈 부사와 위 글의 주제로 가장 알맞은 것을 고르십시오.",
+"qEn": "Choose the correct adverb for Blank 19 and the main topic of the passage.",
+"o": [
+"① 19번: 혹시 / 주제: 황제펭귄은 둥글게 돌면서 날씨 정보를 알린다.",
+"② 19번: 또는 / 주제: 황제펭귄은 추위에서 살아남기 위해 움직임이 느려졌다.",
+"③ 19번: 비록 / 주제: 황제펭귄은 서로 도우면서 추위에 맞서 생존해 왔다.",
+"④ 19번: 만약 / 주제: 황제펭귄은 무리 생활을 통해 경쟁에서 이기는 법을 배운다."
+],
+"oEn": [
+"① False.",
+"② False.",
+"③ Correct! '비록 ~지만' (Even though the movement is slow...) + Topic: 'Emperor penguins have survived against the cold by helping each other.'",
+"④ False."
+],
+"a": 2,
+"expKo": "정답: ③ — 뒤에 '-지만(느리지만)'이 있으므로 1주차 1강 퀴즈 Q3에서 배운 양보 부사 '비록(아무리 그렇게 해도)'이 짝을 이루며, 주제는 '① 황제펭귄은 서로 도우면서 추위에 맞서 생존해 왔다'입니다.",
+"expEn": "Direct link to Week 1 Lecture 1 Quiz Q3 ('비록 = 아무리 그렇게 해도')! '비록' pairs with '-지만' ('비록 그 움직임은 아주 느리지만'), and the passage shows how emperor penguins survive extreme cold by cooperating.",
+"mem": "Grammar Link to Week 1 Quiz: '비록' (even though) ALWAYS pairs with '-지만 / -(으)나 / -더라도' ('비록 그 움직임은 아주 느리지만')!",
+"vocabList": [
+"비록 ~지만: even though ~ (= 아무리 그렇게 해도)",
+"체온: body temperature",
+"견디다: to endure / withstand",
+"생존하다: to survive (= 살아남다)"
+]
+}
+]
+},
+"12주차 (제96회)": {
+"1강": [
+{
+"passageKo": "[제96회 읽기 16~18번 빈칸 — 영화 전화번호, 석유, 조선 시대 수표교]\n16. 영화에서 실제 전화번호를 사용하면 호기심에 전화하는 사람이 생겨 일상생활이 힘들어질 수 있다. 영화진흥위원회에서는 이와 같은 ( 16번 빈칸 ) 영화에 나와도 상관없는 전화번호를 확보해 두고 제작사에 제공해 주고 있다.\n17. 30년 전 전문가들은 40년 후에는 석유가 남아 있지 않을 거라고 경고했다. 그러나 현재 전문가들은 앞으로도 50년 이상은 계속 석유를 사용할 수 있을 거라고 예측한다. 이렇게 석유의 ( 17번 빈칸 ) 이유는 석유를 찾는 기술이 발전했기 때문이다.\n18. 수표교는 홍수 피해에 대비하기 위해 만든 조선 시대의 다리이다. 돌로 된 수표교의 기둥에는 일정한 간격마다 표시가 되어 있어서 ( 18번 빈칸 ) 쉽게 알 수 있었다. 담당자는 비가 오면 강물이 높아지는지를 수시로 확인하고 홍수가 날 것 같으면 대피하도록 했다.",
+"passageEn": "[96th TOPIK II Reading Q16-18 Blanks — Movie Phone Numbers, Oil Reserves, Joseon Supyogyo Bridge]\n16. The Korean Film Council secures phone numbers safe to appear in movies to ( Blank 16 ).\n17. Experts today predict we can use oil for 50+ more years. The reason oil's ( Blank 17 ) is that oil-finding technology developed.\n18. Supyogyo is a Joseon Dynasty bridge built to prepare for flood damage. Its stone pillars had markings at regular intervals so one could easily know ( Blank 18 ).",
+"qKo": "1. 위 16번, 17번, 18번 빈칸에 들어갈 정답을 순서대로 바르게 짝지은 것을 고르십시오.",
+"qEn": "Choose the correct combination for Blanks 16, 17, and 18 (Surfaced from Notebook Sources!).",
+"o": [
+"① 16번: ① 피해를 막기 위해 / 17번: ③ 사용 가능 기간이 늘어난 / 18번: ① 강물의 높이 변화를",
+"② 16번: ② 사실을 화면에 담고자 / 17번: ① 품질이 더 좋아진 / 18번: ② 강물의 속도 차이를",
+"③ 16번: ③ 관객 요구를 반영하고자 / 17번: ② 가격이 상승하고 있는 / 18번: ③ 다리 기둥의 간격을",
+"④ 16번: ④ 제작 방법을 알리기 위해 / 17번: ④ 가치가 계속해서 떨어지는 / 18번: ④ 다리를 만든 재료를"
+],
+"oEn": [
+"① Correct! Q16: '① 피해를 막기 위해' (to prevent damage/harm) | Q17: '③ 사용 가능 기간이 늘어난' (usable period increased) | Q18: '① 강물의 높이 변화를' (changes in river water height).",
+"② False.",
+"③ False.",
+"④ False."
+],
+"a": 0,
+"expKo": "정답: ① — 16번은 실제 번호 사용자의 '① 피해를 막기 위해', 17번은 석유를 쓸 수 있는 시간이 40년에서 50년 이상으로 늘어났으므로 '③ 사용 가능 기간이 늘어난', 18번 수표교는 기둥의 표시를 보고 강물이 높아지는지 확인했으므로 '① 강물의 높이 변화를'입니다!",
+"expEn": "Both Q17 ('석유' - oil) and Q18 ('수표교' - Supyogyo bridge) surfaced directly in your notebook chunks! Q17 = '③ 사용 가능 기간이 늘어난' (usable period increased because exploration technology found more oil), Q18 = '① 강물의 높이 변화를' (changes in the height/level of river water).",
+"mem": "Notebook Surfaced Duo! 1) Oil ('석유') Q17: 40 yrs → 50+ yrs = usable period increased ('③ 사용 가능 기간이 늘어난'). 2) Supyogyo Bridge ('수표교') Q18: markings on bridge pillars check if river water rises ('강물이 높아지는지') = changes in water height ('① 강물의 높이 변화를')!",
+"vocabList": [
+"피해를 막다: to prevent damage/harm",
+"사용 가능 기간: usable period",
+"수표교: Supyogyo (water-level measuring bridge)",
+"강물의 높이 변화: change in river water height",
+"대피하다: to evacuate"
+]
+},
+{
+"passageKo": "[제96회 읽기 21번 관용어 문제 — 산골 초등학교]\n학생 수 감소로 폐교가 될 뻔한 산골 초등학교가 위기에서 벗어나 화제이다. 이 학교 선생님들은 ( 21번 빈칸 ) 학교를 살릴 방법을 고민했다. 그러다 찾은 것이 '음악 특성화 학교'였다.",
+"passageEn": "[96th TOPIK II Reading Q21 Idiom — Mountain Village Elementary School]\nA mountain village elementary school that almost closed due to decreasing student numbers escaped crisis. The teachers of this school put their heads together and pondered ways to save the school.",
+"qKo": "2. ( 21번 빈칸 )에 들어갈 알맞은 관용어를 고르십시오.",
+"qEn": "Choose the appropriate idiom for the blank.",
+"o": [
+"① 눈을 딱 감고",
+"② 머리를 맞대고",
+"③ 손에 땀을 쥐고",
+"④ 목에 힘을 주고"
+],
+"oEn": [
+"① making a bold decision with eyes shut tight",
+"② Correct! '머리를 맞대고' = putting heads together to discuss and solve a problem (Same idiom as Week 5 Lecture 1!)",
+"③ being on the edge of one's seat with suspense",
+"④ acting arrogant / stiff-necked ('목에 힘을 주다')"
+],
+"a": 1,
+"expKo": "정답: ② — 5주차 1강에서도 출제된 핵심 관용어입니다! 선생님들이 학교를 살릴 방법을 함께 모여 진지하게 고민했으므로 '② 머리를 맞대고'가 정답입니다.",
+"expEn": "Notice how '머리를 맞대고' (putting heads together to brainstorm a solution) appears in BOTH Week 5 (47th TOPIK) and Week 12 (96th TOPIK)!",
+"mem": "Double-Hit Idiom across Week 5 & Week 12! Whenever people gather to brainstorm how to solve a crisis ('학교를 살릴 방법을 고민했다'), the answer is '머리를 맞대고' (putting heads together)!",
+"vocabList": [
+"머리를 맞대다: to put heads together (discuss seriously)",
+"폐교: school closure",
+"목에 힘을 주다: to act arrogant (= 콧대가 높다)"
+]
+},
+{
+"passageKo": "[제96회 읽기 25~27번 신문 기사 제목]\n25. 모처럼의 황금연휴, 여행사 예약 문의 '껑충'\n26. 김민수 '올해의 선수상' 수상 유력, 야구팬들 기대 고조\n27. 지지부진한 태풍 피해 복구, 속 터지는 인주 주민들",
+"passageEn": "[96th TOPIK II Reading Q25-27 Newspaper Headlines]\n25. Long-Awaited Golden Holiday, Travel Agency Reservation Inquiries Jump ('껑충')\n26. Kim Min-su Likely ('유력') to Win 'Player of the Year', Baseball Fans' Expectations Heighten ('고조')\n27. Sluggish ('지지부진한') Typhoon Damage Recovery, Inju Residents Bursting with Frustration ('속 터지는')",
+"qKo": "3. 위 25번과 26번 신문 기사 제목의 설명으로 가장 알맞은 짝을 고르십시오.",
+"qEn": "Choose the correct explanation pair for Headlines 25 and 26.",
+"o": [
+"① 25번: 오랜만에 오는 긴 연휴를 맞아 여행사에 예약 상담이 대폭 늘었다. / 26번: 김민수가 상을 받을 가능성이 많아 야구팬들의 기대가 높아지고 있다.",
+"② 25번: 연휴가 짧아서 예약 문의가 줄어들었다. / 26번: 김민수가 상을 받아서 야구팬들이 매우 기뻐하고 있다.",
+"③ 25번: 값이 비싸더라도 여행을 가려는 사람이 많아졌다. / 26번: 김민수가 큰 기대에도 불구하고 상을 받지 못했다.",
+"④ 25번: 여행사마다 적극적인 홍보를 시작했다. / 26번: 김민수가 상을 받는 데 실패했지만 많은 응원을 받았다."
+],
+"oEn": [
+"① Correct! Q25: '모처럼의 황금연휴' = long-awaited holiday + '껑충' = jumped/increased sharply ('대폭 늘었다'). Q26: '수상 유력' = high possibility of winning ('받을 가능성이 많아') + '기대 고조' = expectations rising ('기대가 높아지고 있다').",
+"② False.",
+"③ False.",
+"④ False."
+],
+"a": 0,
+"expKo": "정답: ① — 8주차 2강에서 배운 27번('지지부진한 태풍 피해 복구, 속 터지는 인주 주민들' → ④ 태풍 피해 복구가 잘 진행되지 않아 인주 주민들이 답답해하고 있다)과 함께 제96회에 출제된 25번·26번 기사 제목입니다!",
+"expEn": "Headline 27 is the exact headline Professor 오현진 taught in Week 8 Lecture 2! Also remember Q25 '모처럼' = after a long time ('오랜만에') + '껑충' = jumped sharply ('대폭 늘었다'), and Q26 '수상 유력' = likely to win ('받을 가능성이 많아') + '기대 고조' = expectations heightening ('기대가 높아지고 있다')!",
+"mem": "96th TOPIK Headline Trio: 1) '모처럼' = after a long time ('오랜만에') + '껑충' = jumped sharply ('대폭 늘었다'); 2) '유력' = high likelihood ('가능성이 많다') + '고조' = rising ('높아지다'); 3) '지지부진한 + 속 터지는' = not progressing well + frustrated!",
+"vocabList": [
+"모처럼: after a long time (= 오랜만에)",
+"껑충 뛰다: to jump sharply (= 대폭 늘다)",
+"유력하다: to be likely / strong candidate (= 가능성이 많다)",
+"고조되다: to heighten / climax (= 높아지다)"
+]
+}
+],
+"2강": [
+{
+"passageKo": "[제96회 읽기 19~20번 — 별빛이 반짝이는 이유 (교안 확인!)]\n밤하늘의 별은 반짝거리며 빛난다. 우리가 보는 별빛은 우주 공간을 지나 지구의 대기층을 통과하면서 흔들린다. 지구의 대기가 끊임없이 움직이기 때문에 별빛이 공기를 통과할 때 굴절되면서 흔들려 보이는 것이다. ( 19번 빈칸 ) 대기가 없는 우주 공간에서 별을 보면 별빛은 반짝이지 않는다.",
+"passageEn": "[96th/Course Reading Q19-20 — Why Starlight Twinkles (Surfaced in Notebook!)]\nStars in the night sky twinkle and shine. The starlight we see shakes as it passes through outer space and penetrates Earth's atmosphere. Because Earth's atmosphere moves ceaselessly, starlight is refracted and looks like it is shaking when passing through the air. ( Blank 19 ) if you look at stars in outer space where there is no atmosphere, starlight does not twinkle.",
+"qKo": "1. ( 19번 빈칸 )에 들어갈 접속부사로 가장 알맞은 것을 고르십시오.",
+"qEn": "Choose the most appropriate conjunctive adverb for Blank 19 (Surfaced Starlight Passage).",
+"o": [
+"① 반면에 (또는 그러나 / 따라서)",
+"② 왜냐하면",
+"③ 예를 들어",
+"④ 마찬가지다"
+],
+"oEn": [
+"① Correct! Contrasts seeing stars through Earth's atmosphere (twinkles) vs. seeing stars in outer space without atmosphere (does NOT twinkle).",
+"② 'because'",
+"③ 'for example'",
+"④ 'is the same'"
+],
+"a": 0,
+"expKo": "정답: ① — 지구의 대기층을 통과할 때는 별빛이 흔들려(반짝여) 보이는 반면에(또는 그러나/따라서), 대기가 없는 우주 공간에서 보면 반짝이지 않는다는 대조·인과 흐름입니다.",
+"expEn": "Surfaced in your notebook ('별빛'): Starlight twinkles on Earth because the moving atmosphere refracts ('굴절되다') the light, whereas in outer space without an atmosphere, it does not twinkle.",
+"mem": "Starlight ('별빛') Rule: Earth has moving air ('대기') → light refracts and twinkles ('흔들린다/반짝인다'). Outer space ('우주 공간') has NO air → does NOT twinkle ('반짝이지 않는다')!",
+"vocabList": [
+"별빛: starlight",
+"대기 / 대기층: atmosphere",
+"통과하다: to pass through",
+"굴절되다: to be refracted"
+]
+}
+]
+},
+"13·14주차 (기출 심화 총정리)": {
+"1강": [
+{
+"passageKo": "[9~12주차 관용어 총정리 모의고사]\n• 길을 못 찾아 ( ㉠ : 진땀을 흘리다 )\n• 문제 해결을 위해 인주시가 ( ㉡ : 발 벗고 나서다 )\n• 미술계 발전의 ( ㉢ : 발목을 잡다 )\n• 선생님들이 ( ㉣ : 머리를 맞대다 ) 학교를 살릴 방법을 고민했다.",
+"passageEn": "[Weeks 9-12 Idiom Master Review]\n• Sweating bullets unable to find the way (진땀을 흘리다)\n• Stepping up actively to solve a problem (발 벗고 나서다)\n• Holding back/hindering the development of the art world (발목을 잡다)\n• Putting heads together to ponder a way to save the school (머리를 맞대다)",
+"qKo": "1. 위 9~12주차 기출 관용어 ㉠~㉣의 뜻풀이로 틀린 것을 고르십시오.",
+"qEn": "Choose the INCORRECT definition among the Weeks 9-12 idioms ㉠-㉣.",
+"o": [
+"① 진땀을 흘리다: 어려운 상황에서 매우 당황하고 고생하며 애를 먹다",
+"② 발 벗고 나서다: 어떤 일에 관심을 완전히 끊고 물러서다",
+"③ 발목을 잡다: 앞으로 나아가는 것이나 발전을 방해하다",
+"④ 머리를 맞대다: 문제를 해결하기 위해 함께 모여 진지하게 의논하다"
+],
+"oEn": [
+"① True ('진땀을 흘리다' = struggle hard / break into a cold sweat).",
+"② Correct Answer (FALSE definition!): '발 벗고 나서다' means to step forward ACTIVELY to help, NOT withdraw (withdrawing is '발을 빼다 / 손을 떼다 / 담을 쌓다').",
+"③ True ('발목을 잡다' = hinder/hold back progress).",
+"④ True ('머리를 맞대다' = put heads together to discuss)."
+],
+"a": 1,
+"expKo": "정답: ② — '발 벗고 나서다'는 어떤 일을 해결하거나 돕기 위해 '적극적으로 앞장서다'라는 뜻입니다! (관심을 끊거나 물러서는 것은 '담을 쌓다', '발을 빼다', '손을 떼다'입니다.)",
+"expEn": "Don't confuse '발을 빼다' (pull one's foot out = withdraw, Week 6) with '발 벗고 나서다' (take off one's shoes and step up = actively take the lead to help, Week 10)!",
+"mem": "Foot Idiom Contrast: '발을 빼다' (Week 6) = pull your foot OUT (withdraw/quit) vs. '발 벗고 나서다' (Week 10) = throw off your shoes and jump IN to help actively!",
+"vocabList": [
+"진땀을 흘리다: to break into a cold sweat (64회)",
+"발 벗고 나서다: to step up actively to help (83회)",
+"발목을 잡다: to hold back / hinder (91회)",
+"머리를 맞대다: to put heads together (47회 & 96회)"
+]
+}
+],
+"2강": [
+{
+"passageKo": "[9~12주차 신문 기사 제목 핵심 어휘 총정리]\n• 64회: 승객 전원 목숨 건져 / 출마설 부인 / 우주여행 시대 '성큼'\n• 83회: 기습 폭우에 차량 '엉금엉금', 출근길 정체 / 대책 마련은 미흡\n• 91회: 콘서트에 구름 관중 / 금메달 싹쓸이 / 부동산 시장 기지개\n• 96회: 예약 문의 '껑충' / 수상 유력, 기대 고조 / 지지부진한 복구, 속 터지는 주민들",
+"passageEn": "[Weeks 9-12 Newspaper Headline Master Review]\nCovers all 12 official newspaper headlines from the 64th, 83rd, 91st, and 96th TOPIK II exams.",
+"qKo": "1. 위 신문 기사 제목의 핵심 어휘와 선택지 패러프레이징 연결이 바르지 않은 것을 고르십시오.",
+"qEn": "Choose the pair that is INCORRECTLY matched.",
+"o": [
+"① 전원 목숨 건져 = 모두 살았다 / 출마설 부인 = 사실이 아니라고 밝혔다",
+"② 대책 마련은 미흡 = 대책 마련이 충분하지 않다 / 엉금엉금 = 천천히 운행하다",
+"③ 구름 관중 = 관중이 거의 오지 않았다 / 기지개 = 시장이 침체되었다",
+"④ 예약 문의 '껑충' = 예약 상담이 대폭 늘었다 / 수상 유력 = 상을 받을 가능성이 많다"
+],
+"oEn": [
+"① True (64th TOPIK).",
+"② True (83rd TOPIK).",
+"③ Correct Answer (FALSE match!): '구름 관중' means a huge crowd gathered ('수많은 관중이 몰렸다'), and '기지개' means waking up/reviving ('살아나기 시작했다')!",
+"④ True (96th TOPIK)."
+],
+"a": 2,
+"expKo": "정답: ③ — '구름 관중'은 구름처럼 수많은 관중이 몰렸다는 뜻이고, '기지개(를 켜다)'는 침체되었던 시장이 다시 살아나기 시작했다는 뜻입니다!",
+"expEn": "Reviewing this single card locks in all 12 newspaper headlines across Weeks 9–12!",
+"mem": "'구름 관중' = crowd gathered like clouds ('수많은 관중이 몰렸다'); '기지개' = market stretching awake ('살아나기 시작했다'); '미흡' = insufficient ('충분하지 않다'); '껑충' = jumped sharply ('대폭 늘었다')!",
+"vocabList": [
+"전원 목숨 건져: everyone survived",
+"미흡: insufficient (= 충분하지 않다)",
+"구름 관중 / 기지개: huge crowd / market reviving",
+"껑충 / 유력: jumped sharply / likely to win"
 ]
 }
 ]
