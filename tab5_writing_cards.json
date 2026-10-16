@@ -310,5 +310,155 @@
 "mem": "3 Ultimate Writing Keys: 1) '선배에게 물어보니' → use indirect speech ('있어야 한다고 합니다'), 2) '반대로/반면에' → flip to antonyms + '-다', 3) Phone number after blank → '연락해 주시기 바랍니다'!"
 }
 ]
+},
+"9주차 (제64회)": {
+"1강": [
+{
+"frontTag": "9주차 1강 · 제64회 쓰기 51번 기출문제 (태권도 교실 신청 문의)",
+"frontMain": "[제목: 태권도 교실 신청 문의]\n태권도 교실 안내문을 보고 글을 남깁니다. 제가 태권도를 배운 적이 없는데 ( ㉠ )? 그리고 제가 다음 주에 출장을 가야 해서 첫째 주 수업을 들을 수 없습니다. 혹시 둘째 주부터 ( ㉡ )? 답변을 부탁드립니다.",
+"frontSub": "초보자의 신청 가능 여부(㉠)와 둘째 주부터 수업 참여 가능 여부(㉡)를 묻는 의문문을 격식체(-(스)ㅂ니까?)로 완성하세요!",
+"hintText": "㉠ 초보자도 신청할 수 있습니까? / 처음 배우는 사람도 참여할 수 있습니까? | ㉡ 수업을 들어도 됩니까? / 참여해도 괜찮습니까?",
+"backKo": "㉠ 초보자도 신청할 수 있습니까 (처음 배우는 사람도 신청할 수 있습니까)\n㉡ 수업을 들어도 됩니까 (수업에 참여할 수 있습니까 / 출석해도 괜찮습니까)",
+"backEn": "㉠ I have never learned Taekwondo before, so can a beginner also apply?\n㉡ By any chance, is it okay if I take the class starting from the second week?",
+"partnerLabel": "제64회 쓰기 51번 모범 답안 공식",
+"partnerText": "• 자격 문의: ~도 신청할 수 있습니까? / 참여할 수 있습니까?\n• 허락 문의: ~(으)부터 수업을 들어도 됩니까? / 괜찮습니까?",
+"partnerExplain": "Notice how both blanks end with '?'! Whenever a Q51 blank ends with a question mark and asks about eligibility or permission, use '-(으)ㄹ 수 있습니까?' or '-아/어도 됩니까/괜찮습니까?'.",
+"mem": "Two Question Marks ('?') in Q51: 1) '배운 적이 없는데 ( ㉠ )?' → '초보자도 신청할 수 있습니까?' (Can a beginner apply?); 2) '둘째 주부터 ( ㉡ )?' → '수업을 들어도 됩니까?' (May I take the class from week 2?)!"
+}
+],
+"2강": [
+{
+"frontTag": "9주차 2강 · 제64회 쓰기 52번 기출문제 (곤충을 부르는 식물의 방어)",
+"frontMain": "[식물의 자기 방어 설명문]\n식물은 애벌레에게 잎을 먹히면 특별한 물질을 내보낸다. 이 물질은 애벌레를 잡아먹는 다른 곤충을 유인한다. 식물이 자기를 공격하는 애벌레를 없애기 위해 ( ㉠ ). 이처럼 식물은 스스로 움직이지 못하지만 나름의 방법으로 ( ㉡ ).",
+"frontSub": "식물이 다른 곤충을 부르는 목적(㉠)과 식물의 자기 보호 결론(㉡)을 평서형(-다)으로 완성하세요!",
+"hintText": "㉠ 다른 곤충을 불러들이는 것이다 / 다른 곤충의 도움을 받는 것이다 | ㉡ 자신을 보호한다 / 위험에서 벗어난다",
+"backKo": "㉠ 다른 곤충을 불러들이는 것이다 (다른 곤충의 도움을 받는 것이다)\n㉡ 자신을 보호한다 (스스로를 지킨다 / 위험에서 벗어난다)",
+"backEn": "㉠ To get rid of the caterpillars attacking it, the plant calls in other insects (receives help from other insects).\n㉡ Like this, although plants cannot move on their own, they protect themselves in their own way.",
+"partnerLabel": "제64회 쓰기 52번 모범 답안 공식",
+"partnerText": "• '유인하다' 패러프레이징: 다른 곤충을 유인한다 → 다른 곤충을 불러들이는 것이다\n• '이처럼' 결론 요약: 나름의 방법으로 자신을 보호한다 (스스로를 지킨다)",
+"partnerExplain": "In Blank ㉠, paraphrase '유인하다' (to lure/attract) into '다른 곤충을 불러들이는 것이다'. In Blank ㉡, summarize the plant's defense mechanism as '자신을 보호한다' (protects itself).",
+"mem": "Plant Defense Q52: '유인하다' (lure) = '다른 곤충을 불러들이는 것이다' (calling in other insects to eat the caterpillars), and '이처럼... 나름의 방법으로' = '자신을 보호한다' (protects itself)!"
+}
+]
+},
+"10주차 (제83회)": {
+"1강": [
+{
+"frontTag": "10주차 1강 · 제83회 쓰기 51번 기출문제 (교안 확인: 에르덴의 이사 문의)",
+"frontMain": "[제목: 어디로 이사하는 것이 좋을까요? / 작성자: 에르덴]\n제가 다음 달에 계절학기를 들어야 해서 학교 근처로 이사를 ( ㉠ ). 혹시 학교 주변에서 살아 보신 분 계십니까? 어느 ( ㉡ )? 추천 좀 해 주십시오. 제가 집을 구할 때 중요하게 생각하는 것은 주변이 조용한지, 교통이 편리한지입니다. 댓글을 남겨 주시면 감사하겠습니다.",
+"frontSub": "노트북 교안에서 확인된 '에르덴'의 이사 추천 요청 글입니다! ( ㉠ ), ( ㉡ )의 모범 답안을 작성해 보세요!",
+"hintText": "㉠ 하려고 합니다 / 해야 합니다 (이사를 가다/하다) | ㉡ 동네가 살기 좋습니까? / 곳으로 이사하는 것이 좋습니까?",
+"backKo": "㉠ 하려고 합니다 (하고 싶습니다 / 해야 합니다 / 가려고 합니다)\n㉡ 동네가 살기 좋습니까 (곳으로 이사하면 좋겠습니까 / 동네가 조용하고 교통이 편리합니까)",
+"backEn": "㉠ Because I have to take summer/winter session classes next month, I am planning to move near the school.\n㉡ Which neighborhood is good to live in? (Where would it be good to move to?) Please give me a recommendation.",
+"partnerLabel": "교안 수록 '에르덴' 기출 모범 답안 공식",
+"partnerText": "• ㉠ 의도·계획 표현: 이사를 + 하려고 합니다 / 가려고 합니다 / 해야 합니다\n• ㉡ '어느 ( ㉡ )?' + 제목 활용: 어느 곳으로 이사하는 것이 좋습니까? / 어느 동네가 살기 좋습니까?",
+"partnerExplain": "Surfaced directly in your notebook! Look at the Title ('어디로 이사하는 것이 좋을까요?') and the word '어느' right before Blank ㉡: '어느 곳으로 이사하는 것이 좋습니까?' or '어느 동네가 살기 좋습니까?'!",
+"mem": "Erden ('에르덴') Moving Post Formula: 1) '학교 근처로 이사를 ( ㉠ )' → '하려고 합니다' (I plan to move). 2) '어느 ( ㉡ )? 추천 좀 해 주십시오' → '동네가 살기 좋습니까? / 곳으로 이사하면 좋겠습니까?' (Which neighborhood/place is good?)!"
+}
+],
+"2강": [
+{
+"frontTag": "10주차 2강 · 제83회 쓰기 52번 기출문제 (운동 전 준비운동과 휴식)",
+"frontMain": "[설명문 빈칸 완성]\n운동을 시작하기 전에는 반드시 준비운동을 해야 한다. 갑작스럽게 운동을 하면 근육이 놀라 다칠 수 있기 때문에 준비운동을 통해 ( ㉠ ). 또한 운동이 끝난 후에도 바로 멈추지 말고 가벼운 운동으로 마무리를 해야 긴장된 근육이 ( ㉡ ).",
+"frontSub": "준비운동의 목적(㉠)과 마무리 운동의 효과(㉡)를 평서형(-다)으로 완성하세요!",
+"hintText": "㉠ 근육을 풀어 주어야 한다 / 몸을 따뜻하게 만들어야 한다 | ㉡ 서서히 풀린다 / 원래 상태로 돌아온다",
+"backKo": "㉠ 근육을 풀어 주어야 한다 (몸의 긴장을 풀어 주어야 한다 / 부상을 예방해야 한다)\n㉡ 서서히 풀린다 (천천히 이완된다 / 원래 상태로 돌아온다)",
+"backEn": "㉠ Because sudden exercise can startle and injure muscles, one must loosen up the muscles through warm-up exercises.\n㉡ Also, after finishing exercise, one should cool down with light exercise so that tensed muscles gradually relax.",
+"partnerLabel": "근육 긴장 ↔ 이완(풀리다) 대칭 공식",
+"partnerText": "• 준비운동 목적: 근육이 다치지 않게 근육을 풀어 주어야 한다\n• '긴장된 근육이 ( ㉡ )': 긴장되다 ↔ 풀리다 (서서히 풀린다 / 이완된다)",
+"partnerExplain": "Notice the clue in the second sentence: '긴장된 근육' (tensed muscles). The natural collocation for relaxing tensed muscles is '근육이 풀리다 / 근육을 풀어 주다'.",
+"mem": "Look at '긴장된 근육' (tensed muscles) right before Blank ㉡! In Korean, tensed muscles relax = '근육이 풀리다' (passive for ㉡: '서서히 풀린다') and loosening muscles = '근육을 풀어 주어야 한다' (active for ㉠)!"
+}
+]
+},
+"11주차 (제91회)": {
+"1강": [
+{
+"frontTag": "11주차 1강 · 제91회 쓰기 51번 기출문제 (분실물 찾기 요청)",
+"frontMain": "[제목: 지갑을 찾습니다]\n어제 오후 3시쯤 학생회관 식당에서 식사를 하다가 검은색 지갑을 잃어버렸습니다. 지갑 안에 학생증과 가족사진이 들어 있어서 저에게 ( ㉠ ). 혹시 식탁 위에서 검은색 지갑을 ( ㉡ )? 보신 분은 아래 번호로 연락해 주시면 사례하겠습니다.",
+"frontSub": "지갑이 중요한 이유(㉠)와 목격자를 찾는 질문(㉡)을 격식체(-(스)ㅂ니다/습니까?)로 완성하세요!",
+"hintText": "㉠ 아주 소중한 물건입니다 / 꼭 찾아야 합니다 | ㉡ 보신 분이 계십니까? / 주우신 분이 계십니까?",
+"backKo": "㉠ 아주 소중한 물건입니다 (매우 중요한 지갑입니다 / 꼭 찾아야 하는 물건입니다)\n㉡ 보신 분이 계십니까 (찾으신 분이 계십니까 / 보관하고 계신 분이 있습니까)",
+"backEn": "㉠ Because my student ID and family photo are inside the wallet, it is a very precious item to me.\n㉡ By any chance, is there anyone who saw a black wallet on the table? If anyone saw it, please contact the number below.",
+"partnerLabel": "분실물 안내문('보신 분은...') 꼬리 물기 공식",
+"partnerText": "• ㉠ '저에게 ~': 아주 소중한 물건입니다 / 매우 중요합니다\n• ㉡ 뒷문장 시작 단서: '보신 분은 연락해 주시면...' → 따라서 ㉡은 '보신 분이 계십니까?'!",
+"partnerExplain": "Look at the first words of the sentence right AFTER Blank ㉡: '보신 분은...' (Anyone who saw it...). That gives away the exact verb and honorific noun for Blank ㉡: '보신 분이 계십니까?'!",
+"mem": "Read the first words after Blank ㉡: '보신 분은...' (Those who saw it...). Mirror that directly into Blank ㉡ with a question mark: '혹시 검은색 지갑을 보신 분이 계십니까?' (Is there anyone who saw a black wallet?)!"
+}
+],
+"2강": [
+{
+"frontTag": "11주차 2강 · 제91회 쓰기 52번 기출문제 (칭찬의 역효과와 올바른 칭찬)",
+"frontMain": "[설명문 빈칸 완성]\n아이를 칭찬할 때 결과만 칭찬하면 아이는 결과만 중시하게 된다. 그래서 실패할까 봐 어려운 일은 피하고 ( ㉠ ). 따라서 아이가 도전을 두려워하지 않게 하려면 결과보다는 ( ㉡ ).",
+"frontSub": "어려운 일을 피하는 아이가 선택하는 일(㉠)과 올바른 칭찬 대상(㉡)을 평서형(-다)으로 완성하세요!",
+"hintText": "㉠ 쉬운 일만 하려고 한다 (어려운 일은 피하고 ↔ 쉬운 일만 하다) | ㉡ 결과보다는 과정을 칭찬해야 한다 (노력하는 과정을 칭찬해야 한다)",
+"backKo": "㉠ 쉬운 일만 하려고 한다 (자신이 잘할 수 있는 쉬운 일만 선택한다)\n㉡ 과정을 칭찬해야 한다 (노력하는 과정을 칭찬하는 것이 좋다)",
+"backEn": "㉠ So, fearing failure, the child avoids difficult tasks and only tries to do easy tasks.\n㉡ Therefore, to keep the child from fearing challenges, one should praise the process rather than the result.",
+"partnerLabel": "대조 쌍('어려운 일 ↔ 쉬운 일', '결과 ↔ 과정') 공식",
+"partnerText": "• ㉠ '어려운 일은 피하고' ↔ '쉬운 일만 하려고 한다'\n• ㉡ '결과보다는' ↔ '과정을 칭찬해야 한다 (노력을 칭찬해야 한다)'",
+"partnerExplain": "Classic antonym-pair Q52! Pair '어려운 일' (difficult tasks) with '쉬운 일' (easy tasks) in ㉠, and pair '결과' (result) with '과정 / 노력' (process / effort) in ㉡!",
+"mem": "Two Classic Korean Antonym Pairs in Q52: 1) '어려운 일은 피하고' (avoids hard tasks) → '쉬운 일만 하려고 한다' (only tries easy tasks); 2) '결과보다는' (rather than the result) → '과정을 칭찬해야 한다' (must praise the process)!"
+}
+]
+},
+"12주차 (제96회)": {
+"1강": [
+{
+"frontTag": "12주차 1강 · 제96회 쓰기 51번 기출문제 (주문 상품 오배송 교환 요청)",
+"frontMain": "[제목: 상품 교환 요청]\n지난주에 이 쇼핑몰에서 파란색 운동화를 주문했는데 오늘 상자를 열어 보니 흰색 운동화가 ( ㉠ ). 제가 이번 주 토요일에 신어야 해서 그런데 금요일까지 파란색 운동화로 ( ㉡ )? 빠른 처리를 부탁드립니다.",
+"frontSub": "잘못 배달된 상황(㉠)과 금요일까지 교환을 요청하는 질문(㉡)을 격식체로 완성하세요!",
+"hintText": "㉠ 들어 있었습니다 / 배달되었습니다 / 왔습니다 | ㉡ 교환해 주실 수 있습니까? / 바꿔 주실 수 있습니까?",
+"backKo": "㉠ 들어 있었습니다 (배달되었습니다 / 배송되었습니다 / 왔습니다)\n㉡ 교환해 주실 수 있습니까 (바꿔 주실 수 있습니까 / 보내 주실 수 있습니까)",
+"backEn": "㉠ Last week I ordered blue sneakers from this mall, but when I opened the box today, white sneakers were inside (were delivered).\n㉡ I need to wear them this Saturday, so could you exchange them for blue sneakers by Friday?",
+"partnerLabel": "쇼핑몰 교환·환불 요청 필수 공식",
+"partnerText": "• 오배송 설명: 다른 상품이 배달되었습니다 / 상자에 ~이 들어 있었습니다\n• 기한 내 교환 요청: ~(요일)까지 ~으로 교환해 주실 수 있습니까? / 바꿔 주실 수 있습니까?",
+"partnerExplain": "Look at the title ('상품 교환 요청' = Product Exchange Request)! Plug '교환하다' (or '바꾸다') directly into Blank ㉡ with the polite request question pattern '-아/어 주실 수 있습니까?'.",
+"mem": "Title Clue Again! Title = '상품 교환 요청' (Product Exchange Request). 1) '상자를 열어 보니 흰색 운동화가 ( ㉠ )' → '들어 있었습니다 / 배달되었습니다'; 2) '파란색 운동화로 ( ㉡ )?' → '교환해 주실 수 있습니까?'!"
+}
+],
+"2강": [
+{
+"frontTag": "12주차 2강 · 제96회 쓰기 52번 기출문제 (별빛이 반짝이는 이유 — 교안 확인!)",
+"frontMain": "[설명문 빈칸 완성 — 교안 '별빛' 지문 연계]\n밤하늘의 별은 반짝거리며 빛난다. 우리가 보는 별빛은 지구의 대기층을 통과하면서 흔들리기 때문이다. 지구의 대기가 끊임없이 움직이므로 별빛이 공기를 통과할 때 ( ㉠ ). 반면에 대기가 없는 우주 공간에서 별을 보면 별빛은 ( ㉡ ).",
+"frontSub": "대기 통과 시 별빛의 현상(㉠)과 대기가 없는 우주 공간에서의 현상(㉡)을 평서형(-다)으로 완성하세요!",
+"hintText": "㉠ 굴절되어 흔들려 보인다 / 반짝거리며 보인다 | ㉡ 반짝이지 않는다 / 흔들리지 않는다",
+"backKo": "㉠ 굴절되어 흔들려 보인다 (이리저리 흔들리게 된다)\n㉡ 반짝이지 않는다 (흔들리지 않고 가만히 빛난다)",
+"backEn": "㉠ Because Earth's atmosphere moves ceaselessly, when starlight passes through the air, it is refracted and looks shaky.\n㉡ On the other hand, if you look at stars in outer space where there is no atmosphere, the starlight does not twinkle.",
+"partnerLabel": "교안 '별빛' 지문 대조 공식",
+"partnerText": "• 지구(대기 있음): 별빛이 대기를 통과할 때 흔들려 보인다 (반짝인다)\n• 우주 공간(대기 없음): 반면에 별빛은 반짝이지 않는다 (흔들리지 않는다)",
+"partnerExplain": "Surfaced in your notebook ('별빛')! Contrast Earth's moving atmosphere ('흔들려 보인다 / 반짝인다') with airless outer space after '반면에' ('반짝이지 않는다 / 흔들리지 않는다').",
+"mem": "Starlight ('별빛') Contrast: Earth's atmosphere moves → starlight shakes/twinkles ('흔들려 보인다') ↔ Outer space has no atmosphere ('반면에') → starlight does NOT twinkle ('반짝이지 않는다')!"
+}
+]
+},
+"13·14주차 (기출 심화 총정리)": {
+"1강": [
+{
+"frontTag": "13·14주차 총정리 · 쓰기 51번 만능 문형 5대 공식",
+"frontMain": "[1~12주차 쓰기 51번 기출 빈칸 5대 유형 총정리]\n1. 감사하기: 지난번에 가방을 ( ㉠ ) 고맙습니다.\n2. 간접화법(전달): 선배에게 물어보니 출입증이 ( ㉡ ).\n3. 계획·의도: 학교 근처로 이사를 ( ㉢ ). (에르덴)\n4. 추천·의견 묻기: 어느 ( ㉣ )? 추천 좀 해 주십시오. (에르덴)\n5. 안내문 끝문장: 금요일까지 ( ㉤ ).",
+"frontSub": "어떤 51번 문제가 나와도 만점을 받는 5대 핵심 공식을 한 번에 점검하세요!",
+"hintText": "1. 빌려 주셔서 | 2. 있어야 한다고 합니다 | 3. 하려고 합니다 | 4. 동네가 살기 좋습니까 | 5. 연락해 주시기 바랍니다",
+"backKo": "㉠ 빌려 주셔서\n㉡ 있어야 한다고 합니다 (필요하다고 들었습니다)\n㉢ 하려고 합니다 (하고 싶습니다)\n㉣ 동네가 살기 좋습니까 (곳으로 이사하는 것이 좋습니까)\n㉤ 연락해 주시기 바랍니다 (신청하시기 바랍니다)",
+"backEn": "㉠ Thank you for lending\n㉡ I heard an entry pass is required\n㉢ I plan to move\n㉣ Which neighborhood is good to live in?\n㉤ Please contact us",
+"partnerLabel": "쓰기 51번 10점 만점 보장 5대 공식",
+"partnerText": "이 5가지 문형과 '-(스)ㅂ니다 / -(스)ㅂ니까?' 격식체 어미만 지키면 1~12주차 어떤 51번 문항이 출제되어도 만점을 받을 수 있습니다!",
+"partnerExplain": "Consolidates every single Q51 pattern from Weeks 1 to 12 into one master review card.",
+"mem": "Lock in all 5 Q51 patterns: 1) '-아/어 주셔서 고맙습니다', 2) '선배에게 물어보니 ~다고 합니다', 3) '~하려고 합니다', 4) '어느 동네가 살기 좋습니까?', 5) '연락해 주시기 바랍니다'!"
+}
+],
+"2강": [
+{
+"frontTag": "13·14주차 총정리 · 쓰기 52번·53번 만능 문형 최종 점검",
+"frontMain": "[1~12주차 쓰기 52번 & 53번 핵심 공식 총정리]\n1. [52번 '반대로'] 긍정적인 결과를 기대할수록 좋은 결과를 얻을 확률이 높다. 반대로 ( ㉠ ).\n2. [52번 '반면에'] 이긴 사람은 자신이 선택한 것을 그대로 유지하는 반면에 진 사람은 ( ㉡ ).\n3. [53번 첫 문장] 성인 남녀 3천 명을 ( ㉢ ) '아이를 꼭 낳아야 하는가'에 대해 ( ㉣ ).\n4. [53번 성별 이유] 이어 남자는 자유로운 생활을 원해서, 여자는 직장 생활을 ( ㉤ ) 응답하였다.",
+"frontSub": "교안과 강의에서 확인된 52번·53번 핵심 문장을 모두 완성해 보세요!",
+"hintText": "㉠ 부정적으로 생각하면 좋은 결과를 얻기 어렵다 | ㉡ 다른 것으로 바꾼다 | ㉢ 대상으로 | ㉣ 조사하였다 | ㉤ 유지하고 싶어서라고",
+"backKo": "㉠ 부정적으로 생각하면 좋은 결과를 얻기 어렵다\n㉡ 다른 것으로 바꾼다\n㉢ 대상으로\n㉣ 조사하였다\n㉤ 유지하고 싶어서라고",
+"backEn": "㉠ Conversely, if you think negatively, it is difficult to obtain a good result.\n㉡ whereas the loser changes to something else.\n㉢ targeting (대상으로) / ㉣ surveyed (조사하였다)\n㉤ responded that it was because they wanted to maintain their working life.",
+"partnerLabel": "전 범위 쓰기 마스터 완료",
+"partnerText": "52번은 반의어 대조 + '-다' 종결! | 53번은 '~을/를 대상으로 ~에 대해 조사하였다. 그 결과 ~로 나타났다' + 원고지 규칙 준수!",
+"partnerExplain": "Mastery of this card guarantees full marks on Q52 and Q53 even if Professor 오현진 pulls an advanced question from Weeks 9–12!",
+"mem": "Final Writing Check: Q52 flips antonyms after '반대로/반면에' and ends in '-다'. Q53 starts with '[Target]을/를 대상으로 '[Topic]'에 대해 조사하였다. 그 결과...' on the same line without breaking lines after periods!"
+}
+]
 }
 }
