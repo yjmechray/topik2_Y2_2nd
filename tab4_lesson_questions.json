@@ -357,34 +357,6 @@
 "되돌아보다: to look back on / reflect on",
 "반영되다: to be reflected"
 ]
-},
-{
-"passageKo": "[교안 확인 지문 — 아버지의 일기장]\n아버지의 일기장이었다. 아버지 물건이 아직도 집에 남아 있을 줄은 전혀 생각하지 못했다. 두근거리는 마음으로 거실로 나와 일기장을 펼쳤다. 30년 전 날짜가 적힌 일기장의 누렇게 변한 페이지마다 아버지의 하루하루가 적혀 있었다. 내가 초등학교에 입학한 날, 여행한 날, 혼났던 날……. 그때의 추억들이 펼쳐졌다. 아버지는 언제 어디서 무엇을 하셨는지 빼곡히 적어 두셨다. 일기장에 적혀 있는 곳을 인터넷으로 찾아보니 자주 가시던 빵집과 국숫집이 아직도 그대로 있었다. 그곳에 가면 아버지의 흔적을 느낄 수 있을까? 나는 이번 주말에 일기장에 적혀 있는 곳에 한번 찾아가 보려고 한다.",
-"passageEn": "[Surfaced Slide — Father's 30-Year-Old Diary]\nIt was my father's diary. I never thought my father's belongings would still remain in the house. With a pounding heart, I came out to the living room and opened the diary. On each yellowed page with dates from 30 years ago, my father's day-to-day life was written... When I searched the places written in the diary on the internet, the bakery and noodle shop he used to visit often were still there as they were. I plan to visit the places written in the diary this weekend.",
-"qKo": "3. 위 글의 내용과 일치하는 것을 고르십시오.",
-"qEn": "Choose the statement that matches the passage (Surfaced from Notebook!).",
-"o": [
-"① 나는 아버지의 일기장이 집에 있는 것을 알고 있었다.",
-"② 아버지가 자주 가시던 빵집과 국숫집은 지금 사라졌다.",
-"③ 일기장에는 나의 어린 시절과 관련된 내용도 적혀 있었다.",
-"④ 나는 지난 주말에 일기장에 적혀 있는 곳에 다녀왔다."
-],
-"oEn": [
-"① False: '남아 있을 줄은 전혀 생각하지 못했다' (never thought it would still remain).",
-"② False: '빵집과 국숫집이 아직도 그대로 있었다' (they were still there as they were).",
-"③ Correct! '내가 초등학교에 입학한 날, 여행한 날, 혼났던 날... 그때의 추억들이 펼쳐졌다'.",
-"④ False: '이번 주말에... 한번 찾아가 보려고 한다' (plans to visit THIS weekend, not last weekend)."
-],
-"a": 2,
-"expKo": "정답: ③ — 일기장에는 '내가 초등학교에 입학한 날, 여행한 날, 혼났던 날' 등 글쓴이의 어린 시절 추억과 관련된 내용도 빼곡히 적혀 있었습니다. (일기장을 펼쳤을 때의 심정: 반갑다 / 그리워하다)",
-"expEn": "Surfaced in your notebook! The diary recorded the day the narrator entered elementary school, traveled, and got scolded ('내가 초등학교에 입학한 날, 여행한 날, 혼났던 날').",
-"mem": "Father's Diary ('아버지의 일기장') Key Facts: 1) Found unexpectedly, 2) Contains memories of the narrator's elementary school days, 3) The bakery & noodle shop ('빵집과 국숫집') are STILL there ('아직도 그대로 있었다'), 4) Plans to visit THIS weekend!",
-"vocabList": [
-"두근거리다: heart pounds / flutters",
-"빼곡히: densely / closely packed",
-"흔적: trace / vestige",
-"그대로 있다: to remain as is"
-]
 }
 ]
 },
@@ -891,7 +863,7 @@
 "a": 1,
 "expKo": "정답: ② — 내비게이션 없이 낯선 곳에 갔다가 길을 찾지 못해 몹시 당황하고 고생했다는 뜻이므로 '② 진땀을 흘려(진땀을 흘리다)'가 정답입니다.",
 "expEn": "When you get lost in an unfamiliar place ('낯선 곳에 갔다가 길을 못 찾아'), you panic and struggle, which is expressed by the idiom '진땀을 흘리다' (to break into a cold sweat / sweat bullets).",
-"mem": "Slide 1 (Q21): Getting lost in an unfamiliar place without GPS ('낯선 곳에 갔다가 길을 못 찾아') makes you break into a nervous cold sweat ('② 진땀을 흘려')!",
+"mem": "9주차 1강 Slide Page 4 (Q21): Getting lost in an unfamiliar place without GPS ('낯선 곳에 갔다가 길을 못 찾아') makes you break into a nervous cold sweat ('② 진땀을 흘려')!",
 "vocabList": [
 "목적지: destination",
 "낯선 곳: unfamiliar place",
@@ -921,7 +893,7 @@
 "a": 2,
 "expKo": "정답: ③ — '그러나'와 '따라서' 뒤에서 디지털 기기에만 지나치게 의존하면 정보를 찾고 기억하는 능력이 줄어든다고 경고하므로, '③ 스스로 정보를 찾고 기억하려는 노력을 해야 한다'가 중심 생각입니다.",
 "expEn": "Look at the sentences after '그러나' and '따라서': relying solely on digital devices weakens our brain's ability to find and remember information, so we must try to find and remember information on our own ('③ 스스로 정보를 찾고 기억하려는 노력을 해야 한다').",
-"mem": "Slide 2 (Q22): Check '그러나' + '따라서'! Since our brain remembers longer when it finds info on its own ('스스로 정보를 찾았을 때'), we must make an effort to find and remember info ourselves ('③ 스스로 정보를 찾고 기억하려는 노력을 해야 한다')!",
+"mem": "9주차 1강 Slide Page 5 (Q22): Check '그러나' + '따라서'! Since our brain remembers longer when it finds info on its own ('스스로 정보를 찾았을 때'), we must make an effort to find and remember info ourselves ('③ 스스로 정보를 찾고 기억하려는 노력을 해야 한다')!",
 "vocabList": [
 "특성: characteristic / property",
 "지나치게: excessively",
@@ -949,7 +921,7 @@
 "a": 0,
 "expKo": "정답: ① — 이용권 한 장 값을 더 결제하는 실수를 한 뒤 고객에게서 연락이 올 때까지 불안하고 초조해서 '일이 손에 잡히지 않았다(집중할 수 없었다)'고 했으므로 '① 걱정스럽다'가 가장 알맞습니다.",
 "expEn": "'일이 손에 잡히지 않다' means being so worried and anxious ('내가 한 실수에 화를 낼지도 모른다는 생각에') that you cannot focus on work = '① 걱정스럽다' (worried/anxious).",
-"mem": "Slide 3 (Q23): '일이 손에 잡히지 않았다' (couldn't focus on work while waiting for the customer's call, fearing they might be angry) = '① 걱정스럽다' (worried/anxious)!",
+"mem": "9주차 1강 Slide Page 6 (Q23): '일이 손에 잡히지 않았다' (couldn't focus on work while waiting for the customer's call, fearing they might be angry) = '① 걱정스럽다' (worried/anxious)!",
 "vocabList": [
 "매표소: ticket booth",
 "결제되다: to be charged / paid",
@@ -978,7 +950,7 @@
 "a": 1,
 "expKo": "정답: ② — 카드사 상담원이 '내 연락처를 고객에게 전달해 주겠다고 했다'고 했고, 나중에 가족이 '문자 메시지가 온 줄 몰랐어요'라고 말했으므로 '② 카드 회사는 그 가족에게 연락을 했다'가 일치합니다.",
 "expEn": "The credit card company sent a text message ('문자 메시지') with the narrator's contact info to the family, so '② 카드 회사는 그 가족에게 연락을 했다' is true!",
-"mem": "Slide 4 (Q24): Who contacted whom? 1) Credit card company sent a text message to the family ('② 카드 회사는 그 가족에게 연락을 했다' = TRUE), 2) Then the family called '나' at quitting time!",
+"mem": "9주차 1강 Slide Page 7 (Q24): Who contacted whom? 1) Credit card company sent a text message to the family ('② 카드 회사는 그 가족에게 연락을 했다' = TRUE), 2) Then the family called '나' at quitting time!",
 "vocabList": [
 "상담원: customer service agent",
 "전달하다: to forward / deliver / pass on",
@@ -1005,7 +977,7 @@
 "a": 0,
 "expKo": "정답: ① — '승객 전원(승객 모두)' + '목숨을 건지다(죽을 고비에서 살아나다 = 살았다)'이므로 '① 관광버스가 추락했지만 승객들이 안전벨트 덕분에 모두 살았다'가 정답입니다.",
 "expEn": "'전원' = everyone/all ('모두'), and '목숨을 건지다' = save one's life / survive ('살았다').",
-"mem": "Slide 5 (Q25 Headline): '전원' = all ('모두') + '목숨 건져' = saved their lives / survived ('살았다') → Choice ①!",
+"mem": "9주차 1강 Slide Page 8 (Q25 Headline): '전원' = all ('모두') + '목숨 건져' = saved their lives / survived ('살았다') → Choice ①!",
 "vocabList": [
 "추락하다: to fall / plunge / crash",
 "전원: all members / everyone (= 모두)",
@@ -1032,7 +1004,7 @@
 "a": 3,
 "expKo": "정답: ④ — '침묵을 깨다(그동안 말하지 않다가 입장을 밝히다)' + '출마설 부인(선거에 나간다는 소문이 사실이 아니라고 부정하다)'이므로 ④가 정답입니다.",
 "expEn": "'침묵 깬' = broke silence and stated his position ('입장을 밝혔다'); '출마설 부인' = denied the rumor of running for election ('선거에 나간다는 것이 사실이 아니라고').",
-"mem": "Slide 6 (Q26 Headline): '침묵 깬' = broke silence ('입장을 밝혔다') + '출마설 부인' = denied the rumor of running in the election ('사실이 아니라고') → Choice ④!",
+"mem": "9주차 1강 Slide Page 9 (Q26 Headline): '침묵 깬' = broke silence ('입장을 밝혔다') + '출마설 부인' = denied the rumor of running in the election ('사실이 아니라고') → Choice ④!",
 "vocabList": [
 "침묵을 깨다: to break silence",
 "출마설: rumor of running for election",
@@ -1053,13 +1025,13 @@
 "oEn": [
 "① Trap: Mentions cheering ('응원') and finishing a long space trip, missing the future meaning of '우주여행 시대 성큼'.",
 "② Past expectation ('기대했다').",
-"③ Correct! 'As the 민간 우주선 returned safely, the possibility of space travel became even higher.' ('무사 귀환' = 무사히 돌아오면서, '시대 성큼' = 가능성이 더욱 높아졌다).",
+"③ Correct! 'As the private spacecraft returned safely, the possibility of space travel became even higher.' ('무사 귀환' = 무사히 돌아오면서, '시대 성큼' = 가능성이 더욱 높아졌다).",
 "④ Opposite ('돌아오지 않자' - failed to return)."
 ],
 "a": 2,
 "expKo": "정답: ③ — '무사 귀환(사고 없이 무사히 돌아옴)' + '우주여행 시대 성큼(우주여행 시대가 아주 가까이 다가옴 = 가능성이 더욱 높아졌다)'이므로 ③이 정답입니다.",
 "expEn": "'무사 귀환' = returned safely ('무사히 돌아오면서'); '우주여행 시대 성큼' = the era of space travel has stepped much closer, meaning its possibility increased ('가능성이 더욱 높아졌다').",
-"mem": "Slide 7 (Q27 Headline): '무사 귀환' = returned safely ('무사히 돌아오면서') + '성큼' = taking a big stride closer ('가능성이 더욱 높아졌다') → Choice ③!",
+"mem": "9주차 1강 Slide Page 10 (Q27 Headline): '무사 귀환' = returned safely ('무사히 돌아오면서') + '성큼' = taking a big stride closer ('가능성이 더욱 높아졌다') → Choice ③!",
 "vocabList": [
 "민간 우주선: private/commercial spacecraft",
 "무사 귀환: safe return (= 무사히 돌아오다)",
@@ -1088,7 +1060,7 @@
 "a": 3,
 "expKo": "정답: ④ — 뒷문장에서 '라면 안 먹기', '채소 챙겨 먹기'처럼 당장 행동으로 옮길 수 있는 구체적인 계획으로 바뀐다고 설명하므로 '④ 실천 가능한 계획을 세울 수 있기'가 정답입니다.",
 "expEn": "Breaking a big resolution into weekly plans turns it into concrete, doable actions ('구체적인 계획'), which matches '④ 실천 가능한 계획을 세울 수 있기' (being able to set actionable plans).",
-"mem": "9주차 2강 Slide 1: Turning 'Healthy eating' into weekly goals like 'No ramyeon' and 'Eat vegetables' = setting concrete, actionable plans ('④ 실천 가능한 계획을 세울 수 있기')!",
+"mem": "9주차 2강 Slide Page 4: Turning 'Healthy eating' into weekly goals like 'No ramyeon' and 'Eat vegetables' = setting concrete, actionable plans ('④ 실천 가능한 계획을 세울 수 있기')!",
 "vocabList": [
 "한 주 단위: weekly basis / unit",
 "새해 결심: New Year's resolution",
@@ -1117,7 +1089,7 @@
 "a": 3,
 "expKo": "정답: ④ — 바로 뒷문장에서 '공기에 먼지 등의 오염 물질이 섞이면 빛이 통과하는 것을 막기 때문'이라고 이유를 설명하므로, '④ 공기가 깨끗하지 (않으면)'이 정답입니다.",
 "expEn": "Look at the '때문이다' sentence right after the blank: when dust and pollutants ('먼지 등의 오염 물질') mix into the air, they block light. Thus, if the air is not clean ('④ 공기가 깨끗하지 않으면'), a rainbow cannot form easily!",
-"mem": "9주차 2강 Slide 2: Check the sentence after the blank! '공기에 먼지 등의 오염 물질이 섞이면' (if dust/pollutants mix into the air) = if the air is NOT clean ('④ 공기가 깨끗하지 않으면')!",
+"mem": "9주차 2강 Slide Page 5: Check the sentence after the blank! '공기에 먼지 등의 오염 물질이 섞이면' (if dust/pollutants mix into the air) = if the air is NOT clean ('④ 공기가 깨끗하지 않으면')!",
 "vocabList": [
 "통과하다: to pass through",
 "굴절되다: to be refracted",
@@ -1145,7 +1117,7 @@
 "a": 0,
 "expKo": "정답: ① — 뒷문장에서 '같은 약을 동네 의원에서 받은 처방전으로 사게 되면 약값이 더 적게 나온다'고 했으므로, 반대로 가벼운 병으로 큰 종합병원에 가면 '① 환자가 약값을 조금 더 내게' 만든 제도입니다.",
 "expEn": "Look at the next sentence: buying the same medicine with a neighborhood clinic ('동네 의원') prescription costs LESS ('약값이 더 적게 나온다'). Therefore, going to a big general hospital ('종합병원') for a mild cold makes the patient pay MORE for medicine ('① 환자가 약값을 조금 더 내게')!",
-"mem": "9주차 2강 Slide 3: Neighborhood clinic ('동네 의원') = medicine costs LESS ('약값이 더 적게 나온다') ↔ Big general hospital ('종합병원') for a cold = patient pays MORE ('① 환자가 약값을 조금 더 내게')!",
+"mem": "9주차 2강 Slide Page 6: Neighborhood clinic ('동네 의원') = medicine costs LESS ('약값이 더 적게 나온다') ↔ Big general hospital ('종합병원') for a cold = patient pays MORE ('① 환자가 약값을 조금 더 내게')!",
 "vocabList": [
 "규모: scale / size",
 "부담하다: to bear / shoulder (a cost)",
@@ -1174,7 +1146,7 @@
 "a": 2,
 "expKo": "정답: ③ — 본문에서 '장기적으로 다양한 목적에 따라 자금을 여러 통장에 분산하여 저축하는 것을 가로 저축이라고 한다'고 했으므로 '③ 저축의 목적이 다양하면 가로 저축이 유용하다'가 일치합니다.",
 "expEn": "'세로 저축' (vertical saving) = 1 bankbook, 1 specific short-term goal, making a lump sum ('목돈') fast. '가로 저축' (horizontal saving) = multiple bankbooks for diverse long-term purposes ('다양한 목적') and retirement ('은퇴 후 = 노후'). Thus ③ is correct!",
-"mem": "9주차 2강 Slide 4: '세로 저축' (Vertical) = 1 specific goal, short-term lump sum ('목돈'). '가로 저축' (Horizontal) = diverse purposes ('다양한 목적' → Choice ③!) & retirement ('은퇴 후') across multiple accounts!",
+"mem": "9주차 2강 Slide Page 7: '세로 저축' (Vertical) = 1 specific goal, short-term lump sum ('목돈'). '가로 저축' (Horizontal) = diverse purposes ('다양한 목적' → Choice ③!) & retirement ('은퇴 후') across multiple accounts!",
 "vocabList": [
 "가로 저축 / 세로 저축: horizontal saving / vertical saving",
 "자금을 분산하다: to diversify / spread out funds",
@@ -1202,13 +1174,355 @@
 "a": 0,
 "expKo": "정답: ① — 마지막 문장의 '최근 3D 스캐너와 프린터가 등장하여(=첨단 장비 덕분에) ... 정밀하고 안전한 문화재 복원이 가능해졌다(=문화재 복원이 수월해졌다)'를 요약한 ①이 정답입니다.",
 "expEn": "'3D 스캐너와 프린터' paraphrases to '첨단 장비' (high-tech equipment), and '정밀하고 안전한 문화재 복원이 가능해졌다' paraphrases to '문화재 복원이 수월해졌다' (restoration became easier/smoother).",
-"mem": "9주차 2강 Slide 5: '3D 스캐너와 프린터' = '첨단 장비' (high-tech equipment) + '정밀하고 안전한 복원이 가능해졌다' = '문화재 복원이 수월해졌다' (restoration became much easier/smoother) → Choice ①!",
+"mem": "9주차 2강 Slide Page 8: '3D 스캐너와 프린터' = '첨단 장비' (high-tech equipment) + '정밀하고 안전한 복원이 가능해졌다' = '문화재 복원이 수월해졌다' (restoration became much easier/smoother) → Choice ①!",
 "vocabList": [
 "문화재 복원: cultural heritage restoration",
 "손상되다: to be damaged",
 "요건을 충족하다: to satisfy/meet requirements",
 "첨단 장비: high-tech / cutting-edge equipment",
 "수월해지다: to become easier / smoother"
+]
+}
+]
+},
+"10주차 (제83회)": {
+"1강": [
+{
+"passageKo": "소방관은 재난 현장에서 끔찍한 상황을 자주 접하기 때문에 정신 건강에 위험이 따른다. 최근 이러한 문제가 심각해지자 인주시가 해결을 위해 (     ). 인주시는 빠른 시일 내에 정신 건강에 대해 조사를 실시하고 문제를 겪는 소방관이 있으면 전문 상담사를 보내 상담을 진행하기로 했다. 이와 더불어 심리 안정 프로그램 개발과 진료비 지원을 위한 예산을 확보했다고 발표했다.",
+"passageEn": "Because firefighters frequently encounter terrible situations at disaster sites, risks to their mental health follow. Recently, as this problem became serious, Inju City stepped up actively ('발 벗고 나섰다') to solve it. Inju City decided to conduct a mental health survey within a short time and send professional counselors if there are firefighters experiencing problems. In addition, it announced that it has secured a budget for developing psychological stability programs and supporting medical expenses.",
+"qKo": "21. (     )에 들어갈 알맞은 것을 고르십시오.",
+"qEn": "[10주차 1강 Slide Page 4 — Q21] Choose the appropriate idiom to fill in the blank.",
+"o": [
+"① 등 떠밀었다",
+"② 눈을 맞췄다",
+"③ 발 벗고 나섰다",
+"④ 손에 땀을 쥐었다"
+],
+"oEn": [
+"① '등 떠밀다' = to push someone's back / force someone to do something",
+"② '눈을 맞추다' = to make eye contact",
+"③ Correct! '발 벗고 나서다' = to throw off one's shoes and step forward actively to solve a problem",
+"④ '손에 땀을 쥐다' = to clench one's sweaty palms in thrilling suspense"
+],
+"a": 2,
+"expKo": "정답: ③ — 소방관의 정신 건강 문제를 해결하기 위해 인주시가 적극적으로 앞장서서 나섰다는 뜻이므로 '③ 발 벗고 나섰다'가 정답입니다.",
+"expEn": "Inju City actively stepped forward to conduct surveys, send counselors, and secure a budget, which matches '③ 발 벗고 나섰다' (actively took the lead to help).",
+"mem": "10주차 1강 Slide Page 4 (Q21): When Inju City actively steps up to solve firefighters' mental health issues ('해결을 위해'), they throw off their shoes and jump in ('③ 발 벗고 나섰다')!",
+"vocabList": [
+"재난 현장: disaster site",
+"끔찍한 상황: terrible / horrific situation",
+"발 벗고 나서다: to actively step forward to help",
+"등 떠밀다: to push someone into doing something",
+"손에 땀을 쥐다: to be on the edge of one's seat (thrilling)",
+"예산을 확보하다: to secure a budget"
+]
+},
+{
+"passageKo": "소방관은 재난 현장에서 끔찍한 상황을 자주 접하기 때문에 정신 건강에 위험이 따른다. 최근 이러한 문제가 심각해지자 인주시가 해결을 위해 ( 발 벗고 나섰다 ). 인주시는 빠른 시일 내에 정신 건강에 대해 조사를 실시하고 문제를 겪는 소방관이 있으면 전문 상담사를 보내 상담을 진행하기로 했다. 이와 더불어 심리 안정 프로그램 개발과 진료비 지원을 위한 예산을 확보했다고 발표했다.",
+"passageEn": "...Inju City decided to conduct a mental health survey within a short time and send professional counselors if there are firefighters experiencing problems. In addition, it announced that it has secured a budget for developing psychological stability programs and supporting medical expenses.",
+"qKo": "22. 이 글의 중심 생각을 고르십시오.",
+"qEn": "[10주차 1강 Slide Page 5 — Q22] Choose the central thought of this passage.",
+"o": [
+"① 소방관의 심리적 어려움은 최근 많이 해소되었다.",
+"② 인주시는 소방관의 정신 건강 조사를 모두 마쳤다.",
+"③ 인주시는 소방관 심리 안정 프로그램을 운영할 계획이다.",
+"④ 소방관이 정신 건강 상담을 받으려면 상담사를 찾아가야 한다."
+],
+"oEn": [
+"① False: The problem recently became serious ('심각해지자'), not resolved ('해소되었다').",
+"② False: Inju City will conduct the survey soon ('빠른 시일 내에 조사를 실시하고'), not already finished ('모두 마쳤다').",
+"③ Correct! 'Inju City plans to operate a psychological stability program for firefighters.'",
+"④ False: Inju City sends counselors to the firefighters ('전문 상담사를 보내')."
+],
+"a": 2,
+"expKo": "정답: ③ — 인주시가 소방관 정신 건강 문제 해결을 위해 상담사 파견 및 '심리 안정 프로그램 개발과 진료비 지원을 위한 예산을 확보했다'고 발표했으므로 '③ 인주시는 소방관 심리 안정 프로그램을 운영할 계획이다'가 정답입니다.",
+"expEn": "Watch out for the tense traps in ① ('많이 해소되었다') and ② ('조사를 모두 마쳤다'), and direction trap in ④ ('찾아가야 한다' vs '전문 상담사를 보내'). Choice ③ accurately reflects Inju City's plan!",
+"mem": "10주차 1강 Slide Page 5 (Q22): Eliminate ② ('모두 마쳤다' - survey isn't finished yet!) and ④ ('찾아가야 한다' - counselors are sent to them!). Choice ③ ('심리 안정 프로그램을 운영할 계획이다') is the exact main point!",
+"vocabList": [
+"빠른 시일 내에: within a short period of time / soon",
+"해소되다: to be resolved / relieved",
+"심리 안정 프로그램: psychological stability program"
+]
+},
+{
+"passageKo": "며칠 전 창고 선반 위에 올려 둔 가방을 꺼내는데 공책 한 권이 툭 하고 떨어졌다. 나는 '뭐지?' 하고 별 생각 없이 안을 펼쳐 보고는 [밑줄] 눈물이 왈칵 나올 뻔했다. 그것은 바로 어렸을 때 돌아가신 아버지의 일기장이었다. 아버지 물건이 아직도 집에 남아 있을 줄은 전혀 생각하지 못했다. 두근거리는 마음으로 거실로 나와 일기장을 펼쳤다. 30년 전 날짜가 적힌 일기장의 누렇게 변한 페이지마다 아버지의 하루하루가 적혀 있었다. 내가 초등학교에 입학한 날, 여행한 날, 혼났던 날……. 그때의 추억들이 펼쳐졌다. 아버지는 언제 어디서 무엇을 하셨는지 빼곡히 적어 두셨다. 일기장에 적혀 있는 곳을 인터넷으로 찾아보니 자주 가시던 빵집과 국숫집이 아직도 그대로 있었다. 그곳에 가면 아버지의 흔적을 느낄 수 있을까? 나는 이번 주말에 일기장에 적혀 있는 곳에 한번 찾아가 보려고 한다.",
+"passageEn": "A few days ago, while taking out a bag placed on a storage shelf, a notebook fell with a thud. Thinking 'What is this?', I opened it without much thought and [Underlined] tears almost gushed out ('눈물이 왈칵 나올 뻔했다'). It was the diary of my father, who passed away when I was young. I never thought my father's belongings would still remain in the house...",
+"qKo": "23. 밑줄 부분('눈물이 왈칵 나올 뻔했다')에 나타난 '나'의 심정으로 알맞은 것을 고르십시오.",
+"qEn": "[10주차 1강 Slide Page 6 — Q23] Choose the appropriate feeling of 'I' shown in the underlined part.",
+"o": [
+"① 반갑고 감격스럽다",
+"② 편하고 만족스럽다",
+"③ 아쉽고 걱정스럽다",
+"④ 기쁘고 자랑스럽다"
+],
+"oEn": [
+"① Correct! 'glad/welcoming and deeply moved/touched' (unexpectedly finding the late father's diary after 30 years)",
+"② 'comfortable and satisfied'",
+"③ 'regretful and worried'",
+"④ 'happy and proud'"
+],
+"a": 0,
+"expKo": "정답: ① — 어렸을 때 돌아가신 아버지의 유품(일기장)이 아직 남아 있을 줄 전혀 몰랐다가 우연히 발견하여 눈물이 왈칵 나올 만큼 반갑고 벅찬 감동을 느낀 것이므로 '① 반갑고 감격스럽다'가 정답입니다.",
+"expEn": "Unexpectedly discovering the late father's 30-year-old diary brings overwhelming joy and deep emotion ('눈물이 왈칵 나올 뻔했다') = '① 반갑고 감격스럽다' (glad and deeply moved).",
+"mem": "10주차 1강 Slide Page 6 (Q23): '눈물이 왈칵 나올 뻔했다' upon unexpectedly finding the late father's diary = glad and deeply moved ('① 반갑고 감격스럽다')!",
+"vocabList": [
+"창고 선반: storage shelf",
+"눈물이 왈칵 나오다: tears gush out suddenly",
+"감격스럽다: to be deeply moved / touched",
+"두근거리다: heart pounds / flutters"
+]
+},
+{
+"passageKo": "며칠 전 창고 선반 위에 올려 둔 가방을 꺼내는데 공책 한 권이 툭 하고 떨어졌다. 나는 '뭐지?' 하고 별 생각 없이 안을 펼쳐 보고는 눈물이 왈칵 나올 뻔했다. 그것은 바로 어렸을 때 돌아가신 아버지의 일기장이었다. 아버지 물건이 아직도 집에 남아 있을 줄은 전혀 생각하지 못했다. 두근거리는 마음으로 거실로 나와 일기장을 펼쳤다. 30년 전 날짜가 적힌 일기장의 누렇게 변한 페이지마다 아버지의 하루하루가 적혀 있었다. 내가 초등학교에 입학한 날, 여행한 날, 혼났던 날……. 그때의 추억들이 펼쳐졌다. 아버지는 언제 어디서 무엇을 하셨는지 빼곡히 적어 두셨다. 일기장에 적혀 있는 곳을 인터넷으로 찾아보니 자주 가시던 빵집과 국숫집이 아직도 그대로 있었다. 그곳에 가면 아버지의 흔적을 느낄 수 있을까? 나는 이번 주말에 일기장에 적혀 있는 곳에 한번 찾아가 보려고 한다.",
+"passageEn": "...When I searched the places written in the diary on the internet, the bakery and noodle shop he used to visit often were still there as they were. Could I feel traces of my father if I go there? I plan to visit the places written in the diary this weekend.",
+"qKo": "24. 위 글의 내용과 같은 것을 고르십시오.",
+"qEn": "[10주차 1강 Slide Page 7 — Q24] Choose the statement that matches the content of the passage.",
+"o": [
+"① 나는 아버지의 물건을 많이 가지고 있다.",
+"② 나는 전에 아버지의 일기장을 자주 꺼내 읽었다.",
+"③ 나는 거실에 아버지의 일기장을 보관하고 있었다.",
+"④ 나는 아버지가 자주 가시던 빵집에 가 보려고 한다."
+],
+"oEn": [
+"① False: '아버지 물건이 아직도 집에 남아 있을 줄은 전혀 생각하지 못했다' (didn't think any belongings remained).",
+"② False: Found it by accident a few days ago.",
+"③ False: It was on the storage shelf ('창고 선반 위'), and the narrator brought it out to the living room ('거실로 나와') to read.",
+"④ Correct! '자주 가시던 빵집과 국숫집이 아직도 그대로 있었다... 나는 이번 주말에 일기장에 적혀 있는 곳에 한번 찾아가 보려고 한다.'"
+],
+"a": 3,
+"expKo": "정답: ④ — 일기장에 적힌 아버지가 자주 가시던 빵집과 국숫집이 아직 그대로 있어서 이번 주말에 찾아가 보려고 한다고 했으므로 '④ 나는 아버지가 자주 가시던 빵집에 가 보려고 한다'가 일치합니다.",
+"expEn": "Watch out for Trap ③: the diary was stored in the storage room ('창고 선반 위'), NOT the living room ('거실'). Choice ④ matches the final two sentences!",
+"mem": "10주차 1강 Slide Page 7 (Q24): Where was the diary stored? On the storage shelf ('창고 선반' — so ③ '거실에 보관' is FALSE!). And what will '나' do this weekend? Visit the bakery dad used to go to ('④ 나는 아버지가 자주 가시던 빵집에 가 보려고 한다' = TRUE)!",
+"vocabList": [
+"빼곡히: densely / closely packed",
+"흔적: trace / vestige",
+"보관하다: to store / keep"
+]
+},
+{
+"passageKo": "[신문 기사 제목]\n드라마 '진실' 인기 효과, 원작 베스트셀러 1위",
+"passageEn": "[Newspaper Headline]\nPopularity Effect of Drama 'Truth', Original Work ('원작') Ranks #1 Bestseller",
+"qKo": "25. 다음은 신문 기사의 제목입니다. 가장 잘 설명한 것을 고르십시오.",
+"qEn": "[10주차 1강 Slide Page 8 — Q25] Choose the statement that best explains the newspaper headline.",
+"o": [
+"① 드라마 '진실'이 인기를 얻으면서 원작이 판매량 1위를 차지했다.",
+"② 드라마 '진실'이 시청률 1위가 되자 원작 작가에 대한 관심이 높아졌다.",
+"③ 드라마 '진실'의 인기로 원작 작가의 모든 작품들의 판매율이 상승했다.",
+"④ 드라마 '진실'이 원작의 인기 요소를 추가해 시청률 1위의 드라마가 됐다."
+],
+"oEn": [
+"① Correct! 'As the drama Truth gained popularity, the original book took 1st place in sales.' ('베스트셀러 1위' = 판매량 1위를 차지했다).",
+"② Mentions viewership #1 and interest in the author.",
+"③ Exaggerates to 'all works by the original author'.",
+"④ Reverses cause and effect."
+],
+"a": 0,
+"expKo": "정답: ① — 드라마 '진실'의 인기 효과로 원작(소설/책)이 '베스트셀러 1위(판매량 1위)'를 차지했다는 뜻이므로 ①이 정답입니다.",
+"expEn": "'드라마 인기 효과' = as the drama gained popularity; '원작 베스트셀러 1위' = the original book took #1 in sales ('원작이 판매량 1위를 차지했다').",
+"mem": "10주차 1강 Slide Page 8 (Q25 Headline): '원작 베스트셀러 1위' = the original book ranked #1 in sales ('① 원작이 판매량 1위를 차지했다')!",
+"vocabList": [
+"원작: original work (novel/book)",
+"베스트셀러 1위: #1 bestseller (= 판매량 1위)",
+"차지하다: to occupy / take (a rank)"
+]
+},
+{
+"passageKo": "[신문 기사 제목]\n온라인 거래 사기 급증, 정부 대책 마련은 미흡",
+"passageEn": "[Newspaper Headline]\nOnline Transaction Fraud Surges ('급증'), Government Preparation of Countermeasures Insufficient ('미흡')",
+"qKo": "27. 다음은 신문 기사의 제목입니다. 가장 잘 설명한 것을 고르십시오.",
+"qEn": "[10주차 1강 Slide Page 9 — Q27] Choose the statement that best explains the newspaper headline.",
+"o": [
+"① 온라인 거래 사기가 늘었지만 정부의 대책 마련은 충분하지 않다.",
+"② 온라인 시장에서 거래 사기가 증가해 정부가 대책을 수립하고 있다.",
+"③ 온라인 거래 사기를 막기 위해 마련한 정부의 대책은 큰 효과가 없었다.",
+"④ 온라인 거래 사기 피해자들을 위해 정부가 대책을 마련하겠다고 발표했다."
+],
+"oEn": [
+"① Correct! 'Online transaction fraud increased, but the government's preparation of countermeasures is not sufficient.' ('급증' = 늘었지만, '미흡' = 충분하지 않다).",
+"② 'is establishing measures' (misses '미흡').",
+"③ 'had little effect' (the headline says preparation of measures itself is insufficient).",
+"④ 'announced it would prepare measures'."
+],
+"a": 0,
+"expKo": "정답: ① — '급증(급격히 증가함 = 늘었지만)' + '미흡(모자라고 충분하지 못함 = 충분하지 않다)'이므로 ①이 정답입니다.",
+"expEn": "'급증' = increased sharply ('늘었지만'); '미흡' = insufficient/inadequate ('충분하지 않다').",
+"mem": "10주차 1강 Slide Page 9 (Q27 Headline): '급증' = increased ('늘었지만') + '미흡' = insufficient ('충분하지 않다') → Choice ①!",
+"vocabList": [
+"급증하다: to surge / increase sharply (= 크게 늘다)",
+"미흡하다: to be insufficient / inadequate (= 충분하지 않다)",
+"대책을 수립하다: to establish a countermeasure"
+]
+},
+{
+"passageKo": "[신문 기사 제목]\n기습 폭우에 차량 '엉금엉금', 출근길 정체",
+"passageEn": "[Newspaper Headline]\nCars Crawl Slowly ('엉금엉금') in Sudden Heavy Rain ('기습 폭우'), Morning Commute Congested ('출근길 정체')",
+"qKo": "26. 다음은 신문 기사의 제목입니다. 가장 잘 설명한 것을 고르십시오.",
+"qEn": "[10주차 1강 Slide Page 10 — Q26] Choose the statement that best explains the newspaper headline.",
+"o": [
+"① 폭우로 피해를 입은 차량들이 늘면서 사람들의 출근이 늦어졌다.",
+"② 큰비에 차량 사고가 잇따르면서 출근하던 사람들이 곤란을 겪었다.",
+"③ 갑자기 많이 쏟아진 비로 차들이 천천히 운행하면서 출근길이 막혔다.",
+"④ 계속된 비에 대중교통 이용자가 한꺼번에 몰리면서 출근길이 혼잡해졌다."
+],
+"oEn": [
+"① Mentions damaged vehicles.",
+"② Mentions car accidents.",
+"③ Correct! 'Due to heavy rain that poured down suddenly (기습 폭우), cars drove slowly (엉금엉금) and the morning commute was congested (출근길 정체).'",
+"④ Mentions public transit users."
+],
+"a": 2,
+"expKo": "정답: ③ — '기습 폭우(갑자기 많이 쏟아진 비)' + '차량 엉금엉금(차들이 거북이처럼 천천히 운행함)' + '출근길 정체(출근길이 막혔다)'를 정확히 풀어 쓴 ③이 정답입니다.",
+"expEn": "'기습 폭우' = sudden heavy downpour ('갑자기 많이 쏟아진 비'); '엉금엉금' = crawling slowly ('천천히 운행하면서'); '정체' = traffic congestion ('출근길이 막혔다').",
+"mem": "10주차 1강 Slide Page 10 (Q26 Headline): '기습 폭우' (sudden heavy rain) + '엉금엉금' (crawling slowly = '천천히 운행') + '정체' (traffic jam = '막혔다') → Choice ③!",
+"vocabList": [
+"기습 폭우: sudden torrential rain (= 갑자기 많이 쏟아진 비)",
+"엉금엉금: crawling slowly (= 천천히 운행)",
+"정체: traffic congestion / backup (= 길이 막히다)"
+]
+}
+],
+"2강": [
+{
+"passageKo": "최근 한국의 편의점 업체가 해외로 진출하면서 현지에서 큰 인기를 끌고 있다. 인테리어에서 판매 상품까지 (     ) 전략을 썼기 때문이다. 보통 마트가 해외에 진출할 때는 현지인의 취향에 맞추려고 하는데 이 편의점 업체는 이와 반대되는 방법을 써서 성공한 것이다.",
+"passageEn": "Recently, as Korean convenience store companies have expanded overseas, they are gaining great popularity locally. This is because they used a strategy of ( Blank ) from the interior to the products sold. Usually, when supermarkets expand overseas, they try to adapt to the tastes of local people, but this convenience store company succeeded by using the opposite method.",
+"qKo": "1. 다음을 읽고 (     )에 들어갈 내용으로 가장 알맞은 것을 고르십시오.",
+"qEn": "[10주차 2강 Slide Page 4 — 기출문제 ① (1)] Choose the most appropriate expression for the blank.",
+"o": [
+"① 빠뜨리지 않고 홍보하는",
+"② 판매자의 기호에 맞추는",
+"③ 편의점의 특성을 최대한 감추는",
+"④ 한국 편의점을 그대로 재현하는"
+],
+"oEn": [
+"① 'promoting without leaving anything out'",
+"② 'matching the seller's preferences'",
+"③ 'hiding the characteristics of convenience stores as much as possible'",
+"④ Correct! 'recreating Korean convenience stores just as they are' (the exact opposite of adapting to local tastes)."
+],
+"a": 3,
+"expKo": "정답: ④ — 뒷문장에서 '보통은 현지인의 취향에 맞추려고 하는데 이와 반대되는 방법을 써서 성공했다'고 했으므로, 현지에 맞추어 바꾸지 않고 인테리어부터 판매 상품까지 '④ 한국 편의점을 그대로 재현하는' 전략을 썼다는 뜻입니다.",
+"expEn": "Look at the final sentence: '현지인의 취향에 맞추려고 하는데 이 편의점 업체는 이와 반대되는 방법을 써서 성공한 것이다.' The opposite of changing to match local tastes is recreating the Korean convenience store as it is ('④ 한국 편의점을 그대로 재현하는')!",
+"mem": "10주차 2강 Slide Page 4: Opposite ('반대되는 방법') of adapting to local tastes ('현지인의 취향에 맞추다') = recreating Korean convenience stores as they are ('④ 한국 편의점을 그대로 재현하는')!",
+"vocabList": [
+"해외로 진출하다: to expand / enter overseas markets",
+"현지인의 취향: local people's tastes",
+"그대로 재현하다: to recreate / reproduce as it is"
+]
+},
+{
+"passageKo": "고대 이집트 피라미드를 건축할 때 거대한 바위를 모래 위에서 운반해야 했는데 이를 위해서는 (     ) 기술이 중요했다. 모래에 수분이 일정하게 유지되면 모랫길이 단단해져서 운반이 수월했기 때문이다. 실제로 고대 벽화에는 바위를 운반하는 길 위에 사람들이 물을 뿌리고 있는 장면이 묘사되어 있다.",
+"passageEn": "When building ancient Egyptian pyramids, giant rocks had to be transported on sand, and for this, the technique of ( Blank ) was important. This was because if moisture was maintained consistently in the sand, the sand road became firm and transport was easier. In fact, ancient murals depict a scene where people are sprinkling water on the road where rocks are transported.",
+"qKo": "2. 다음을 읽고 (     )에 들어갈 내용으로 가장 알맞은 것을 고르십시오.",
+"qEn": "[10주차 2강 Slide Page 5 — 기출문제 ① (2)] Choose the most appropriate expression for the blank.",
+"o": [
+"① 적정량의 물을 뿌리는",
+"② 모래를 부드럽게 만드는",
+"③ 바위의 무게를 계산하는",
+"④ 운반하는 사람들을 배치하는"
+],
+"oEn": [
+"① Correct! 'sprinkling an appropriate amount of water' (keeps moisture consistent so the sand road becomes firm).",
+"② 'making the sand soft' (opposite: '모랫길이 단단해져서').",
+"③ 'calculating the weight of the rocks'",
+"④ 'stationing the people transporting them'"
+],
+"a": 0,
+"expKo": "정답: ① — 뒷문장의 '모래에 수분이 일정하게 유지되면 모랫길이 단단해져서'와 마지막 문장의 '길 위에 사람들이 물을 뿌리고 있는 장면'을 연결하면 '① 적정량의 물을 뿌리는' 기술이 정답입니다.",
+"expEn": "Maintaining moisture ('수분이 일정하게 유지되면') by sprinkling water on the path ('물을 뿌리고 있는 장면') = '① 적정량의 물을 뿌리는' (sprinkling an appropriate amount of water).",
+"mem": "10주차 2강 Slide Page 5: '모래에 수분이 일정하게 유지' (keep moisture in sand) + '물을 뿌리고 있는 장면' (scene sprinkling water) = '① 적정량의 물을 뿌리는'!",
+"vocabList": [
+"거대한 바위: giant rock",
+"운반하다: to transport",
+"수분: moisture / water content",
+"수월하다: to be easy / smooth",
+"적정량: appropriate / proper amount",
+"묘사되다: to be depicted"
+]
+},
+{
+"passageKo": "일부 프로 농구 리그에서는 반드시 주황색 공을 쓰게 하고 있다. 여러 이유가 있지만 그중 하나는 (     ) 데 있다. 바닥에 공을 많이 튕겨야 하는 농구의 특성상 공이 바닥의 색과 많이 다르면 선수나 관중 모두 부담을 느낄 수 있기 때문이다.",
+"passageEn": "In some professional basketball leagues, they require using an orange ball without fail. There are several reasons, but one of them lies in ( Blank ). Due to the nature of basketball, where the ball must be bounced on the floor a lot, if the ball is very different from the color of the floor, both players and spectators may feel eye strain/burden.",
+"qKo": "3. 다음을 읽고 (     )에 들어갈 내용으로 가장 알맞은 것을 고르십시오.",
+"qEn": "[10주차 2강 Slide Page 6 — 기출문제 ① (3)] Choose the most appropriate expression for the blank.",
+"o": [
+"① 골을 잘 넣게 하려는",
+"② 공이 잘 보이게 하려는",
+"③ 눈의 피로감을 줄이려는",
+"④ 선수들의 운동복과 구별하려는"
+],
+"oEn": [
+"① 'trying to make them score goals well'",
+"② Trap: 'trying to make the ball stand out clearly' (the passage says if the ball color is too different from the floor color, people feel strain!).",
+"③ Correct! 'trying to reduce eye fatigue' (because if the bouncing ball contrasts too starkly with the wooden floor, both players and spectators feel visual strain).",
+"④ 'trying to distinguish it from players' uniforms'"
+],
+"a": 2,
+"expKo": "정답: ③ — 뒷문장에서 '공이 바닥의 색과 많이 다르면 선수나 관중 모두 부담을 느낄 수 있기 때문'이라고 설명하므로, 바닥 색과 비슷한 주황색 공을 써서 '③ 눈의 피로감을 줄이려는' 데 이유가 있습니다. (오답 함정 ② '공이 잘 보이게 하려는'과 혼동 주의!)",
+"expEn": "Watch out for Trap ②! You might assume orange is used to make the ball stand out, but the passage states that if the ball color differs too much from the wooden floor ('공이 바닥의 색과 많이 다르면'), both players and spectators feel visual burden ('부담을 느낄 수 있기 때문'). Thus it is to reduce eye fatigue ('③ 눈의 피로감을 줄이려는')!",
+"mem": "10주차 2강 Slide Page 6: Don't pick Trap ② ('공이 잘 보이게')! The passage says if the ball color is too different from the floor ('바닥의 색과 많이 다르면'), players and spectators feel strain ('부담'). So orange balls (similar to wooden floors) are used to reduce eye fatigue ('③ 눈의 피로감을 줄이려는')!",
+"vocabList": [
+"튕기다: to bounce",
+"특성상: due to the nature/characteristic of ~",
+"부담을 느끼다: to feel burden / strain",
+"눈의 피로감: eye fatigue / strain"
+]
+},
+{
+"passageKo": "'가면 증후군'이란 사회적으로 인정을 받고 있지만 그것이 자신의 진짜 실력 때문이 아니라는 생각으로 괴로워하는 현상이다. 성과를 내고 있음에도 (     ) 언젠가 가면이 벗겨질지도 모른다는 생각에 불안해하는 것이다. 이런 현상이 생긴 원인은 다양한데 양육 과정에서 부모의 인정을 받지 못했거나 겸손을 강조하는 분위기 속에서 자랐기 때문이다.",
+"passageEn": "'Impostor syndrome' ('가면 증후군') is a phenomenon where someone is socially recognized, yet suffers from the thought that it is not because of their true ability. Even though they are achieving results, while ( Blank ), they feel anxious at the thought that their mask might be stripped off someday...",
+"qKo": "4. 다음을 읽고 (     )에 들어갈 내용으로 가장 알맞은 것을 고르십시오.",
+"qEn": "[10주차 2강 Slide Page 7 — 기출문제 ① (4)] Choose the most appropriate expression for the blank.",
+"o": [
+"① 일을 계속 미루면서",
+"② 타인의 평가를 원하면서",
+"③ 낮은 지위에 머무르면서",
+"④ 자신의 능력을 의심하면서"
+],
+"oEn": [
+"① 'while continually postponing work'",
+"② 'while desiring evaluation from others'",
+"③ 'while remaining in a low position'",
+"④ Correct! 'while doubting their own ability' (matches '그것이 자신의 진짜 실력 때문이 아니라는 생각으로 괴로워하는 현상')."
+],
+"a": 3,
+"expKo": "정답: ④ — 첫 문장에서 '사회적으로 인정을 받고 있지만 그것이 자신의 진짜 실력 때문이 아니라는 생각으로 괴로워하는 현상'이라고 정의했으므로, 성과를 내고 있음에도 '④ 자신의 능력을 의심하면서' 불안해한다는 뜻입니다.",
+"expEn": "Believing that one's success is not due to one's true ability ('자신의 진짜 실력 때문이 아니라는 생각') = doubting one's own ability ('④ 자신의 능력을 의심하면서')!",
+"mem": "10주차 2강 Slide Page 7: Impostor Syndrome ('가면 증후군') = thinking your success isn't due to your real skill ('진짜 실력 때문이 아니라는 생각') = doubting your own ability ('④ 자신의 능력을 의심하면서')!",
+"vocabList": [
+"가면 증후군: impostor syndrome (mask syndrome)",
+"성과를 내다: to achieve results",
+"자신의 능력을 의심하다: to doubt one's own ability",
+"양육 과정: parenting / upbringing process",
+"겸손: humility / modesty"
+]
+},
+{
+"passageKo": "아이가 '엄마' 다음으로 빨리 배우는 말 중에는 '이것'과 같이 여러 물건을 가리키는 지시어가 있다. 지시어는 대화하는 상황을 타인과 공유해야 그 의미를 이해할 수 있다는 특성이 있다. 아기들은 이러한 지시어를 사용해 자연스럽게 부모의 관심을 끄는 것이다. 대부분의 아기들이 생후 12~18개월 무렵에 이런 지시어를 사용한다는 것은 이미 여러 언어 연구에서 밝혀진 바 있다.",
+"passageEn": "Among the words a child learns fastest after 'Mom' are demonstrative words ('지시어') that point to various objects, such as 'this' ('이것'). Demonstratives have the characteristic that one must share the conversation situation with the other person in order to understand their meaning. Babies use these demonstratives to naturally draw their parents' attention. That most babies use such demonstratives around 12 to 18 months after birth has already been revealed in several language studies.",
+"qKo": "5. 다음을 읽고 글의 내용과 같은 것을 고르십시오.",
+"qEn": "[10주차 2강 Slide Page 8 — 기출문제 ① (5)] Choose the statement that matches the content of the passage.",
+"o": [
+"① 아기는 혼잣말을 할 때 지시어를 자주 사용한다.",
+"② 아기는 엄마라는 단어보다 지시어를 먼저 습득한다.",
+"③ 지시어를 습득하는 시기는 언어권마다 다르게 나타난다.",
+"④ 지시어는 상대방과 상황을 공유해야 의미를 전달할 수 있다."
+],
+"oEn": [
+"① False: Used to draw parents' attention ('부모의 관심을 끄는 것'), not for talking to oneself ('혼잣말').",
+"② False: Learned AFTER 'Mom' ('엄마 다음으로 빨리 배우는 말').",
+"③ False: Most babies use them around 12–18 months ('대부분의 아기들이 생후 12~18개월 무렵에 사용').",
+"④ Correct! 'Demonstratives can convey meaning only when the situation is shared with the other person.' ('대화하는 상황을 타인과 공유해야 그 의미를 이해할 수 있다')."
+],
+"a": 3,
+"expKo": "정답: ④ — 본문 두 번째 문장의 '지시어는 대화하는 상황을 타인과 공유해야 그 의미를 이해할 수 있다는 특성이 있다'와 선택지 ④의 '상대방과 상황을 공유해야 의미를 전달할 수 있다'가 정확히 일치합니다.",
+"expEn": "'타인' (other person) = '상대방' (conversation partner), and '대화하는 상황을 공유해야 그 의미를 이해할 수 있다' matches Choice ④!",
+"mem": "10주차 2강 Slide Page 8: '대화하는 상황을 타인과 공유해야 그 의미를 이해할 수 있다' = '④ 지시어는 상대방과 상황을 공유해야 의미를 전달할 수 있다' ('타인 = 상대방')!",
+"vocabList": [
+"지시어: demonstrative word (like '이것')",
+"타인 (= 상대방): other person / conversation partner",
+"공유하다: to share",
+"관심을 끌다: to attract / draw attention",
+"습득하다: to acquire / learn"
 ]
 }
 ]
