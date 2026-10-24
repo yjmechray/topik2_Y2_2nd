@@ -872,460 +872,343 @@
 "9주차 (제64회)": {
 "1강": [
 {
-"passageKo": "[제64회 읽기 10번 도표 — 고등학생 희망 직업 어떻게 달라졌을까?]\n• 조사 대상: 고등학생 10,000명\n• 2008년 순위: 1위 교사, 2위 회사원, 3위 공무원, 4위 간호사, 5위 개인 사업\n• 2018년 순위: 1위 교사, 2위 간호사, 3위 건축가, 4위 공무원, 5위 군인",
-"passageEn": "[64th TOPIK II Reading Q10 Chart — How Have High School Students' Desired Jobs Changed?]\n• 2008 Ranking: 1st Teacher, 2nd Office Worker, 3rd Civil Servant, 4th Nurse, 5th Personal Business\n• 2018 Ranking: 1st Teacher, 2nd Nurse, 3rd Architect, 4th Civil Servant, 5th Soldier",
-"qKo": "1. 다음 그래프의 내용과 같은 것을 고르십시오.",
-"qEn": "Choose the statement that matches the chart.",
+"passageKo": "내비게이션은 목적지까지 길을 안내해 주는 기기이다. 내비게이션이 없이 낯선 곳에 갔다가 길을 못 찾아 (     ) 본 적이 있는 사람이라면 내비게이션이 얼마나 편리한지 느꼈을 것이다. 그러나 우리의 뇌는 스스로 정보를 찾았을 때 그 정보를 오래 기억하는 특성이 있다. 따라서 지나치게 디지털 기기에만 의존하다 보면 정보를 찾고 기억하는 능력이 점점 줄어들어 결국 그 능력을 사용할 수 없게 될지도 모른다.",
+"passageEn": "A navigation system is a device that guides you to your destination. Anyone who has gone to an unfamiliar place without a navigation system and broken into a cold sweat ('진땀을 흘려') because they could not find their way must have felt how convenient a navigation system is. However, our brain has the characteristic of remembering information for a long time when it finds the information on its own. Therefore, if we rely excessively on digital devices, our ability to find and remember information will gradually decrease, and eventually we might become unable to use that ability.",
+"qKo": "21. (     )에 들어갈 알맞은 것을 고르십시오.",
+"qEn": "[9주차 1강 Slide Page 4 — Q21] Choose the appropriate idiom to fill in the blank.",
 "o": [
-"① 1위 순위의 직업이 바뀌었다.",
-"② 공무원은 순위의 변화가 없었다.",
-"③ 군인이 새롭게 5위 안에 들었다.",
-"④ 간호사는 4위로 순위가 떨어졌다."
+"① 앞뒤를 재어",
+"② 진땀을 흘려",
+"③ 발목을 잡아",
+"④ 귀를 기울여"
 ],
 "oEn": [
-"① False: 1st place ('교사') stayed the same in both 2008 and 2018.",
-"② False: Civil servant ('공무원') dropped from 3rd to 4th place.",
-"③ Correct! Soldier ('군인') newly entered the top 5 (at 5th place in 2018).",
-"④ False: Nurse ('간호사') rose from 4th place to 2nd place."
-],
-"a": 2,
-"expKo": "정답: ③ — 2008년 5위는 '개인 사업'이었으나 2018년 5위에 '군인'이 새로 등장했으므로 '③ 군인이 새롭게 5위 안에 들었다'가 일치합니다.",
-"expEn": "In 2018, '군인' (soldier) newly entered the top 5 at 5th place.",
-"mem": "Check 5th place in 2018: '군인' (soldier) newly entered the Top 5 ('새롭게 5위 안에 들었다')!",
-"vocabList": ["희망 직업: desired job", "순위: ranking", "새롭게: newly"]
-},
-{
-"passageKo": "[제64회 읽기 16번 빈칸]\n상담을 통해 책을 추천해 주는 서점이 있어 화제가 되고 있다. 서점 주인은 손님과 오랜 시간 대화를 나눈 후 ( 빈칸 ) 책을 추천해 준다. 상처 받은 사람에게는 위로가 되는 책을, 자신감이 부족한 사람에게는 용기를 주는 책을 추천하는 방식으로 서비스를 제공한다.",
-"passageEn": "[64th TOPIK II Reading Q16 Blank]\nAfter having a long conversation with a customer, the bookstore owner recommends books that ( Blank ). They recommend comforting books to hurt people and encouraging books to those lacking confidence.",
-"qKo": "2. ( 빈칸 )에 들어갈 내용으로 가장 알맞은 것을 고르십시오.",
-"qEn": "Choose the most appropriate expression for the blank.",
-"o": [
-"① 내용이 재미있는",
-"② 지식을 전달하는",
-"③ 사람들이 많이 읽는",
-"④ 손님의 상황에 맞는"
-],
-"oEn": [
-"① 'whose content is fun'",
-"② 'that convey knowledge'",
-"③ 'that people read a lot'",
-"④ Correct! 'suiting the customer's situation' (comfort for the hurt, courage for the unconfident)."
-],
-"a": 3,
-"expKo": "정답: ④ — 상처 받은 사람에게는 위로를, 자신감이 부족한 사람에게는 용기를 주는 책을 추천하므로 '④ 손님의 상황에 맞는'이 정답입니다.",
-"expEn": "Recommending comforting books to hurt people and courage-giving books to those lacking confidence means prescribing books tailored to the customer's situation ('손님의 상황에 맞는').",
-"mem": "Hurt person → comfort book; Unconfident person → courage book = recommending books tailored to the customer's situation ('④ 손님의 상황에 맞는')!",
-"vocabList": ["상담: counseling", "화제가 되다: to become a hot topic", "위로가 되다: to be comforting"]
-},
-{
-"passageKo": "[제64회 읽기 21번 관용어 문제]\n내비게이션이 없이 낯선 곳에 갔다가 길을 못 찾아 ( 21번 빈칸 ) 본 적이 있는 사람이라면 내비게이션이 얼마나 편리한지 느꼈을 것이다.\n[제64회 읽기 26번 신문 기사 제목]\n'침묵 깬 김민수 의원, 대통령 선거 출마설 부인'",
-"passageEn": "[64th TOPIK II Q21 Idiom & Q26 Headline]",
-"qKo": "3. 위 21번 빈칸에 들어갈 관용어와 26번 신문 기사 제목의 풀이로 바르게 짝지어진 것을 고르십시오.",
-"qEn": "Choose the correct pair for Q21 Idiom and Q26 Headline.",
-"o": [
-"① 21번: ① 앞뒤를 재어 / 26번: 대통령 선거에 나가겠다고 최종 발표하였다.",
-"② 21번: ② 진땀을 흘려 / 26번: 김 의원이 대통령 선거에 나간다는 것이 사실이 아니라고 입장을 밝혔다.",
-"③ 21번: ③ 발목을 잡아 / 26번: 질문에 계속 답하지 않고 있다.",
-"④ 21번: ④ 귀를 기울여 / 26번: 출마 선언을 사람들이 환영했다."
-],
-"oEn": [
-"① False.",
-"② Correct! Q21: '② 진땀을 흘려' (sweated bullets when lost) / Q26: '출마설 부인' = denied rumors of running for president ('사실이 아니라고 입장을 밝혔다').",
-"③ False.",
-"④ False."
+"① '앞뒤를 재다' = to weigh pros and cons / calculate ahead and behind",
+"② Correct! '진땀을 흘리다' = to break into a cold sweat / sweat bullets in a difficult or panicky situation",
+"③ '발목을 잡다' = to grab one's ankle / hold back or hinder",
+"④ '귀를 기울이다' = to lend an ear / listen attentively"
 ],
 "a": 1,
-"expKo": "정답: ② — 낯선 곳에서 길을 못 찾아 당황하고 고생할 때 '진땀을 흘리다(② 진땀을 흘려)'를 쓰며, '출마설 부인'은 선거에 나간다는 소문이 사실이 아니라고 밝힌 것입니다. (참고: 25번 '전원 목숨 건져' = 모두 살았다 / 27번 '우주여행 시대 성큼' = 가능성이 더욱 높아졌다)",
-"expEn": "'진땀을 흘리다' = break into a cold sweat when lost; '출마설 부인' = deny the rumor of running in the election.",
-"mem": "Lost without navigation = '② 진땀을 흘려' (break into a cold sweat). '출마설 부인' = denied the election rumor ('사실이 아니라고 입장을 밝혔다')!",
+"expKo": "정답: ② — 내비게이션 없이 낯선 곳에 갔다가 길을 찾지 못해 몹시 당황하고 고생했다는 뜻이므로 '② 진땀을 흘려(진땀을 흘리다)'가 정답입니다.",
+"expEn": "When you get lost in an unfamiliar place ('낯선 곳에 갔다가 길을 못 찾아'), you panic and struggle, which is expressed by the idiom '진땀을 흘리다' (to break into a cold sweat / sweat bullets).",
+"mem": "Slide 1 (Q21): Getting lost in an unfamiliar place without GPS ('낯선 곳에 갔다가 길을 못 찾아') makes you break into a nervous cold sweat ('② 진땀을 흘려')!",
 "vocabList": [
-"진땀을 흘리다: to break into a cold sweat",
-"출마설을 부인하다: to deny rumors of running for office",
-"전원 목숨을 건지다: everyone survives"
+"목적지: destination",
+"낯선 곳: unfamiliar place",
+"진땀을 흘리다: to break into a cold sweat / struggle hard",
+"앞뒤를 재다: to weigh pros and cons",
+"발목을 잡다: to hold back / hinder",
+"귀를 기울이다: to listen attentively"
+]
+},
+{
+"passageKo": "내비게이션은 목적지까지 길을 안내해 주는 기기이다. 내비게이션이 없이 낯선 곳에 갔다가 길을 못 찾아 ( 진땀을 흘려 ) 본 적이 있는 사람이라면 내비게이션이 얼마나 편리한지 느꼈을 것이다. 그러나 우리의 뇌는 스스로 정보를 찾았을 때 그 정보를 오래 기억하는 특성이 있다. 따라서 지나치게 디지털 기기에만 의존하다 보면 정보를 찾고 기억하는 능력이 점점 줄어들어 결국 그 능력을 사용할 수 없게 될지도 모른다.",
+"passageEn": "However, our brain has the characteristic of remembering information for a long time when it finds the information on its own. Therefore, if we rely excessively on digital devices, our ability to find and remember information will gradually decrease, and eventually we might become unable to use that ability.",
+"qKo": "22. 이 글의 중심 생각을 고르십시오.",
+"qEn": "[9주차 1강 Slide Page 5 — Q22] Choose the central thought of this passage.",
+"o": [
+"① 디지털 기기는 편리한 생활을 위해 필요하다.",
+"② 운전자에게 내비게이션은 활용도가 매우 높다.",
+"③ 스스로 정보를 찾고 기억하려는 노력을 해야 한다.",
+"④ 내비게이션을 잘 활용하면 기억력 향상에 도움이 된다."
+],
+"oEn": [
+"① 'Digital devices are necessary for a convenient life.' (Only the intro before '그러나')",
+"② 'Navigation systems have very high utility for drivers.'",
+"③ Correct! 'We must make an effort to find and remember information on our own.'",
+"④ 'Using navigation well helps improve memory.' (Exact opposite of the passage!)"
+],
+"a": 2,
+"expKo": "정답: ③ — '그러나'와 '따라서' 뒤에서 디지털 기기에만 지나치게 의존하면 정보를 찾고 기억하는 능력이 줄어든다고 경고하므로, '③ 스스로 정보를 찾고 기억하려는 노력을 해야 한다'가 중심 생각입니다.",
+"expEn": "Look at the sentences after '그러나' and '따라서': relying solely on digital devices weakens our brain's ability to find and remember information, so we must try to find and remember information on our own ('③ 스스로 정보를 찾고 기억하려는 노력을 해야 한다').",
+"mem": "Slide 2 (Q22): Check '그러나' + '따라서'! Since our brain remembers longer when it finds info on its own ('스스로 정보를 찾았을 때'), we must make an effort to find and remember info ourselves ('③ 스스로 정보를 찾고 기억하려는 노력을 해야 한다')!",
+"vocabList": [
+"특성: characteristic / property",
+"지나치게: excessively",
+"의존하다: to depend / rely on",
+"향상: improvement / enhancement"
+]
+},
+{
+"passageKo": "놀이공원 매표소에서 아르바이트를 했다. 아르바이트가 처음이라 실수를 하지 않으려고 늘 긴장하면서 일을 했다. 어느 날, 놀러 온 한 가족에게 인원수만큼 표를 줬다. 그런데 그 가족을 보내고 나서 이용권 한 장의 값이 더 결제된 것을 알아차렸다. 바로 카드사로 전화해 고객의 전화번호를 물었지만 상담원은 알려 줄 수 없다고 했다. 하지만 내 연락처를 고객에게 전달해 주겠다고 했다. [밑줄] 일을 하는 내내 일이 손에 잡히지 않았다. 퇴근 시간 무렵 드디어 그 가족에게서 전화가 왔다. 내가 한 실수에 화를 낼지도 모른다는 생각에 떨리는 목소리로 상황을 설명하자 그 가족은 '놀이 기구를 타고 노느라 문자 메시지가 온 줄 몰랐어요. 많이 기다렸겠어요.'라고 하며 따뜻하게 말해 주었다.",
+"passageEn": "I worked part-time at an amusement park ticket booth... After sending the family off, I realized that the price of one extra ticket had been charged. I immediately called the credit card company to ask for the customer's phone number, but the agent said they could not tell me. However, they said they would forward my contact information to the customer. [Underlined] Throughout the entire time I was working, I could not concentrate on my work ('일이 손에 잡히지 않았다')...",
+"qKo": "23. 밑줄 부분('일을 하는 내내 일이 손에 잡히지 않았다')에 나타난 '나'의 심정으로 알맞은 것을 고르십시오.",
+"qEn": "[9주차 1강 Slide Page 6 — Q23] Choose the appropriate feeling of 'I' shown in the underlined part.",
+"o": [
+"① 걱정스럽다",
+"② 불만스럽다",
+"③ 후회스럽다",
+"④ 당황스럽다"
+],
+"oEn": [
+"① Correct! 'worried / anxious' (anxiously waiting for the customer to call and worried they might get angry about the overcharge)",
+"② 'dissatisfied / displeased'",
+"③ 'regretful'",
+"④ 'flustered / bewildered'"
+],
+"a": 0,
+"expKo": "정답: ① — 이용권 한 장 값을 더 결제하는 실수를 한 뒤 고객에게서 연락이 올 때까지 불안하고 초조해서 '일이 손에 잡히지 않았다(집중할 수 없었다)'고 했으므로 '① 걱정스럽다'가 가장 알맞습니다.",
+"expEn": "'일이 손에 잡히지 않다' means being so worried and anxious ('내가 한 실수에 화를 낼지도 모른다는 생각에') that you cannot focus on work = '① 걱정스럽다' (worried/anxious).",
+"mem": "Slide 3 (Q23): '일이 손에 잡히지 않았다' (couldn't focus on work while waiting for the customer's call, fearing they might be angry) = '① 걱정스럽다' (worried/anxious)!",
+"vocabList": [
+"매표소: ticket booth",
+"결제되다: to be charged / paid",
+"알아차리다: to notice / realize",
+"일이 손에 잡히지 않다: cannot concentrate on work (due to worry)",
+"걱정스럽다: to feel worried / anxious"
+]
+},
+{
+"passageKo": "놀이공원 매표소에서 아르바이트를 했다. 아르바이트가 처음이라 실수를 하지 않으려고 늘 긴장하면서 일을 했다. 어느 날, 놀러 온 한 가족에게 인원수만큼 표를 줬다. 그런데 그 가족을 보내고 나서 이용권 한 장의 값이 더 결제된 것을 알아차렸다. 바로 카드사로 전화해 고객의 전화번호를 물었지만 상담원은 알려 줄 수 없다고 했다. 하지만 내 연락처를 고객에게 전달해 주겠다고 했다. 일을 하는 내내 일이 손에 잡히지 않았다. 퇴근 시간 무렵 드디어 그 가족에게서 전화가 왔다. 내가 한 실수에 화를 낼지도 모른다는 생각에 떨리는 목소리로 상황을 설명하자 그 가족은 '놀이 기구를 타고 노느라 문자 메시지가 온 줄 몰랐어요. 많이 기다렸겠어요.'라고 하며 따뜻하게 말해 주었다.",
+"passageEn": "...I immediately called the credit card company to ask for the customer's phone number, but the agent said they could not tell me. However, they said they would forward my contact information to the customer... Around quitting time, a call finally came from that family... The family said warmly, 'We were riding amusement park rides and playing, so we didn't know a text message had come. You must have waited a long time.'",
+"qKo": "24. 위 글의 내용과 같은 것을 고르십시오.",
+"qEn": "[9주차 1강 Slide Page 7 — Q24] Choose the statement that matches the content of the passage.",
+"o": [
+"① 그 가족은 나에게 화를 냈다.",
+"② 카드 회사는 그 가족에게 연락을 했다.",
+"③ 나는 그 가족에게 직접 전화를 걸었다.",
+"④ 나는 그 가족을 찾아다니느라 일을 못 했다."
+],
+"oEn": [
+"① False: The family spoke warmly ('따뜻하게 말해 주었다'), not angrily.",
+"② Correct! 'The credit card company contacted the family' (via text message: '내 연락처를 고객에게 전달해 주겠다고 했다' / '문자 메시지가 온 줄 몰랐어요').",
+"③ False: The family called the narrator ('그 가족에게서 전화가 왔다').",
+"④ False: The narrator stayed at work but couldn't focus ('일을 하는 내내 일이 손에 잡히지 않았다')."
+],
+"a": 1,
+"expKo": "정답: ② — 카드사 상담원이 '내 연락처를 고객에게 전달해 주겠다고 했다'고 했고, 나중에 가족이 '문자 메시지가 온 줄 몰랐어요'라고 말했으므로 '② 카드 회사는 그 가족에게 연락을 했다'가 일치합니다.",
+"expEn": "The credit card company sent a text message ('문자 메시지') with the narrator's contact info to the family, so '② 카드 회사는 그 가족에게 연락을 했다' is true!",
+"mem": "Slide 4 (Q24): Who contacted whom? 1) Credit card company sent a text message to the family ('② 카드 회사는 그 가족에게 연락을 했다' = TRUE), 2) Then the family called '나' at quitting time!",
+"vocabList": [
+"상담원: customer service agent",
+"전달하다: to forward / deliver / pass on",
+"퇴근 시간 무렵: around quitting time"
+]
+},
+{
+"passageKo": "[신문 기사 제목]\n관광버스 추락, 안전벨트로 승객 전원 목숨 건져",
+"passageEn": "[Newspaper Headline]\nTour Bus Plunges/Falls, All Passengers ('승객 전원') Save Their Lives ('목숨 건져') Thanks to Seatbelts",
+"qKo": "25. 다음은 신문 기사의 제목입니다. 가장 잘 설명한 것을 고르십시오.",
+"qEn": "[9주차 1강 Slide Page 8 — Q25] Choose the statement that best explains the newspaper headline.",
+"o": [
+"① 관광버스가 추락했지만 승객들이 안전벨트 덕분에 모두 살았다.",
+"② 관광버스 추락 사고 이후 안전벨트를 하는 승객이 더 많아졌다.",
+"③ 관광버스가 추락하자 일부 승객이 안전벨트를 풀고 탈출하였다.",
+"④ 관광버스가 추락하면서 안전벨트를 한 일부 승객이 크게 다쳤다."
+],
+"oEn": [
+"① Correct! 'Although the tour bus fell, all the passengers survived thanks to their seatbelts.' ('전원' = 모두, '목숨 건져' = 살았다).",
+"② 'After the tour bus crash, more passengers wore seatbelts.'",
+"③ 'When the tour bus fell, some passengers unbuckled their seatbelts and escaped.'",
+"④ 'As the tour bus fell, some passengers wearing seatbelts were seriously injured.'"
+],
+"a": 0,
+"expKo": "정답: ① — '승객 전원(승객 모두)' + '목숨을 건지다(죽을 고비에서 살아나다 = 살았다)'이므로 '① 관광버스가 추락했지만 승객들이 안전벨트 덕분에 모두 살았다'가 정답입니다.",
+"expEn": "'전원' = everyone/all ('모두'), and '목숨을 건지다' = save one's life / survive ('살았다').",
+"mem": "Slide 5 (Q25 Headline): '전원' = all ('모두') + '목숨 건져' = saved their lives / survived ('살았다') → Choice ①!",
+"vocabList": [
+"추락하다: to fall / plunge / crash",
+"전원: all members / everyone (= 모두)",
+"목숨을 건지다: to save one's life / survive (= 살다)"
+]
+},
+{
+"passageKo": "[신문 기사 제목]\n침묵 깬 김민수 의원, 대통령 선거 출마설 부인",
+"passageEn": "[Newspaper Headline]\nAssemblyman Kim Min-soo Breaks Silence ('침묵 깬'), Denies ('부인') Rumors of Running in the Presidential Election ('대통령 선거 출마설')",
+"qKo": "26. 다음은 신문 기사의 제목입니다. 가장 잘 설명한 것을 고르십시오.",
+"qEn": "[9주차 1강 Slide Page 9 — Q26] Choose the statement that best explains the newspaper headline.",
+"o": [
+"① 김 의원이 대통령 선거에 나가느냐는 질문에 계속 답하지 않고 있다.",
+"② 김 의원이 마음을 바꾸어 대통령 선거에 나가겠다고 최종 발표하였다.",
+"③ 김 의원이 대통령 선거에 나간다고 선언하자 사람들이 열렬히 환영했다.",
+"④ 김 의원이 대통령 선거에 나간다는 것이 사실이 아니라고 입장을 밝혔다."
+],
+"oEn": [
+"① False: '침묵 깬' means he broke his silence and spoke up (did NOT stay silent).",
+"② False: '부인' means denied, not announced he would run.",
+"③ False: He did not declare he would run.",
+"④ Correct! 'Assemblyman Kim stated his position that the rumor of his running in the presidential election is not true.' ('출마설 부인' = '선거에 나간다는 것이 사실이 아니라고 밝혔다')."
+],
+"a": 3,
+"expKo": "정답: ④ — '침묵을 깨다(그동안 말하지 않다가 입장을 밝히다)' + '출마설 부인(선거에 나간다는 소문이 사실이 아니라고 부정하다)'이므로 ④가 정답입니다.",
+"expEn": "'침묵 깬' = broke silence and stated his position ('입장을 밝혔다'); '출마설 부인' = denied the rumor of running for election ('선거에 나간다는 것이 사실이 아니라고').",
+"mem": "Slide 6 (Q26 Headline): '침묵 깬' = broke silence ('입장을 밝혔다') + '출마설 부인' = denied the rumor of running in the election ('사실이 아니라고') → Choice ④!",
+"vocabList": [
+"침묵을 깨다: to break silence",
+"출마설: rumor of running for election",
+"부인하다: to deny (= 사실이 아니라고 밝히다)"
+]
+},
+{
+"passageKo": "[신문 기사 제목]\n민간 우주선 무사 귀환, 우주여행 시대 '성큼'",
+"passageEn": "[Newspaper Headline]\nPrivate Spacecraft Returns Safely ('무사 귀환'), Era of Space Travel One Giant Step Closer ('성큼')",
+"qKo": "27. 다음은 신문 기사의 제목입니다. 가장 잘 설명한 것을 고르십시오.",
+"qEn": "[9주차 1강 Slide Page 10 — Q27] Choose the statement that best explains the newspaper headline.",
+"o": [
+"① 사람들의 응원 속에 민간 우주선이 긴 우주여행을 마치고 돌아왔다.",
+"② 사람들은 민간 우주선이 우주여행에서 무사히 돌아오기를 기대했다.",
+"③ 민간 우주선이 무사히 돌아오면서 우주여행의 가능성이 더욱 높아졌다.",
+"④ 민간 우주선이 돌아오지 않자 우주여행에 대한 우려의 목소리가 커졌다."
+],
+"oEn": [
+"① Trap: Mentions cheering ('응원') and finishing a long space trip, missing the future meaning of '우주여행 시대 성큼'.",
+"② Past expectation ('기대했다').",
+"③ Correct! 'As the 민간 우주선 returned safely, the possibility of space travel became even higher.' ('무사 귀환' = 무사히 돌아오면서, '시대 성큼' = 가능성이 더욱 높아졌다).",
+"④ Opposite ('돌아오지 않자' - failed to return)."
+],
+"a": 2,
+"expKo": "정답: ③ — '무사 귀환(사고 없이 무사히 돌아옴)' + '우주여행 시대 성큼(우주여행 시대가 아주 가까이 다가옴 = 가능성이 더욱 높아졌다)'이므로 ③이 정답입니다.",
+"expEn": "'무사 귀환' = returned safely ('무사히 돌아오면서'); '우주여행 시대 성큼' = the era of space travel has stepped much closer, meaning its possibility increased ('가능성이 더욱 높아졌다').",
+"mem": "Slide 7 (Q27 Headline): '무사 귀환' = returned safely ('무사히 돌아오면서') + '성큼' = taking a big stride closer ('가능성이 더욱 높아졌다') → Choice ③!",
+"vocabList": [
+"민간 우주선: private/commercial spacecraft",
+"무사 귀환: safe return (= 무사히 돌아오다)",
+"성큼: with a big stride / much closer (= 가능성이 높아지다)"
 ]
 }
 ],
 "2강": [
 {
-"passageKo": "[제64회 읽기 28번 & 29번 빈칸]\n28. 새해에 세운 목표를 효과적으로 이루려면 한 주 단위로 계획을 세우는 것이 좋다. 주마다 계획을 세우면 ( 28번 빈칸 ) 때문이다. '건강한 식습관 기르기'라는 새해 결심이 한 주 단위가 되면 '라면 안 먹기', '채소 챙겨 먹기'처럼 구체적인 계획으로 바뀐다.\n29. 무지개는 빛이 공기 중의 물방울을 통과할 때 굴절되어 나타나는 현상이다. 이때 ( 29번 빈칸 ) 않으면 무지개가 만들어지기 어렵다. 공기에 먼지 등의 오염 물질이 섞이면 물방울들이 먼지 주위로 모여 빛이 통과하는 것을 막기 때문이다.",
-"passageEn": "[64th TOPIK II Reading Q28 Weekly Plans & Q29 Rainbow Refraction]",
-"qKo": "1. 위 28번과 29번 빈칸에 들어갈 말로 가장 알맞은 짝을 고르십시오.",
-"qEn": "Choose the correct pair for Blank 28 and Blank 29.",
+"passageKo": "새해에 세운 목표를 효과적으로 이루려면 한 주 단위로 계획을 세우는 것이 좋다. 주마다 계획을 세우면 (     ) 때문이다. '건강한 식습관 기르기'라는 새해 결심이 한 주 단위가 되면 '라면 안 먹기', '채소 챙겨 먹기'처럼 구체적인 계획으로 바뀐다. 이렇게 하면 작은 목표를 달성하는 횟수가 늘어 한 해의 목표에 가까워진다.",
+"passageEn": "To effectively achieve a goal set in the New Year, it is good to set plans on a weekly basis. This is because if you set plans every week, ( Blank ). When a New Year's resolution like 'cultivating healthy eating habits' becomes a weekly unit, it turns into concrete plans like 'not eating ramyeon' and 'making sure to eat vegetables.' Doing this increases the number of times you achieve small goals, bringing you closer to your yearly goal.",
+"qKo": "1. 다음을 읽고 (     )에 들어갈 내용으로 가장 알맞은 것을 고르십시오.",
+"qEn": "[9주차 2강 Slide Page 4 — 기출문제 ① (1)] Choose the most appropriate expression for the blank.",
 "o": [
-"① 28번: ① 한 해의 목표를 확인하기 / 29번: ① 해가 뜨지",
-"② 28번: ② 계획을 세우는 데 집중하기 / 29번: ② 비가 그치지",
-"③ 28번: ③ 자신의 능력을 보여 줄 수 있기 / 29번: ③ 빛이 약하지",
-"④ 28번: ④ 실천 가능한 계획을 세울 수 있기 / 29번: ④ 공기가 깨끗하지"
+"① 한 해의 목표를 확인하기",
+"② 계획을 세우는 데 집중하기",
+"③ 자신의 능력을 보여 줄 수 있기",
+"④ 실천 가능한 계획을 세울 수 있기"
 ],
 "oEn": [
-"① False.",
-"② False.",
-"③ False.",
-"④ Correct! Q28: '④ 실천 가능한 계획을 세울 수 있기' (setting actionable weekly plans) / Q29: '④ 공기가 깨끗하지' (+ 않으면 = if the air is not clean, because dust/pollutants block light)."
+"① 'checking the yearly goal'",
+"② 'focusing on making plans'",
+"③ 'being able to show one's ability'",
+"④ Correct! 'being able to set practicable/actionable plans' (like 'not eating ramyeon' and 'eating vegetables')."
 ],
 "a": 3,
-"expKo": "정답: ④ — 28번은 주 단위로 쪼개면 '라면 안 먹기'처럼 당장 행동할 수 있는 '④ 실천 가능한 계획을 세울 수 있기' 때문이고, 29번은 공기에 먼지 등 오염 물질이 섞이면 빛이 통과하지 못하므로 '④ 공기가 깨끗하지 (않으면)' 무지개가 생기기 어렵다는 뜻입니다.",
-"expEn": "Q28 = '실천 가능한 계획' (actionable plan); Q29 = '공기가 깨끗하지 않으면' (if the air is not clean).",
-"mem": "Q28 Weekly goals = doable plans ('④ 실천 가능한 계획을 세울 수 있기'). Q29 Dust/pollutants ('오염 물질') in air = '④ 공기가 깨끗하지 않으면'!",
+"expKo": "정답: ④ — 뒷문장에서 '라면 안 먹기', '채소 챙겨 먹기'처럼 당장 행동으로 옮길 수 있는 구체적인 계획으로 바뀐다고 설명하므로 '④ 실천 가능한 계획을 세울 수 있기'가 정답입니다.",
+"expEn": "Breaking a big resolution into weekly plans turns it into concrete, doable actions ('구체적인 계획'), which matches '④ 실천 가능한 계획을 세울 수 있기' (being able to set actionable plans).",
+"mem": "9주차 2강 Slide 1: Turning 'Healthy eating' into weekly goals like 'No ramyeon' and 'Eat vegetables' = setting concrete, actionable plans ('④ 실천 가능한 계획을 세울 수 있기')!",
 "vocabList": [
-"실천 가능한 계획: practicable / actionable plan",
+"한 주 단위: weekly basis / unit",
+"새해 결심: New Year's resolution",
+"구체적인 계획: concrete / specific plan",
+"실천 가능한: practicable / actionable",
+"달성하다: to achieve (a goal)"
+]
+},
+{
+"passageKo": "무지개는 빛이 공기 중의 물방울을 통과할 때 굴절되어 나타나는 현상이다. 그래서 비가 그친 직후 해가 뜰 때 무지개가 잘 생긴다. 이때 (     ) 않으면 무지개가 만들어지기 어렵다. 공기에 먼지 등의 오염 물질이 섞이면 물방울들이 먼지 주위로 모여 빛이 통과하는 것을 막기 때문이다.",
+"passageEn": "A rainbow is a phenomenon that appears when light is refracted as it passes through water droplets in the air. Therefore, rainbows form well when the sun comes out right after it stops raining. At this time, if ( Blank ) not, it is difficult for a rainbow to be formed. This is because if pollutants such as dust are mixed in the air, water droplets gather around the dust and block the light from passing through.",
+"qKo": "2. 다음을 읽고 (     )에 들어갈 내용으로 가장 알맞은 것을 고르십시오.",
+"qEn": "[9주차 2강 Slide Page 5 — 기출문제 ① (2)] Choose the most appropriate expression for the blank.",
+"o": [
+"① 해가 뜨지",
+"② 비가 그치지",
+"③ 빛이 약하지",
+"④ 공기가 깨끗하지"
+],
+"oEn": [
+"① 'the sun does not rise'",
+"② 'the rain does not stop'",
+"③ 'the light is not weak'",
+"④ Correct! 'the air is not clean' (+ 않으면 = if the air is not clean, because dust/pollutants block the light)."
+],
+"a": 3,
+"expKo": "정답: ④ — 바로 뒷문장에서 '공기에 먼지 등의 오염 물질이 섞이면 빛이 통과하는 것을 막기 때문'이라고 이유를 설명하므로, '④ 공기가 깨끗하지 (않으면)'이 정답입니다.",
+"expEn": "Look at the '때문이다' sentence right after the blank: when dust and pollutants ('먼지 등의 오염 물질') mix into the air, they block light. Thus, if the air is not clean ('④ 공기가 깨끗하지 않으면'), a rainbow cannot form easily!",
+"mem": "9주차 2강 Slide 2: Check the sentence after the blank! '공기에 먼지 등의 오염 물질이 섞이면' (if dust/pollutants mix into the air) = if the air is NOT clean ('④ 공기가 깨끗하지 않으면')!",
+"vocabList": [
+"통과하다: to pass through",
 "굴절되다: to be refracted",
-"오염 물질: pollutants"
-]
-}
-]
-},
-"10주차 (제83회)": {
-"1강": [
-{
-"passageKo": "[제83회 읽기 16~17번 빈칸 & 21번 관용어]\n16. 필름형 스피커는 종이보다 얇고 투명해서 ( 16번: ③ 다양한 물건에 붙여 ) 사용할 수 있다.\n17. 여권은 한 국가의 정체성과 문화를 드러내기도 한다. 그래서 많은 국가들은 여권의 ( 17번: ③ 디자인을 신중하게 ) 결정한다.\n21. 소방관은 재난 현장에서 끔찍한 상황을 자주 접하기 때문에 정신 건강에 위험이 따른다. 최근 이러한 문제가 심각해지자 인주시가 해결을 위해 ( 21번 빈칸 ).",
-"passageEn": "[83rd TOPIK II Reading Q16 Film Speaker, Q17 Passport Design, & Q21 Idiom]",
-"qKo": "1. 위 21번 빈칸에 들어갈 알맞은 관용어를 고르십시오.",
-"qEn": "Choose the appropriate idiom for Blank 21.",
-"o": [
-"① 등 떠밀었다 (등 떠밀다)",
-"② 눈을 맞췄다 (눈을 맞추다)",
-"③ 발 벗고 나섰다 (발 벗고 나서다)",
-"④ 손에 땀을 쥐었다 (손에 땀을 쥐다)"
-],
-"oEn": [
-"① '등 떠밀다' = to push/force someone from behind",
-"② '눈을 맞추다' = to make eye contact",
-"③ Correct! '발 벗고 나서다' = to throw off one's shoes and step up actively to solve a problem",
-"④ '손에 땀을 쥐다' = to be on the edge of one's seat with tension"
-],
-"a": 2,
-"expKo": "정답: ③ — 문제를 해결하거나 남을 돕기 위해 적극적으로 앞장설 때 '③ 발 벗고 나섰다'를 씁니다. (16번 정답: ③ 다양한 물건에 붙여 / 17번 정답: ③ 디자인을 신중하게)",
-"expEn": "'발 벗고 나서다' means to step forward actively to help solve a problem.",
-"mem": "Compare Foot Idioms: '발을 빼다' (Week 6) = pull foot out (quit/withdraw) vs. '③ 발 벗고 나서다' (Week 10) = take off shoes and jump in to help actively!",
-"vocabList": [
-"발 벗고 나서다: to actively step forward to help/solve",
-"손에 땀을 쥐다: to be on the edge of one's seat",
-"신중하게: carefully / prudently"
+"직후: immediately after",
+"오염 물질: pollutants / contaminants"
 ]
 },
 {
-"passageKo": "[제83회 읽기 25~27번 신문 기사 제목]\n25. 드라마 '진실' 인기 효과, 원작 베스트셀러 1위\n26. 기습 폭우에 차량 '엉금엉금', 출근길 정체\n27. 온라인 거래 사기 급증, 정부 대책 마련은 미흡",
-"passageEn": "[83rd TOPIK II Reading Q25-27 Newspaper Headlines]",
-"qKo": "2. 위 26번과 27번 신문 기사 제목의 설명으로 옳은 것을 고르십시오.",
-"qEn": "Choose the correct explanation of Headlines 26 and 27.",
+"passageKo": "병원의 규모에 따라 개인이 부담해야 하는 약값을 달리하는 제도가 생겼다. 감기와 같이 비교적 가벼운 병에 걸렸을 때 종합병원에서 진료를 받으면 (     ) 만든 것이다. 같은 약을 동네 의원에서 받은 처방전으로 사게 되면 약값이 더 적게 나온다. 이 제도를 통해 환자들이 진료에 대한 신뢰 때문에 종합병원으로만 몰리는 현상을 줄일 수 있을 것으로 예상된다.",
+"passageEn": "A system has been created that varies the medicine cost an individual must bear depending on the size of the hospital. When someone catches a relatively mild illness like a cold and receives treatment at a general hospital, it is designed to make ( Blank ). If you buy the same medicine with a prescription received from a neighborhood clinic, the medicine cost comes out lower. Through this system, the phenomenon of patients flocking only to general hospitals is expected to decrease.",
+"qKo": "3. 다음을 읽고 (     )에 들어갈 내용으로 가장 알맞은 것을 고르십시오.",
+"qEn": "[9주차 2강 Slide Page 6 — 기출문제 ① (3)] Choose the most appropriate expression for the blank.",
 "o": [
-"① 26번: 큰비에 차량 사고가 잇따르면서 대중교통 이용자가 몰렸다.",
-"② 26번: 갑자기 많이 쏟아진 비(기습 폭우)로 차들이 천천히 운행(엉금엉금)하면서 출근길이 막혔다(정체).",
-"③ 27번: 온라인 거래 사기를 막기 위해 마련한 정부의 대책이 큰 효과를 거두었다.",
-"④ 27번: 온라인 거래 사기는 줄었지만 정부의 대책 마련이 아직 부족하다."
+"① 환자가 약값을 조금 더 내게",
+"② 개인이 약값을 비교할 수 있게",
+"③ 병원에서 병원비를 올리지 못하게",
+"④ 병원비의 일부를 병원에서 지원하게"
 ],
 "oEn": [
-"① False.",
-"② Correct! '기습 폭우' = sudden heavy rain, '엉금엉금' = driving slowly, '정체' = traffic congestion ('막혔다').",
-"③ False: '미흡' means insufficient ('충분하지 않다').",
-"④ False: '급증' means surged ('늘었지만')."
-],
-"a": 1,
-"expKo": "정답: ② — 26번 '기습 폭우(갑자기 쏟아진 비) + 엉금엉금(천천히 운행) + 정체(길이 막힘)'이며, 27번 정답은 ① '온라인 거래 사기가 늘었지만(급증) 정부의 대책 마련은 충분하지 않다(미흡)'입니다.",
-"expEn": "'기습 폭우' = sudden heavy rain; '엉금엉금' = crawling slowly; '정체' = traffic jam; '미흡' = insufficient ('충분하지 않다').",
-"mem": "83rd TOPIK Headline Trio: 1) '기습 폭우' = sudden heavy rain, 2) '엉금엉금' = crawling slowly ('천천히 운행'), 3) '미흡' = insufficient ('충분하지 않다')!",
-"vocabList": [
-"기습 폭우: sudden torrential rain",
-"엉금엉금: crawling slowly (= 천천히)",
-"정체: traffic congestion (= 길이 막히다)",
-"미흡하다: to be insufficient (= 충분하지 않다)"
-]
-}
-],
-"2강": [
-{
-"passageKo": "[제83회 읽기 28~29번 빈칸]\n28. 최근 한국의 편의점 업체가 해외로 진출하면서 현지에서 큰 인기를 끌고 있다. 인테리어에서 판매 상품까지 ( 28번 빈칸 ) 전략을 썼기 때문이다. 보통 마트가 해외에 진출할 때는 현지인의 취향에 맞추려고 하는데 이 편의점 업체는 이와 반대되는 방법을 써서 성공한 것이다.\n29. 고대 이집트 피라미드를 건축할 때 거대한 바위를 모래 위에서 운반해야 했는데 이를 위해서는 ( 29번 빈칸 ) 기술이 중요했다. 모래에 수분이 일정하게 유지되면 모랫길이 단단해져서 운반이 수월했기 때문이다.",
-"passageEn": "[83rd TOPIK II Reading Q28 Korean Convenience Stores & Q29 Pyramid Sand Transport]",
-"qKo": "1. 위 28번과 29번 빈칸에 들어갈 말로 가장 알맞은 짝을 고르십시오.",
-"qEn": "Choose the correct pair for Blank 28 and Blank 29.",
-"o": [
-"① 28번: ④ 한국 편의점을 그대로 재현하는 / 29번: ① 적정량의 물을 뿌리는",
-"② 28번: ① 편의점의 특성을 최대한 감추는 / 29번: ② 모래를 부드럽게 만드는",
-"③ 28번: ② 판매자의 기호에 맞추는 / 29번: ③ 바위의 무게를 계산하는",
-"④ 28번: ③ 빠뜨리지 않고 홍보하는 / 29번: ④ 운반하는 사람들을 배치하는"
-],
-"oEn": [
-"① Correct! Q28: '④ 한국 편의점을 그대로 재현하는' (recreating Korean convenience stores as they are) / Q29: '① 적정량의 물을 뿌리는' (sprinkling an appropriate amount of water).",
-"② False.",
-"③ False.",
-"④ False."
+"① Correct! 'make the patient pay a little more for medicine' (contrasts with '동네 의원에서 받은 처방전으로 사게 되면 약값이 더 적게 나온다').",
+"② 'enable individuals to compare medicine prices'",
+"③ 'prevent hospitals from raising medical fees'",
+"④ 'make hospitals subsidize part of the medical fees'"
 ],
 "a": 0,
-"expKo": "정답: ① — 28번은 '현지인의 취향에 맞추는 것과 반대되는 방법'이므로 '④ 한국 편의점을 그대로 재현하는'이고, 29번은 '모래에 수분이 일정하게 유지되면 모랫길이 단단해진다'고 했으므로 '① 적정량의 물을 뿌리는'이 정답입니다.",
-"expEn": "Q28 = recreating the Korean convenience store as is ('한국 편의점을 그대로 재현하는'); Q29 = sprinkling the right amount of water ('적정량의 물을 뿌리는').",
-"mem": "Q28 Opposite of localizing = recreating Korean convenience stores as is ('한국 편의점을 그대로 재현하는'). Q29 Moisture ('수분') makes sand firm ('단단하다') = sprinkling the right amount of water ('적정량의 물을 뿌리는')!",
+"expKo": "정답: ① — 뒷문장에서 '같은 약을 동네 의원에서 받은 처방전으로 사게 되면 약값이 더 적게 나온다'고 했으므로, 반대로 가벼운 병으로 큰 종합병원에 가면 '① 환자가 약값을 조금 더 내게' 만든 제도입니다.",
+"expEn": "Look at the next sentence: buying the same medicine with a neighborhood clinic ('동네 의원') prescription costs LESS ('약값이 더 적게 나온다'). Therefore, going to a big general hospital ('종합병원') for a mild cold makes the patient pay MORE for medicine ('① 환자가 약값을 조금 더 내게')!",
+"mem": "9주차 2강 Slide 3: Neighborhood clinic ('동네 의원') = medicine costs LESS ('약값이 더 적게 나온다') ↔ Big general hospital ('종합병원') for a cold = patient pays MORE ('① 환자가 약값을 조금 더 내게')!",
 "vocabList": [
-"그대로 재현하다: to recreate / reproduce as is",
-"적정량: appropriate amount",
-"수월하다: to be easy / smooth"
-]
-}
-]
-},
-"11주차 (제91회)": {
-"1강": [
-{
-"passageKo": "[제91회 읽기 16~17번 빈칸 & 21번 관용어]\n16. 타조는 멀리서 적이 다가와도 머리를 모래에 파묻고 있다. 사실 타조는 ( 16번: ① 적의 움직임을 알기 ) 위해 이런 행동을 한다. 땅에서 울리는 발소리를 듣고 적이 오는지를 파악하려는 것이다.\n17. 수건처럼 물기를 빠르게 흡수해야 하는 소재에는 섬유 유연제를 넣는 것이 좋은 것만은 아니다. 유연제가 만든 막이 오히려 섬유의 ( 17번: ③ 흡수력을 떨어뜨리기 ) 때문이다.\n21. 일부 전시 관계자들이 복제품 전시임을 밝히지 않고 입장료 수입만을 챙기는 행태가 미술계 발전의 ( 21번 빈칸 ) 수 있다고 우려한다.",
-"passageEn": "[91st TOPIK II Reading Q16 Ostrich, Q17 Fabric Softener, & Q21 Idiom]",
-"qKo": "1. 위 21번 빈칸에 들어갈 알맞은 관용어를 고르십시오.",
-"qEn": "Choose the appropriate idiom for Blank 21.",
-"o": [
-"① 입맛에 맞을 (입맛에 맞다)",
-"② 가슴을 울릴 (가슴을 울리다)",
-"③ 발목을 잡을 (발목을 잡다)",
-"④ 손을 맞잡을 (손을 맞잡다)"
-],
-"oEn": [
-"① to suit one's taste",
-"② to touch/move one's heart deeply",
-"③ Correct! '발목을 잡다' = to grab one's ankle / hold back or hinder development",
-"④ to join hands / cooperate"
-],
-"a": 2,
-"expKo": "정답: ③ — 발전이나 앞으로 나아가는 것을 방해하고 막는다는 뜻의 관용어는 '발목을 잡다(③ 발목을 잡을)'입니다.",
-"expEn": "'발목을 잡다' means to hinder or hold back progress ('미술계 발전의 발목을 잡을 수 있다').",
-"mem": "If someone grabs your ankle ('발목을 잡다'), you can't run forward = holding back/hindering development! (Also remember Q16 Ostrich = '① 적의 움직임을 알기' & Q17 Towel = '③ 흡수력을 떨어뜨리기').",
-"vocabList": [
-"발목을 잡다: to hold back / hinder progress",
-"흡수력을 떨어뜨리다: to lower absorbency",
-"파묻다: to bury"
+"규모: scale / size",
+"부담하다: to bear / shoulder (a cost)",
+"종합병원 ↔ 동네 의원: general hospital ↔ neighborhood clinic",
+"처방전: medical prescription",
+"몰리다: to flock / crowd into one place"
 ]
 },
 {
-"passageKo": "[제91회 읽기 25~27번 신문 기사 제목]\n25. 가수 진영, 3년 만의 콘서트에 구름 관중\n26. 한국 탁구의 간판 김수미, 올해 국제 대회 금메달 싹쓸이\n27. 대출 금리 하락세, 부동산 시장 기지개",
-"passageEn": "[91st TOPIK II Reading Q25-27 Newspaper Headlines]",
-"qKo": "2. 위 25, 26, 27번 신문 기사 제목의 핵심 어휘 풀이로 옳은 것을 고르십시오.",
-"qEn": "Choose the correct explanation of Headlines 25, 26, and 27.",
+"passageKo": "저축의 방식을 가로 저축과 세로 저축으로 나눠 비유하여 설명할 수 있다. 차량 구입이나 주택 마련과 같이 특정 목적을 위해 한 통장에 집중하여 저축하는 것이 세로 저축이다. 반면 장기적으로 다양한 목적에 따라 자금을 여러 통장에 분산하여 저축하는 것을 가로 저축이라고 한다. 단기적으로 빨리 목돈을 만들고 싶다면 세로 저축을, 은퇴 후의 생활까지 고려한다면 가로 저축을 선택하는 것이 좋다.",
+"passageEn": "Methods of saving can be explained metaphorically by dividing them into horizontal saving ('가로 저축') and vertical saving ('세로 저축'). Concentrating savings into a single bankbook for a specific purpose, such as buying a car or purchasing a home, is vertical saving ('세로 저축'). On the other hand, dividing funds across multiple bankbooks according to various long-term purposes is called horizontal saving ('가로 저축'). If you want to quickly make a lump sum in the short term, it is good to choose vertical saving; if you consider life after retirement, it is good to choose horizontal saving.",
+"qKo": "4. 다음을 읽고 내용이 같은 것을 고르십시오.",
+"qEn": "[9주차 2강 Slide Page 7 — 기출문제 ① (4)] Choose the statement that matches the content of the passage.",
 "o": [
-"① 25번 '구름 관중': 콘서트를 열었으나 관중의 호응이 적었다.",
-"② 26번 '금메달 싹쓸이': 올해 국제 대회에서 금메달을 따기 위해 훈련 중이다.",
-"③ 27번 '대출 금리 하락세, 부동산 시장 기지개': 대출 금리가 떨어지면서 부동산 시장이 살아나기 시작했다.",
-"④ 27번 '부동산 시장 기지개': 대출 금리가 하락했지만 부동산 시장의 거래는 줄어들고 있다."
+"① 노후 준비에는 세로 저축이 유리하다.",
+"② 세로 저축보다 가로 저축을 하는 것이 더 좋다.",
+"③ 저축의 목적이 다양하면 가로 저축이 유용하다.",
+"④ 가로 저축은 단기적인 계획이 있을 때 효율적이다."
 ],
 "oEn": [
-"① False: '구름 관중' means a huge crowd gathered ('수많은 관중이 몰렸다').",
-"② False: '싹쓸이' means she won ALL the gold medals ('모두 금메달을 땄다').",
-"③ Correct! '하락세' = falling ('떨어지면서'), '기지개' = waking up / beginning to revive ('살아나기 시작했다')!",
-"④ Opposite of '기지개'."
+"① False: For retirement/old age ('은퇴 후의 생활 = 노후 준비'), horizontal saving ('가로 저축') is recommended.",
+"② False: Neither is unconditionally better; it depends on your goal.",
+"③ Correct! 'If the purposes of saving are diverse, horizontal saving is useful.' ('다양한 목적에 따라 자금을 여러 통장에 분산하여 저축하는 것을 가로 저축이라고 한다').",
+"④ False: Short-term ('단기적') lump-sum saving is vertical saving ('세로 저축')."
 ],
 "a": 2,
-"expKo": "정답: ③ — 25번 '구름 관중' = 수많은 관중이 몰렸다(①), 26번 '간판(대표 선수) + 싹쓸이(모두 땄다)'(③), 27번 '하락세(떨어지면서) + 기지개(시장이 살아나기 시작했다)'(①)입니다!",
-"expEn": "1) '구름 관중' = huge crowd gathered like clouds; 2) '간판 + 싹쓸이' = representative ace swept all medals; 3) '기지개' = market beginning to revive ('살아나기 시작했다')!",
-"mem": "91st TOPIK Headline Trio: 1) '구름 관중' = huge crowd ('수많은 관중이 몰렸다'), 2) '싹쓸이' = swept ALL medals ('모두 땄다'), 3) '기지개' = market waking up and reviving ('살아나기 시작했다')!",
+"expKo": "정답: ③ — 본문에서 '장기적으로 다양한 목적에 따라 자금을 여러 통장에 분산하여 저축하는 것을 가로 저축이라고 한다'고 했으므로 '③ 저축의 목적이 다양하면 가로 저축이 유용하다'가 일치합니다.",
+"expEn": "'세로 저축' (vertical saving) = 1 bankbook, 1 specific short-term goal, making a lump sum ('목돈') fast. '가로 저축' (horizontal saving) = multiple bankbooks for diverse long-term purposes ('다양한 목적') and retirement ('은퇴 후 = 노후'). Thus ③ is correct!",
+"mem": "9주차 2강 Slide 4: '세로 저축' (Vertical) = 1 specific goal, short-term lump sum ('목돈'). '가로 저축' (Horizontal) = diverse purposes ('다양한 목적' → Choice ③!) & retirement ('은퇴 후') across multiple accounts!",
 "vocabList": [
-"구름 관중: huge crowd of spectators",
-"간판 선수 / 싹쓸이: representative player / clean sweep",
-"기지개를 켜다: to begin to revive (= 살아나기 시작하다)"
-]
-}
-],
-"2강": [
-{
-"passageKo": "[제91회 읽기 19~20번 — 남극의 황제펭귄]\n매서운 남극의 겨울, 황제펭귄들은 겹겹이 붙어 서로의 체온으로 추위를 견딘다. 무리 전체가 돌면서 바깥쪽과 안쪽에 있는 펭귄들이 계속 서로의 위치를 바꾼다. ( 19번 빈칸 ) 그 움직임은 아주 느리지만 쉬지 않고 이루어져 한 마리의 펭귄이 줄곧 찬바람을 맞고 서 있는 일이 없다. 그렇게 쉼 없이 둥글게 돌면서 펭귄들은 다 함께 살아남는다.",
-"passageEn": "[91st TOPIK II Reading Q19-20 — Emperor Penguins in Antarctica]",
-"qKo": "1. ( 19번 빈칸 )에 들어갈 부사와 위 글의 주제로 가장 알맞은 것을 고르십시오.",
-"qEn": "Choose the correct adverb for Blank 19 and the main topic of the passage.",
-"o": [
-"① 19번: 혹시 / 주제: 황제펭귄은 둥글게 돌면서 날씨 정보를 알린다.",
-"② 19번: 또는 / 주제: 황제펭귄은 추위에서 살아남기 위해 움직임이 느려졌다.",
-"③ 19번: 비록 / 주제: 황제펭귄은 서로 도우면서 추위에 맞서 생존해 왔다.",
-"④ 19번: 만약 / 주제: 황제펭귄은 무리 생활을 통해 경쟁에서 이기는 법을 배운다."
-],
-"oEn": [
-"① False.",
-"② False.",
-"③ Correct! '비록 ~지만' (Even though the movement is slow...) + Topic: 'Emperor penguins have survived against the cold by helping each other.'",
-"④ False."
-],
-"a": 2,
-"expKo": "정답: ③ — 뒤에 '-지만(느리지만)'이 있으므로 1주차 1강 퀴즈 Q3에서 배운 양보 부사 '비록(아무리 그렇게 해도)'이 짝을 이루며, 주제는 '황제펭귄은 서로 도우면서 추위에 맞서 생존해 왔다'입니다.",
-"expEn": "Direct link to Week 1 Lecture 1 Quiz Q3 ('비록 = 아무리 그렇게 해도')! '비록' pairs with '-지만' ('비록 그 움직임은 아주 느리지만').",
-"mem": "Grammar Link to Week 1 Quiz: '비록' (even though) ALWAYS pairs with '-지만 / -(으)나 / -더라도' ('비록 그 움직임은 아주 느리지만')!",
-"vocabList": [
-"비록 ~지만: even though ~ (= 아무리 그렇게 해도)",
-"체온: body temperature",
-"생존하다: to survive (= 살아남다)"
-]
-}
+"가로 저축 / 세로 저축: horizontal saving / vertical saving",
+"자금을 분산하다: to diversify / spread out funds",
+"목돈: a lump sum of money",
+"은퇴 후 (= 노후): after retirement (= old age)"
 ]
 },
-"12주차 (제96회)": {
-"1강": [
 {
-"passageKo": "[제96회 읽기 9~12번 도표·내용 일치 — 교안 확인!]\n• [9번 안내문: 제3회 인주시 영상 노래 대회] 제출 방법: 노래하는 영상과 신청서를 이메일로 전송 (신청서는 인주시청 홈페이지 게시판에서 다운로드 가능) / 제출 기간: 11월 1일(금)~15일(금) / 결과 발표: 11월 29일(금), 홈페이지 게시\n• [10번 도표: 택배로 가장 많이 배송되는 물건은? (2023년 인주택배)] 식품 31%, 의류 25%, 화장품 19%, 전자 제품 13%, 운동 용품 8%, 기타 4%\n• [11번: 인주로봇연구소] 작년에 이어 올해에도 겨울 방학 초등학생 대상 운영. 로봇 과학자가 되기를 희망하는 학생들에게 특히 반응이 좋다. 내년 겨울 방학에도 진행 예정.\n• [12번: 등산 사고 김 씨와 개] 등산 중 사고를 당한 김 씨의 개가 마을로 내려가 짖었고, 사람들은 개를 따라가 사고가 난 것을 알게 되었다.",
-"passageEn": "[96th TOPIK II Reading Q9-12 Charts & Content Match — Surfaced directly from your Notebook!]",
-"qKo": "1. 위 10번(인주택배 도표), 11번(인주로봇연구소), 12번(김 씨와 개)의 내용과 일치하는 것끼리 바르게 짝지은 것을 고르십시오.",
-"qEn": "Choose the correct matching statements for Q10, Q11, and Q12 (Verified from your Notebook Slides!).",
+"passageKo": "문화재 복원 작업은 복원된 부분이 자연스러워야 하고 그 과정에서 문화재가 추가로 손상되지 않아야 한다. 이 때문에 정확한 측정으로 복원할 부분을 원래 모습과 동일하게 만들어 내는 것은 복원의 성공을 결정하는 중요한 요건이다. 최근 3D 스캐너와 프린터가 등장하여 이러한 요건을 충족할 수 있게 되면서 정밀하고 안전한 문화재 복원이 가능해졌다.",
+"passageEn": "In cultural heritage restoration work, the restored part must look natural, and the cultural asset must not be additionally damaged during the process. Because of this, reproducing the part to be restored identically to its original appearance through accurate measurement is an important requirement that determines the success of restoration. Recently, as 3D scanners and printers have emerged and made it possible to satisfy these requirements, precise and safe cultural heritage restoration has become possible.",
+"qKo": "5. 다음 글의 주제로 가장 알맞은 것을 고르십시오.",
+"qEn": "[9주차 2강 Slide Page 8 — 기출문제 ① (5)] Choose the most appropriate main topic of the passage.",
 "o": [
-"① 10번: ② 택배로 화장품이 배송되는 비율(19%)이 식품(31%)보다 낮다. / 11번: ④ 이 프로그램은 로봇 과학자를 꿈꾸는 학생들에게 인기가 많다. / 12번: ④ 사람들은 개를 따라가 사고가 난 것을 알게 되었다.",
-"② 10번: ① 택배로 배송되는 물건 중 의류(25%)가 가장 많다. / 11번: ① 올해 처음 시작됐다.",
-"③ 10번: ③ 운동 용품 비율(8%)은 10%가 넘는다. / 11번: ② 내년에 학기 중에 진행된다.",
-"④ 10번: ④ 전자 제품 비율(13%)이 두 번째로 높다. / 11번: ③ 과학자가 학교로 직접 간다."
+"① 첨단 장비 덕분에 문화재 복원이 수월해졌다.",
+"② 문화재는 손상 예방을 위한 사전 관리가 중요하다.",
+"③ 복원 환경 탓에 원본이 변형되는 경우가 많아지고 있다.",
+"④ 복원 기술자를 대상으로 한 3D 장치 사용 교육이 필요하다."
 ],
 "oEn": [
-"① Correct! Q10: Cosmetics (19%) is lower than Food (31%) [②] | Q11: Popular among students dreaming of becoming robot scientists [④] | Q12: People followed the dog and found out about the accident [④].",
-"② False (Food 31% is #1, and Robot program started last year '작년에 이어').",
-"③ False (Sports goods is 8%, and next year's program is also during winter vacation).",
-"④ False (Clothing 25% is 2nd highest, and students visit the research institute directly)."
+"① Correct! 'Thanks to high-tech equipment (3D scanners & printers), cultural heritage restoration has become easier/smoother.'",
+"② 'Advance maintenance for damage prevention is important for cultural assets.'",
+"③ 'Cases where originals are deformed due to the restoration environment are increasing.'",
+"④ 'Training on using 3D devices for restoration technicians is needed.'"
 ],
 "a": 0,
-"expKo": "정답: ① — 교안에서 바로 확인된 3문항입니다! 10번 도표는 '② 택배로 화장품이 배송되는 비율(19%)이 식품(31%)보다 낮다', 11번은 '④ 로봇 과학자를 꿈꾸는 학생들에게 인기가 많다(=희망하는 학생들에게 반응이 좋다)', 12번은 '④ 사람들은 개를 따라가 사고가 난 것을 알게 되었다'가 정답입니다!",
-"expEn": "All three slides surfaced with orange checkmarks in your notebook! Notice in Q11 how '로봇 과학자가 되기를 희망하는 학생들에게 특히 반응이 좋다' paraphrases to '로봇 과학자를 꿈꾸는 학생들에게 인기가 많다' (④)!",
-"mem": "3 Surfaced Content-Match Winners: 1) Parcel Chart Q10: Cosmetics (19%) < Food (31%) → ②; 2) Robot Institute Q11: '희망하는 = 꿈꾸는' & '반응이 좋다 = 인기가 많다' → ④; 3) Dog Rescue Q12: People followed the dog ('개를 따라가') → ④!",
+"expKo": "정답: ① — 마지막 문장의 '최근 3D 스캐너와 프린터가 등장하여(=첨단 장비 덕분에) ... 정밀하고 안전한 문화재 복원이 가능해졌다(=문화재 복원이 수월해졌다)'를 요약한 ①이 정답입니다.",
+"expEn": "'3D 스캐너와 프린터' paraphrases to '첨단 장비' (high-tech equipment), and '정밀하고 안전한 문화재 복원이 가능해졌다' paraphrases to '문화재 복원이 수월해졌다' (restoration became easier/smoother).",
+"mem": "9주차 2강 Slide 5: '3D 스캐너와 프린터' = '첨단 장비' (high-tech equipment) + '정밀하고 안전한 복원이 가능해졌다' = '문화재 복원이 수월해졌다' (restoration became much easier/smoother) → Choice ①!",
 "vocabList": [
-"배송되다: to be delivered",
-"비율: proportion / percentage",
-"희망하다: to hope / wish (= 꿈꾸다)",
-"반응이 좋다: to get a good response (= 인기가 많다)"
-]
-},
-{
-"passageKo": "[제96회 읽기 16~18번 빈칸 — 영화 전화번호, 석유, 조선 시대 수표교]\n16. 영화진흥위원회에서는 실제 전화번호 사용자의 ( 16번 빈칸 ) 영화에 나와도 상관없는 전화번호를 확보해 두고 제작사에 제공해 주고 있다.\n17. 30년 전 전문가들은 40년 후에는 석유가 남아 있지 않을 거라고 경고했다. 그러나 현재 전문가들은 앞으로도 50년 이상은 계속 석유를 사용할 수 있을 거라고 예측한다. 이렇게 석유의 ( 17번 빈칸 ) 이유는 석유를 찾는 기술이 발전했기 때문이다.\n18. 수표교는 홍수 피해에 대비하기 위해 만든 조선 시대의 다리이다. 돌로 된 수표교의 기둥에는 일정한 간격마다 표시가 되어 있어서 ( 18번 빈칸 ) 쉽게 알 수 있었다.",
-"passageEn": "[96th TOPIK II Reading Q16-18 Blanks — Surfaced from Notebook!]",
-"qKo": "2. 위 16번, 17번, 18번 빈칸에 들어갈 정답을 순서대로 바르게 짝지은 것을 고르십시오.",
-"qEn": "Choose the correct combination for Blanks 16, 17, and 18 (Verified from Notebook Slides!).",
-"o": [
-"① 16번: ① 피해를 막기 위해 / 17번: ③ 사용 가능 기간이 늘어난 / 18번: ① 강물의 높이 변화를",
-"② 16번: ② 사실을 화면에 담고자 / 17번: ① 품질이 더 좋아진 / 18번: ② 강물의 속도 차이를",
-"③ 16번: ③ 관객 요구를 반영하고자 / 17번: ② 가격이 상승하고 있는 / 18번: ③ 다리 기둥의 간격을",
-"④ 16번: ④ 제작 방법을 알리기 위해 / 17번: ④ 가치가 계속해서 떨어지는 / 18번: ④ 다리를 만든 재료를"
-],
-"oEn": [
-"① Correct! Q16: '① 피해를 막기 위해' (to prevent harm) | Q17: '③ 사용 가능 기간이 늘어난' (usable period increased) | Q18: '① 강물의 높이 변화를' (changes in river water height).",
-"② False.",
-"③ False.",
-"④ False."
-],
-"a": 0,
-"expKo": "정답: ① — 16번은 실제 번호 사용자의 '① 피해를 막기 위해', 17번은 석유를 쓸 수 있는 기간이 40년에서 50년 이상으로 늘어났으므로 '③ 사용 가능 기간이 늘어난', 18번 수표교는 강물이 높아지는지를 확인했으므로 '① 강물의 높이 변화를'입니다!",
-"expEn": "Q16, Q17 ('석유'), and Q18 ('수표교') all surfaced directly in your notebook chunks with orange checkmarks!",
-"mem": "96th TOPIK Blank Trio: Q16 Movie Phone Numbers = '① 피해를 막기 위해'; Q17 Oil ('석유') 40 yrs → 50+ yrs = '③ 사용 가능 기간이 늘어난'; Q18 Supyogyo Bridge ('수표교') flood markings = '① 강물의 높이 변화를'!",
-"vocabList": [
-"피해를 막다: to prevent damage/harm",
-"사용 가능 기간: usable period",
-"수표교: Supyogyo (water-level measuring bridge)",
-"강물의 높이 변화: change in river water height"
-]
-},
-{
-"passageKo": "[제96회 읽기 21번 관용어 & 25~27번 신문 기사 제목]\n21. 학생 수 감소로 폐교가 될 뻔한 산골 초등학교 선생님들은 ( 21번: ② 머리를 맞대고 ) 학교를 살릴 방법을 고민했다.\n25. 모처럼의 황금연휴, 여행사 예약 문의 '껑충'\n26. 김민수 '올해의 선수상' 수상 유력, 야구팬들 기대 고조\n27. 인주시, 노후 공원 새 단장… 시민 휴식 공간으로 재탄생",
-"passageEn": "[96th TOPIK II Reading Q21 Idiom & Q25-27 Newspaper Headlines]",
-"qKo": "3. 위 21번 관용어와 25번·26번 신문 기사 제목의 풀이로 옳은 것을 고르십시오.",
-"qEn": "Choose the correct explanation for Q21, Q25, and Q26.",
-"o": [
-"① 21번: ① 눈을 딱 감고 / 25번: 연휴가 짧아 예약이 줄었다.",
-"② 21번: ② 머리를 맞대고 / 25번: 오랜만에 오는 긴 연휴를 맞아 예약 상담이 대폭 늘었다('껑충') / 26번: 상을 받을 가능성이 많아('수상 유력') 기대가 높아지고 있다('기대 고조').",
-"③ 21번: ③ 손에 땀을 쥐고 / 26번: 수상이 취소되어 팬들이 실망했다.",
-"④ 21번: ④ 목에 힘을 주고 / 25번: 여행사 예약이 취소되었다."
-],
-"oEn": [
-"① False.",
-"② Correct! Q21: '② 머리를 맞대고' (put heads together) | Q25: '모처럼' = after a long time ('오랜만에'), '껑충' = jumped sharply ('대폭 늘었다') | Q26: '수상 유력' = likely to win, '기대 고조' = expectations rising.",
-"③ False.",
-"④ False."
-],
-"a": 1,
-"expKo": "정답: ② — 21번은 5주차 1강에서도 출제된 '② 머리를 맞대고'이며, 25번 '모처럼(오랜만에) + 껑충(대폭 늘었다)', 26번 '수상 유력(상을 받을 가능성이 많아) + 기대 고조(기대가 높아지고 있다)'입니다!",
-"expEn": "'머리를 맞대고' appears in both Week 5 and Week 12! And in headlines, '모처럼' = '오랜만에', '껑충' = '대폭 늘었다', '유력' = '가능성이 많다', '고조' = '높아지다'.",
-"mem": "96th TOPIK Key Equivalences: '머리를 맞대고' = put heads together to solve a crisis; '모처럼' = after a long while ('오랜만에'); '껑충' = jumped sharply ('대폭 늘었다'); '수상 유력' = likely to win ('가능성이 많아')!",
-"vocabList": [
-"머리를 맞대다: to put heads together",
-"모처럼: after a long time (= 오랜만에)",
-"껑충: jumping high (= 대폭 늘다)",
-"유력하다 / 고조되다: likely / to heighten"
-]
-}
-],
-"2강": [
-{
-"passageKo": "[교안 확인 듣기 1~3번 도표·그림 지문]\n• 2번 대화: 남자: '의자에 앉아 보니까 어때?' / 여자: '오, 잘 만들었다. 그런데 나한텐 좀 높은 거 같아.' / 남자: '그래? 그럼 이 부분을 조금 더 잘라야겠다.'\n• 3번 담화: 남자: '채소, 달걀 등의 식품을 정기적으로 배달 받는 서비스가 인기를 끌며 최근 4년간 이용자가 꾸준히 증가하고 있습니다. 이 서비스를 이용하는 이유로는 신선하고 품질이 좋아서(43%)가 가장 많았으며, 가격이 합리적이어서(36%), 편리해서(21%)가 그 뒤를 이었습니다.'",
-"passageEn": "[Surfaced Slide — Listening Q2 Chair Height & Q3 Regular Food Delivery Service Graph]",
-"qKo": "1. 위 2번 대화의 그림과 3번 담화의 그래프로 알맞은 것을 고르십시오.",
-"qEn": "Choose the correct picture for Q2 and graph for Q3 (Surfaced from your Notebook!).",
-"o": [
-"① 2번: ① 빗자루로 쓸고 있는 그림 / 3번: ① 이용자 수가 감소했다가 증가하는 그래프",
-"② 2번: ② 여자가 의자에 앉아 있고 남자가 의자 다리 아랫부분을 가리키는 그림 / 3번: ② 이용자 수가 2020년부터 2023년까지 꾸준히 증가하는 그래프",
-"③ 2번: ③ 톱으로 책상을 자르는 그림 / 3번: ③ 편리해서가 가장 높은 원그래프",
-"④ 2번: ④ 설계도를 그리는 그림 / 3번: ④ 가격이 합리적이어서가 43%인 원그래프"
-],
-"oEn": [
-"① False.",
-"② Correct! Q2: Picture ② (woman sitting on the chair while the man points to the chair leg to cut it shorter) / Q3: Graph ② (steady increase from 2020 to 2023).",
-"③ False.",
-"④ False."
-],
-"a": 1,
-"expKo": "정답: ② — 2번은 여자가 '의자에 앉아 보니까... 나한텐 좀 높은 거 같아'라고 했으므로 의자에 앉은 여자와 의자 다리를 가리키는 남자가 있는 ②번 그림이 정답이며, 3번은 '최근 4년간 이용자가 꾸준히 증가'했으므로 계속 올라가는 꺾은선 그래프가 정답입니다.",
-"expEn": "Surfaced in your notebook! Notice how Q3 uses TWO weekly quiz vocabularies together: '꾸준히 증가하고 있습니다' (Week 7 '증가하다 = 늘어나다') and '가격이 합리적이어서' (Week 2 '합리적이다 = 이치에 맞다')!",
-"mem": "Q2 Chair ('의자에 앉아 보니까 나한텐 좀 높은 거 같아') = Picture ② (sitting on chair + pointing to chair leg). Q3 Delivery Graph ('꾸준히 증가') = steadily rising line graph ②!",
-"vocabList": [
-"정기적으로: regularly / periodically",
-"꾸준히 증가하다: to increase steadily",
-"가격이 합리적이다: price is reasonable",
-"그 뒤를 잇다: to follow behind (in ranking)"
-]
-}
-]
-},
-"13·14주차 (기출 심화 총정리)": {
-"1강": [
-{
-"passageKo": "[전 범위 관용어 총정리 마스터 테스트]\n• 1주차: 골치가 아프다 / 콧대가 높다 / 눈치가 빠르다\n• 2주차: 하나를 보면 열을 안다\n• 3주차: 입 밖에 내다 (입 밖에 내지 않아야 한다)\n• 5주차 & 12주차: 머리를 맞대다 (머리를 맞대고)\n• 6주차: 앞뒤를 재다 / 발을 빼다 (발을 빼지 않고)\n• 7주차: 손을 떼다 / 이를 갈다 / 담을 쌓다 / 열을 올리다\n• 9주차: 진땀을 흘리다\n• 10주차: 발 벗고 나서다\n• 11주차: 발목을 잡다",
-"passageEn": "[Full-Course Reading Q21 Idiom Master Review]",
-"qKo": "1. 다음 중 '신체(발·머리·입)' 관련 관용어의 뜻풀이로 틀린(X) 것을 고르십시오.",
-"qEn": "Choose the INCORRECT (X) explanation among the body-part idioms.",
-"o": [
-"① 머리를 맞대다: 문제를 해결하기 위해 여러 사람이 모여 진지하게 의논하다.",
-"② 발을 빼다: 어떤 일이나 관계에서 물러서서 완전히 빠져나오다.",
-"③ 발 벗고 나서다: 발전이나 앞으로 나아가는 것을 방해하고 못 가게 막다.",
-"④ 입 밖에 내다: 비밀이나 생각을 말로 꺼내어 표현하다."
-],
-"oEn": [
-"① True (put heads together to discuss seriously).",
-"② True (pull out / withdraw from involvement).",
-"③ Incorrect (X)! '발 벗고 나서다' means to step up actively to help/solve. Hindering progress is '발목을 잡다' (grab one's ankle)!",
-"④ True (utter / speak out loud)."
-],
-"a": 2,
-"expKo": "정답: ③ — '발 벗고 나서다'(10주차, 83회)는 일이나 문제 해결을 위해 적극적으로 앞장서다라는 뜻입니다. 발전을 방해하고 막는다는 뜻의 관용어는 '발목을 잡다'(11주차, 91회)입니다!",
-"expEn": "Don't mix up the 3 Foot Idioms: '발을 빼다' = withdraw/quit; '발 벗고 나서다' = actively step up to help; '발목을 잡다' = hold back/hinder progress!",
-"mem": "3 Foot Idioms Master Key: 1) '발을 빼다' = pull foot out (quit); 2) '발 벗고 나서다' = take off shoes & jump in (actively help); 3) '발목을 잡다' = grab ankle (hinder development)!",
-"vocabList": [
-"발을 빼다: to withdraw / pull out",
-"발 벗고 나서다: to step up actively to help",
-"발목을 잡다: to hold back / hinder progress",
-"머리를 맞대다: to put heads together"
-]
-}
-],
-"2강": [
-{
-"passageKo": "[전 범위 신문 기사 제목 핵심 어휘 총정리]\n• 제36회: 효과 놓고 의견 엇갈려 (= 효과에 대해 의견이 나뉘었다)\n• 8주차 1: 지지부진한 복구, 속 터지는 주민들 (= 잘 진행되지 않아 답답해하고 있다)\n• 8주차 2: 제2 공장 가동, 안정적 공급은 미지수 (= 생산을 시작했지만 안정될지는 불확실하다/알 수 없다)\n• 8주차 3: 기름값 큰 폭으로 하락, 활기 띠는 제조업체 (= 크게 떨어져 분위기가 좋아지고 있다)\n• 제64회: 전원 목숨 건져 (= 모두 살았다) / 출마설 부인 (= 사실이 아니라고 밝혔다) / 시대 성큼 (= 가능성이 높아졌다)\n• 제83회: 기습 폭우에 '엉금엉금', 출근길 정체 (= 갑자기 쏟아진 비로 천천히 운행하며 길이 막혔다) / 대책 마련은 미흡 (= 충분하지 않다)\n• 제91회: 구름 관중 (= 수많은 관중이 몰렸다) / 금메달 싹쓸이 (= 모두 땄다) / 부동산 시장 기지개 (= 살아나기 시작했다)\n• 제96회: 모처럼의 황금연휴, 예약 문의 '껑충' (= 오랜만에 오는 연휴에 상담이 대폭 늘었다)",
-"passageEn": "[Full-Course Newspaper Headline Master Review]",
-"qKo": "1. 위 신문 기사 제목 어휘의 패러프레이징 짝으로 틀린(X) 것을 고르십시오.",
-"qEn": "Choose the INCORRECT (X) newspaper headline paraphrasing pair.",
-"o": [
-"① 미지수 = 불확실하다 / 알 수 없다",
-"② 미흡 = 충분하지 않다 / 부족하다",
-"③ 지지부진하다 = 빠르게 진행되다",
-"④ 기지개 = 살아나기 시작하다 / 활발해지기 시작하다"
-],
-"oEn": [
-"① True ('미지수' = unknown/uncertain).",
-"② True ('미흡' = insufficient/inadequate).",
-"③ Incorrect (X)! '지지부진하다' means sluggish / NOT progressing well ('잘 진행되지 않다')!",
-"④ True ('기지개' = stretching awake / market beginning to revive)."
-],
-"a": 2,
-"expKo": "정답: ③ — '지지부진하다'는 일이 더디고 '잘 진행되지 않다'라는 뜻입니다!",
-"expEn": "'지지부진하다' = sluggish / not progressing well ('잘 진행되지 않다').",
-"mem": "Lock in all Newspaper Headline pairs: '지지부진하다' = '잘 진행되지 않다', '미지수' = '불확실하다/알 수 없다', '미흡' = '충분하지 않다', '기지개' = '살아나기 시작하다', '껑충' = '대폭 늘다'!",
-"vocabList": [
-"미지수: unknown / uncertain (= 불확실하다)",
-"미흡하다: insufficient (= 충분하지 않다)",
-"지지부진하다: sluggish (= 잘 진행되지 않다)",
-"기지개: beginning to revive (= 살아나기 시작하다)"
+"문화재 복원: cultural heritage restoration",
+"손상되다: to be damaged",
+"요건을 충족하다: to satisfy/meet requirements",
+"첨단 장비: high-tech / cutting-edge equipment",
+"수월해지다: to become easier / smoother"
 ]
 }
 ]
