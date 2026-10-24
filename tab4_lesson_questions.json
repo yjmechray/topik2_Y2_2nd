@@ -575,34 +575,6 @@
 "조상 ↔ 자손(후손): ancestors ↔ descendants",
 "어우러지다: to harmonize / blend together"
 ]
-},
-{
-"passageKo": "[교안 확인 빈칸 문제 — 의사의 흰색 가운]\n의사의 모습을 생각하면 우리는 보통 흰색 가운을 떠올리게 된다. 그런데 의사 가운이 처음부터 흰색이었던 것은 아니다. 중세 시대에는 성직자가 의사를 겸하는 경우가 많아 성직자용 검은색 가운을 입고 진료를 했다. 그런데 검은색 옷은 세균으로 오염된 얼룩이 잘 보이지 않았다. 이후 세균 감염의 위험성에 대한 인식이 높아지면서 ( 빈칸 ) 가운의 색이 흰색으로 바뀌었다.",
-"passageEn": "[Surfaced Slide — Why Doctor's Gowns Changed from Black to White]\nIn the Middle Ages, clergy often served as doctors and wore black gowns. However, stains contaminated with bacteria were not easily visible on black clothes. Later, as awareness of the risk of bacterial infection increased, the color of gowns changed to white ( Blank ).",
-"qKo": "2. ( 빈칸 )에 들어갈 내용으로 가장 알맞은 것을 고르십시오.",
-"qEn": "Choose the most appropriate expression for the blank (Surfaced directly from your Notebook!).",
-"o": [
-"① 의사의 권위를 높이기 위해",
-"② 환자의 불안감을 줄이기 위해",
-"③ 오염 물질이 묻은 것을 쉽게 확인하기 위해",
-"④ 성직자와 의사의 역할을 구별하기 위해"
-],
-"oEn": [
-"① 'to raise the authority of doctors'",
-"② 'to reduce patients' anxiety'",
-"③ Correct! 'to easily check if contaminants/stains got on it' (or '위생을 중요하게 생각하여' — contrasting with '검은색 옷은 세균으로 오염된 얼룩이 잘 보이지 않았다').",
-"④ 'to distinguish the roles of clergy and doctors'"
-],
-"a": 2,
-"expKo": "정답: ③ — 앞 문장에서 '검은색 옷은 세균으로 오염된 얼룩이 잘 보이지 않았다'고 했고, 이후 세균 감염의 위험성에 대한 인식이 높아지면서 위생 및 오염 확인을 위해 흰색으로 바뀌었다는 흐름입니다.",
-"expEn": "Because bacterial stains were invisible on black gowns ('검은색 옷은 세균으로 오염된 얼룩이 잘 보이지 않았다'), doctors switched to white gowns as awareness of infection risks grew!",
-"mem": "Black Gown ('검은색 가운') = bacterial stains ('세균으로 오염된 얼룩') couldn't be seen → Switched to White Gown ('흰색 가운') for hygiene and to easily spot contamination!",
-"vocabList": [
-"성직자: clergy",
-"겸하다: to hold an additional role concurrently",
-"세균 감염: bacterial infection",
-"얼룩: stain / spot"
-]
 }
 ]
 },
@@ -662,34 +634,6 @@
 "동원하다: to mobilize",
 "고르게: evenly / equally",
 "방해하다: to hinder / interfere with"
-]
-},
-{
-"passageKo": "[교안 확인 기출 빈칸 — 천연 자원과 경제 발전]\n풍부한 자원은 경제 성장의 필요조건이지 충분조건은 아니다. 풍부한 천연 자원을 갖추고 있음에도 ( 빈칸 ) 경우도 있다. 풍부한 자원에만 의존해 경제 성장의 중심 산업인 제조업이나 서비스업 등에 투자를 하지 않게 되는 것이다. 반면에 천연자원이 빈약해도 새로운 기술 개발이나 교육을 통해 생산 능력을 높이는 나라도 있다.",
-"passageEn": "[Surfaced Slide — Natural Resources and Economic Growth]\nAbundant resources are a necessary condition for economic growth, not a sufficient condition. There are cases where even though a country possesses abundant natural resources, it ( Blank ). Depending only on abundant resources, it fails to invest in core industries of economic growth like manufacturing or service industries.",
-"qKo": "3. 다음을 읽고 ( 빈칸 )에 들어갈 내용으로 가장 알맞은 것을 고르십시오.",
-"qEn": "Choose the most appropriate expression for the blank (Surfaced directly from your Notebook!).",
-"o": [
-"① 제조업에 의존하려는",
-"② 자원을 생산하지 못하는",
-"③ 경제 발전을 이루지 못하는",
-"④ 기술 개발에 무리하게 투자하는"
-],
-"oEn": [
-"① 'intending to rely on manufacturing' (opposite of the next sentence!)",
-"② 'unable to produce resources'",
-"③ Correct! 'unable to achieve economic development' (despite having abundant natural resources, because they don't invest in manufacturing/services).",
-"④ 'investing excessively in technology development'"
-],
-"a": 2,
-"expKo": "정답: ③ — 첫 문장에서 '풍부한 자원은 경제 성장의 충분조건은 아니다'라고 했고, 뒷문장에서 제조업·서비스업에 투자하지 않게 된다고 설명하므로 풍부한 천연 자원을 갖추고 있음에도 '③ 경제 발전을 이루지 못하는' 경우가 있다는 뜻입니다.",
-"expEn": "Verified directly from your notebook slide! Even with abundant natural resources ('풍부한 천연 자원을 갖추고 있음에도'), some countries fail to achieve economic development ('③ 경제 발전을 이루지 못하는') because they rely only on resources and neglect manufacturing/services.",
-"mem": "Surfaced Slide Clue: '풍부한 천연 자원을 갖추고 있음에도' (-에도 = even though they have abundant resources) + no investment in manufacturing = '③ 경제 발전을 이루지 못하는' (fail to achieve economic development)!",
-"vocabList": [
-"필요조건 / 충분조건: necessary condition / sufficient condition",
-"천연 자원: natural resources",
-"의존하다: to depend / rely on",
-"빈약하다: to be poor / meager / scarce"
 ]
 }
 ],
@@ -1523,6 +1467,347 @@
 "공유하다: to share",
 "관심을 끌다: to attract / draw attention",
 "습득하다: to acquire / learn"
+]
+}
+]
+},
+"11주차 (제91회)": {
+"1강": [
+{
+"passageKo": "최근 미술 전시회 수요가 증가하면서 돈벌이에 급급한 전시회가 늘고 있다. 일부 전시 관계자들이 전시 포스터 등 홍보 자료에 복제품 전시임을 밝히지 않고 입장료 수입만을 챙기는 것이다. 전시장을 찾아와서야 이런 사실을 알게 된 관람객들은 불만을 쏟아 내고 있다. 전문가들은 이런 전시 행태가 미술계 발전의 (     ) 수 있다고 우려한다. 전시회에 실망한 사람들이 미술에 대한 관심을 아예 끊을 수 있기 때문이다.",
+"passageEn": "Recently, as demand for art exhibitions has increased, exhibitions obsessed solely with making money are growing. Some exhibition officials do not disclose in promotional materials such as posters that it is a replica exhibition and only pocket admission fee revenue. Visitors who only find out this fact after arriving at the exhibition hall are pouring out complaints. Experts worry that this exhibition practice could hold back ('발목을 잡을') the development of the art world, because people disappointed in exhibitions might cut off their interest in art altogether.",
+"qKo": "21. (     )에 들어갈 알맞은 것을 고르십시오.",
+"qEn": "[11주차 1강 Slide Page 4 — Q21] Choose the appropriate idiom to fill in the blank.",
+"o": [
+"① 입맛에 맞을",
+"② 가슴을 울릴",
+"③ 발목을 잡을",
+"④ 손을 맞잡을"
+],
+"oEn": [
+"① '입맛에 맞다' = to suit one's taste",
+"② '가슴을 울리다' = to touch/move one's heart deeply",
+"③ Correct! '발목을 잡다' = to grab one's ankle / hold back or hinder progress",
+"④ '손을 맞잡다' = to join hands / cooperate together"
+],
+"a": 2,
+"expKo": "정답: ③ — 복제품 전시임을 숨겨 관람객을 실망시키는 행태가 미술계 발전을 방해하고 가로막을 수 있다는 뜻이므로 '③ 발목을 잡을(발목을 잡다)'이 정답입니다.",
+"expEn": "'발목을 잡다' literally means 'to grab someone's ankle' so they cannot move forward—used when a problem hinders or holds back development ('미술계 발전의 발목을 잡을 수 있다').",
+"mem": "11주차 1강 Slide Page 4 (Q21): Hiding that an art show is just replicas ('복제품') disappoints visitors and holds back the art world's development = grabs its ankle ('③ 발목을 잡을')!",
+"vocabList": [
+"돈벌이에 급급하다: to be obsessed only with making money",
+"복제품: replica / reproduction",
+"불만을 쏟아 내다: to pour out complaints",
+"발목을 잡다: to hold back / hinder",
+"우려하다: to worry / be concerned"
+]
+},
+{
+"passageKo": "최근 미술 전시회 수요가 증가하면서 돈벌이에 급급한 전시회가 늘고 있다. 일부 전시 관계자들이 전시 포스터 등 홍보 자료에 복제품 전시임을 밝히지 않고 입장료 수입만을 챙기는 것이다. 전시장을 찾아와서야 이런 사실을 알게 된 관람객들은 불만을 쏟아 내고 있다. 전문가들은 이런 전시 행태가 미술계 발전의 ( 발목을 잡을 ) 수 있다고 우려한다. 전시회에 실망한 사람들이 미술에 대한 관심을 아예 끊을 수 있기 때문이다.",
+"passageEn": "...Some exhibition officials do not disclose in promotional materials such as posters that it is a replica exhibition and only pocket admission fee revenue. Visitors who only find out this fact after arriving at the exhibition hall are pouring out complaints...",
+"qKo": "22. 이 글의 중심 생각을 고르십시오.",
+"qEn": "[11주차 1강 Slide Page 5 — Q22] Choose the statement that matches the passage.",
+"o": [
+"① 복제품 전시회는 입장료를 받지 않는다.",
+"② 최근 미술 전시회를 찾는 사람들이 많지 않다.",
+"③ 전시회에서 복제품을 전시하는 일이 점점 줄고 있다.",
+"④ 복제품 전시회인지 모르고 전시회를 방문한 관람객들이 있다."
+],
+"oEn": [
+"① False: They collect admission fee revenue ('입장료 수입만을 챙기는 것이다').",
+"② False: Demand for art exhibitions is increasing ('미술 전시회 수요가 증가하면서').",
+"③ False: Such exhibitions are increasing ('늘고 있다'), not decreasing.",
+"④ Correct! 'There are visitors who visited the exhibition without knowing it was a replica exhibition.' ('전시장을 찾아와서야 이런 사실을 알게 된 관람객들')."
+],
+"a": 3,
+"expKo": "정답: ④ — 본문에서 '홍보 자료에 복제품 전시임을 밝히지 않고... 전시장을 찾아와서야 이런 사실을 알게 된 관람객들은 불만을 쏟아 내고 있다'고 했으므로 ④가 정답입니다.",
+"expEn": "'전시장을 찾아와서야 이런 사실을 알게 된 관람객들' (visitors who only learned this fact after coming to the exhibition hall) directly matches '④ 복제품 전시회인지 모르고 전시회를 방문한 관람객들이 있다'!",
+"mem": "11주차 1강 Slide Page 5 (Q22): '전시장을 찾아와서야 이런 사실을 알게 된 관람객들' (visitors who only found out after arriving at the venue) = '④ 복제품 전시회인지 모르고 전시회를 방문한 관람객들이 있다'!",
+"vocabList": [
+"홍보 자료: promotional materials",
+"입장료 수입: admission fee revenue",
+"관람객: exhibition visitor / spectator",
+"아예: altogether / completely"
+]
+},
+{
+"passageKo": "꽃집을 지나다가 꽃말에 이끌려 금잔화 꽃씨를 샀다. 화분에 심어 사무실의 내 책상 위에 두었더니 어느 날 싹이 텄다. 때맞춰 물도 주며 나는 수시로 들여다보았다. 신기했다. 작고 여린 싹은 눈에 띄게 쑥쑥 자랐다. 그런데 내가 상상한 모습이 아니었다. [밑줄] 도대체 여기서 어떻게 꽃이 핀다는 건지. 무순처럼 길쭉하게 위로만 자라는 것이었다. 하루는 출근해 보니 금잔화가 쓰러져 있었다. 그럼 그렇지. 내가 무슨 식물을 키우나. 그날 나는 화분을 창가로 옮겨 놓았다. 죽을 것 같은 모습을 눈앞에서 보고 싶지 않았다. 그런데 어느 날부턴가 점점 줄기가 굵어지더니 잎도 제법 풍성해지기 시작했다. 어느 날에는 꽃망울도 올라와 있었다. 금잔화는 창문으로 들어오는 풍성한 햇볕 속에서 스스로 튼튼해졌다. 금잔화에게는 햇빛이 더 많이 필요했었나 보다. 사람도 식물도 사랑하려면 그 대상을 제대로 알아야 하는 건 똑같구나 싶었다. 씩씩하게 꽃피운 금잔화의 꽃말은 '반드시 올 행복'이다.",
+"passageEn": "Passing by a flower shop, I bought marigold ('금잔화') seeds drawn by their flower meaning. I planted them in a pot and put it on my office desk, and one day they sprouted... However, it was not the appearance I had imagined. [Underlined] How on earth is a flower supposed to bloom from here? ('도대체 여기서 어떻게 꽃이 핀다는 건지.') It was only growing long and thin straight up like radish sprouts...",
+"qKo": "23. 밑줄 부분('도대체 여기서 어떻게 꽃이 핀다는 건지')에 나타난 '나'의 심정으로 알맞은 것을 고르십시오.",
+"qEn": "[11주차 1강 Slide Page 6 — Q23] Choose the appropriate feeling of 'I' shown in the underlined part.",
+"o": [
+"① 의심스럽다",
+"② 고통스럽다",
+"③ 조심스럽다",
+"④ 부담스럽다"
+],
+"oEn": [
+"① Correct! 'doubtful / skeptical' (doubting how a flower could possibly bloom from a stem growing thin like radish sprouts)",
+"② 'painful / agonizing'",
+"③ 'cautious / careful'",
+"④ 'burdensome / pressured'"
+],
+"a": 0,
+"expKo": "정답: ① — 자신이 상상한 모습이 아니라 무순처럼 길쭉하게 위로만 자라는 모습을 보며 과연 여기서 꽃이 필 수 있을지 믿기 어렵고 의아해하고 있으므로 '① 의심스럽다'가 정답입니다.",
+"expEn": "Looking at the spindly sprout and thinking 'How on earth is a flower supposed to bloom from here?' ('도대체 여기서 어떻게 꽃이 핀다는 건지') expresses doubt/skepticism = '① 의심스럽다'!",
+"mem": "11주차 1강 Slide Page 6 (Q23): '도대체 여기서 어떻게 꽃이 핀다는 건지' (How on earth could a flower bloom from this spindly sprout?) = feeling doubtful ('① 의심스럽다')!",
+"vocabList": [
+"금잔화: marigold",
+"싹이 트다: to sprout / bud",
+"수시로: frequently / all the time",
+"꽃망울: flower bud",
+"의심스럽다: to be doubtful / skeptical"
+]
+},
+{
+"passageKo": "꽃집을 지나다가 꽃말에 이끌려 금잔화 꽃씨를 샀다. 화분에 심어 사무실의 내 책상 위에 두었더니 어느 날 싹이 텄다. 때맞춰 물도 주며 나는 수시로 들여다보았다. 신기했다. 작고 여린 싹은 눈에 띄게 쑥쑥 자랐다. 그런데 내가 상상한 모습이 아니었다. 도대체 여기서 어떻게 꽃이 핀다는 건지. 무순처럼 길쭉하게 위로만 자라는 것이었다. 하루는 출근해 보니 금잔화가 쓰러져 있었다. 그럼 그렇지. 내가 무슨 식물을 키우나. 그날 나는 화분을 창가로 옮겨 놓았다. 죽을 것 같은 모습을 눈앞에서 보고 싶지 않았다. 그런데 어느 날부턴가 점점 줄기가 굵어지더니 잎도 제법 풍성해지기 시작했다. 어느 날에는 꽃망울도 올라와 있었다. 금잔화는 창문으로 들어오는 풍성한 햇볕 속에서 스스로 튼튼해졌다. 금잔화에게는 햇빛이 더 많이 필요했었나 보다. 사람도 식물도 사랑하려면 그 대상을 제대로 알아야 하는 건 똑같구나 싶었다. 씩씩하게 꽃피운 금잔화의 꽃말은 '반드시 올 행복'이다.",
+"passageEn": "...That day I moved the flowerpot to the window ('그날 나는 화분을 창가로 옮겨 놓았다')... The marigold grew strong on its own in the abundant sunlight coming in through the window ('창문으로 들어오는 풍성한 햇볕 속에서 스스로 튼튼해졌다').",
+"qKo": "24. 위 글의 내용과 같은 것을 고르십시오.",
+"qEn": "[11주차 1강 Slide Page 7 — Q24] Choose the statement that matches the content of the passage.",
+"o": [
+"① 내 책상 위에 둔 금잔화는 금방 말라 죽었다.",
+"② 나는 금잔화 화분에 물을 제대로 주지 못했다.",
+"③ 나는 꽃집에서 금잔화가 피어 있는 화분을 샀다.",
+"④ 내가 금잔화 화분을 옮긴 곳은 햇볕이 잘 들었다."
+],
+"oEn": [
+"① False: It fell over on the desk, then recovered and bloomed at the window.",
+"② False: The narrator watered it on time ('때맞춰 물도 주며').",
+"③ False: Bought marigold seeds ('금잔화 꽃씨를 샀다'), not a blooming pot.",
+"④ Correct! 'The place where I moved the marigold pot (the window) got plenty of sunlight.' ('그날 나는 화분을 창가로 옮겨 놓았다... 창문으로 들어오는 풍성한 햇볕 속에서 스스로 튼튼해졌다')."
+],
+"a": 3,
+"expKo": "정답: ④ — 화분을 창가로 옮겨 놓았더니 '창문으로 들어오는 풍성한 햇볕 속에서 스스로 튼튼해졌다'고 했으므로 '④ 내가 금잔화 화분을 옮긴 곳은 햇볕이 잘 들었다'가 일치합니다.",
+"expEn": "The narrator bought seeds ('꽃씨', not a blooming pot ③), watered them on time ('때맞춰 물도 주며', not ②), and moved the pot to the window where abundant sunlight came in ('풍성한 햇볕' = ④)!",
+"mem": "11주차 1강 Slide Page 7 (Q24): Bought seeds ('꽃씨' → ③ X), watered on time ('때맞춰 물도 주며' → ② X), moved pot to the sunny window ('창문으로 들어오는 풍성한 햇볕' → ④ O)!",
+"vocabList": [
+"때맞춰: on time / at the right time",
+"창가: by the window",
+"햇볕이 잘 들다: to get plenty of sunlight"
+]
+},
+{
+"passageKo": "[신문 기사 제목]\n가수 진영, 3년 만의 콘서트에 구름 관중",
+"passageEn": "[Newspaper Headline]\nSinger Jinyoung Draws a Cloud of Spectators ('구름 관중') at First Concert in 3 Years",
+"qKo": "25. 다음은 신문 기사의 제목입니다. 가장 잘 설명한 것을 고르십시오.",
+"qEn": "[11주차 1강 Slide Page 8 — Q25] Choose the statement that best explains the newspaper headline.",
+"o": [
+"① 가수 진영이 3년 만에 콘서트를 열자 수많은 관중이 몰렸다.",
+"② 가수 진영이 3년 내에 다시 콘서트를 열기로 관중에게 약속했다.",
+"③ 가수 진영이 3년간 준비한 콘서트를 열었으나 관중의 호응이 적었다.",
+"④ 가수 진영이 3년 만에 하는 콘서트에 관중을 모으려고 홍보했다."
+],
+"oEn": [
+"① Correct! 'When singer Jinyoung held a concert after 3 years, a huge number of spectators flocked to it.' ('구름 관중' = 수많은 관중이 몰렸다).",
+"② 'promised to hold a concert again within 3 years'",
+"③ 'held a concert prepared for 3 years, but response was low'",
+"④ 'promoted to gather spectators'"
+],
+"a": 0,
+"expKo": "정답: ① — '3년 만의 콘서트(3년 만에 콘서트를 열자)' + '구름 관중(구름처럼 수많은 관중이 몰렸다)'이므로 ①이 정답입니다.",
+"expEn": "'구름 관중' (spectators gathering like clouds) means a massive crowd flocked to the venue ('수많은 관중이 몰렸다').",
+"mem": "11주차 1강 Slide Page 8 (Q25 Headline): '구름 관중' (a cloud of spectators) = '① 수많은 관중이 몰렸다' (a huge crowd gathered)!",
+"vocabList": [
+"3년 만의: for the first time in 3 years",
+"구름 관중: a massive crowd of spectators (= 수많은 관중이 몰리다)"
+]
+},
+{
+"passageKo": "[신문 기사 제목]\n한국 탁구의 간판 김수미, 올해 국제 대회 금메달 싹쓸이",
+"passageEn": "[Newspaper Headline]\nKorea Table Tennis Flagship Star ('간판') Kim Su-mi Makes a Clean Sweep ('싹쓸이') of Gold Medals at This Year's International Tournaments",
+"qKo": "26. 다음은 신문 기사의 제목입니다. 가장 잘 설명한 것을 고르십시오.",
+"qEn": "[11주차 1강 Slide Page 9 — Q26] Choose the statement that best explains the newspaper headline.",
+"o": [
+"① 올해 국제 탁구 대회에서 한국 대표 김수미의 금메달 가능성이 높아졌다.",
+"② 한국 탁구계가 김수미를 내세워 올해 국제 대회의 금메달을 노리고 있다.",
+"③ 한국의 대표 탁구 선수 김수미가 올해 국제 대회에서 모두 금메달을 땄다.",
+"④ 한국 탁구 선수 김수미가 올해 국제 대회에서 금메달을 따고자 훈련 중이다."
+],
+"oEn": [
+"① 'possibility of winning gold increased'",
+"② 'is aiming for gold medals'",
+"③ Correct! 'Korea's representative table tennis player Kim Su-mi won all the gold medals at this year's international tournaments.' ('간판' = 대표 선수, '싹쓸이' = 모두 땄다).",
+"④ 'is training to win gold medals'"
+],
+"a": 2,
+"expKo": "정답: ③ — '한국 탁구의 간판(한국의 대표 탁구 선수)' + '금메달 싹쓸이(모두 금메달을 땄다)'를 정확히 설명한 ③이 정답입니다.",
+"expEn": "'간판' (storefront sign / flagship figure) = representative player ('대표 선수'); '싹쓸이' (clean sweep) = won all of them ('모두 금메달을 땄다').",
+"mem": "11주차 1강 Slide Page 9 (Q26 Headline): '간판' = representative ace ('대표 선수') + '싹쓸이' = swept them all ('③ 모두 금메달을 땄다')!",
+"vocabList": [
+"간판: flagship / representative star (= 대표 선수)",
+"싹쓸이: clean sweep (= 모두 따다 / 독차지하다)"
+]
+},
+{
+"passageKo": "[신문 기사 제목]\n대출 금리 하락세, 부동산 시장 기지개",
+"passageEn": "[Newspaper Headline]\nLoan Interest Rates on a Downward Trend ('하락세'), Real Estate Market Stretches Awake / Begins to Revive ('기지개')",
+"qKo": "27. 다음은 신문 기사의 제목입니다. 가장 잘 설명한 것을 고르십시오.",
+"qEn": "[11주차 1강 Slide Page 10 — Q27] Choose the statement that best explains the newspaper headline.",
+"o": [
+"① 대출 금리가 떨어지면서 부동산 시장이 살아나기 시작했다.",
+"② 부동산 시장에 대한 규제가 대출 금리 하락에 영향을 미쳤다.",
+"③ 대출 금리가 하락했지만 부동산 시장의 거래는 줄어들고 있다.",
+"④ 부동산 시장을 활성화하려고 대출 금리 안정화 대책이 논의되고 있다."
+],
+"oEn": [
+"① Correct! 'As loan interest rates fell, the real estate market began to revive.' ('하락세' = 떨어지면서, '기지개' = 살아나기 시작했다).",
+"② Reverses cause and effect.",
+"③ Opposite of '기지개'.",
+"④ Mentions discussing stabilization measures."
+],
+"a": 0,
+"expKo": "정답: ① — '대출 금리 하락세(대출 금리가 떨어지면서)' + '부동산 시장 기지개(침체되었던 시장이 활기를 띠며 살아나기 시작했다)'이므로 ①이 정답입니다.",
+"expEn": "'하락세' = downward trend ('떨어지면서'); '기지개(를 켜다)' = stretching after waking up, meaning a sluggish market begins to revive ('살아나기 시작했다').",
+"mem": "11주차 1강 Slide Page 10 (Q27 Headline): '하락세' = falling ('떨어지면서') + '기지개' = stretching awake / reviving ('① 살아나기 시작했다')!",
+"vocabList": [
+"대출 금리: loan interest rate",
+"하락세: downward trend (= 떨어지다)",
+"기지개(를 켜다): to stretch awake / begin to revive (= 살아나기 시작하다)"
+]
+}
+],
+"2강": [
+{
+"passageKo": "선글라스는 보통 햇빛이 강할 때 눈 건강을 위해 쓴다. 그런데 선글라스의 렌즈는 사용 기한이 있다. 선글라스의 렌즈에는 자외선 차단을 위한 얇은 막이 입혀져 있는데 열에 계속 노출되면 자외선 차단 기능이 점점 떨어지게 된다. 자외선 차단 기능이 약해진 선글라스로는 눈을 보호하기 어려우므로 5년 정도 쓰고 나면 (     ) 것이 좋다.",
+"passageEn": "Sunglasses are usually worn for eye health when sunlight is strong. However, sunglass lenses have an expiration period. Sunglass lenses are coated with a thin film for UV protection, and if continuously exposed to heat, the UV-blocking function gradually decreases. Since it is difficult to protect the eyes with sunglasses whose UV-blocking function has weakened, after using them for about 5 years, it is good to ( Blank ).",
+"qKo": "1. 다음을 읽고 (     )에 들어갈 내용으로 가장 알맞은 것을 고르십시오.",
+"qEn": "[11주차 2강 Slide Page 4 — 기출문제 ① (1)] Choose the most appropriate expression for the blank.",
+"o": [
+"① 렌즈를 바꿔 주는",
+"② 렌즈를 꼼꼼히 잘 닦는",
+"③ 렌즈의 색을 어둡게 하는",
+"④ 렌즈의 엷은 막을 벗겨 내는"
+],
+"oEn": [
+"① Correct! 'replace the lenses' (since sunglass lenses have a service life and lose UV protection after ~5 years).",
+"② 'wipe the lenses thoroughly'",
+"③ 'darken the color of the lenses'",
+"④ 'peel off the thin film of the lenses'"
+],
+"a": 0,
+"expKo": "정답: ① — 선글라스 렌즈는 사용 기한이 있고 5년 정도 지나 자외선 차단 기능이 약해지면 눈을 보호하기 어렵다고 했으므로 '① 렌즈를 바꿔 주는' 것이 좋습니다.",
+"expEn": "Because sunglass lenses have an expiration period ('사용 기한이 있다') and lose their UV-blocking capability after about 5 years, you should replace the lenses ('① 렌즈를 바꿔 주는').",
+"mem": "11주차 2강 Slide Page 4: Sunglass lenses have a lifespan ('사용 기한') and lose UV protection after 5 years → replace the lenses ('① 렌즈를 바꿔 주는')!",
+"vocabList": [
+"사용 기한: expiration period / service life",
+"자외선 차단: UV protection / blocking",
+"얇은 막이 입혀져 있다: to be coated with a thin film",
+"열에 노출되다: to be exposed to heat"
+]
+},
+{
+"passageKo": "사진에서 구도는 전체적인 분위기를 살리는 중요한 요소이다. 보통 동적인 느낌을 주고 싶을 때는 대각선 구도를 쓰는데 도로나 폭포 등의 풍경 사진 등에 쓰여 생동감을 표현한다. 한편 전통적인 가족사진은 (     ) 위해서 삼각형 구도를 가장 많이 활용한다. 이 구도는 연장자를 중심으로 가족 구성원이 옆이나 뒤에 배치되어 전체적으로 편안하고 균형 잡힌 분위기를 만들어 낸다.",
+"passageEn": "In photography, composition ('구도') is an important element that brings out the overall atmosphere. Usually, when wanting to give a dynamic feeling, diagonal composition is used... Meanwhile, traditional family photos utilize triangular composition the most in order to ( Blank ). In this composition, family members are arranged beside or behind the elders at the center, creating a comfortable and balanced atmosphere overall.",
+"qKo": "2. 다음을 읽고 (     )에 들어갈 내용으로 가장 알맞은 것을 고르십시오.",
+"qEn": "[11주차 2강 Slide Page 5 — 기출문제 ① (2)] Choose the most appropriate expression for the blank.",
+"o": [
+"① 동적인 효과를 살리기",
+"② 안정적인 느낌을 주기",
+"③ 풍경을 중앙에 배치하기",
+"④ 긴장된 분위기를 연출하기"
+],
+"oEn": [
+"① 'bring out a dynamic effect' (this is diagonal composition '대각선 구도'!)",
+"② Correct! 'give a stable feeling' (matches '전체적으로 편안하고 균형 잡힌 분위기를 만들어 낸다').",
+"③ 'place the scenery in the center'",
+"④ 'create a tense atmosphere'"
+],
+"a": 1,
+"expKo": "정답: ② — 뒷문장에서 삼각형 구도는 '전체적으로 편안하고 균형 잡힌 분위기를 만들어 낸다'고 했고, 앞문장의 '동적인 느낌(대각선 구도)'과 대조되므로 '② 안정적인 느낌을 주기'가 정답입니다.",
+"expEn": "Diagonal composition ('대각선 구도') = dynamic feeling ('동적인 느낌 / 생동감'). Triangular composition ('삼각형 구도') = comfortable and balanced atmosphere ('편안하고 균형 잡힌 분위기' = '② 안정적인 느낌을 주기')!",
+"mem": "11주차 2강 Slide Page 5: Diagonal ('대각선 구도') = dynamic ('동적인 느낌') ↔ Triangle ('삼각형 구도') = comfortable & balanced ('편안하고 균형 잡힌' = '② 안정적인 느낌을 주기')!",
+"vocabList": [
+"구도: composition (in photography/art)",
+"동적인 느낌 ↔ 안정적인 느낌: dynamic feeling ↔ stable feeling",
+"생동감: liveliness / vitality",
+"연장자: elder / senior family member",
+"균형 잡힌: balanced"
+]
+},
+{
+"passageKo": "풍부한 자원은 경제 성장의 필요조건이지 충분조건은 아니다. 풍부한 천연 자원을 갖추고 있음에도 (     ) 경우도 있다. 풍부한 자원에만 의존해 경제 성장의 중심 산업인 제조업이나 서비스업 등에 투자를 하지 않게 되는 것이다. 반면에 천연자원이 빈약해도 새로운 기술 개발이나 교육을 통해 생산 능력을 높이는 나라도 있다.",
+"passageEn": "Abundant resources are a necessary condition for economic growth, not a sufficient condition. There are cases where even though a country possesses abundant natural resources, it ( Blank ). Depending only on abundant resources, it fails to invest in core industries of economic growth like manufacturing or service industries.",
+"qKo": "3. 다음을 읽고 (     )에 들어갈 내용으로 가장 알맞은 것을 고르십시오.",
+"qEn": "[11주차 2강 Slide Page 6 — 기출문제 ① (3)] Choose the most appropriate expression for the blank.",
+"o": [
+"① 제조업에 의존하려는",
+"② 자원을 생산하지 못하는",
+"③ 경제 발전을 이루지 못하는",
+"④ 기술 개발에 무리하게 투자하는"
+],
+"oEn": [
+"① 'intending to rely on manufacturing' (opposite of the next sentence!)",
+"② 'unable to produce resources'",
+"③ Correct! 'unable to achieve economic development' (despite having abundant natural resources, because they don't invest in manufacturing/services).",
+"④ 'investing excessively in technology development'"
+],
+"a": 2,
+"expKo": "정답: ③ — 첫 문장에서 '풍부한 자원은 경제 성장의 충분조건은 아니다'라고 했고, 뒷문장에서 자원에만 의존해 제조업·서비스업에 투자하지 않게 된다고 했으므로 풍부한 천연 자원을 갖추고 있음에도 '③ 경제 발전을 이루지 못하는' 경우가 있다는 뜻입니다.",
+"expEn": "Even with abundant natural resources ('풍부한 천연 자원을 갖추고 있음에도'), some countries fail to achieve economic development ('③ 경제 발전을 이루지 못하는') because they rely only on resources and neglect manufacturing/services.",
+"mem": "11주차 2강 Slide Page 6: '풍부한 천연 자원을 갖추고 있음에도' (-에도 = even though they have abundant resources) + no investment in manufacturing = '③ 경제 발전을 이루지 못하는' (fail to achieve economic development)!",
+"vocabList": [
+"필요조건 / 충분조건: necessary condition / sufficient condition",
+"천연 자원: natural resources",
+"의존하다: to depend / rely on",
+"빈약하다: to be poor / meager / scarce"
+]
+},
+{
+"passageKo": "의사의 모습을 생각하면 우리는 보통 흰색 가운을 떠올리게 된다. 그런데 의사 가운이 처음부터 흰색이었던 것은 아니다. 중세 시대에는 성직자가 의사를 겸하는 경우가 많아 성직자용 검은색 가운을 입고 진료를 했다. 그런데 검은색 옷은 세균으로 오염된 얼룩이 잘 보이지 않았다. 이후 세균 감염의 위험성에 대한 인식이 높아지면서 (     ) 가운의 색이 흰색으로 바뀌었다.",
+"passageEn": "When we think of a doctor's appearance, we usually recall a white gown. However, doctors' gowns were not white from the beginning. In the Middle Ages, clergy often served concurrently as doctors and wore black gowns for clergy when treating patients. However, stains contaminated with bacteria were not easily visible on black clothes. Later, as awareness of the risk of bacterial infection increased, the color of gowns changed to white ( Blank ).",
+"qKo": "4. 다음을 읽고 (     )에 들어갈 내용으로 가장 알맞은 것을 고르십시오.",
+"qEn": "[11주차 2강 Slide Page 7 — 기출문제 ① (4)] Choose the most appropriate expression for the blank.",
+"o": [
+"① 염색하기 편하게",
+"② 환자와 구분이 되도록",
+"③ 오염이 쉽게 눈에 띄도록",
+"④ 밝은 이미지를 줄 수 있게"
+],
+"oEn": [
+"① 'to make it convenient to dye'",
+"② 'so as to be distinguished from patients'",
+"③ Correct! 'so that contamination is easily noticeable / visible' (contrasts directly with '검은색 옷은 세균으로 오염된 얼룩이 잘 보이지 않았다').",
+"④ 'to give a bright image'"
+],
+"a": 2,
+"expKo": "정답: ③ — 바로 앞 문장에서 '검은색 옷은 세균으로 오염된 얼룩이 잘 보이지 않았다'고 했으므로, 세균 감염 위험성을 인식한 뒤 '③ 오염이 쉽게 눈에 띄도록' 흰색 가운으로 바뀌었다는 뜻입니다.",
+"expEn": "Look at the sentence before the blank: '검은색 옷은 세균으로 오염된 얼룩이 잘 보이지 않았다' (stains contaminated with bacteria were not easily visible on black clothes). Therefore, gowns changed to white so that contamination would easily stand out ('③ 오염이 쉽게 눈에 띄도록')!",
+"mem": "11주차 2강 Slide Page 7: Black gown ('검은색 옷') = contaminated stains were not visible ('오염된 얼룩이 잘 보이지 않았다') → Changed to white gown so contamination is easily visible ('③ 오염이 쉽게 눈에 띄도록')!",
+"vocabList": [
+"성직자: clergy",
+"겸하다: to hold an additional role concurrently",
+"세균 감염: bacterial infection",
+"얼룩: stain / spot",
+"눈에 띄다: to stand out / be noticeable"
+]
+},
+{
+"passageKo": "참치 쿼터제는 참치의 무분별한 포획을 막기 위해 어획량을 국가별로 정해 놓은 제도이다. 한국은 참치 어획량이 매우 적게 배정돼 있는데 이는 한국 연안에서는 참치가 거의 잡히지 않았기 때문이다. 최근 수온이 상승함에 따라 한국 연안에 유입되는 참치가 급격히 늘어나고 있지만 쿼터제 때문에 그물에 걸린 참치를 대부분 바다에 버리고 있다. 쿼터제의 필요성은 인정하지만 국가별 개체 수 증감을 반영한 융통성 있는 조정이 필요하다.",
+"passageEn": "The tuna quota system is a system that sets catch limits by country to prevent indiscriminate capture of tuna. Korea is allocated a very small tuna catch limit because tuna were rarely caught off the coast of Korea. Recently, as water temperatures rise, tuna flowing into Korean coastal waters are increasing rapidly, but due to the quota system, most tuna caught in nets are thrown back into the sea. While acknowledging the necessity of the quota system, flexible adjustment reflecting the increase and decrease in population by country is needed.",
+"qKo": "5. 다음을 읽고 글의 주제로 가장 알맞은 것을 고르십시오.",
+"qEn": "[11주차 2강 Slide Page 8 — 기출문제 ① (5)] Choose the most appropriate main topic of the passage.",
+"o": [
+"① 국가별 상황에 따라 참치 쿼터제를 현실에 맞게 수정해야 한다.",
+"② 참치의 무분별한 포획을 방지하기 위해 쿼터제를 도입해야 한다.",
+"③ 수온 상승으로부터 참치를 보호하기 위한 대책을 마련해야 한다.",
+"④ 참치의 유입량을 늘리기 위한 실질적인 연구가 이루어져야 한다."
+],
+"oEn": [
+"① Correct! 'The tuna quota system must be revised to fit reality according to each country's situation.' ('국가별 개체 수 증감을 반영한 융통성 있는 조정이 필요하다').",
+"② 'A quota system must be introduced to prevent indiscriminate capture.' (Already introduced!)",
+"③ 'Measures must be prepared to protect tuna from rising water temperatures.'",
+"④ 'Practical research to increase tuna inflow must be conducted.'"
+],
+"a": 0,
+"expKo": "정답: ① — 마지막 문장의 '국가별 개체 수 증감을 반영한 융통성 있는 조정이 필요하다'는 선택지 ①의 '국가별 상황에 따라 참치 쿼터제를 현실에 맞게 수정해야 한다'와 정확히 일치합니다.",
+"expEn": "Look at the final sentence: '국가별 개체 수 증감을 반영한 융통성 있는 조정이 필요하다' (flexible adjustment reflecting country-by-country population changes is needed) = '① 국가별 상황에 따라 참치 쿼터제를 현실에 맞게 수정해야 한다'!",
+"mem": "11주차 2강 Slide Page 8: Final sentence '국가별 개체 수 증감을 반영한 융통성 있는 조정이 필요하다' = '① 국가별 상황에 따라 참치 쿼터제를 현실에 맞게 수정해야 한다'!",
+"vocabList": [
+"참치 쿼터제: tuna quota system",
+"무분별한 포획: indiscriminate capture",
+"어획량 / 배정되다: catch volume / to be allocated",
+"연안 / 유입되다: coastal waters / to flow into",
+"융통성 있는 조정: flexible adjustment"
 ]
 }
 ]
