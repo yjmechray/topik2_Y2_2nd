@@ -424,5 +424,47 @@
 "mem": "11주차 2강 Slide Page 11 (Q53 '편의점과 대형 마트 매출액'): 1) Almost no change: '큰 변화가 없었다'; 2) Two causes: '첫째, ~ 향상되고, 둘째, ~ 증가했기 때문이다'; 3) Forecast '>' ('편의점 > 대형 마트'): '편의점의 매출액이 대형 마트를 넘어설 것으로 전망된다'!"
 }
 ]
+},
+"12주차 (제96회)": {
+"1강": [
+{
+"frontTag": "12주차 1강 Slide Page 12 · 제96회 쓰기 51번 기출문제 (에르덴의 이사 동네 추천 문의 글)",
+"frontMain": "[자유 게시판]\n제목: 어디로 이사하는 것이 좋을까요? | 작성자: 에르덴\n\n안녕하세요. 외국인 유학생입니다.\n기숙사 생활이 불편해서 이번 방학에 이사를 ( ㉠ ).\n집값이 싸고 좀 깨끗한 동네면 좋겠습니다.\n그런데 어느 ( ㉡ ) 잘 모르겠습니다.\n좋은 곳을 아시면 추천 부탁드립니다.",
+"frontSub": "[12주차 1강 교안 12쪽 원문] '이번 방학에 이사를 ( ㉠ ).'과 '그런데 어느 ( ㉡ ) 잘 모르겠습니다.'를 격식체(-(스)ㅂ니다) 문맥에 맞게 완성하세요!",
+"hintText": "㉠ 하려고 합니다 / 하고 싶습니다 / 갈까 합니다 | ㉡ 동네가 좋은지 / 곳으로 이사하면 좋을지 / 동네로 가야 할지",
+"backKo": "㉠ 하려고 합니다 (하고 싶습니다 / 갈까 합니다)\n㉡ 동네가 좋은지 (곳으로 이사하면 좋을지 / 동네가 살기 좋은지)",
+"backEn": "㉠ Because dormitory life is inconvenient, I plan to (would like to) move during this vacation.\n㉡ However, I do not know well which neighborhood is good (which place would be good to move to).",
+"partnerLabel": "12주차 1강 51번 의도·간접의문문 공식",
+"partnerText": "• ㉠ '기숙사 생활이 불편해서 이번 방학에 이사를 ( ㉠ ).' → 계획·희망 표현: '하려고 합니다 / 하고 싶습니다'\n• ㉡ 제목('어디로 이사하는 것이 좋을까요?') + 앞문장('집값이 싸고 좀 깨끗한 동네') + '그런데 어느 ( ㉡ ) 잘 모르겠습니다' → 간접의문문: '동네가 좋은지 / 곳으로 이사하면 좋을지'",
+"partnerExplain": "Verified directly from The Week 12 Lecture 1 Learning Material (Page 12)! In ㉠, pair the noun '이사를' with '하다' + intention ending '-(으)려고 합니다'. In ㉡, after the determiner '어느' (which) and before '잘 모르겠습니다' (I don't know well), use a noun ('동네/곳') + indirect question ending ('-ㄴ지/는지/-(으)ㄹ지')!",
+"mem": "12주차 1강 Slide Page 12 (Q51 '에르덴 — 어디로 이사하는 것이 좋을까요?'): 1) '이번 방학에 이사를 ( ㉠ ).' → '하려고 합니다 / 하고 싶습니다'; 2) '그런데 어느 ( ㉡ ) 잘 모르겠습니다.' → '동네가 좋은지 / 곳으로 이사하면 좋을지'!"
+},
+{
+"frontTag": "12주차 1강 Slide Page 13 · 제96회 쓰기 52번 기출문제 (개구리의 긴 잠과 체온 조절)",
+"frontMain": "개구리가 겨울에 추위를 피해 겨울잠을 잔다는 것은 잘 알려져 있다. 그런데 개구리가 꼭 추운 겨울에만 긴 잠을 ( ㉠ ). 더운 지역에 사는 개구리는 기온이 매우 높은 기간에 긴 잠을 자기도 한다. 왜냐하면 개구리는 사람과 달리 체내에서 체온 조절을 ( ㉡ ). 개구리처럼 체온 조절을 못하는 동물에게는 추위뿐만 아니라 더위도 생존에 위협이 되는 것이다.",
+"frontSub": "[12주차 1강 교안 13쪽 원문] '꼭 추운 겨울에만 긴 잠을 ( ㉠ ).'과 '왜냐하면 개구리는 사람과 달리 체내에서 체온 조절을 ( ㉡ ).'을 평서형(-다)으로 완성하세요!",
+"hintText": "㉠ 자는 것은 아니다 (부분 부정: 꼭 ~만 ~는 것은 아니다) | ㉡ 하지 못하기 때문이다 / 할 수 없기 때문이다 (뒷문장 '체온 조절을 못하는' 힌트!)",
+"backKo": "㉠ 자는 것은 아니다\n㉡ 하지 못하기 때문이다 (할 수 없기 때문이다 / 못하기 때문이다)",
+"backEn": "㉠ However, it is not the case that frogs sleep a long sleep only in the cold winter.\n㉡ This is because, unlike humans, frogs cannot regulate their body temperature inside their bodies.",
+"partnerLabel": "12주차 1강 52번 부분 부정 & 이유 호응 공식",
+"partnerText": "• ㉠ '그런데 개구리가 꼭 추운 겨울에만 긴 잠을 ( ㉠ ).' → '꼭 ~만' 짝꿍 부분 부정 공식: '자는 것은 아니다'\n• ㉡ '왜냐하면 ~ 체온 조절을 ( ㉡ ).' + 뒷문장 '개구리처럼 체온 조절을 못하는 동물에게는' → '하지 못하기 때문이다 / 할 수 없기 때문이다'",
+"partnerExplain": "Verified directly from The Week 12 Lecture 1 Learning Material (Page 13)! In ㉠, '꼭 ~만' (necessarily only ~) always pairs with partial negation '-는 것은 아니다' ('자는 것은 아니다'). In ㉡, the sentence starts with '왜냐하면' (because) and the very next sentence gives away the exact words: '개구리처럼 체온 조절을 못하는 동물에게는' → '하지 못하기 때문이다'!",
+"mem": "12주차 1강 Slide Page 13 (Q52 '개구리 체온 조절'): 1) '꼭 추운 겨울에만 긴 잠을 ( ㉠ )' → '자는 것은 아니다' (not necessarily only in winter); 2) '왜냐하면' + next sentence '체온 조절을 못하는' → '하지 못하기 때문이다 / 할 수 없기 때문이다'!"
+}
+],
+"2강": [
+{
+"frontTag": "12주차 2강 Slide Pages 10~11 · 제96회 쓰기 53번 기출문제 (인주시 마라톤 대회 참가자 수의 변화)",
+"frontMain": "[53번 도표: 인주시 마라톤 대회 참가자 수의 변화 (200~300자)]\n• 조사 기관: 한국스포츠연구소\n• 인주시 마라톤 대회 참가자 수 (단위: 명):\n  - 2013년 40만 → 2023년 100만 (2.5배 ↑)\n• 연령별 참가자 수 (2013년 → 2023년):\n  - 20~30대: 4배 ↑\n  - 40~50대: 1.3배 ↑\n• 원인:\n  1) 건강 관리에 대한 관심 ↑ ➡ 달리기 문화 확산\n  2) SNS를 통한 마라톤 모임 활성화 ➡ 20~30대 참가자 ↑",
+"frontSub": "[12주차 2강 교안 10~11쪽 원문] 카드를 뒤집어 교안 11쪽에 수록된 모범 답안 원문을 확인하세요!",
+"hintText": "한국스포츠연구소에서 ... 조사하였다. 그 결과 ... 2.5배 증가한 것으로 나타났다. 이를 연령별로 살펴보면 20~30대는 지난 10년간 4배 증가한 반면 40~50대는 같은 기간에 1.3배 증가하는 데에 그쳤다. 이러한 변화의 원인은 ... 때문인 것으로 보인다.",
+"backKo": "[교안 11쪽 모범 답안 원문 (오타 교정본)]\n한국스포츠연구소에서 인주시 마라톤 대회 참가자 수의 변화를 조사하였다. 그 결과 인주시의 마라톤 대회 참가자 수는 2013년 40만 명에서 2023년 100만 명으로 2.5배 증가한 것으로 나타났다. 이를 연령별로 살펴보면 20~30대는 지난 10년간 4배 증가한 반면 40~50대는 같은 기간에 1.3배 증가하는 데에 그쳤다. 이러한 변화의 원인은 건강 관리에 대한 관심이 높아져 달리기 문화가 확산되었고 SNS를 통한 마라톤 모임이 활성화되어 20~30대 참가자가 증가하였기 때문인 것으로 보인다.",
+"backEn": "[Slide Page 11 Official Model Answer]\nKorea Sports Research Institute surveyed changes in the number of participants in the Inju City Marathon. As a result, the number of participants in the Inju City Marathon increased 2.5 times from 400,000 in 2013 to 1,000,000 in 2023. Examining this by age group, those in their 20s–30s increased 4 times over the past 10 years, whereas those in their 40s–50s only increased 1.3 times during the same period. The causes of this change appear to be that interest in health management rose, spreading the running culture, and marathon clubs via SNS were vitalized, increasing participants in their 20s–30s.",
+"partnerLabel": "12주차 2강 교안 11쪽 핵심 문장 템플릿 4가지",
+"partnerText": "1. 전체 배수 증가: 2013년 40만 명에서 2023년 100만 명으로 2.5배 증가한 것으로 나타났다.\n2. 세부 항목 전환: 이를 연령별로 살펴보면 ~\n3. 큰 폭 vs 작은 폭 증가 대조: 20~30대는 지난 10년간 4배 증가한 반면 40~50대는 같은 기간에 1.3배 증가하는 데에 그쳤다.\n4. 화살표(➡) 원인 연결: 관심이 높아져 달리기 문화가 확산되었고 SNS를 통한 마라톤 모임이 활성화되어 20~30대 참가자가 증가하였기 때문인 것으로 보인다.",
+"partnerExplain": "Extracted word-for-word from The Week 12 Lecture 2 Learning Material (Page 11)! Pay special attention to the high-scoring expression '1.3배 증가하는 데에 그쳤다' (only increased by 1.3 times / stopped at a 1.3x increase) when contrasting a small increase against a 4x surge!",
+"mem": "12주차 2강 Slide Page 11 (Q53 '인주시 마라톤 대회'): 1) Transition to age breakdown: '이를 연령별로 살펴보면'; 2) Contrast 4x vs 1.3x: '20~30대는 4배 증가한 반면 40~50대는 1.3배 증가하는 데에 그쳤다'; 3) Causes: '~확산되었고 ~활성화되어 ~증가하였기 때문인 것으로 보인다'!"
+}
+]
 }
 }
