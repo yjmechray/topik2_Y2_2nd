@@ -1,470 +1,111 @@
 {
 "1주차 (제35회)": {
 "1강": [
-{
-"frontTag": "1주차 1강 · 쓰기 51번 연습문제 (감사·반납 편지)",
-"frontMain": "영철 씨, 안녕하세요?\n지난번에 가방을 ( ㉠ ) 고맙습니다.\n덕분에 여행을 잘 다녀왔습니다.\n가방을 언제 ( ㉡ )?\n편하신 시간을 알려 주시면 제가 찾아가겠습니다.",
-"frontSub": "빈칸 ( ㉠ ), ( ㉡ )에 들어갈 알맞은 격식체·높임말 표현을 생각한 뒤 카드를 뒤집어 보세요!",
-"hintText": "㉠ 빌려주다 + -시- + -어서 | ㉡ 돌려주다(→드리다) + -(으)면 좋겠습니까?",
-"backKo": "㉠ 빌려 주셔서 (빌려주셔서)\n㉡ 돌려 드리면 좋겠습니까 / 돌려 드리면 되겠습니까",
-"backEn": "㉠ Thank you for lending me the bag last time.\n㉡ When would it be good for me to return the bag to you?",
-"partnerLabel": "채점 기준 & 문법 공식 (5점 + 5점 = 10점)",
-"partnerText": "• 감사 이유 연결: 동사 + -아/어 주셔서 고맙습니다\n• 겸양 질문: 동사 + -아/어 드리면 좋겠습니까? / 되겠습니까?",
-"partnerExplain": "In Writing Q51, you MUST use formal polite endings (-(스)ㅂ니다/습니까) and honorifics (-시-, 드리다). Never use -어요 or -다!",
-"mem": "When the listener did a favor for you (lending the bag), use '-아/어 주셔서' (빌려 주셔서). When you do an action back to them (returning it), humble yourself with '드리다' + '-(으)면 좋겠습니까?' (돌려 드리면 좋겠습니까?)!"
-},
-{
-"frontTag": "1주차 1강 · 쓰기 51번 안내문 '바라다' 변환 연습",
-"frontMain": "[공지·안내문 '바라다' 변환 연습]\n1. 관심이 있으신 분은 신청해 주십시오.\n2. 대중교통을 이용해 주십시오.\n3. 홈페이지를 참고해 주십시오.",
-"frontSub": "위 세 문장을 '바라다(-기 바랍니다)'를 활용하여 안내문 격식체로 바꿔 보세요!",
-"hintText": "동사 어간 + -(으)시기 바랍니다 / -아/어 주시기 바랍니다",
-"backKo": "1. 관심이 있으신 분은 신청하시기 바랍니다. (신청해 주시기 바랍니다.)\n2. 대중교통을 이용하시기 바랍니다. (이용해 주시기 바랍니다.)\n3. 홈페이지를 참고하시기 바랍니다. (참고해 주시기 바랍니다.)",
-"backEn": "1. Those interested are requested to apply.\n2. Please use public transportation.\n3. Please refer to the website.",
-"partnerLabel": "안내문 필수 종결 공식",
-"partnerText": "-아/어 주십시오 = -(으)시기 바랍니다 = -아/어 주시기 바랍니다",
-"partnerExplain": "Core grammar formula for scoring full points on the final blank of Q51 public notices (asking readers to apply, contact, or refer).",
-"mem": "Notice Final Blank Formula: Any polite imperative '-아/어 주십시오' (Please do ~) can be upgraded into formal notice style using '~하시기 바랍니다' or '~해 주시기 바랍니다'!"
-},
-{
-"frontTag": "1주차 1강 · 제35회 쓰기 51번 기출문제",
-"frontMain": "[제목: 무료로 드립니다]\n저는 한국에서 유학 생활을 하고 있는 외국인 유학생입니다. 이번에 공부를 마치고 다음 주에 고향으로 돌아갑니다. 제 방에 책상, 의자, 컴퓨터, 경영학 전공 책 등이 있습니다. 그래서 지금 ( ㉠ ). 이번 주 금요일까지 방을 비워 줘야 합니다. ( ㉡ ). 제 전화 번호는 010-1234-5678입니다.",
-"frontSub": "제목('무료로 드립니다')과 앞뒤 문맥을 보고 ( ㉠ ), ( ㉡ )을 완성하세요!",
-"hintText": "㉠ 쓰던 물건을 무료로 드리고 싶습니다 / 가져가실 분을 찾습니다 | ㉡ 금요일 전까지 연락해 주시기 바랍니다",
-"backKo": "㉠ 제가 쓰던 물건을 무료로 드리고 싶습니다 (이 물건들을 무료로 가져가실 분을 찾습니다)\n㉡ 필요하신 분은 금요일 전까지 연락해 주시기 바랍니다 (그전까지 연락해 주십시오)",
-"backEn": "㉠ So right now I would like to give away the items I used for free.\n㉡ If you need them, please contact me before Friday.",
-"partnerLabel": "교수님 풀이 핵심 포인트",
-"partnerText": "1. 제목('무료로 드립니다')을 먼저 읽고 ㉠에 그대로 활용!\n2. ㉡ 앞의 기한(금요일까지) + 뒤의 전화번호 → 연락 요청!",
-"partnerExplain": "Professor 오현진 emphasized: The title of Q51 ('무료로 드립니다') gives away the exact answer for Blank ㉠! And a phone number after Blank ㉡ always signals 'Please contact me' ('연락해 주시기 바랍니다').",
-"mem": "Step 1: Read the Title ('무료로 드립니다' = Giving away for free) and plug it into Blank ㉠ ('물건을 무료로 드리고 싶습니다'). Step 2: See the phone number after Blank ㉡ and write '연락해 주시기 바랍니다' (Please contact me)!"
-}
+{"frontTag":"1주차 1강 Slide Page 12 · 기출문제 ② (1) 쓰기 51번 문제 유형 & 채점 근거","frontMain":"[쓰기 51번 문제 유형 및 채점 근거]\n• 유형: 빈칸에 알맞은 말 쓰기 (실용문 두 문장 완성, 3급 수준)\n• 배점: 총 10점 (㉠ 5점 + ㉡ 5점)\n• 채점 근거 2가지:\n  1) 내용 요소: ( ㉠ )?\n  2) 형식 요소(격식체 사용): ( ㉡ )?","frontSub":"[1주차 1강 교안 12쪽 원문] 쓰기 51번의 두 가지 채점 기준(내용 요소, 형식 요소)을 확인하세요!","hintText":"㉠ 의미에 맞는 내용으로 썼는가? | ㉡ 정확한 문법(격식체 -(스)ㅂ니다/습니까, 높임말)을 사용했는가?","backKo":"1) 내용 요소 (5점): 의미에 맞는 내용으로 썼는가?\n2) 형식 요소 (5점): 격식체(-(스)ㅂ니다/-(스)ㅂ니까?) 및 정확한 문법·높임말을 사용했는가?","backEn":"1) Content Element (5 pts): Is it written with content that fits the contextual meaning?\n2) Form Element (5 pts): Does it use formal polite style (격식체) and accurate grammar/honorifics?","partnerLabel":"1주차 1강 교안 12쪽 핵심 규칙","partnerText":"• 51번 필수 어미: -(스)ㅂ니다 / -(스)ㅂ니까? / -(으)십시오 / -기 바랍니다\n• 절대 금지: -아요/-어요(비격식체) 또는 -ㄴ다/-는다(평서형) 사용 시 형식 감점!","partnerExplain":"Verified from The Week 1 Lecture 1 Learning Material (Page 12)! Even if your meaning is right, using '-어요' costs points under '형식 요소(격식체 사용)'.","mem":"1주차 1강 Slide Page 12: Q51 = 10 points (5 pts for ㉠ + 5 pts for ㉡) graded on Content ('의미에 맞는 내용') + Form ('격식체 사용: -(스)ㅂ니다/습니까')!"},
+{"frontTag":"1주차 1강 Slide Page 13 · 기출문제 ② (2) 연습 문제 1 & 2 (격식체·높임말)","frontMain":"1. 밑줄 친 부분을 격식체로 바꿔 쓰세요.\n① 부탁이 있어서 문자를 보내요. → 부탁이 있어서 문자를 ( ㉠ )\n② 언제까지 신청하면 돼요? → 언제까지 ( ㉡ )\n\n2. 밑줄 친 부분을 높임말로 바꿔 쓰세요.\n① 교수님, 제가 갑자기 부탁을 했는데 부탁을 들어 줘서 정말 감사합니다. → ( ㉢ )\n② 제가 도와줄 일이 있으면 언제든지 말해 주십시오. → ( ㉣ ) ( ㉤ )","frontSub":"[1주차 1강 교안 13쪽 원문] 비격식체(-요)를 격식체(-(스)ㅂ니다/습니까)로, 예사말을 높임말로 바꿔 보세요!","hintText":"㉠ 보냅니다/드립니다 | ㉡ 신청하면 됩니까? | ㉢ 들어 주셔서 | ㉣ 도와 드릴 | ㉤ 말씀해 주십시오","backKo":"1-① 보냅니다 (드립니다)\n1-② 신청하면 됩니까?\n2-① 들어 주셔서 (들어주셔서)\n2-② 도와 드릴 (도와드릴) / 말씀해 주십시오","backEn":"1-① I am sending you a text message because I have a favor to ask.\n1-② By when should I apply?\n2-① Thank you so much for granting my sudden request.\n2-② If there is anything I can help you with, please tell me anytime.","partnerLabel":"1주차 1강 교안 13쪽 격식체·높임말 공식","partnerText":"• 보내요 → 보냅니다 / 돼요? → 됩니까?\n• 들어 줘서(상대방 행동 높임) → 들어 주셔서\n• 도와줄(내가 상대방을 도움: 겸양) → 도와 드릴 / 말해 주십시오 → 말씀해 주십시오","partnerExplain":"Verified directly from The Week 1 Lecture 1 Learning Material (Page 13)! Master the difference between '-아/어 주셔서' (listener helped me) and '-아/어 드릴' (I help the listener).","mem":"1주차 1강 Slide Page 13: 1) '-요' → '-(스)ㅂ니다/습니까?' ('보냅니다', '신청하면 됩니까?'); 2) Professor helped me = '들어 주셔서', I help Professor = '도와 드릴 + 말씀해 주십시오'!"},
+{"frontTag":"1주차 1강 Slide Page 14 · 기출문제 ② (3) 연습 문제 3 (간접적인 표현)","frontMain":"3. 밑줄 친 부분을 간접적인 표현으로 바꿔 쓰세요.\n① 답장을 해 주십시오. → 답장을 ( ㉠ )\n② 방법을 알려 주십시오. → 방법을 ( ㉡ )\n③ 저와 함께 공부합시다. → 저와 함께 ( ㉢ )","frontSub":"[1주차 1강 교안 14쪽 원문] 직접적인 명령·청유(-주십시오, -합시다)를 공손하고 간접적인 표현으로 바꿔 보세요!","hintText":"-아/어 주시면 감사하겠습니다 / -아/어 주시면 좋겠습니다 / -(으)면 좋겠습니다","backKo":"① 답장을 해 주시면 감사하겠습니다. (해 주시면 좋겠습니다 / 부탁드립니다.)\n② 방법을 알려 주시면 감사하겠습니다. (알려 주시면 좋겠습니다.)\n③ 저와 함께 공부하면 좋겠습니다. (공부했으면 좋겠습니다 / 공부하시겠습니까?)","backEn":"① I would appreciate it if you could reply.\n② I would appreciate it if you could let me know the method.\n③ It would be nice if we studied together.","partnerLabel":"1주차 1강 교안 14쪽 간접적 요청 공식","partnerText":"• 직접 명령(-아/어 주십시오) → 간접 요청(-아/어 주시면 감사하겠습니다 / 좋겠습니다)\n• 직접 청유(-읍시다/합시다) → 간접 희망(-(으)면 좋겠습니다 / -았/었으면 좋겠습니다)", "partnerExplain":"Verified directly from The Week 1 Lecture 1 Learning Material (Page 14)! In Q51 letters/emails to seniors or professors, indirect requests ('-아/어 주시면 감사하겠습니다') sound much more polite than direct imperatives.","mem":"1주차 1강 Slide Page 14: Soften direct commands ('-아/어 주십시오') into polite indirect requests ('-아/어 주시면 감사하겠습니다 / 좋겠습니다'), and soften '-합시다' into '-(으)면 좋겠습니다'!"},
+{"frontTag":"1주차 1강 Slide Page 15 · 기출문제 ② (4) 연습 문제 4 (글을 쓴 목적 완성)","frontMain":"4. 다음은 글을 쓴 목적을 정리한 것입니다. 빈칸을 완성해 보세요.\n① 중고 책을 팝니다. → ( ㉠ )하던 책을 ( ㉡ )려고 합니다.\n② 엘리베이터 수리 중 → 엘리베이터를 ( ㉢ )고 있습니다.\n③ 우산을 찾습니다. → 우산을 ( ㉣ )서 찾고 있습니다.","frontSub":"[1주차 1강 교안 15쪽 원문] 짧은 제목(중고 책 판매, 수리 중, 분실물 찾기)을 본문 문장으로 풀어 써 보세요!","hintText":"㉠ 사용/공부/보 | ㉡ 팔 | ㉢ 수리하/고치 | ㉣ 잃어버려","backKo":"① ( 사용 / 공부 )하던 책을 ( 팔 )려고 합니다.\n② 엘리베이터를 ( 수리하 / 고치 )고 있습니다.\n③ 우산을 ( 잃어버려 )서 찾고 있습니다.","backEn":"① I am planning to sell the books I used to use/study with.\n② We are repairing/fixing the elevator.\n③ I lost my umbrella and am looking for it.","partnerLabel":"1주차 1강 교안 15쪽 제목 → 본문 변환 공식","partnerText":"• 중고 책 = 내가 사용하던(쓰던/공부하던) 책\n• 수리 중 = 수리하고(고치고) 있습니다\n• ~을/를 찾습니다(분실물) = ~을/를 잃어버려서 찾고 있습니다","partnerExplain":"Verified directly from The Week 1 Lecture 1 Learning Material (Page 15)! Notice how this drill directly prepares you for Q51 Blank ㉠ by expanding the title into a full sentence.","mem":"1주차 1강 Slide Page 15: 1) '중고 책' = '(사용)하던 책을 (팔)려고 합니다'; 2) '수리 중' = '(수리하/고치)고 있습니다'; 3) '우산을 찾습니다' = '우산을 (잃어버려)서 찾고 있습니다'!"},
+{"frontTag":"1주차 1강 Slide Pages 16~17 · 기출문제 ② (5)~(6) 연습 문제 5 ('바라다' 활용)","frontMain":"5. 밑줄 친 부분을 단어 '바라다'를 활용해서 바꿔 쓰세요.\n① 관심이 있으신 분은 신청해 주십시오.\n→ 관심이 있으신 분은 ( ㉠ )\n② 대중교통을 이용해 주십시오.\n→ 대중교통을 ( ㉡ )\n③ 홈페이지를 참고해 주십시오.\n→ 홈페이지를 ( ㉢ )","frontSub":"[1주차 1강 교안 16~17쪽 원문] 공지·안내문의 '-아/어 주십시오'를 '바라다(-기 바랍니다)'로 바꿔 보세요!","hintText":"동사 어간 + -(으)시기 바랍니다 / -아/어 주시기 바랍니다","backKo":"① 관심이 있으신 분은 신청하시기 바랍니다. (신청해 주시기 바랍니다.)\n② 대중교통을 이용하시기 바랍니다. (이용해 주시기 바랍니다.)\n③ 홈페이지를 참고하시기 바랍니다. (참고해 주시기 바랍니다.)","backEn":"① Those who are interested are requested to apply.\n② Please use public transportation.\n③ Please refer to the website.","partnerLabel":"1주차 1강 교안 16~17쪽 안내문 만능 종결 공식","partnerText":"-아/어 주십시오 = -(으)시기 바랍니다 = -아/어 주시기 바랍니다","partnerExplain":"Verified directly from The Week 1 Lecture 1 Learning Material (Pages 16–17)! This is the #1 closing formula for Q51 notices and announcements.","mem":"1주차 1강 Slide Pages 16–17: Convert any notice request '-아/어 주십시오' into '-(으)시기 바랍니다' or '-아/어 주시기 바랍니다' ('신청하시기 바랍니다', '이용하시기 바랍니다', '참고하시기 바랍니다')!"},
+{"frontTag":"1주차 1강 Slide Page 18 · 기출문제 ② (7) 제35회 쓰기 51번 기출문제 (무료로 드립니다)","frontMain":"51. 다음 글의 ㉠과 ㉡에 알맞은 말을 각각 쓰시오.\n\n[제목: 무료로 드립니다]\n저는 유학생인데 공부를 마치고 다음 주에 고향으로 돌아갑니다. 그래서 지금 ( ㉠ ). 책상, 의자, 컴퓨터, 경영학 전공 책 등이 있습니다. 이번 주 금요일까지 방을 비워 줘야 합니다. ( ㉡ ). 제 전화 번호는 010-1234-5678입니다.","frontSub":"[1주차 1강 교안 18쪽 원문] 제목('무료로 드립니다')과 뒷문장의 물품 목록·기한·전화번호를 보고 ㉠, ㉡을 완성하세요!","hintText":"㉠ 쓰던 물건을 무료로 드리고 싶습니다 / 물건을 무료로 드리려고 합니다 | ㉡ 필요하신 분은 금요일 전까지 연락해 주시기 바랍니다","backKo":"㉠ 제가 쓰던 물건을 무료로 드리고 싶습니다 (사용하던 물건을 무료로 드리려고 합니다 / 물건을 가져가실 분을 찾습니다)\n㉡ 필요하신 분은 금요일 전까지 연락해 주시기 바랍니다 (관심이 있으신 분은 금요일까지 연락해 주십시오)","backEn":"㉠ So right now I would like to give away the items I used for free.\n㉡ If you need them, please contact me before Friday.","partnerLabel":"1주차 1강 교안 18쪽 교수님 풀이 핵심","partnerText":"• ㉠ 제목('무료로 드립니다') + 뒷문장('책상, 의자, 컴퓨터, 경영학 전공 책') → 쓰던 물건을 무료로 드리고 싶습니다!\n• ㉡ 앞문장('이번 주 금요일까지') + 뒷문장('제 전화 번호는...') → 필요하신 분은 금요일 전까지 연락해 주시기 바랍니다!","partnerExplain":"Verified word-for-word from The Week 1 Lecture 1 Learning Material (Page 18)! Notice that in the actual slide text, Blank ㉠ comes BEFORE '책상, 의자, 컴퓨터, 경영학 전공 책 등이 있습니다.'","mem":"1주차 1강 Slide Page 18 (Q51 '무료로 드립니다'): 1) Plug the Title into ㉠ ('쓰던 물건을 무료로 드리고 싶습니다'); 2) Connect Friday deadline + phone number in ㉡ ('필요하신 분은 금요일 전까지 연락해 주시기 바랍니다')!"}
 ],
 "2강": [
-{
-"frontTag": "1주차 2강 · 제35회 쓰기 52번 기출문제",
-"frontMain": "[설명문 빈칸 완성]\n기계가 잘 작동하려면 작은 나사 하나도 제자리에 있어야 한다. 이처럼 사회나 조직을 구성하는 모든 개인도 있어야 할 자리에 있어야 한다. 그래야 ( ㉡ ).",
-"frontSub": "쓰기 52번 설명문입니다! 평서형 어미(-ㄴ다/-는다/-다)에 맞춰 ( ㉡ )을 완성하세요.",
-"hintText": "'그래야(앞 조건이 충족되어야)' + 사회나 조직이 안정적으로 유지될 수 있다 / 잘 돌아갈 수 있다",
-"backKo": "㉡ 사회가 안정적으로 유지될 수 있다 (조직이 문제없이 잘 운영될 수 있다)",
-"backEn": "㉡ Only then can society be stably maintained (can the organization operate smoothly without problems).",
-"partnerLabel": "쓰기 52번 필수 형식 규칙",
-"partnerText": "반드시 평서형 격식체(-ㄴ다/-는다/-다) 사용! (-습니다, -어요 절대 금지!)",
-"partnerExplain": "Just as every small screw ('나사') must be in its place for a machine to work ('작동하다'), every individual ('개인') must be in their place so that society/the organization can be stably maintained ('유지될 수 있다').",
-"mem": "Q52 Golden Rule: Because Q52 is an expository text ('설명문'), ALWAYS end with plain declarative '-다 / -ㄴ다 / -는다' (NEVER '-습니다' or '-어요'). After '그래야' (Only then), state the positive outcome ('사회가 안정적으로 유지될 수 있다')!"
-},
-{
-"frontTag": "1주차 2강 · 쓰기 52번 비유·유추('이처럼') 구조 연습",
-"frontMain": "[새와 아이의 비유 설명문]\n새를 상자 안에 넣으면 자꾸 밖으로 나오려고 한다. 그러나 자유로운 공간에서는 안정을 찾고 도망치려고 애쓰지 않는다. 아이도 이와 마찬가지다. 부모들이 지나치게 간섭하면 아이는 이를 구속이라 생각하고 ( ㉠ ).",
-"frontSub": "앞의 '새' 이야기와 짝을 이루도록 ( ㉠ )을 평서형(-ㄴ다/-는다)으로 완성하세요!",
-"hintText": "새: 밖으로 나오려고 한다 → 아이: 거기에서 벗어나려고 한다 / 반발심을 가진다",
-"backKo": "㉠ 거기에서 벗어나려고 한다 (반발심을 가진다 / 구속에서 벗어나려고 애쓴다)",
-"backEn": "㉠ the child considers this a restraint and tries to escape from it (feels rebelliousness).",
-"partnerLabel": "비유 대응 공식 ('아이도 이와 마찬가지다')",
-"partnerText": "• 새를 상자 안에 넣다 = 부모의 지나친 간섭(구속)\n• 상자 밖으로 나오려고 한다 = 구속에서 벗어나려고 한다",
-"partnerExplain": "In analogy paragraphs bridged by '이와 마찬가지다' (is the same as this), mirror the action of the first subject onto the second subject.",
-"mem": "Analogy Mirroring: Bird in a box tries to get out ('밖으로 나오려고 한다') → Child under restraint ('구속') tries to break free ('거기에서 벗어나려고 한다')!"
-}
+{"frontTag":"1주차 2강 Slide Page 10 · 기출문제 ② (1) 문장을 쓰는 방법 (연결 표현 ①~②)","frontMain":"[문장을 쓰는 방법 — 1. 문장 연결 표현 ①~②]\n① 반대되거나 상반된 내용 표현 : ( ㉠ )\n· 고양이는 대체로 조용하고 독립적인 성향을 지닌다. ( 반면에 ) 강아지는 외향적이며 사람과의 교류를 즐기는 경향이 강하다.\n· 자주 응원받은 아이는 실수해도 다시 도전한다. ( 그러나 ) 늘 비교만 당한 아이는 한 번 실패하면 쉽게 포기한다.\n\n② 예상과 다른 내용 표현 : ( ㉡ )\n· 친구와 다투고 난 뒤 ( 오히려 ) 더 친밀해진 느낌이 들었다.","frontSub":"[1주차 2강 교안 10쪽 원문] 쓰기 52번 설명문에서 상반된 내용을 잇는 연결어와 예상과 다른 결과를 나타내는 부사를 확인하세요!","hintText":"㉠ 그러나 / 그런데 / 반대로 / 반면에 | ㉡ 오히려","backKo":"㉠ 반대되거나 상반된 내용 표현: 그러나 / 그런데 / 반대로 / 반면에\n㉡ 예상과 다른 내용 표현: 오히려","backEn":"㉠ Expressions for opposite/contrasting content: 그러나 (however) / 그런데 (but) / 반대로 (conversely) / 반면에 (on the other hand)\n㉡ Expression for content contrary to expectations: 오히려 (rather / on the contrary)","partnerLabel":"1주차 2강 교안 10쪽 쓰기 52번 핵심 연결어","partnerText":"• A는 ~다. 반면에/반대로/그러나 B는 (A의 반대 내용) ~다.\n• 다투고 난 뒤 멀어질 줄 알았으나 예상과 달리 '오히려' 더 친밀해졌다.","partnerExplain":"Verified word-for-word from The Week 1 Lecture 2 Learning Material (Page 10)! Whenever you see '반면에', '반대로', or '그러나' in Q52, flip the preceding clause's meaning to its opposite.","mem":"1주차 2강 Slide Page 10: 1) Opposite/Contrast connectors = '그러나 / 그런데 / 반대로 / 반면에'; 2) Contrary to expectation = '오히려' (rather/instead)!"},
+{"frontTag":"1주차 2강 Slide Page 11 · 기출문제 ② (2) 문장을 쓰는 방법 (연결 표현 ③~⑤)","frontMain":"[문장을 쓰는 방법 — 1. 문장 연결 표현 ③~⑤]\n③ 앞 내용과 비슷한 내용 표현 : ( ㉠ )\n· 학생들에게 독서가 중요한 것과 마찬가지로, 교사에게도 꾸준한 학습은 필수적이다.\n\n④ 화제/주제 전환 : ( ㉡ )\n· 그는 항상 성실하게 공부한다. 그런데 시험 성적은 기대만큼 나오지 않았다.\n\n⑤ 결론 표현 : ( ㉢ )\n· 청소년기의 올바른 습관 형성은 평생의 삶에 큰 영향을 미친다. 따라서 이 시기의 교육은 매우 중요하다.\n· 과도한 스마트폰 사용은 수면의 질을 떨어뜨린다. 그러므로 일정 시간 이후에는 사용을 제한할 필요가 있다.","frontSub":"[1주차 2강 교안 11쪽 원문] 쓰기 52번의 비유·유추(③), 화제 전환(④), 결론(⑤) 연결 표현을 확인하세요!","hintText":"㉠ 마찬가지이다 / 이와 같이 | ㉡ 그런데 | ㉢ 따라서 / 그러므로","backKo":"㉠ 앞 내용과 비슷한 내용(비유·유추): 마찬가지이다 / 이와 같이\n㉡ 화제/주제 전환: 그런데\n㉢ 결론 표현: 따라서 / 그러므로","backEn":"㉠ Similar content / analogy: 마찬가지이다 (is the same) / 이와 같이 (like this)\n㉡ Topic shift / contrast: 그런데 (however / by the way)\n㉢ Conclusion: 따라서 (therefore) / 그러므로 (therefore / hence)","partnerLabel":"1주차 2강 교안 11쪽 쓰기 52번 논리 공식","partnerText":"• 비유 연결('마찬가지이다 / 이와 같이'): 앞 대상(새, 퍼즐)의 원리를 뒤 대상(아이, 사회)에 똑같이 적용!\n• 결론 연결('따라서 / 그러므로'): 원인을 종합하여 '~할 필요가 있다 / ~이/가 중요하다'로 마무리!", "partnerExplain":"Verified word-for-word from The Week 1 Lecture 2 Learning Material (Page 11)! Notice how Rule ③ ('마찬가지이다') is immediately tested in the Puzzle & Society Q52 on Slide Page 12!","mem":"1주차 2강 Slide Page 11: ③ Analogy/Similarity = '마찬가지이다 / 이와 같이', ④ Topic shift = '그런데', ⑤ Conclusion = '따라서 / 그러므로'!"},
+{"frontTag":"1주차 2강 Slide Page 12 · 기출문제 ② (3) 제35회 쓰기 52번 기출문제 (퍼즐과 사회)","frontMain":"52. 다음 글의 ㉠과 ㉡에 알맞은 말을 각각 쓰시오.\n\n퍼즐은 여러 개의 조각을 모두 제 위치에 놓아야 하나의 그림이 완성된다. 그런데 만일 ( ㉠ ). 사회와 개인의 관계도 마찬가지이다. 사회를 구성하는 모든 개인도 있어야 할 자리에 있어야 한다. 그래야 ( ㉡ ).","frontSub":"[1주차 2강 교안 12쪽 원문] '그런데 만일 ( ㉠ )'(첫 문장 반대로 뒤집기)과 '그래야 ( ㉡ )'(퍼즐과 사회의 비유 대응)을 평서형(-ㄴ다/-는다/-다)으로 완성하세요!","hintText":"㉠ 조각이 하나라도 없으면 그림이 완성되지 않는다 (제 위치에 놓지 않으면 그림을 완성할 수 없다) | ㉡ 사회가 안정적으로 유지될 수 있다 (하나의 완전한 사회가 완성된다)","backKo":"㉠ 조각이 하나라도 빠지면 그림이 완성되지 않는다 (조각을 제 위치에 놓지 않으면 하나의 그림을 완성할 수 없다)\n㉡ 사회가 안정적으로 유지될 수 있다 (사회가 제대로 돌아갈 수 있다 / 하나의 온전한 사회가 이루어질 수 있다)","backEn":"㉠ However, if even one piece is missing (or not placed in its proper position), the picture is not completed.\n㉡ Only then can society be stably maintained (can society function properly as one complete whole).","partnerLabel":"1주차 2강 교안 12쪽 '만일(반대 가정)' & '마찬가지이다(비유)' 공식","partnerText":"• ㉠ 앞문장: '조각을 모두 제 위치에 놓아야 하나의 그림이 완성된다' → '그런데 만일' 뒤에서 반대로 뒤집기: 조각을 제 위치에 놓지 않으면(하나라도 없으면) 그림이 완성되지 않는다!\n• ㉡ '사회와 개인의 관계도 마찬가지이다... 그래야 ( ㉡ )' → 퍼즐의 '하나의 그림이 완성된다'에 대응하여 '사회가 안정적으로 유지될 수 있다(제대로 운영될 수 있다)'!", "partnerExplain":"Verified word-for-word from The Week 1 Lecture 2 Learning Material (Page 12)! Remember the mandatory Q52 form rule: ALWAYS end with plain declarative '-ㄴ다/-는다/-다' (NEVER '-습니다' or '-어요')!","mem":"1주차 2강 Slide Page 12 (Q52 '퍼즐과 사회'): 1) After '그런데 만일', flip the 1st sentence ('조각을 제 위치에 놓지 않으면 그림이 완성되지 않는다'); 2) After '사회와 개인의 관계도 마찬가지이다... 그래야', state the positive societal outcome ('사회가 안정적으로 유지될 수 있다')!"}
 ]
 },
 "2주차 (제36회)": {
 "1강": [
-{
-"frontTag": "2주차 1강 · 제36회 쓰기 51번 초대·행사 안내 연습",
-"frontMain": "[초대 및 참석 여부 확인 메일]\n안녕하십니까? 다음 주 금요일에 저희 학과에서 졸업생 초청 특강을 진행합니다. 바쁘시겠지만 꼭 ( ㉠ ). 참석이 가능하신 분은 수요일까지 ( ㉡ ).",
-"frontSub": "초청 안내문의 ( ㉠ ), ( ㉡ )을 격식체(-(스)ㅂ니다 / 바랍니다)로 완성하세요!",
-"hintText": "㉠ 참석해 주시면 감사하겠습니다 / 참석해 주시기 바랍니다 | ㉡ 연락해 주시기 바랍니다",
-"backKo": "㉠ 참석해 주시면 감사하겠습니다 (참석해 주시기 바랍니다)\n㉡ 연락해 주시기 바랍니다 (알려 주십시오)",
-"backEn": "㉠ We would appreciate it if you could attend despite your busy schedule.\n㉡ Those who can attend, please contact us by Wednesday.",
-"partnerLabel": "초청·안내문 필수 패턴",
-"partnerText": "• 참석 요청: 꼭 참석해 주시면 감사하겠습니다 / 참석해 주시기 바랍니다\n• 회신 요청: ~(요일)까지 연락해 주시기 바랍니다 / 알려 주시기 바랍니다",
-"partnerExplain": "After '바쁘시겠지만 꼭' (Although you must be busy, by all means...), always invite the reader politely to attend ('참석해 주시면 감사하겠습니다').",
-"mem": "Invitation Formula: '바쁘시겠지만 꼭' + '참석해 주시면 감사하겠습니다' (We'd be grateful if you attend), followed by deadline + '연락해 주시기 바랍니다' (Please let us know)!"
-}
+{"frontTag":"2주차 1강 · 제36회 쓰기 51번 초대·행사 안내 연습","frontMain":"[초대 및 참석 여부 확인 메일]\n안녕하십니까? 다음 주 금요일에 저희 학과에서 졸업생 초청 특강을 진행합니다. 바쁘시겠지만 꼭 ( ㉠ ). 참석이 가능하신 분은 수요일까지 ( ㉡ ).","frontSub":"초청 안내문의 ( ㉠ ), ( ㉡ )을 격식체(-(스)ㅂ니다 / 바랍니다)로 완성하세요!","hintText":"㉠ 참석해 주시면 감사하겠습니다 / 참석해 주시기 바랍니다 | ㉡ 연락해 주시기 바랍니다","backKo":"㉠ 참석해 주시면 감사하겠습니다 (참석해 주시기 바랍니다)\n㉡ 연락해 주시기 바랍니다 (알려 주십시오)","backEn":"㉠ We would appreciate it if you could attend despite your busy schedule.\n㉡ Those who can attend, please contact us by Wednesday.","partnerLabel":"초청·안내문 필수 패턴","partnerText":"• 참석 요청: 꼭 참석해 주시면 감사하겠습니다 / 참석해 주시기 바랍니다\n• 회신 요청: ~(요일)까지 연락해 주시기 바랍니다 / 알려 주시기 바랍니다","partnerExplain":"After '바쁘시겠지만 꼭' (Although you must be busy, by all means...), always invite the reader politely to attend ('참석해 주시면 감사하겠습니다').","mem":"Invitation Formula: '바쁘시겠지만 꼭' + '참석해 주시면 감사하겠습니다' (We'd be grateful if you attend), followed by deadline + '연락해 주시기 바랍니다' (Please let us know)!"}
 ],
 "2강": [
-{
-"frontTag": "2주차 2강 · 쓰기 52번 대조 연결어('반면에') 연습",
-"frontMain": "[가위바위보 관찰 설명문]\n사람들이 아무 생각 없이 가위바위보를 하는 것 같지만 자세히 관찰해 보면 일정한 경향이 있음을 발견할 수 있다. 즉 이긴 사람은 자신이 선택한 것을 그대로 유지하는 반면에 진 사람은 ( ㉠ ).",
-"frontSub": "대조 연결어미 '반면에'의 성질을 이용하여 ( ㉠ )을 평서형(-다)으로 완성하세요!",
-"hintText": "앞절: 이긴 사람(그대로 유지하다) ↔ 뒷절: 진 사람(다른 것으로 바꾸다)",
-"backKo": "㉠ 다른 것으로 바꾼다 (자신이 선택한 것을 다른 것으로 변경한다)",
-"backEn": "㉠ whereas the person who lost changes it to something else.",
-"partnerLabel": "'반면에' 대조 공식",
-"partnerText": "[앞절 A: 이긴 사람 → 그대로 유지하는] 반면에 [뒷절 B: 진 사람 → 다른 것으로 바꾼다]",
-"partnerExplain": "'유지하다' (to keep as is) in the front clause must be contrasted with its antonym '다른 것으로 바꾸다' (changes to something else) in the back clause after '반면에'.",
-"mem": "Mirror Rule for '반면에' (on the other hand/whereas): Winner ('이긴 사람') = keeps choice as is ('그대로 유지하다') ↔ Loser ('진 사람') = switches to another ('다른 것으로 바꾼다')!"
-}
+{"frontTag":"2주차 2강 · 쓰기 52번 대조 연결어('반면에') 연습","frontMain":"[가위바위보 관찰 설명문]\n사람들이 아무 생각 없이 가위바위보를 하는 것 같지만 자세히 관찰해 보면 일정한 경향이 있음을 발견할 수 있다. 즉 이긴 사람은 자신이 선택한 것을 그대로 유지하는 반면에 진 사람은 ( ㉠ ).","frontSub":"대조 연결어미 '반면에'의 성질을 이용하여 ( ㉠ )을 평서형(-다)으로 완성하세요!","hintText":"앞절: 이긴 사람(그대로 유지하다) ↔ 뒷절: 진 사람(다른 것으로 바꾸다)","backKo":"㉠ 다른 것으로 바꾼다 (자신이 선택한 것을 다른 것으로 변경한다)","backEn":"㉠ whereas the person who lost changes it to something else.","partnerLabel":"'반면에' 대조 공식","partnerText":"[앞절 A: 이긴 사람 → 그대로 유지하는] 반면에 [뒷절 B: 진 사람 → 다른 것으로 바꾼다]","partnerExplain":"'유지하다' (to keep as is) in the front clause must be contrasted with its antonym '다른 것으로 바꾸다' (changes to something else) in the back clause after '반면에'.","mem":"Mirror Rule for '반면에' (on the other hand/whereas): Winner ('이긴 사람') = keeps choice as is ('그대로 유지하다') ↔ Loser ('진 사람') = switches to another ('다른 것으로 바꾼다')!"}
 ]
 },
 "3주차 (제37회)": {
 "1강": [
-{
-"frontTag": "3주차 1강 · 쓰기 52번 당위·부정 서술형 연습",
-"frontMain": "[운동 선수 지도 설명문]\n운동 선수가 실수에 대한 부담감을 가지게 되면 경기에서 좋은 성적을 거두기가 어렵다. 그렇기 때문에 감독은 선수를 지도할 때 ( ㉠ ).",
-"frontSub": "3주차 1강 지문의 핵심 내용을 바탕으로 감독이 주의해야 할 점을 평서형('-어야 한다')으로 완성하세요!",
-"hintText": "실수를 떠올리게 하는 직접적인 말을 하지 말아야 한다 / 입 밖에 내지 않아야 한다",
-"backKo": "㉠ 실수를 떠올리게 하는 직접적인 말을 하지 말아야 한다\n(또는: 실수를 생각나게 하는 말을 입 밖에 내지 않아야 한다)",
-"backEn": "㉠ Therefore, when coaching an athlete, a coach must not say direct words that remind them of mistakes.",
-"partnerLabel": "원인 → 당위적 결론('그렇기 때문에 ~어야 한다') 공식",
-"partnerText": "• 부정적 원인: 부담감을 가지면 좋은 성적을 거두기 어렵다\n• 해결책(당위): 부담감을 주는 직접적인 말을 하지 말아야 한다 (-지 않아야 한다)",
-"partnerExplain": "Connects the Week 3 Lecture 1 reading passage directly to Writing Q52 sentence construction using '-지 말아야 한다' or '-지 않아야 한다'.",
-"mem": "When a passage states that Mistake Pressure ('부담감') hurts performance ('좋은 성적을 거두기 어렵다'), the conclusion after '그렇기 때문에' must state what the coach must NOT do ('직접적인 말을 하지 말아야 한다')!"
-}
+{"frontTag":"3주차 1강 · 쓰기 52번 당위·부정 서술형 연습","frontMain":"[운동 선수 지도 설명문]\n운동 선수가 실수에 대한 부담감을 가지게 되면 경기에서 좋은 성적을 거두기가 어렵다. 그렇기 때문에 감독은 선수를 지도할 때 ( ㉠ ).","frontSub":"3주차 1강 지문의 핵심 내용을 바탕으로 감독이 주의해야 할 점을 평서형('-어야 한다')으로 완성하세요!","hintText":"실수를 떠올리게 하는 직접적인 말을 하지 말아야 한다 / 입 밖에 내지 않아야 한다","backKo":"㉠ 실수를 떠올리게 하는 직접적인 말을 하지 말아야 한다\n(또는: 실수를 생각나게 하는 말을 입 밖에 내지 않아야 한다)","backEn":"㉠ Therefore, when coaching an athlete, a coach must not say direct words that remind them of mistakes.","partnerLabel":"원인 → 당위적 결론('그렇기 때문에 ~어야 한다') 공식","partnerText":"• 부정적 원인: 부담감을 가지면 좋은 성적을 거두기 어렵다\n• 해결책(당위): 부담감을 주는 직접적인 말을 하지 말아야 한다 (-지 않아야 한다)","partnerExplain":"Connects the Week 3 Lecture 1 reading passage directly to Writing Q52 sentence construction using '-지 말아야 한다' or '-지 않아야 한다'.","mem":"When a passage states that Mistake Pressure ('부담감') hurts performance ('좋은 성적을 거두기 어렵다'), the conclusion after '그렇기 때문에' must state what the coach must NOT do ('직접적인 말을 하지 말아야 한다')!"}
 ],
 "2강": [
-{
-"frontTag": "3주차 2강 · 쓰기 52번 '반대로' 반의어 뒤집기 공식",
-"frontMain": "[설명문 빈칸 완성 — 교수님 핵심 강조!]\n긍정적인 결과를 기대할수록 좋은 결과를 얻을 확률이 높다. 반대로 ( ㉡ ).",
-"frontSub": "교수님께서 강조하신 '반대로' 뒤집기 공식을 적용하여 ( ㉡ )을 완성하세요!",
-"hintText": "긍정적인 결과를 기대할수록 → 부정적으로 생각하면 | 확률이 높다 → 얻기 어렵다 / 확률이 낮다",
-"backKo": "㉡ 부정적으로 생각하면 좋은 결과를 얻기 어렵다\n(또는: 부정적인 결과를 생각할수록 좋은 결과를 얻을 확률이 낮다)",
-"backEn": "㉡ Conversely, if you think negatively, it is difficult to obtain a good result.",
-"partnerLabel": "교수님 3주차 2강 핵심 공식",
-"partnerText": "1. 긍정적인 결과를 기대하다 ↔ 부정적으로 생각하면\n2. 좋은 결과를 얻을 확률이 높다 ↔ 좋은 결과를 얻기 어렵다 (확률이 낮다)",
-"partnerExplain": "Professor 오현진's #1 Q52 Strategy: When '반대로' (Conversely) appears before a blank, flip every keyword in the previous sentence to its antonym and end with '-다'!",
-"mem": "Antonym Puzzle Formula for '반대로': Flip '긍정적' (positive) → '부정적' (negative), and flip '확률이 높다' (high probability) → '얻기 어렵다' (hard to obtain) or '확률이 낮다' (low probability)!"
-}
+{"frontTag":"3주차 2강 · 쓰기 52번 '반대로' 반의어 뒤집기 공식","frontMain":"[설명문 빈칸 완성 — 교수님 핵심 강조!]\n긍정적인 결과를 기대할수록 좋은 결과를 얻을 확률이 높다. 반대로 ( ㉡ ).","frontSub":"교수님께서 강조하신 '반대로' 뒤집기 공식을 적용하여 ( ㉡ )을 완성하세요!","hintText":"긍정적인 결과를 기대할수록 → 부정적으로 생각하면 | 확률이 높다 → 얻기 어렵다 / 확률이 낮다","backKo":"㉡ 부정적으로 생각하면 좋은 결과를 얻기 어렵다\n(또는: 부정적인 결과를 생각할수록 좋은 결과를 얻을 확률이 낮다)","backEn":"㉡ Conversely, if you think negatively, it is difficult to obtain a good result.","partnerLabel":"교수님 3주차 2강 핵심 공식","partnerText":"1. 긍정적인 결과를 기대하다 ↔ 부정적으로 생각하면\n2. 좋은 결과를 얻을 확률이 높다 ↔ 좋은 결과를 얻기 어렵다 (확률이 낮다)","partnerExplain":"Professor 오현진's #1 Q52 Strategy: When '반대로' (Conversely) appears before a blank, flip every keyword in the previous sentence to its antonym and end with '-다'!","mem":"Antonym Puzzle Formula for '반대로': Flip '긍정적' (positive) → '부정적' (negative), and flip '확률이 높다' (high probability) → '얻기 어렵다' (hard to obtain) or '확률이 낮다' (low probability)!"}
 ]
 },
 "4주차 (제41회)": {
 "1강": [
-{
-"frontTag": "4주차 1강 · 제41회 쓰기 51번 기출 유형 (안내·사과문)",
-"frontMain": "[시설 공사 및 이용 제한 안내문]\n그동안 저희 도서관을 이용해 주셔서 감사합니다. 도서관 시설 공사로 인해 다음 주 월요일부터 금요일까지 휴관합니다. 이 기간에는 도서 대출이 ( ㉠ ). 이용에 불편을 드려 ( ㉡ ).",
-"frontSub": "도서관 휴관 안내문의 빈칸 ( ㉠ ), ( ㉡ )을 격식체(-(스)ㅂ니다)로 완성하세요!",
-"hintText": "㉠ 불가능합니다 / 어렵습니다 | ㉡ 죄송합니다 / 양해해 주시기 바랍니다",
-"backKo": "㉠ 불가능합니다 (어렵습니다 / 되지 않습니다)\n㉡ 대단히 죄송합니다 (양해해 주시기 바랍니다)",
-"backEn": "㉠ Book borrowing will not be possible during this period.\n㉡ We sincerely apologize for the inconvenience.",
-"partnerLabel": "휴관·공사 안내문 필수 표현",
-"partnerText": "• 이용 제한: ~이/가 불가능합니다 / 어렵습니다 / 중단됩니다\n• 사과 표현: 이용에 불편을 드려 죄송합니다",
-"partnerExplain": "Whenever a facility closes ('휴관합니다') for construction or repairs ('공사/수리'), state that service is unavailable ('불가능합니다/어렵습니다') and apologize for the inconvenience ('죄송합니다').",
-"mem": "Facility Closure ('공사/휴관') Pair: ㉠ Service is unavailable ('이용이 불가능합니다 / 어렵습니다') + ㉡ Apology after '불편을 드려' ('죄송합니다')!"
-}
+{"frontTag":"4주차 1강 · 제41회 쓰기 51번 기출 유형 (안내·사과문)","frontMain":"[시설 공사 및 이용 제한 안내문]\n그동안 저희 도서관을 이용해 주셔서 감사합니다. 도서관 시설 공사로 인해 다음 주 월요일부터 금요일까지 휴관합니다. 이 기간에는 도서 대출이 ( ㉠ ). 이용에 불편을 드려 ( ㉡ ).","frontSub":"도서관 휴관 안내문의 빈칸 ( ㉠ ), ( ㉡ )을 격식체(-(스)ㅂ니다)로 완성하세요!","hintText":"㉠ 불가능합니다 / 어렵습니다 | ㉡ 죄송합니다 / 양해해 주시기 바랍니다","backKo":"㉠ 불가능합니다 (어렵습니다 / 되지 않습니다)\n㉡ 대단히 죄송합니다 (양해해 주시기 바랍니다)","backEn":"㉠ Book borrowing will not be possible during this period.\n㉡ We sincerely apologize for the inconvenience.","partnerLabel":"휴관·공사 안내문 필수 표현","partnerText":"• 이용 제한: ~이/가 불가능합니다 / 어렵습니다 / 중단됩니다\n• 사과 표현: 이용에 불편을 드려 죄송합니다","partnerExplain":"Whenever a facility closes ('휴관합니다') for construction or repairs ('공사/수리'), state that service is unavailable ('불가능합니다/어렵습니다') and apologize for the inconvenience ('죄송합니다').","mem":"Facility Closure ('공사/휴관') Pair: ㉠ Service is unavailable ('이용이 불가능합니다 / 어렵습니다') + ㉡ Apology after '불편을 드려' ('죄송합니다')!"}
 ],
 "2강": [
-{
-"frontTag": "4주차 2강 · 쓰기 52번 시대 변화·진화 설명문 연습",
-"frontMain": "[이모티콘의 변화 설명문]\n초창기 이모티콘은 단순히 기호를 조합하여 감정을 표시하는 정도였다. 그러나 최근에는 캐릭터와 결합하여 재미를 주고 웃음을 유발하기도 한다. 이처럼 이모티콘은 시대의 변화와 사용자의 요구에 맞춰 ( ㉡ ).",
-"frontSub": "초창기와 최근의 변화를 요약하여 ( ㉡ )을 평서형(-다)으로 완성하세요!",
-"hintText": "끊임없이 진화를 계속하고 있다 / 계속해서 발전하고 있다 / 다양하게 변화하고 있다",
-"backKo": "㉡ 끊임없이 진화를 계속하고 있다 (계속해서 발전하고 있다 / 다양하게 변화하고 있다)",
-"backEn": "㉡ Like this, emoticons are ceaselessly continuing to evolve (develop) in line with changes of the times and user demands.",
-"partnerLabel": "'이처럼(요약 결론)' 설명문 공식",
-"partnerText": "과거(초창기: 단순 기호) → 현재(최근: 캐릭터 결합·웃음 유발) ⇒ 결론(이처럼): 끊임없이 진화/발전하고 있다",
-"partnerExplain": "When a passage contrasts the early period ('초창기') with recent advancements ('최근') and ends with '이처럼' (Like this), summarize the ongoing development ('진화를 계속하고 있다 / 발전하고 있다').",
-"mem": "Past ('초창기') vs. Present ('최근') + '이처럼' (Like this) = summarize that it is continually evolving/developing ('끊임없이 진화를 계속하고 있다 / 발전하고 있다')!"
-}
+{"frontTag":"4주차 2강 · 쓰기 52번 시대 변화·진화 설명문 연습","frontMain":"[이모티콘의 변화 설명문]\n초창기 이모티콘은 단순히 기호를 조합하여 감정을 표시하는 정도였다. 그러나 최근에는 캐릭터와 결합하여 재미를 주고 웃음을 유발하기도 한다. 이처럼 이모티콘은 시대의 변화와 사용자의 요구에 맞춰 ( ㉡ ).","frontSub":"초창기와 최근의 변화를 요약하여 ( ㉡ )을 평서형(-다)으로 완성하세요!","hintText":"끊임없이 진화를 계속하고 있다 / 계속해서 발전하고 있다 / 다양하게 변화하고 있다","backKo":"㉡ 끊임없이 진화를 계속하고 있다 (계속해서 발전하고 있다 / 다양하게 변화하고 있다)","backEn":"㉡ Like this, emoticons are ceaselessly continuing to evolve (develop) in line with changes of the times and user demands.","partnerLabel":"'이처럼(요약 결론)' 설명문 공식","partnerText":"과거(초창기: 단순 기호) → 현재(최근: 캐릭터 결합·웃음 유발) ⇒ 결론(이처럼): 끊임없이 진화/발전하고 있다","partnerExplain":"When a passage contrasts the early period ('초창기') with recent advancements ('최근') and ends with '이처럼' (Like this), summarize the ongoing development ('진화를 계속하고 있다 / 발전하고 있다').","mem":"Past ('초창기') vs. Present ('최근') + '이처럼' (Like this) = summarize that it is continually evolving/developing ('끊임없이 진화를 계속하고 있다 / 발전하고 있다')!"}
 ]
 },
 "5주차 (제47회)": {
 "1강": [
-{
-"frontTag": "5주차 1강 · 제47회 쓰기 51번 기출 유형 (장소 변경 안내)",
-"frontMain": "[모임 일정·장소 변경 및 참석 확인 메일]\n이번 주 토요일에 예정되었던 동아리 모임 장소가 변경되었습니다. 기존 식당이 예약을 받지 않아서 학교 앞 한국식당으로 ( ㉠ ). 모임에 참석하실 수 있는지 ( ㉡ ).",
-"frontSub": "모임 장소 변경 안내 메일의 ( ㉠ ), ( ㉡ )을 격식체로 완성하세요!",
-"hintText": "㉠ 장소를 바꾸었습니다 / 변경했습니다 | ㉡ 알려 주시기 바랍니다 / 답변해 주십시오",
-"backKo": "㉠ 장소를 바꾸었습니다 (장소를 변경하였습니다)\n㉡ 알려 주시기 바랍니다 (회신해 주시기 바랍니다 / 연락해 주십시오)",
-"backEn": "㉠ We changed the venue to Korea Restaurant in front of the school.\n㉡ Please let us know whether you can attend the meeting.",
-"partnerLabel": "일정·장소 변경 안내 공식",
-"partnerText": "• 변경 완료: ~(으)로 장소를 바꾸었습니다 / 변경하였습니다\n• 참석 확인 요청: ~는지 알려 주시기 바랍니다",
-"partnerExplain": "Blank ㉠ explains what the venue was changed to ('한국식당으로 장소를 바꾸었습니다'), and Blank ㉡ asks members to reply whether they can attend ('알려 주시기 바랍니다').",
-"mem": "Venue Change Formula: '장소가 변경되었습니다' → ㉠ '~으로 장소를 바꾸었습니다' (changed the place to ~), and after '참석하실 수 있는지' (whether you can attend) → ㉡ '알려 주시기 바랍니다' (please let us know)!"
-}
+{"frontTag":"5주차 1강 · 제47회 쓰기 51번 기출 유형 (장소 변경 안내)","frontMain":"[모임 일정·장소 변경 및 참석 확인 메일]\n이번 주 토요일에 예정되었던 동아리 모임 장소가 변경되었습니다. 기존 식당이 예약을 받지 않아서 학교 앞 한국식당으로 ( ㉠ ). 모임에 참석하실 수 있는지 ( ㉡ ).","frontSub":"모임 장소 변경 안내 메일의 ( ㉠ ), ( ㉡ )을 격식체로 완성하세요!","hintText":"㉠ 장소를 바꾸었습니다 / 변경했습니다 | ㉡ 알려 주시기 바랍니다 / 답변해 주십시오","backKo":"㉠ 장소를 바꾸었습니다 (장소를 변경하였습니다)\n㉡ 알려 주시기 바랍니다 (회신해 주시기 바랍니다 / 연락해 주십시오)","backEn":"㉠ We changed the venue to Korea Restaurant in front of the school.\n㉡ Please let us know whether you can attend the meeting.","partnerLabel":"일정·장소 변경 안내 공식","partnerText":"• 변경 완료: ~(으)로 장소를 바꾸었습니다 / 변경하였습니다\n• 참석 확인 요청: ~는지 알려 주시기 바랍니다","partnerExplain":"Blank ㉠ explains what the venue was changed to ('한국식당으로 장소를 바꾸었습니다'), and Blank ㉡ asks members to reply whether they can attend ('알려 주시기 바랍니다').","mem":"Venue Change Formula: '장소가 변경되었습니다' → ㉠ '~으로 장소를 바꾸었습니다' (changed the place to ~), and after '참석하실 수 있는지' (whether you can attend) → ㉡ '알려 주시기 바랍니다' (please let us know)!"}
 ],
 "2강": [
-{
-"frontTag": "5주차 2강 · 제47회 쓰기 52번 도구·기능 대조 설명문",
-"frontMain": "[지우개의 원리 설명문]\n보통 연필 글씨를 지울 때는 부드러운 지우개를 사용한다. 반면에 볼펜이나 만년필 글씨를 지울 때는 ( ㉠ ). 단단한 지우개는 잉크가 묻은 종이 표면을 얇게 긁어내어 글씨를 지운다.",
-"frontSub": "앞 문장('연필 → 부드러운 지우개')과 뒷문장('단단한 지우개')을 연결하여 ( ㉠ )을 평서형(-다)으로 완성하세요!",
-"hintText": "특수한 물질을 넣어 단단하게 만든 지우개를 사용한다 / 단단한 지우개를 사용한다",
-"backKo": "㉠ 단단한 지우개를 사용한다 (특수한 물질을 넣어 단단하게 만든 지우개를 사용한다)",
-"backEn": "㉠ On the other hand, when erasing ballpoint pen or fountain pen marks, one uses a hard eraser (made by adding a special substance).",
-"partnerLabel": "앞뒤 문장 꼬리 물기 공식",
-"partnerText": "• 앞 문장: 연필 글씨 → 부드러운 지우개를 사용한다\n• 빈칸 뒤 문장 주어: '단단한 지우개는...' → 따라서 ㉠은 '단단한 지우개를 사용한다'!",
-"partnerExplain": "Always check the subject of the sentence right AFTER the blank! Since the next sentence starts with '단단한 지우개는' (A hard eraser...), Blank ㉠ must introduce '단단한 지우개를 사용한다'.",
-"mem": "Chain-Link Strategy: The first sentence has '부드러운 지우개를 사용한다' (uses a soft eraser), and the sentence right after Blank ㉠ starts with '단단한 지우개는' (As for a hard eraser...). So ㉠ is '단단한 지우개를 사용한다'!"
-}
+{"frontTag":"5주차 2강 · 제47회 쓰기 52번 도구·기능 대조 설명문","frontMain":"[지우개의 원리 설명문]\n보통 연필 글씨를 지울 때는 부드러운 지우개를 사용한다. 반면에 볼펜이나 만년필 글씨를 지울 때는 ( ㉠ ). 단단한 지우개는 잉크가 묻은 종이 표면을 얇게 긁어내어 글씨를 지운다.","frontSub":"앞 문장('연필 → 부드러운 지우개')과 뒷문장('단단한 지우개')을 연결하여 ( ㉠ )을 평서형(-다)으로 완성하세요!","hintText":"특수한 물질을 넣어 단단하게 만든 지우개를 사용한다 / 단단한 지우개를 사용한다","backKo":"㉠ 단단한 지우개를 사용한다 (특수한 물질을 넣어 단단하게 만든 지우개를 사용한다)","backEn":"㉠ On the other hand, when erasing ballpoint pen or fountain pen marks, one uses a hard eraser (made by adding a special substance).","partnerLabel":"앞뒤 문장 꼬리 물기 공식","partnerText":"• 앞 문장: 연필 글씨 → 부드러운 지우개를 사용한다\n• 빈칸 뒤 문장 주어: '단단한 지우개는...' → 따라서 ㉠은 '단단한 지우개를 사용한다'!","partnerExplain":"Always check the subject of the sentence right AFTER the blank! Since the next sentence starts with '단단한 지우개는' (A hard eraser...), Blank ㉠ must introduce '단단한 지우개를 사용한다'.","mem":"Chain-Link Strategy: The first sentence has '부드러운 지우개를 사용한다' (uses a soft eraser), and the sentence right after Blank ㉠ starts with '단단한 지우개는' (As for a hard eraser...). So ㉠ is '단단한 지우개를 사용한다'!"}
 ]
 },
 "6주차 (제52회)": {
 "1강": [
-{
-"frontTag": "6주차 1강 · 쓰기 53번 원고지 작성 3대 기본 규칙",
-"frontMain": "[쓰기 53번(200~300자) 원고지 사용법 핵심 퀴즈]\n1. 글을 맨 처음 시작할 때 첫 칸은 어떻게 할까요?\n2. 문장이 끝나고 마침표(.)를 찍은 뒤 다음 문장('그 결과...')을 쓸 때 줄을 바꿔야 할까요?\n3. 줄의 맨 마지막 칸에 '그'를 썼다면 다음 줄 첫 칸은 비워야 할까요?",
-"frontSub": "교수님께서 강의에서 직접 그려 주신 원고지 작성 규칙 3가지를 떠올려 보세요!",
-"hintText": "1. 첫 칸 비우기 | 2. 줄 바꾸지 않고 바로 이어 쓰기 | 3. 다음 줄 첫 칸은 비우지 않고 바로 '결' 쓰기",
-"backKo": "1. 문단 맨 처음 시작할 때만 첫 한 칸을 비우고 두 번째 칸부터 씁니다.\n2. 문장이 끝나도 주제가 바뀌지 않으면 줄을 바꾸지 말고 그 줄에 쭉 이어서 씁니다!\n3. 줄 끝에서 줄이 바뀔 때는 다음 줄 첫 칸을 비우지 않고 바로 첫 칸에 '결(결과)'을 씁니다!",
-"backEn": "1. Indent (leave 1 box blank) ONLY at the very start of a paragraph.\n2. Do NOT start a new line after a period within the same topic—continue on the same line!\n3. Never leave a blank spacing box at the left edge of a new row.",
-"partnerLabel": "원고지 감점 제로(0) 골든 룰",
-"partnerText": "문단 첫 시작만 첫 칸 비우기! | 마침표 뒤 줄 바꿈 금지! | 새 줄 첫 칸 빈칸 금지!",
-"partnerExplain": "In Writing Q53, you write a single unified paragraph (or two when the chart topic shifts). Never hit 'Enter' after every sentence!",
-"mem": "3 Golden Manuscript Paper ('원고지') Rules: 1) Leave the 1st box blank at the start of the paragraph, 2) Keep writing on the SAME line after a period (don't start a new line for '그 결과'), 3) Never put a blank space at the left edge of a new row!"
-},
-{
-"frontTag": "6주차 1강 · 쓰기 53번 순위 변화 도표 서술 연습",
-"frontMain": "[도표: 고등학생 희망 직업 어떻게 달라졌을까?]\n• 조사 대상: 고등학생 10,000명\n• 2008년 순위: 1위 교사, 2위 회사원, 3위 공무원, 4위 간호사, 5위 개인 사업\n• 2018년 순위: 1위 교사, 2위 간호사, 3위 건축가, 4위 공무원, 5위 군인\n\n위 도표의 도입부와 1위·2위 변화를 원고지 문장으로 서술해 보세요!",
-"frontSub": "교안의 '고등학생 희망 직업' 순위 변화 도표를 53번 공식으로 문장화하는 연습입니다!",
-"hintText": "고등학생 10,000명을 대상으로 ... 조사하였다. 그 결과 2008년과 2018년 모두 '교사'가 1위로 나타났으나, 2위는 '회사원'에서 '간호사'로 바뀌었다.",
-"backKo": "고등학생 10,000명을 대상으로 '고등학생 희망 직업이 어떻게 달라졌는가'에 대해 조사하였다. 그 결과 2008년과 2018년 모두 '교사'가 1위를 차지하였으나, 2위는 2008년 '회사원'에서 2018년 '간호사'로 상승하였다.",
-"backEn": "A survey was conducted targeting 10,000 high school students on how their desired jobs changed. As a result, 'teacher' ranked 1st in both 2008 and 2018, whereas 2nd place changed from 'office worker' in 2008 to 'nurse' in 2018.",
-"partnerLabel": "순위 도표 필수 어휘",
-"partnerText": "• 1위 유지: 2008년과 2018년 모두 '교사'가 1위를 차지하였다 (유지하였다)\n• 순위 변동: '간호사'는 4위에서 2위로 상승한 반면에, '공무원'은 3위에서 4위로 하락하였다",
-"partnerExplain": "Verified from the course learning material chart ('고등학생 희망 직업 어떻게 달라졌을까? 조사 대상: 고등학생 10,000명').",
-"mem": "Ranking Chart Formula: 1) State what stayed #1 in both years ('모두 교사가 1위를 차지하였으나'), 2) Contrast what rose ('간호사는 4위에서 2위로 상승한 반면에') vs. what fell ('공무원은 3위에서 4위로 하락하였다')!"
-}
+{"frontTag":"6주차 1강 · 쓰기 53번 원고지 작성 3대 기본 규칙","frontMain":"[쓰기 53번(200~300자) 원고지 사용법 핵심 퀴즈]\n1. 글을 맨 처음 시작할 때 첫 칸은 어떻게 할까요?\n2. 문장이 끝나고 마침표(.)를 찍은 뒤 다음 문장('그 결과...')을 쓸 때 줄을 바꿔야 할까요?\n3. 줄의 맨 마지막 칸에 '그'를 썼다면 다음 줄 첫 칸은 비워야 할까요?","frontSub":"교수님께서 강의에서 직접 그려 주신 원고지 작성 규칙 3가지를 떠올려 보세요!","hintText":"1. 첫 칸 비우기 | 2. 줄 바꾸지 않고 바로 이어 쓰기 | 3. 다음 줄 첫 칸은 비우지 않고 바로 '결' 쓰기","backKo":"1. 문단 맨 처음 시작할 때만 첫 한 칸을 비우고 두 번째 칸부터 씁니다.\n2. 문장이 끝나도 주제가 바뀌지 않으면 줄을 바꾸지 말고 그 줄에 쭉 이어서 씁니다!\n3. 줄 끝에서 줄이 바뀔 때는 다음 줄 첫 칸을 비우지 않고 바로 첫 칸에 '결(결과)'을 씁니다!","backEn":"1. Indent (leave 1 box blank) ONLY at the very start of a paragraph.\n2. Do NOT start a new line after a period within the same topic—continue on the same line!\n3. Never leave a blank spacing box at the left edge of a new row.","partnerLabel":"원고지 감점 제로(0) 골든 룰","partnerText":"문단 첫 시작만 첫 칸 비우기! | 마침표 뒤 줄 바꿈 금지! | 새 줄 첫 칸 빈칸 금지!","partnerExplain":"In Writing Q53, you write a single unified paragraph (or two when the chart topic shifts). Never hit 'Enter' after every sentence!","mem":"3 Golden Manuscript Paper ('원고지') Rules: 1) Leave the 1st box blank at the start of the paragraph, 2) Keep writing on the SAME line after a period (don't start a new line for '그 결과'), 3) Never put a blank space at the left edge of a new row!"},
+{"frontTag":"6주차 1강 · 쓰기 53번 순위 변화 도표 서술 연습","frontMain":"[도표: 고등학생 희망 직업 어떻게 달라졌을까?]\n• 조사 대상: 고등학생 10,000명\n• 2008년 순위: 1위 교사, 2위 회사원, 3위 공무원, 4위 간호사, 5위 개인 사업\n• 2018년 순위: 1위 교사, 2위 간호사, 3위 건축가, 4위 공무원, 5위 군인\n\n위 도표의 도입부와 1위·2위 변화를 원고지 문장으로 서술해 보세요!","frontSub":"교안의 '고등학생 희망 직업' 순위 변화 도표를 53번 공식으로 문장화하는 연습입니다!","hintText":"고등학생 10,000명을 대상으로 ... 조사하였다. 그 결과 2008년과 2018년 모두 '교사'가 1위로 나타났으나, 2위는 '회사원'에서 '간호사'로 바뀌었다.","backKo":"고등학생 10,000명을 대상으로 '고등학생 희망 직업이 어떻게 달라졌는가'에 대해 조사하였다. 그 결과 2008년과 2018년 모두 '교사'가 1위를 차지하였으나, 2위는 2008년 '회사원'에서 2018년 '간호사'로 상승하였다.","backEn":"A survey was conducted targeting 10,000 high school students on how their desired jobs changed. As a result, 'teacher' ranked 1st in both 2008 and 2018, whereas 2nd place changed from 'office worker' in 2008 to 'nurse' in 2018.","partnerLabel":"순위 도표 필수 어휘","partnerText":"• 1위 유지: 2008년과 2018년 모두 '교사'가 1위를 차지하였다 (유지하였다)\n• 순위 변동: '간호사'는 4위에서 2위로 상승한 반면에, '공무원'은 3위에서 4위로 하락하였다","partnerExplain":"Verified from the course learning material chart ('고등학생 희망 직업 어떻게 달라졌을까? 조사 대상: 고등학생 10,000명').","mem":"Ranking Chart Formula: 1) State what stayed #1 in both years ('모두 교사가 1위를 차지하였으나'), 2) Contrast what rose ('간호사는 4위에서 2위로 상승한 반면에') vs. what fell ('공무원은 3위에서 4위로 하락하였다')!"}
 ],
 "2강": [
-{
-"frontTag": "6주차 2강 · 제52회 쓰기 53번 성별 응답 이유 서술 공식",
-"frontMain": "[쓰기 53번 설문조사 이유(남자 vs 여자) 연결 연습]\n• 가장 많은 응답: '~'라고 ( ㉠ ).\n• 성별 2순위 이유 비교: 이어 남자는 자유로운 생활을 원해서, 여자는 직장 생활을 ( ㉡ ) 응답하였다.",
-"frontSub": "교안 슬라이드에 나온 설문조사 성별 응답 이유 서술 문장을 완성해 보세요!",
-"hintText": "㉠ 응답한 경우가 가장 많았다 | ㉡ 유지하고 싶어서라고",
-"backKo": "㉠ 응답한 경우가 가장 많았다\n㉡ 유지하고 싶어서라고 (응답하였다)",
-"backEn": "㉠ Cases responding that '...' were the most numerous.\n㉡ Next, men responded that it was because they wanted a free lifestyle, and women responded that it was because they wanted to maintain their working life.",
-"partnerLabel": "교안 검증 설문조사 이유 서술 템플릿",
-"partnerText": "• 1순위: ~(이)라고 응답한 경우가 가장 많았다.\n• 2순위 성별 대조: 이어 남자는 ~을/를 원해서, 여자는 ~을/를 유지하고 싶어서라고 응답하였다.",
-"partnerExplain": "Verified verbatim from the Week 6 Lecture 2 learning material slide! Memorize '이어 남자는 ~해서, 여자는 ~어서라고 응답하였다' for quoting survey reasons.",
-"mem": "Quoting Survey Reasons Formula: 1st place = '~라고 응답한 경우가 가장 많았다' (those who answered ~ were the most numerous). 2nd place = '이어 남자는 ~원해서, 여자는 직장 생활을 유지하고 싶어서라고 응답하였다'!"
-}
+{"frontTag":"6주차 2강 · 제52회 쓰기 53번 성별 응답 이유 서술 공식","frontMain":"[쓰기 53번 설문조사 이유(남자 vs 여자) 연결 연습]\n• 가장 많은 응답: '~'라고 ( ㉠ ).\n• 성별 2순위 이유 비교: 이어 남자는 자유로운 생활을 원해서, 여자는 직장 생활을 ( ㉡ ) 응답하였다.","frontSub":"교안 슬라이드에 나온 설문조사 성별 응답 이유 서술 문장을 완성해 보세요!","hintText":"㉠ 응답한 경우가 가장 많았다 | ㉡ 유지하고 싶어서라고","backKo":"㉠ 응답한 경우가 가장 많았다\n㉡ 유지하고 싶어서라고 (응답하였다)","backEn":"㉠ Cases responding that '...' were the most numerous.\n㉡ Next, men responded that it was because they wanted a free lifestyle, and women responded that it was because they wanted to maintain their working life.","partnerLabel":"교안 검증 설문조사 이유 서술 템플릿","partnerText":"• 1순위: ~(이)라고 응답한 경우가 가장 많았다.\n• 2순위 성별 대조: 이어 남자는 ~을/를 원해서, 여자는 ~을/를 유지하고 싶어서라고 응답하였다.","partnerExplain":"Verified verbatim from the Week 6 Lecture 2 learning material slide! Memorize '이어 남자는 ~해서, 여자는 ~어서라고 응답하였다' for quoting survey reasons.","mem":"Quoting Survey Reasons Formula: 1st place = '~라고 응답한 경우가 가장 많았다' (those who answered ~ were the most numerous). 2nd place = '이어 남자는 ~원해서, 여자는 직장 생활을 유지하고 싶어서라고 응답하였다'!"}
 ]
 },
 "7주차 (제60회)": {
 "1강": [
-{
-"frontTag": "7주차 1강 · 제60회 쓰기 51번 기출문제 (간접화법 주의!)",
-"frontMain": "[제목: 도서관을 이용하고 싶습니다]\n한국대학교를 졸업한 학생인데 도서관을 이용하고 싶습니다. 선배에게 물어보니 졸업생이 도서관을 이용하려면 출입증이 ( ㉠ ). 출입증을 만들려면 ( ㉡ )? 방법을 알려 주시면 감사하겠습니다.",
-"frontSub": "교수님께서 강의에서 강조하신 '선배에게 물어보니(간접화법!)' 단서를 활용하여 ( ㉠ ), ( ㉡ )을 완성하세요!",
-"hintText": "㉠ 있어야 한다고 들었습니다 / 필요하다고 합니다 (선배가 한 말 전달!) | ㉡ 어떻게 해야 합니까 / 무엇이 필요합니까",
-"backKo": "㉠ 있어야 한다고 합니다 (필요하다고 들었습니다 / 있어야 한다고 들었습니다)\n㉡ 어떻게 해야 합니까 (어떻게 신청해야 합니까 / 무엇을 준비해야 합니까)",
-"backEn": "㉠ When I asked my senior, I heard that an entry pass is required if a graduate wants to use the library.\n㉡ What should I do to make an entry pass? I would appreciate it if you could let me know the method.",
-"partnerLabel": "교수님 7주차 강의 1순위 주의사항 (간접화법!)",
-"partnerText": "• 앞부분 단서: '선배에게 물어보니' → 누가 말했어요? 선배가 말했어요!\n• 따라서 ㉠은 단순 '필요합니다'보다 간접 인용('있어야 한다고 합니다 / 필요하다고 들었습니다')을 써야 만점!\n• ㉡ 뒤의 '?'와 '방법을 알려 주시면' → '어떻게 해야 합니까?'",
-"partnerExplain": "Directly from Professor 오현진's lecture transcript: Because the sentence says '선배에게 물어보니' (When I asked a senior), the senior told you that an entry pass ('출입증') is required—so use indirect quotation ('있어야 한다고 합니다 / 필요하다고 들었습니다')!",
-"mem": "Professor's Crucial Clue in '도서관을 이용하고 싶습니다': Look at '선배에게 물어보니' (When I asked my senior)! Since the SENIOR told you an entry pass ('출입증') is needed, use indirect speech in ㉠ ('있어야 한다고 합니다 / 필요하다고 들었습니다'), and ask '어떻게 해야 합니까?' (How do I do it?) in ㉡!"
-},
-{
-"frontTag": "7주차 1·2강 · 쓰기 53번 그래프 증감·비율 필수 표현",
-"frontMain": "[쓰기 53번 그래프 변화 및 순위 표현]\n1. 수나 양이 위로 올라갈 때 (↑) 쓰는 한자어/고유어 동사는?\n2. 수나 양이 아래로 내려갈 때 (↓) 쓰는 한자어/고유어 동사는?\n3. 가장 높은 비율(1위)을 나타낼 때 쓰는 표현은?",
-"frontSub": "7주차 1강 퀴즈 Q3와 연결되는 쓰기 53번 필수 어휘입니다!",
-"hintText": "1. 증가하다 = 늘어나다 | 2. 감소하다 = 줄어들다 | 3. ~이/가 가장 높게 나타났다 / 1위를 차지하였다",
-"backKo": "1. 증가하다 = 늘어나다 (예: 꾸준히 증가하였다 / 크게 늘어났다)\n2. 감소하다 = 줄어들다 (예: 점차 감소하였다 / 절반으로 줄어들었다)\n3. ~이/가 (비율)%로 가장 높게 나타났다 (가장 많은 비중을 차지하였다)",
-"backEn": "1. Increase: 증가하다 = 늘어나다\n2. Decrease: 감소하다 = 줄어들다\n3. Highest proportion: appeared the highest at X%",
-"partnerLabel": "쓰기 53번 시제 & 어미 규칙",
-"partnerText": "설문조사와 과거 그래프는 이미 끝난 결과이므로 과거형 평서문('-았/었다', '조사하였다', '나타났다')으로 통일합니다.",
-"partnerExplain": "Week 7 Lecture 1 Quiz Q3 ('증가하다 = 늘어나다 (O)') is tested in both Reading and Writing Q53 graph reports!",
-"mem": "Graph Verb Pairs for Q53: Arrow UP (↑) = '증가하였다 / 늘어났다' (increased). Arrow DOWN (↓) = '감소하였다 / 줄어들었다' (decreased). Highest % = '~%로 가장 높게 나타났다'!"
-}
+{"frontTag":"7주차 1강 · 제60회 쓰기 51번 기출문제 (간접화법 주의!)","frontMain":"[제목: 도서관을 이용하고 싶습니다]\n한국대학교를 졸업한 학생인데 도서관을 이용하고 싶습니다. 선배에게 물어보니 졸업생이 도서관을 이용하려면 출입증이 ( ㉠ ). 출입증을 만들려면 ( ㉡ )? 방법을 알려 주시면 감사하겠습니다.","frontSub":"교수님께서 강의에서 강조하신 '선배에게 물어보니(간접화법!)' 단서를 활용하여 ( ㉠ ), ( ㉡ )을 완성하세요!","hintText":"㉠ 있어야 한다고 들었습니다 / 필요하다고 합니다 (선배가 한 말 전달!) | ㉡ 어떻게 해야 합니까 / 무엇이 필요합니까","backKo":"㉠ 있어야 한다고 합니다 (필요하다고 들었습니다 / 있어야 한다고 들었습니다)\n㉡ 어떻게 해야 합니까 (어떻게 신청해야 합니까 / 무엇을 준비해야 합니까)","backEn":"㉠ When I asked my senior, I heard that an entry pass is required if a graduate wants to use the library.\n㉡ What should I do to make an entry pass? I would appreciate it if you could let me know the method.","partnerLabel":"교수님 7주차 강의 1순위 주의사항 (간접화법!)","partnerText":"• 앞부분 단서: '선배에게 물어보니' → 누가 말했어요? 선배가 말했어요!\n• 따라서 ㉠은 단순 '필요합니다'보다 간접 인용('있어야 한다고 합니다 / 필요하다고 들었습니다')을 써야 만점!\n• ㉡ 뒤의 '?'와 '방법을 알려 주시면' → '어떻게 해야 합니까?'","partnerExplain":"Directly from Professor 오현진's lecture transcript: Because the sentence says '선배에게 물어보니' (When I asked a senior), the senior told you that an entry pass ('출입증') is required—so use indirect quotation ('있어야 한다고 합니다 / 필요하다고 들었습니다')!","mem":"Professor's Crucial Clue in '도서관을 이용하고 싶습니다': Look at '선배에게 물어보니' (When I asked my senior)! Since the SENIOR told you an entry pass ('출입증') is needed, use indirect speech in ㉠ ('있어야 한다고 합니다 / 필요하다고 들었습니다'), and ask '어떻게 해야 합니까?' (How do I do it?) in ㉡!"},
+{"frontTag":"7주차 1·2강 · 쓰기 53번 그래프 증감·비율 필수 표현","frontMain":"[쓰기 53번 그래프 변화 및 순위 표현]\n1. 수나 양이 위로 올라갈 때 (↑) 쓰는 한자어/고유어 동사는?\n2. 수나 양이 아래로 내려갈 때 (↓) 쓰는 한자어/고유어 동사는?\n3. 가장 높은 비율(1위)을 나타낼 때 쓰는 표현은?","frontSub":"7주차 1강 퀴즈 Q3와 연결되는 쓰기 53번 필수 어휘입니다!","hintText":"1. 증가하다 = 늘어나다 | 2. 감소하다 = 줄어들다 | 3. ~이/가 가장 높게 나타났다 / 1위를 차지하였다","backKo":"1. 증가하다 = 늘어나다 (예: 꾸준히 증가하였다 / 크게 늘어났다)\n2. 감소하다 = 줄어들다 (예: 점차 감소하였다 / 절반으로 줄어들었다)\n3. ~이/가 (비율)%로 가장 높게 나타났다 (가장 많은 비중을 차지하였다)","backEn":"1. Increase: 증가하다 = 늘어나다\n2. Decrease: 감소하다 = 줄어들다\n3. Highest proportion: appeared the highest at X%","partnerLabel":"쓰기 53번 시제 & 어미 규칙","partnerText":"설문조사와 과거 그래프는 이미 끝난 결과이므로 과거형 평서문('-았/었다', '조사하였다', '나타났다')으로 통일합니다.","partnerExplain":"Week 7 Lecture 1 Quiz Q3 ('증가하다 = 늘어나다 (O)') is tested in both Reading and Writing Q53 graph reports!","mem":"Graph Verb Pairs for Q53: Arrow UP (↑) = '증가하였다 / 늘어났다' (increased). Arrow DOWN (↓) = '감소하였다 / 줄어들었다' (decreased). Highest % = '~%로 가장 높게 나타났다'!"}
 ],
 "2강": [
-{
-"frontTag": "7주차 2강 · 쓰기 53번 설문조사 그래프 첫 문장 공식",
-"frontMain": "[쓰기 53번 도입부 원고지 작성 연습]\n• 조사 대상: 성인 남녀 3천 명\n• 조사 주제: 아이를 꼭 낳아야 하는가\n\n위 정보를 사용하여 쓰기 53번의 첫 문장과 두 번째 문장 시작('그 결과')까지 원고지 띄어쓰기에 맞춰 완성하세요!",
-"frontSub": "교수님께서 원고지 화면에 직접 한 글자씩 써 주신 53번 만점 도입부 공식입니다!",
-"hintText": "[조사 대상]을/를 대상으로 '[조사 주제]'에 대해 조사하였다. 그 결과...",
-"backKo": "성인 남녀 3천 명을 대상으로 '아이를 꼭 낳아야 하는가'에 대해 조사하였다. 그 결과...",
-"backEn": "A survey was conducted targeting 3,000 adult men and women regarding 'Must one necessarily have children?'. As a result...",
-"partnerLabel": "원고지 칸별 띄어쓰기 정밀 체크 (␠ = 빈칸)",
-"partnerText": "␠성인␠남녀␠3천␠명을␠대상으로␠'아이를␠꼭␠낳아야␠하는가'에␠대해␠조사하였다.␠그␠결과...",
-"partnerExplain": "Professor 오현진's advice: 'Especially for the Q53 graph problem, you must get full marks—the graph problem is easier than Q52!' Memorizing this first-sentence formula guarantees a perfect opening.",
-"mem": "Universal Q53 First Sentence Formula: Indent 1 box (␠), then write '[Target]을/를 대상으로 '[Topic]'에 대해 조사하였다. 그 결과...' on the exact same line!"
-}
+{"frontTag":"7주차 2강 · 쓰기 53번 설문조사 그래프 첫 문장 공식","frontMain":"[쓰기 53번 도입부 원고지 작성 연습]\n• 조사 대상: 성인 남녀 3천 명\n• 조사 주제: 아이를 꼭 낳아야 하는가\n\n위 정보를 사용하여 쓰기 53번의 첫 문장과 두 번째 문장 시작('그 결과')까지 원고지 띄어쓰기에 맞춰 완성하세요!","frontSub":"교수님께서 원고지 화면에 직접 한 글자씩 써 주신 53번 만점 도입부 공식입니다!","hintText":"[조사 대상]을/를 대상으로 '[조사 주제]'에 대해 조사하였다. 그 결과...","backKo":"성인 남녀 3천 명을 대상으로 '아이를 꼭 낳아야 하는가'에 대해 조사하였다. 그 결과...","backEn":"A survey was conducted targeting 3,000 adult men and women regarding 'Must one necessarily have children?'. As a result...","partnerLabel":"원고지 칸별 띄어쓰기 정밀 체크 (␠ = 빈칸)","partnerText":"␠성인␠남녀␠3천␠명을␠대상으로␠'아이를␠꼭␠낳아야␠하는가'에␠대해␠조사하였다.␠그␠결과...","partnerExplain":"Professor 오현진's advice: 'Especially for the Q53 graph problem, you must get full marks—the graph problem is easier than Q52!' Memorizing this first-sentence formula guarantees a perfect opening.","mem":"Universal Q53 First Sentence Formula: Indent 1 box (␠), then write '[Target]을/를 대상으로 '[Topic]'에 대해 조사하였다. 그 결과...' on the exact same line!"}
 ]
 },
 "8주차 (중간고사 총정리)": {
 "1강": [
-{
-"frontTag": "8주차 총정리 · 쓰기 51·52·53번 종결 어미 최종 점검",
-"frontMain": "[중간고사 직전 쓰기 영역 최종 체크!]\n• 쓰기 51번 (실용문: 편지·이메일·안내문) 필수 종결 어미는?\n• 쓰기 52번 (설명문: 논리·대조·비유 문단) 필수 종결 어미는?\n• 쓰기 53번 (도표·설문조사 그래프 분석) 필수 종결 어미는?",
-"frontSub": "어미 형식을 틀리면 내용을 맞아도 감점됩니다! 세 문제의 어미를 정확히 구분하세요.",
-"hintText": "51번: -(스)ㅂ니다/습니까 | 52번: -ㄴ다/-는다/-다 | 53번: 조사하였다/나타났다 (-다)",
-"backKo": "• 쓰기 51번: -(스)ㅂ니다 / -(스)ㅂ니까? + 높임말(-시-, 드리다, 주셔서, 바랍니다)\n• 쓰기 52번: -ㄴ다 / -는다 / -다 (평서형 현재 시제 중심)\n• 쓰기 53번: ~을/를 대상으로 ~에 대해 조사하였다. 그 결과 ~로 나타났다. (-다)",
-"backEn": "• Q51: Formal polite + Honorifics\n• Q52: Plain formal declarative (-다)\n• Q53: Survey report declarative (-다) on manuscript paper (원고지)",
-"partnerLabel": "MAIA 만점 전략 요약",
-"partnerText": "51번에 '-어요'나 '-다' 쓰지 않기! | 52번에 '-습니다' 쓰지 않기! | 53번 원고지 첫 칸 비우기 & 마침표 뒤 줄 바꾸지 않기!",
-"partnerExplain": "Following these three register rules alone prevents all form/grammar point deductions ('형식 감점 0점') on the writing section!",
-"mem": "Ending Cheat Code: Q51 = '-(스)ㅂ니다 / -(스)ㅂ니까?' + Honorifics ('바랍니다/주셔서/드리다') | Q52 = '-ㄴ다/-는다/-다' (NO -습니다!) | Q53 = '조사하였다. 그 결과 ~로 나타났다'!"
-}
+{"frontTag":"8주차 총정리 · 쓰기 51·52·53번 종결 어미 최종 점검","frontMain":"[중간고사 직전 쓰기 영역 최종 체크!]\n• 쓰기 51번 (실용문: 편지·이메일·안내문) 필수 종결 어미는?\n• 쓰기 52번 (설명문: 논리·대조·비유 문단) 필수 종결 어미는?\n• 쓰기 53번 (도표·설문조사 그래프 분석) 필수 종결 어미는?","frontSub":"어미 형식을 틀리면 내용을 맞아도 감점됩니다! 세 문제의 어미를 정확히 구분하세요.","hintText":"51번: -(스)ㅂ니다/습니까 | 52번: -ㄴ다/-는다/-다 | 53번: 조사하였다/나타났다 (-다)","backKo":"• 쓰기 51번: -(스)ㅂ니다 / -(스)ㅂ니까? + 높임말(-시-, 드리다, 주셔서, 바랍니다)\n• 쓰기 52번: -ㄴ다 / -는다 / -다 (평서형 현재 시제 중심)\n• 쓰기 53번: ~을/를 대상으로 ~에 대해 조사하였다. 그 결과 ~로 나타났다. (-다)","backEn":"• Q51: Formal polite + Honorifics\n• Q52: Plain formal declarative (-다)\n• Q53: Survey report declarative (-다) on manuscript paper (원고지)","partnerLabel":"MAIA 만점 전략 요약","partnerText":"51번에 '-어요'나 '-다' 쓰지 않기! | 52번에 '-습니다' 쓰지 않기! | 53번 원고지 첫 칸 비우기 & 마침표 뒤 줄 바꾸지 않기!","partnerExplain":"Following these three register rules alone prevents all form/grammar point deductions ('형식 감점 0점') on the writing section!","mem":"Ending Cheat Code: Q51 = '-(스)ㅂ니다 / -(스)ㅂ니까?' + Honorifics ('바랍니다/주셔서/드리다') | Q52 = '-ㄴ다/-는다/-다' (NO -습니다!) | Q53 = '조사하였다. 그 결과 ~로 나타났다'!"}
 ],
 "2강": [
-{
-"frontTag": "8주차 총정리 · 쓰기 51·52번 핵심 함정 3대장",
-"frontMain": "[쓰기 고득점 함정 체크!]\n1. 51번에서 '선배에게 물어보니 ~ ( ㉠ )'처럼 다른 사람에게 들은 내용을 전달할 때 쓰는 표현은?\n2. 52번에서 빈칸 앞에 '반대로' 또는 '반면에'가 있을 때 풀이 공식은?\n3. 51번 안내문 마지막 문장에서 전화번호 앞 빈칸에 쓰는 만능 문장은?",
-"frontSub": "1~8주차 쓰기 강의에서 교수님께서 가장 강조하신 3대 핵심 포인트입니다!",
-"hintText": "1. 간접화법(-다고 합니다 / -다고 들었습니다) | 2. 앞 문장 반의어 뒤집기 + -다 | 3. 연락해 주시기 바랍니다",
-"backKo": "1. 간접화법 활용: ~(으)ㄹ 수 있다고 합니다 / ~이/가 필요하다고 들었습니다\n2. 반의어 뒤집기: 앞 문장의 핵심 어휘를 반의어로 바꾸고 '-다'로 종결 (예: 긍정적→부정적, 확률이 높다→얻기 어렵다)\n3. 만능 연락 요청: 궁금한 점이 있으시면(필요하신 분은) 언제든지 연락해 주시기 바랍니다",
-"backEn": "1. Indirect quotation (-다고 합니다 / 들었습니다)\n2. Antonym inversion + -다 ending\n3. Universal contact request (연락해 주시기 바랍니다)",
-"partnerLabel": "1~8주차 쓰기 총정리 완료",
-"partnerText": "이 3가지 패턴을 외워 두면 쓰기 주관식 빈칸에서 막힘없이 답안을 작성할 수 있습니다!",
-"partnerExplain": "Combines the top lessons from Week 1 ('무료로 드립니다'), Week 3 ('반대로'), and Week 7 ('도서관을 이용하고 싶습니다').",
-"mem": "3 Ultimate Writing Keys: 1) '선배에게 물어보니' → use indirect speech ('있어야 한다고 합니다'), 2) '반대로/반면에' → flip to antonyms + '-다', 3) Phone number after blank → '연락해 주시기 바랍니다'!"
-}
+{"frontTag":"8주차 총정리 · 쓰기 51·52번 핵심 함정 3대장","frontMain":"[쓰기 고득점 함정 체크!]\n1. 51번에서 '선배에게 물어보니 ~ ( ㉠ )'처럼 다른 사람에게 들은 내용을 전달할 때 쓰는 표현은?\n2. 52번에서 빈칸 앞에 '반대로' 또는 '반면에'가 있을 때 풀이 공식은?\n3. 51번 안내문 마지막 문장에서 전화번호 앞 빈칸에 쓰는 만능 문장은?","frontSub":"1~8주차 쓰기 강의에서 교수님께서 가장 강조하신 3대 핵심 포인트입니다!","hintText":"1. 간접화법(-다고 합니다 / -다고 들었습니다) | 2. 앞 문장 반의어 뒤집기 + -다 | 3. 연락해 주시기 바랍니다","backKo":"1. 간접화법 활용: ~(으)ㄹ 수 있다고 합니다 / ~이/가 필요하다고 들었습니다\n2. 반의어 뒤집기: 앞 문장의 핵심 어휘를 반의어로 바꾸고 '-다'로 종결 (예: 긍정적→부정적, 확률이 높다→얻기 어렵다)\n3. 만능 연락 요청: 궁금한 점이 있으시면(필요하신 분은) 언제든지 연락해 주시기 바랍니다","backEn":"1. Indirect quotation (-다고 합니다 / 들었습니다)\n2. Antonym inversion + -다 ending\n3. Universal contact request (연락해 주시기 바랍니다)","partnerLabel":"1~8주차 쓰기 총정리 완료","partnerText":"이 3가지 패턴을 외워 두면 쓰기 주관식 빈칸에서 막힘없이 답안을 작성할 수 있습니다!","partnerExplain":"Combines the top lessons from Week 1 ('무료로 드립니다'), Week 3 ('반대로'), and Week 7 ('도서관을 이용하고 싶습니다').","mem":"3 Ultimate Writing Keys: 1) '선배에게 물어보니' → use indirect speech ('있어야 한다고 합니다'), 2) '반대로/반면에' → flip to antonyms + '-다', 3) Phone number after blank → '연락해 주시기 바랍니다'!"}
 ]
 },
 "9주차 (제64회)": {
 "1강": [
-{
-"frontTag": "9주차 1강 Slide Page 12 · 제64회 쓰기 51번 기출문제 (수미 씨에게 보내는 작별·선물 카드)",
-"frontMain": "수미 씨, 그동안 고마웠습니다.\n저는 다음 달이면 홍콩으로 일을 ( ㉠ ).\n제가 원하는 회사에 취직을 해서 기쁘지만\n수미 씨를 자주 못 볼 것 같아 아쉽습니다.\n선물을 준비했는데 선물이 수미 씨 마음에 ( ㉡ ).",
-"frontSub": "[9주차 1강 교안 12쪽 원문] 뒷문장의 '제가 원하는 회사에 취직을 해서'와 앞문장의 '선물이 수미 씨 마음에'에 호응하도록 ( ㉠ ), ( ㉡ )을 격식체(-(스)ㅂ니다)로 완성하세요!",
-"hintText": "㉠ 하러 갑니다 / 하러 떠나게 되었습니다 | ㉡ 들었으면 좋겠습니다 / 들지 모르겠습니다",
-"backKo": "㉠ 하러 갑니다 (하러 떠납니다 / 하러 가게 되었습니다)\n㉡ 들었으면 좋겠습니다 (들지 모르겠습니다)",
-"backEn": "㉠ Next month, I am going to Hong Kong to work.\n㉡ I prepared a gift, and I hope you like it (I hope it suits your taste).",
-"partnerLabel": "9주차 1강 51번 핵심 문맥 & 연어 공식",
-"partnerText": "• ㉠ '홍콩으로 일을' + 뒷문장 '취직을 해서' → 일을 하러 갑니다 / 하러 가게 되었습니다\n• ㉡ '선물이 수미 씨 마음에' → 관용 표현 '마음에 들다' + '-았/었으면 좋겠습니다' = 들었으면 좋겠습니다!",
-"partnerExplain": "Verified directly from The Week 9 Lecture 1 Learning Material (Page 12)! In ㉠, connect '홍콩으로 일을' with going to work ('하러 갑니다'). In ㉡, '마음에' always pairs with the verb '들다' (to like / suit one's taste) → '들었으면 좋겠습니다'!",
-"mem": "9주차 1강 Slide Page 12 (Q51 '수미 씨'): 1) '다음 달이면 홍콩으로 일을 ( ㉠ )' → '하러 갑니다 / 하러 가게 되었습니다' (going to Hong Kong to work); 2) '선물이 수미 씨 마음에 ( ㉡ )' → '마음에 들다' + '-았/었으면 좋겠습니다' = '들었으면 좋겠습니다' (I hope you like it)!"
-},
-{
-"frontTag": "9주차 1강 Slide Page 13 · 제64회 쓰기 52번 기출문제 (4억 년 전의 별빛)",
-"frontMain": "별은 지구에서 멀리 떨어져 있다. 그래서 별빛이 지구까지 오는 데 많은 시간이 걸린다. 지구와 가장 가까운 별의 빛도 지구까지 오는 데 4억 년이 걸린다. 만약 우리가 이 별을 본다면 우리는 이 별의 현재 모습이 아니라 4억 년 전의 ( ㉠ ). 이처럼 별빛은 오랜 시간이 지나야 지구에 도달한다. 그래서 어떤 별이 사라져도 우리는 그 사실을 바로 알지 못하고 아주 오랜 시간이 ( ㉡ ).",
-"frontSub": "[9주차 1강 교안 13쪽 원문] '현재 모습이 아니라 4억 년 전의 ( ㉠ )'과 '바로 알지 못하고 아주 오랜 시간이 ( ㉡ )'을 평서형(-다)으로 완성하세요!",
-"hintText": "㉠ 모습을 보는 것이다 / 모습을 보게 된다 | ㉡ 지난 후에야 알게 된다 / 흐른 뒤에야 알 수 있다",
-"backKo": "㉠ 모습을 보는 것이다 (모습을 보게 된다 / 빛을 보는 것이다)\n㉡ 지난 후에야 알게 된다 (지난 뒤에야 알 수 있다 / 흘러야 알 수 있다)",
-"backEn": "㉠ If we look at this star, we are looking at its appearance from 400 million years ago, not its current appearance.\n㉡ Therefore, even if a star disappears, we do not know that fact right away and only come to know it after a very long time has passed.",
-"partnerLabel": "9주차 1강 52번 대조 호응 공식",
-"partnerText": "• ㉠ '이 별의 현재 모습이 아니라 4억 년 전의' → 모습을 보는 것이다\n• ㉡ '그 사실을 바로 알지 못하고 아주 오랜 시간이' → 지난 후에야 알게 된다 (지난 뒤에야 알 수 있다)",
-"partnerExplain": "Verified directly from The Week 9 Lecture 1 Learning Material (Page 13)! Both blanks use '-이/가 아니라 A' and '-지 못하고 B' contrast structures.",
-"mem": "9주차 1강 Slide Page 13 (Q52 '별빛 4억 년'): 1) '현재 모습이 아니라 4억 년 전의 ( ㉠ )' → mirror '모습' + '보다' = '모습을 보는 것이다'; 2) '바로 알지 못하고 아주 오랜 시간이 ( ㉡ )' → '시간이 지나다' + '알게 되다' = '지난 후에야 알게 된다'!"
-}
+{"frontTag":"9주차 1강 Slide Page 12 · 제64회 쓰기 51번 기출문제 (수미 씨에게 보내는 작별·선물 카드)","frontMain":"수미 씨, 그동안 고마웠습니다.\n저는 다음 달이면 홍콩으로 일을 ( ㉠ ).\n제가 원하는 회사에 취직을 해서 기쁘지만\n수미 씨를 자주 못 볼 것 같아 아쉽습니다.\n선물을 준비했는데 선물이 수미 씨 마음에 ( ㉡ ).","frontSub":"[9주차 1강 교안 12쪽 원문] 뒷문장의 '제가 원하는 회사에 취직을 해서'와 앞문장의 '선물이 수미 씨 마음에'에 호응하도록 ( ㉠ ), ( ㉡ )을 격식체(-(스)ㅂ니다)로 완성하세요!","hintText":"㉠ 하러 갑니다 / 하러 떠나게 되었습니다 | ㉡ 들었으면 좋겠습니다 / 들지 모르겠습니다","backKo":"㉠ 하러 갑니다 (하러 떠납니다 / 하러 가게 되었습니다)\n㉡ 들었으면 좋겠습니다 (들지 모르겠습니다)","backEn":"㉠ Next month, I am going to Hong Kong to work.\n㉡ I prepared a gift, and I hope you like it (I hope it suits your taste).","partnerLabel":"9주차 1강 51번 핵심 문맥 & 연어 공식","partnerText":"• ㉠ '홍콩으로 일을' + 뒷문장 '취직을 해서' → 일을 하러 갑니다 / 하러 가게 되었습니다\n• ㉡ '선물이 수미 씨 마음에' → 관용 표현 '마음에 들다' + '-았/었으면 좋겠습니다' = 들었으면 좋겠습니다!","partnerExplain":"Verified directly from The Week 9 Lecture 1 Learning Material (Page 12)! In ㉠, connect '홍콩으로 일을' with going to work ('하러 갑니다'). In ㉡, '마음에' always pairs with the verb '들다' (to like / suit one's taste) → '들었으면 좋겠습니다'!","mem":"9주차 1강 Slide Page 12 (Q51 '수미 씨'): 1) '다음 달이면 홍콩으로 일을 ( ㉠ )' → '하러 갑니다 / 하러 가게 되었습니다' (going to Hong Kong to work); 2) '선물이 수미 씨 마음에 ( ㉡ )' → '마음에 들다' + '-았/었으면 좋겠습니다' = '들었으면 좋겠습니다' (I hope you like it)!"},
+{"frontTag":"9주차 1강 Slide Page 13 · 제64회 쓰기 52번 기출문제 (4억 년 전의 별빛)","frontMain":"별은 지구에서 멀리 떨어져 있다. 그래서 별빛이 지구까지 오는 데 많은 시간이 걸린다. 지구와 가장 가까운 별의 빛도 지구까지 오는 데 4억 년이 걸린다. 만약 우리가 이 별을 본다면 우리는 이 별의 현재 모습이 아니라 4억 년 전의 ( ㉠ ). 이처럼 별빛은 오랜 시간이 지나야 지구에 도달한다. 그래서 어떤 별이 사라져도 우리는 그 사실을 바로 알지 못하고 아주 오랜 시간이 ( ㉡ ).","frontSub":"[9주차 1강 교안 13쪽 원문] '현재 모습이 아니라 4억 년 전의 ( ㉠ )'과 '바로 알지 못하고 아주 오랜 시간이 ( ㉡ )'을 평서형(-다)으로 완성하세요!","hintText":"㉠ 모습을 보는 것이다 / 모습을 보게 된다 | ㉡ 지난 후에야 알게 된다 / 흐른 뒤에야 알 수 있다","backKo":"㉠ 모습을 보는 것이다 (모습을 보게 된다 / 빛을 보는 것이다)\n㉡ 지난 후에야 알게 된다 (지난 뒤에야 알 수 있다 / 흘러야 알 수 있다)","backEn":"㉠ If we look at this star, we are looking at its appearance from 400 million years ago, not its current appearance.\n㉡ Therefore, even if a star disappears, we do not know that fact right away and only come to know it after a very long time has passed.","partnerLabel":"9주차 1강 52번 대조 호응 공식","partnerText":"• ㉠ '이 별의 현재 모습이 아니라 4억 년 전의' → 모습을 보는 것이다\n• ㉡ '그 사실을 바로 알지 못하고 아주 오랜 시간이' → 지난 후에야 알게 된다 (지난 뒤에야 알 수 있다)","partnerExplain":"Verified directly from The Week 9 Lecture 1 Learning Material (Page 13)! Both blanks use '-이/가 아니라 A' and '-지 못하고 B' contrast structures.","mem":"9주차 1강 Slide Page 13 (Q52 '별빛 4억 년'): 1) '현재 모습이 아니라 4억 년 전의 ( ㉠ )' → mirror '모습' + '보다' = '모습을 보는 것이다'; 2) '바로 알지 못하고 아주 오랜 시간이 ( ㉡ )' → '시간이 지나다' + '알게 되다' = '지난 후에야 알게 된다'!"}
 ],
 "2강": [
-{
-"frontTag": "9주차 2강 Slide Pages 10~11 · 제64회 쓰기 53번 기출문제 (온라인 쇼핑 시장의 변화)",
-"frontMain": "[53번 도표: 온라인 쇼핑 시장의 변화 (200~300자)]\n• 전체 매출액 (단위: 원): 2014년 46조 → 2018년 92조\n• 사용 기기에 따른 매출액 (단위: 원):\n  - 컴퓨터: 2014년 32조 → 2018년 39조\n  - 스마트폰: 2014년 14조 → 2018년 53조\n• 변화 원인:\n  1) 온라인으로 다양한 상품 구매 가능\n  2) 쇼핑 접근성: 스마트폰 > 컴퓨터",
-"frontSub": "[9주차 2강 교안 10~11쪽 원문] 카드를 뒤집어 교안 11쪽에 수록된 모범 답안 원문을 확인하세요!",
-"hintText": "전체 매출액(크게 증가) → 사용 기기별 매출액(컴퓨터는 소폭 증가한 반면 스마트폰은 큰 폭으로 증가) → 변화 원인(~가능해졌고, 스마트폰이 컴퓨터에 비해 쇼핑 접근성이 높아졌기 때문이다)",
-"backKo": "[교안 11쪽 모범 답안 원문]\n온라인 쇼핑 시장의 변화에 대해 조사한 결과, 온라인 쇼핑 시장의 전체 매출액은 2014년에는 46조 원, 2018년에는 92조 원으로 4년 만에 크게 증가한 것으로 나타났다. 사용 기기에 따른 매출액은 컴퓨터의 경우 2014년에 32조 원, 2018년 39조 원으로 소폭 증가한 반면 스마트폰은 2014년에 14조 원, 2018년에 53조 원으로 매출액이 큰 폭으로 증가하였다. 이와 같이 온라인 쇼핑 시장이 변화한 원인은 온라인으로 다양한 상품 구매가 가능해졌고 스마트폰이 컴퓨터에 비해 쇼핑 접근성이 높아졌기 때문이다.",
-"backEn": "[Slide Page 11 Official Model Answer]\nAs a result of surveying changes in the online shopping market, total sales increased sharply in 4 years from 46 trillion won in 2014 to 92 trillion won in 2018. Sales by device showed a slight increase for computers from 32 trillion won in 2014 to 39 trillion won in 2018, whereas smartphone sales increased by a large margin from 14 trillion won in 2014 to 53 trillion won in 2018. The reasons the online shopping market changed like this are that purchasing diverse products online became possible and shopping accessibility became higher on smartphones compared to computers.",
-"partnerLabel": "9주차 2강 교안 11쪽 핵심 표현 3가지",
-"partnerText": "1. 소폭 증가한 반면 ~ 큰 폭으로 증가하였다 (조금 오른 것 vs 크게 오른 것 대조!)\n2. 이와 같이 ~ 변화한 원인은 ~기 때문이다 (원인 연결!)\n3. 스마트폰이 컴퓨터에 비해 쇼핑 접근성이 높아졌기 때문이다 ('> 부등호' 표현 공식!)",
-"partnerExplain": "Extracted word-for-word from The Week 9 Lecture 2 Learning Material (Page 11)! Notice how the '>' symbol ('쇼핑 접근성: 스마트폰 > 컴퓨터') is written in Korean: '스마트폰이 컴퓨터에 비해 쇼핑 접근성이 높아졌기 때문이다'!",
-"mem": "9주차 2강 Slide Page 11 (Q53 '온라인 쇼핑 시장의 변화'): 1) Contrast small vs. big increase: '컴퓨터는 소폭 증가한 반면 스마트폰은 큰 폭으로 증가하였다'; 2) Express the '>' inequality ('스마트폰 > 컴퓨터'): '스마트폰이 컴퓨터에 비해 쇼핑 접근성이 높아졌기 때문이다'!"
-}
+{"frontTag":"9주차 2강 Slide Pages 10~11 · 제64회 쓰기 53번 기출문제 (온라인 쇼핑 시장의 변화)","frontMain":"[53번 도표: 온라인 쇼핑 시장의 변화 (200~300자)]\n• 전체 매출액 (단위: 원): 2014년 46조 → 2018년 92조\n• 사용 기기에 따른 매출액 (단위: 원):\n  - 컴퓨터: 2014년 32조 → 2018년 39조\n  - 스마트폰: 2014년 14조 → 2018년 53조\n• 변화 원인:\n  1) 온라인으로 다양한 상품 구매 가능\n  2) 쇼핑 접근성: 스마트폰 > 컴퓨터","frontSub":"[9주차 2강 교안 10~11쪽 원문] 카드를 뒤집어 교안 11쪽에 수록된 모범 답안 원문을 확인하세요!","hintText":"전체 매출액(크게 증가) → 사용 기기별 매출액(컴퓨터는 소폭 증가한 반면 스마트폰은 큰 폭으로 증가) → 변화 원인(~가능해졌고, 스마트폰이 컴퓨터에 비해 쇼핑 접근성이 높아졌기 때문이다)","backKo":"[교안 11쪽 모범 답안 원문]\n온라인 쇼핑 시장의 변화에 대해 조사한 결과, 온라인 쇼핑 시장의 전체 매출액은 2014년에는 46조 원, 2018년에는 92조 원으로 4년 만에 크게 증가한 것으로 나타났다. 사용 기기에 따른 매출액은 컴퓨터의 경우 2014년에 32조 원, 2018년 39조 원으로 소폭 증가한 반면 스마트폰은 2014년에 14조 원, 2018년에 53조 원으로 매출액이 큰 폭으로 증가하였다. 이와 같이 온라인 쇼핑 시장이 변화한 원인은 온라인으로 다양한 상품 구매가 가능해졌고 스마트폰이 컴퓨터에 비해 쇼핑 접근성이 높아졌기 때문이다.","backEn":"[Slide Page 11 Official Model Answer]\nAs a result of surveying changes in the online shopping market, total sales increased sharply in 4 years from 46 trillion won in 2014 to 92 trillion won in 2018. Sales by device showed a slight increase for computers from 32 trillion won in 2014 to 39 trillion won in 2018, whereas smartphone sales increased by a large margin from 14 trillion won in 2014 to 53 trillion won in 2018. The reasons the online shopping market changed like this are that purchasing diverse products online became possible and shopping accessibility became higher on smartphones compared to computers.","partnerLabel":"9주차 2강 교안 11쪽 핵심 표현 3가지","partnerText":"1. 소폭 증가한 반면 ~ 큰 폭으로 증가하였다 (조금 오른 것 vs 크게 오른 것 대조!)\n2. 이와 같이 ~ 변화한 원인은 ~기 때문이다 (원인 연결!)\n3. 스마트폰이 컴퓨터에 비해 쇼핑 접근성이 높아졌기 때문이다 ('> 부등호' 표현 공식!)","partnerExplain":"Extracted word-for-word from The Week 9 Lecture 2 Learning Material (Page 11)! Notice how the '>' symbol ('쇼핑 접근성: 스마트폰 > 컴퓨터') is written in Korean: '스마트폰이 컴퓨터에 비해 쇼핑 접근성이 높아졌기 때문이다'!","mem":"9주차 2강 Slide Page 11 (Q53 '온라인 쇼핑 시장의 변화'): 1) Contrast small vs. big increase: '컴퓨터는 소폭 증가한 반면 스마트폰은 큰 폭으로 증가하였다'; 2) Express the '>' inequality ('스마트폰 > 컴퓨터'): '스마트폰이 컴퓨터에 비해 쇼핑 접근성이 높아졌기 때문이다'!"}
 ]
 },
 "10주차 (제83회)": {
 "1강": [
-{
-"frontTag": "10주차 1강 Slide Page 12 · 제83회 쓰기 51번 기출문제 (축제 관련 문의)",
-"frontMain": "[제목: 축제 관련 문의]\n지난 주말 '인주시 별빛 축제'에 갔던 외국인입니다.\n지금까지 살면서 이렇게 많은 별을 ( ㉠ ) 한 번도 없었습니다.\n이번 축제에서 별도 보고 공연도 볼 수 있어서 정말 좋았습니다.\n혹시 축제가 언제 또 있습니까?\n있다면 이런 멋진 경험을 다시 ( ㉡ ).",
-"frontSub": "[10주차 1강 교안 12쪽 원문] '지금까지 살면서 ~ 한 번도 없었습니다'와 '이런 멋진 경험을 다시 ~'에 호응하도록 ( ㉠ ), ( ㉡ )을 격식체(-(스)ㅂ니다)로 완성하세요!",
-"hintText": "㉠ 본 적이 / 본 적은 (경험 표현: -(으)ㄴ 적이 없다) | ㉡ 하고 싶습니다 / 해 보고 싶습니다",
-"backKo": "㉠ 본 적이 (본 적은 / 구경한 적이)\n㉡ 하고 싶습니다 (해 보고 싶습니다)",
-"backEn": "㉠ In my life until now, I had never once seen so many stars.\n㉡ If there is another festival, I would like to have this wonderful experience again.",
-"partnerLabel": "10주차 1강 51번 핵심 문법 & 연어 공식",
-"partnerText": "• ㉠ '지금까지 살면서 이렇게 많은 별을 ( ㉠ ) 한 번도 없었습니다' → 과거 경험 부정 공식: 동사 + -(으)ㄴ 적이 한 번도 없다 = '본 적이'\n• ㉡ '있다면 이런 멋진 경험을 다시 ( ㉡ )' → '경험을 하다' + '-고 싶습니다' = '하고 싶습니다 / 해 보고 싶습니다'",
-"partnerExplain": "Verified directly from The Week 10 Lecture 1 Learning Material (Page 12)! Notice that '한 번도 없었습니다' is already written after Blank ㉠, so you only write '본 적이' (or '본 적은') inside ㉠!",
-"mem": "10주차 1강 Slide Page 12 (Q51 '인주시 별빛 축제'): 1) Before '한 번도 없었습니다', use the experience noun '-(으)ㄴ 적이' → '별을 본 적이'; 2) After '멋진 경험을 다시', pair '경험을 하다' with '-고 싶습니다' → '하고 싶습니다'!"
-},
-{
-"frontTag": "10주차 1강 Slide Page 13 · 제83회 쓰기 52번 기출문제 (덩굴성 야자나무와 개미)",
-"frontMain": "식물은 다양한 방법으로 자신을 보호한다. 덩굴성 야자나무는 빈 줄기를 개미에게 집으로 제공한다. 이 나무에 다른 동물이 다가오면 줄기 속에 있던 개미들은 밖으로 나온다. 이때 개미들의 움직임으로 소리가 생긴다. 이 소리는 동물을 깜짝 ( ㉠ ). 결국 놀란 동물은 나뭇잎을 먹지 못하고 달아나 버린다. 식물학자들은 이것이 바로 이 나무가 자신을 보호하는 ( ㉡ ).",
-"frontSub": "[10주차 1강 교안 13쪽 원문] 뒷문장의 '결국 놀란 동물은'과 첫 문장의 '식물은 다양한 방법으로 자신을 보호한다'를 연결하여 ( ㉠ ), ( ㉡ )을 평서형(-다)으로 완성하세요!",
-"hintText": "㉠ 놀라게 한다 / 놀라게 만든다 | ㉡ 방법이라고 한다 / 방법이라고 말한다",
-"backKo": "㉠ 놀라게 한다 (놀라게 만든다)\n㉡ 방법이라고 한다 (방법이라고 말한다 / 방법이라고 설명한다)",
-"backEn": "㉠ This sound startles the animal (makes the animal startled).\n㉡ Botanists say that this is the very method by which this tree protects itself.",
-"partnerLabel": "10주차 1강 52번 앞뒤 문장 꼬리 물기 공식",
-"partnerText": "• ㉠ '이 소리는 동물을 깜짝 ( ㉠ )' + 뒷문장 '결국 놀란 동물은' → 사동 표현: '놀라게 한다 / 놀라게 만든다'\n• ㉡ 첫 문장 '다양한 방법으로 자신을 보호한다' + '식물학자들은 이것이 바로 이 나무가 자신을 보호하는 ( ㉡ )' → 간접 인용: '방법이라고 한다'",
-"partnerExplain": "Verified directly from The Week 10 Lecture 1 Learning Material (Page 13)! In ㉠, the adverb '깜짝' and the next sentence's '놀란 동물' give away the verb '놀라다' → causative '놀라게 한다'. In ㉡, '식물학자들은' requires indirect quotation ('방법이라고 한다').",
-"mem": "10주차 1강 Slide Page 13 (Q52 '덩굴성 야자나무'): 1) '깜짝' + next sentence '놀란 동물' → causative '놀라게 한다'; 2) First sentence '다양한 방법으로 자신을 보호한다' + subject '식물학자들은' → '방법이라고 한다'!"
-}
+{"frontTag":"10주차 1강 Slide Page 12 · 제83회 쓰기 51번 기출문제 (축제 관련 문의)","frontMain":"[제목: 축제 관련 문의]\n지난 주말 '인주시 별빛 축제'에 갔던 외국인입니다.\n지금까지 살면서 이렇게 많은 별을 ( ㉠ ) 한 번도 없었습니다.\n이번 축제에서 별도 보고 공연도 볼 수 있어서 정말 좋았습니다.\n혹시 축제가 언제 또 있습니까?\n있다면 이런 멋진 경험을 다시 ( ㉡ ).","frontSub":"[10주차 1강 교안 12쪽 원문] '지금까지 살면서 ~ 한 번도 없었습니다'와 '이런 멋진 경험을 다시 ~'에 호응하도록 ( ㉠ ), ( ㉡ )을 격식체(-(스)ㅂ니다)로 완성하세요!","hintText":"㉠ 본 적이 / 본 적은 (경험 표현: -(으)ㄴ 적이 없다) | ㉡ 하고 싶습니다 / 해 보고 싶습니다","backKo":"㉠ 본 적이 (본 적은 / 구경한 적이)\n㉡ 하고 싶습니다 (해 보고 싶습니다)","backEn":"㉠ In my life until now, I had never once seen so many stars.\n㉡ If there is another festival, I would like to have this wonderful experience again.","partnerLabel":"10주차 1강 51번 핵심 문법 & 연어 공식","partnerText":"• ㉠ '지금까지 살면서 이렇게 많은 별을 ( ㉠ ) 한 번도 없었습니다' → 과거 경험 부정 공식: 동사 + -(으)ㄴ 적이 한 번도 없다 = '본 적이'\n• ㉡ '있다면 이런 멋진 경험을 다시 ( ㉡ )' → '경험을 하다' + '-고 싶습니다' = '하고 싶습니다 / 해 보고 싶습니다'","partnerExplain":"Verified directly from The Week 10 Lecture 1 Learning Material (Page 12)! Notice that '한 번도 없었습니다' is already written after Blank ㉠, so you only write '본 적이' (or '본 적은') inside ㉠!","mem":"10주차 1강 Slide Page 12 (Q51 '인주시 별빛 축제'): 1) Before '한 번도 없었습니다', use the experience noun '-(으)ㄴ 적이' → '별을 본 적이'; 2) After '멋진 경험을 다시', pair '경험을 하다' with '-고 싶습니다' → '하고 싶습니다'!"},
+{"frontTag":"10주차 1강 Slide Page 13 · 제83회 쓰기 52번 기출문제 (덩굴성 야자나무와 개미)","frontMain":"식물은 다양한 방법으로 자신을 보호한다. 덩굴성 야자나무는 빈 줄기를 개미에게 집으로 제공한다. 이 나무에 다른 동물이 다가오면 줄기 속에 있던 개미들은 밖으로 나온다. 이때 개미들의 움직임으로 소리가 생긴다. 이 소리는 동물을 깜짝 ( ㉠ ). 결국 놀란 동물은 나뭇잎을 먹지 못하고 달아나 버린다. 식물학자들은 이것이 바로 이 나무가 자신을 보호하는 ( ㉡ ).","frontSub":"[10주차 1강 교안 13쪽 원문] 뒷문장의 '결국 놀란 동물은'과 첫 문장의 '식물은 다양한 방법으로 자신을 보호한다'를 연결하여 ( ㉠ ), ( ㉡ )을 평서형(-다)으로 완성하세요!","hintText":"㉠ 놀라게 한다 / 놀라게 만든다 | ㉡ 방법이라고 한다 / 방법이라고 말한다","backKo":"㉠ 놀라게 한다 (놀라게 만든다)\n㉡ 방법이라고 한다 (방법이라고 말한다 / 방법이라고 설명한다)","backEn":"㉠ This sound startles the animal (makes the animal startled).\n㉡ Botanists say that this is the very method by which this tree protects itself.","partnerLabel":"10주차 1강 52번 앞뒤 문장 꼬리 물기 공식","partnerText":"• ㉠ '이 소리는 동물을 깜짝 ( ㉠ )' + 뒷문장 '결국 놀란 동물은' → 사동 표현: '놀라게 한다 / 놀라게 만든다'\n• ㉡ 첫 문장 '다양한 방법으로 자신을 보호한다' + '식물학자들은 이것이 바로 이 나무가 자신을 보호하는 ( ㉡ )' → 간접 인용: '방법이라고 한다'","partnerExplain":"Verified directly from The Week 10 Lecture 1 Learning Material (Page 13)! In ㉠, the adverb '깜짝' and the next sentence's '놀란 동물' give away the verb '놀라다' → causative '놀라게 한다'. In ㉡, '식물학자들은' requires indirect quotation ('방법이라고 한다').","mem":"10주차 1강 Slide Page 13 (Q52 '덩굴성 야자나무'): 1) '깜짝' + next sentence '놀란 동물' → causative '놀라게 한다'; 2) First sentence '다양한 방법으로 자신을 보호한다' + subject '식물학자들은' → '방법이라고 한다'!"}
 ],
 "2강": [
-{
-"frontTag": "10주차 2강 Slide Pages 10~11 · 제83회 쓰기 53번 기출문제 (인주시의 가구 수 변화)",
-"frontMain": "[53번 도표: 인주시의 가구 수 변화 (200~300자)]\n• 조사 기관: 인주시 사회연구소\n• 인주시의 가구 수 (단위: 가구): 2001년 15만 → 2021년 21만 (1.4배 ↑)\n• 인원수별 가구의 비율 (단위: %):\n  - 1인 가구: 2001년 15% → 2021년 30%\n  - 2~3인 가구: 2001년 45% → 2021년 50%\n  - 4인 이상 가구: 2001년 40% → 2021년 20%\n• 원인: 20대 독립 ↑, 노인 가구 ↑\n• 전망: 2040년 1인 가구 43% 이상",
-"frontSub": "[10주차 2강 교안 10~11쪽 원문] 카드를 뒤집어 교안 11쪽에 수록된 모범 답안 원문을 확인하세요!",
-"hintText": "인주시 사회연구소에서 ... 조사하였다. 조사 결과 ... 1.4배 증가하였다. 이는 ... 큰 폭으로 감소하였기 때문이다. 이러한 변화는 ... 결과로 보인다. 2040년에는 ... 될 전망이다.",
-"backKo": "[교안 11쪽 모범 답안 원문]\n인주시 사회연구소에서 인주시의 가구 수 변화를 조사하였다. 조사결과 인주시의 가구 수는 2001년에 15만 가구에서 2021년에는 21만 가구로, 1.4배 증가하였다. 이는 인원수별 가구의 비율이 1인 가구는 2001년에 15%에서 2021년에는 30%로 크게 증가하였고 2~3인 가구는 45%에서 50%로 증가한 반면, 4인 이상 가구는 40%에서 20%로 큰 폭으로 감소하였기 때문이다. 이러한 변화는 독립한 20대와 노인 가구 증가의 결과로 보인다. 2040년에는 1인 가구가 43% 이상이 될 전망이다.",
-"backEn": "[Slide Page 11 Official Model Answer]\nInju City Social Research Institute surveyed the changes in the number of households in Inju City. As a result of the survey, the number of households in Inju City increased 1.4 times from 150,000 households in 2001 to 210,000 households in 2021. This is because the proportion of 1-person households increased sharply from 15% in 2001 to 30% in 2021 and 2–3 person households increased from 45% to 50%, whereas 4-or-more person households decreased by a large margin from 40% to 20%. This change appears to be the result of an increase in independent 20-somethings and elderly households. By 2040, 1-person households are projected to exceed 43%.",
-"partnerLabel": "10주차 2강 교안 11쪽 핵심 문장 템플릿 4가지",
-"partnerText": "1. 배수 증가: 15만 가구에서 21만 가구로, 1.4배 증가하였다.\n2. 증감 대조: 1인 가구는 ~ 크게 증가하였고 2~3인 가구는 ~ 증가한 반면, 4인 이상 가구는 ~ 큰 폭으로 감소하였기 때문이다.\n3. 원인 서술: 이러한 변화는 독립한 20대와 노인 가구 증가의 결과로 보인다.\n4. 전망 서술: 2040년에는 1인 가구가 43% 이상이 될 전망이다.",
-"partnerExplain": "Extracted word-for-word from The Week 10 Lecture 2 Learning Material (Page 11)! Memorize '독립한 20대와 노인 가구 증가의 결과로 보인다' (원인) and '~이/가 될 전망이다' (전망)!",
-"mem": "10주차 2강 Slide Page 11 (Q53 '인주시의 가구 수 변화'): 1) Multiplier: '1.4배 증가하였다'; 2) Cause ('원인'): '독립한 20대와 노인 가구 증가의 결과로 보인다'; 3) Forecast ('전망'): '2040년에는 1인 가구가 43% 이상이 될 전망이다'!"
-}
+{"frontTag":"10주차 2강 Slide Pages 10~11 · 제83회 쓰기 53번 기출문제 (인주시의 가구 수 변화)","frontMain":"[53번 도표: 인주시의 가구 수 변화 (200~300자)]\n• 조사 기관: 인주시 사회연구소\n• 인주시의 가구 수 (단위: 가구): 2001년 15만 → 2021년 21만 (1.4배 ↑)\n• 인원수별 가구의 비율 (단위: %):\n  - 1인 가구: 2001년 15% → 2021년 30%\n  - 2~3인 가구: 2001년 45% → 2021년 50%\n  - 4인 이상 가구: 2001년 40% → 2021년 20%\n• 원인: 20대 독립 ↑, 노인 가구 ↑\n• 전망: 2040년 1인 가구 43% 이상","frontSub":"[10주차 2강 교안 10~11쪽 원문] 카드를 뒤집어 교안 11쪽에 수록된 모범 답안 원문을 확인하세요!","hintText":"인주시 사회연구소에서 ... 조사하였다. 조사 결과 ... 1.4배 증가하였다. 이는 ... 큰 폭으로 감소하였기 때문이다. 이러한 변화는 ... 결과로 보인다. 2040년에는 ... 될 전망이다.","backKo":"[교안 11쪽 모범 답안 원문]\n인주시 사회연구소에서 인주시의 가구 수 변화를 조사하였다. 조사결과 인주시의 가구 수는 2001년에 15만 가구에서 2021년에는 21만 가구로, 1.4배 증가하였다. 이는 인원수별 가구의 비율이 1인 가구는 2001년에 15%에서 2021년에는 30%로 크게 증가하였고 2~3인 가구는 45%에서 50%로 증가한 반면, 4인 이상 가구는 40%에서 20%로 큰 폭으로 감소하였기 때문이다. 이러한 변화는 독립한 20대와 노인 가구 증가의 결과로 보인다. 2040년에는 1인 가구가 43% 이상이 될 전망이다.","backEn":"[Slide Page 11 Official Model Answer]\nInju City Social Research Institute surveyed the changes in the number of households in Inju City. As a result of the survey, the number of households in Inju City increased 1.4 times from 150,000 households in 2001 to 210,000 households in 2021. This is because the proportion of 1-person households increased sharply from 15% in 2001 to 30% in 2021 and 2–3 person households increased from 45% to 50%, whereas 4-or-more person households decreased by a large margin from 40% to 20%. This change appears to be the result of an increase in independent 20-somethings and elderly households. By 2040, 1-person households are projected to exceed 43%.","partnerLabel":"10주차 2강 교안 11쪽 핵심 문장 템플릿 4가지","partnerText":"1. 배수 증가: 15만 가구에서 21만 가구로, 1.4배 증가하였다.\n2. 증감 대조: 1인 가구는 ~ 크게 증가하였고 2~3인 가구는 ~ 증가한 반면, 4인 이상 가구는 ~ 큰 폭으로 감소하였기 때문이다.\n3. 원인 서술: 이러한 변화는 독립한 20대와 노인 가구 증가의 결과로 보인다.\n4. 전망 서술: 2040년에는 1인 가구가 43% 이상이 될 전망이다.","partnerExplain":"Extracted word-for-word from The Week 10 Lecture 2 Learning Material (Page 11)! Memorize '독립한 20대와 노인 가구 증가의 결과로 보인다' (원인) and '~이/가 될 전망이다' (전망)!","mem":"10주차 2강 Slide Page 11 (Q53 '인주시의 가구 수 변화'): 1) Multiplier: '1.4배 증가하였다'; 2) Cause ('원인'): '독립한 20대와 노인 가구 증가의 결과로 보인다'; 3) Forecast ('전망'): '2040년에는 1인 가구가 43% 이상이 될 전망이다'!"}
 ]
 },
 "11주차 (제91회)": {
 "1강": [
-{
-"frontTag": "11주차 1강 Slide Page 12 · 제91회 쓰기 51번 기출문제 (인주 피부과 병원 예약 변경 문자)",
-"frontMain": "[인주 피부과 병원 (10:00)]\n인주 피부과 병원입니다.\n11월 13일 오전 10시에 진료 예약이 되어 있습니다.\n\n[환자 답장 (16:00)]\n안녕하세요. 제가 13일에 일이 생겨서 병원에 못 가게 되었습니다.\n그래서 예약을 14일 오전 10시로 ( ㉠ ).\n만약에 이날 예약이 ( ㉡ ) 저는 15일 오전도 괜찮습니다.\n예약 변경이 가능한지 확인해 주십시오.",
-"frontSub": "[11주차 1강 교안 12쪽 원문] '예약을 14일 오전 10시로 ( ㉠ )'와 '만약에 이날 예약이 ( ㉡ ) 저는 15일 오전도 괜찮습니다'를 완성하세요!",
-"hintText": "㉠ 바꾸고 싶습니다 / 변경하고 싶습니다 / 미루고 싶습니다 | ㉡ 어렵다면 / 안 된다면 / 불가능하다면",
-"backKo": "㉠ 바꾸고 싶습니다 (변경하고 싶습니다 / 미루고 싶습니다)\n㉡ 어렵다면 (안 된다면 / 불가능하다면 / 힘들다면)",
-"backEn": "㉠ Therefore, I would like to change the reservation to 10:00 AM on the 14th.\n㉡ If a reservation on this day is difficult (not possible), the morning of the 15th is also fine with me.",
-"partnerLabel": "11주차 1강 51번 예약 변경 필수 표현",
-"partnerText": "• ㉠ 문장 끝이므로 반드시 격식체 종결: 예약을 ~(으)로 바꾸고 싶습니다 / 변경하고 싶습니다\n• ㉡ '만약에 이날 예약이 ( ㉡ ) 저는 15일 오전도 괜찮습니다' → 조건 연결어미 '-(으)면/다면': 어렵다면 / 안 된다면 / 불가능하다면",
-"partnerExplain": "Verified directly from The Week 11 Lecture 1 Learning Material (Page 12)! Notice that ㉠ ends a sentence with a period (so use '바꾸고 싶습니다 / 변경하고 싶습니다'), while ㉡ is a conditional clause after '만약에' (so use '어렵다면 / 안 된다면').",
-"mem": "11주차 1강 Slide Page 12 (Q51 '인주 피부과 병원'): 1) '예약을 14일 오전 10시로 ( ㉠ ).' → '바꾸고 싶습니다 / 변경하고 싶습니다'; 2) '만약에 이날 예약이 ( ㉡ ) 저는 15일 오전도 괜찮습니다' → '어렵다면 / 안 된다면'!"
-},
-{
-"frontTag": "11주차 1강 Slide Page 13 · 제91회 쓰기 52번 기출문제 (스트레스와 단 음식 중독 주의)",
-"frontMain": "스트레스를 받았을 때 사탕이나 과자와 같이 단 음식을 먹으면 기분이 좋아진다. 단 음식으로 인해 뇌에서 기분을 좋게 만드는 호르몬이 나오기 때문이다. 그런데 전문가들은 사람들이 술이나 담배에 중독되는 것처럼 단맛에도 ( ㉠ ). 따라서 평소에 단 음식을 지나치게 많이 ( ㉡ ) 주의할 필요가 있다.",
-"frontSub": "[11주차 1강 교안 13쪽 원문] '전문가들은 ~ 술이나 담배에 중독되는 것처럼 단맛에도 ( ㉠ )'과 '단 음식을 지나치게 많이 ( ㉡ ) 주의할 필요가 있다'를 평서형으로 완성하세요!",
-"hintText": "㉠ 중독될 수 있다고 한다 / 중독될 수 있다고 말한다 | ㉡ 먹지 않도록 / 섭취하지 않도록",
-"backKo": "㉠ 중독될 수 있다고 한다 (중독될 수 있다고 말한다 / 중독된다고 경고한다)\n㉡ 먹지 않도록 (섭취하지 않도록)",
-"backEn": "㉠ However, experts say that just as people become addicted to alcohol or cigarettes, they can also become addicted to sweetness.\n㉡ Therefore, one needs to be careful not to eat overly large amounts of sweet food normally.",
-"partnerLabel": "11주차 1강 52번 간접 인용 & 주의 표현 공식",
-"partnerText": "• ㉠ 주어 '전문가들은' + '술이나 담배에 중독되는 것처럼 단맛에도' → '중독될 수 있다고 한다 / 말한다'\n• ㉡ '단 음식을 지나치게 많이 ( ㉡ ) 주의할 필요가 있다' → 부정 목적 어미 '-지 않도록': '먹지 않도록 / 섭취하지 않도록'",
-"partnerExplain": "Verified directly from The Week 11 Lecture 1 Learning Material (Page 13)! In ㉠, mirror '중독되다' from '술이나 담배에 중독되는 것처럼' and attach indirect speech ('중독될 수 있다고 한다') to match '전문가들은'. In ㉡, before '주의할 필요가 있다' (need to be careful not to ~), use '-지 않도록' ('먹지 않도록').",
-"mem": "11주차 1강 Slide Page 13 (Q52 '단 음식 중독'): 1) Subject '전문가들은' + '중독되는 것처럼 단맛에도' → '중독될 수 있다고 한다'; 2) '단 음식을 지나치게 많이 ( ㉡ ) 주의할 필요가 있다' → '먹지 않도록'!"
-}
+{"frontTag":"11주차 1강 Slide Page 12 · 제91회 쓰기 51번 기출문제 (인주 피부과 병원 예약 변경 문자)","frontMain":"[인주 피부과 병원 (10:00)]\n인주 피부과 병원입니다.\n11월 13일 오전 10시에 진료 예약이 되어 있습니다.\n\n[환자 답장 (16:00)]\n안녕하세요. 제가 13일에 일이 생겨서 병원에 못 가게 되었습니다.\n그래서 예약을 14일 오전 10시로 ( ㉠ ).\n만약에 이날 예약이 ( ㉡ ) 저는 15일 오전도 괜찮습니다.\n예약 변경이 가능한지 확인해 주십시오.","frontSub":"[11주차 1강 교안 12쪽 원문] '예약을 14일 오전 10시로 ( ㉠ )'와 '만약에 이날 예약이 ( ㉡ ) 저는 15일 오전도 괜찮습니다'를 완성하세요!","hintText":"㉠ 바꾸고 싶습니다 / 변경하고 싶습니다 / 미루고 싶습니다 | ㉡ 어렵다면 / 안 된다면 / 불가능하다면","backKo":"㉠ 바꾸고 싶습니다 (변경하고 싶습니다 / 미루고 싶습니다)\n㉡ 어렵다면 (안 된다면 / 불가능하다면 / 힘들다면)","backEn":"㉠ Therefore, I would like to change the reservation to 10:00 AM on the 14th.\n㉡ If a reservation on this day is difficult (not possible), the morning of the 15th is also fine with me.","partnerLabel":"11주차 1강 51번 예약 변경 필수 표현","partnerText":"• ㉠ 문장 끝이므로 반드시 격식체 종결: 예약을 ~(으)로 바꾸고 싶습니다 / 변경하고 싶습니다\n• ㉡ '만약에 이날 예약이 ( ㉡ ) 저는 15일 오전도 괜찮습니다' → 조건 연결어미 '-(으)면/다면': 어렵다면 / 안 된다면 / 불가능하다면","partnerExplain":"Verified directly from The Week 11 Lecture 1 Learning Material (Page 12)! Notice that ㉠ ends a sentence with a period (so use '바꾸고 싶습니다 / 변경하고 싶습니다'), while ㉡ is a conditional clause after '만약에' (so use '어렵다면 / 안 된다면').","mem":"11주차 1강 Slide Page 12 (Q51 '인주 피부과 병원'): 1) '예약을 14일 오전 10시로 ( ㉠ ).' → '바꾸고 싶습니다 / 변경하고 싶습니다'; 2) '만약에 이날 예약이 ( ㉡ ) 저는 15일 오전도 괜찮습니다' → '어렵다면 / 안 된다면'!"},
+{"frontTag":"11주차 1강 Slide Page 13 · 제91회 쓰기 52번 기출문제 (스트레스와 단 음식 중독 주의)","frontMain":"스트레스를 받았을 때 사탕이나 과자와 같이 단 음식을 먹으면 기분이 좋아진다. 단 음식으로 인해 뇌에서 기분을 좋게 만드는 호르몬이 나오기 때문이다. 그런데 전문가들은 사람들이 술이나 담배에 중독되는 것처럼 단맛에도 ( ㉠ ). 따라서 평소에 단 음식을 지나치게 많이 ( ㉡ ) 주의할 필요가 있다.","frontSub":"[11주차 1강 교안 13쪽 원문] '전문가들은 ~ 술이나 담배에 중독되는 것처럼 단맛에도 ( ㉠ )'과 '단 음식을 지나치게 많이 ( ㉡ ) 주의할 필요가 있다'를 평서형으로 완성하세요!","hintText":"㉠ 중독될 수 있다고 한다 / 중독될 수 있다고 말한다 | ㉡ 먹지 않도록 / 섭취하지 않도록","backKo":"㉠ 중독될 수 있다고 한다 (중독될 수 있다고 말한다 / 중독된다고 경고한다)\n㉡ 먹지 않도록 (섭취하지 않도록)","backEn":"㉠ However, experts say that just as people become addicted to alcohol or cigarettes, they can also become addicted to sweetness.\n㉡ Therefore, one needs to be careful not to eat overly large amounts of sweet food normally.","partnerLabel":"11주차 1강 52번 간접 인용 & 주의 표현 공식","partnerText":"• ㉠ 주어 '전문가들은' + '술이나 담배에 중독되는 것처럼 단맛에도' → '중독될 수 있다고 한다 / 말한다'\n• ㉡ '단 음식을 지나치게 많이 ( ㉡ ) 주의할 필요가 있다' → 부정 목적 어미 '-지 않도록': '먹지 않도록 / 섭취하지 않도록'","partnerExplain":"Verified directly from The Week 11 Lecture 1 Learning Material (Page 13)! In ㉠, mirror '중독되다' from '술이나 담배에 중독되는 것처럼' and attach indirect speech ('중독될 수 있다고 한다') to match '전문가들은'. In ㉡, before '주의할 필요가 있다' (need to be careful not to ~), use '-지 않도록' ('먹지 않도록').","mem":"11주차 1강 Slide Page 13 (Q52 '단 음식 중독'): 1) Subject '전문가들은' + '중독되는 것처럼 단맛에도' → '중독될 수 있다고 한다'; 2) '단 음식을 지나치게 많이 ( ㉡ ) 주의할 필요가 있다' → '먹지 않도록'!"}
 ],
 "2강": [
-{
-"frontTag": "11주차 2강 Slide Pages 10~11 · 제91회 쓰기 53번 기출문제 (편의점과 대형 마트 매출액)",
-"frontMain": "[53번 도표: 편의점과 대형 마트 매출액 (200~300자)]\n• 조사 기관: 산업경제연구소\n• 편의점과 대형 마트 매출액 (단위: 원):\n  - 대형 마트: 2015년 24조 2천억 → 2022년 24조 3천억\n  - 편의점: 2015년 17조 2천억 → 2022년 22조 3천억\n• 원인:\n  1) 편의점 수 ↑ ➡ 고객 접근성 향상\n  2) 소포장 상품 수요 증가\n• 전망: 2023년 매출액: 편의점 > 대형 마트",
-"frontSub": "[11주차 2강 교안 10~11쪽 원문] 카드를 뒤집어 교안 11쪽에 수록된 모범 답안 원문을 확인하세요!",
-"hintText": "산업경제연구소의 조사에 따르면 대형 마트의 매출액은 ... 큰 변화가 없었다. 그에 비해 편의점 매출액은 ... 크게 증가한 것을 알 수 있었다. ... 원인은 첫째, ... 둘째, ... 이다. 이런 추세로 볼 때 2023년에는 편의점의 매출액이 대형 마트를 넘어설 것으로 전망된다.",
-"backKo": "[교안 11쪽 모범 답안 원문]\n산업경제연구소의 조사에 따르면 대형 마트의 매출액은 2015년에 24조 2천억 원이었던 것이 2022년에 24조 3천억 원으로 큰 변화가 없었다. 그에 비해 편의점 매출액은 2015년에 17조 2천억 원이었던 것이 2022년에 22조 3천억 원으로 크게 증가한 것을 알 수 있었다. 이렇게 편의점 매출액이 크게 증가한 원인은 첫째, 편의점 수가 증가하여 고객 접근성이 향상되고, 둘째, 소포장 상품의 수요가 증가했기 때문이다. 이런 추세로 볼 때 2023년에는 편의점의 매출액이 대형 마트를 넘어설 것으로 전망된다.",
-"backEn": "[Slide Page 11 Official Model Answer]\nAccording to a survey by the Industrial Economy Research Institute, hypermarket sales showed little change from 24.2 trillion won in 2015 to 24.3 trillion won in 2022. In contrast, convenience store sales increased sharply from 17.2 trillion won in 2015 to 22.3 trillion won in 2022. The reasons convenience store sales increased so sharply are, first, that the number of convenience stores increased, improving customer accessibility, and second, that demand for small-packaged products increased. Viewing this trend, convenience store sales are projected to surpass hypermarkets in 2023.",
-"partnerLabel": "11주차 2강 교안 11쪽 핵심 문장 템플릿 4가지",
-"partnerText": "1. 정체 표현: 24조 2천억 원이었던 것이 24조 3천억 원으로 큰 변화가 없었다.\n2. 대조 증가: 그에 비해 편의점 매출액은 ~ 크게 증가한 것을 알 수 있었다.\n3. 두 가지 원인 나열: 첫째, 편의점 수가 증가하여 고객 접근성이 향상되고, 둘째, 소포장 상품의 수요가 증가했기 때문이다.\n4. 추월 전망 ('편의점 > 대형 마트'): 이런 추세로 볼 때 2023년에는 편의점의 매출액이 대형 마트를 넘어설 것으로 전망된다.",
-"partnerExplain": "Extracted word-for-word from The Week 11 Lecture 2 Learning Material (Page 11)! Notice how '편의점 > 대형 마트' under '전망' is written: '편의점의 매출액이 대형 마트를 넘어설 것으로 전망된다' (projected to surpass)!",
-"mem": "11주차 2강 Slide Page 11 (Q53 '편의점과 대형 마트 매출액'): 1) Almost no change: '큰 변화가 없었다'; 2) Two causes: '첫째, ~ 향상되고, 둘째, ~ 증가했기 때문이다'; 3) Forecast '>' ('편의점 > 대형 마트'): '편의점의 매출액이 대형 마트를 넘어설 것으로 전망된다'!"
-}
+{"frontTag":"11주차 2강 Slide Pages 10~11 · 제91회 쓰기 53번 기출문제 (편의점과 대형 마트 매출액)","frontMain":"[53번 도표: 편의점과 대형 마트 매출액 (200~300자)]\n• 조사 기관: 산업경제연구소\n• 편의점과 대형 마트 매출액 (단위: 원):\n  - 대형 마트: 2015년 24조 2천억 → 2022년 24조 3천억\n  - 편의점: 2015년 17조 2천억 → 2022년 22조 3천억\n• 원인:\n  1) 편의점 수 ↑ ➡ 고객 접근성 향상\n  2) 소포장 상품 수요 증가\n• 전망: 2023년 매출액: 편의점 > 대형 마트","frontSub":"[11주차 2강 교안 10~11쪽 원문] 카드를 뒤집어 교안 11쪽에 수록된 모범 답안 원문을 확인하세요!","hintText":"산업경제연구소의 조사에 따르면 대형 마트의 매출액은 ... 큰 변화가 없었다. 그에 비해 편의점 매출액은 ... 크게 증가한 것을 알 수 있었다. ... 원인은 첫째, ... 둘째, ... 이다. 이런 추세로 볼 때 2023년에는 편의점의 매출액이 대형 마트를 넘어설 것으로 전망된다.","backKo":"[교안 11쪽 모범 답안 원문]\n산업경제연구소의 조사에 따르면 대형 마트의 매출액은 2015년에 24조 2천억 원이었던 것이 2022년에 24조 3천억 원으로 큰 변화가 없었다. 그에 비해 편의점 매출액은 2015년에 17조 2천억 원이었던 것이 2022년에 22조 3천억 원으로 크게 증가한 것을 알 수 있었다. 이렇게 편의점 매출액이 크게 증가한 원인은 첫째, 편의점 수가 증가하여 고객 접근성이 향상되고, 둘째, 소포장 상품의 수요가 증가했기 때문이다. 이런 추세로 볼 때 2023년에는 편의점의 매출액이 대형 마트를 넘어설 것으로 전망된다.","backEn":"[Slide Page 11 Official Model Answer]\nAccording to a survey by the Industrial Economy Research Institute, hypermarket sales showed little change from 24.2 trillion won in 2015 to 24.3 trillion won in 2022. In contrast, convenience store sales increased sharply from 17.2 trillion won in 2015 to 22.3 trillion won in 2022. The reasons convenience store sales increased so sharply are, first, that the number of convenience stores increased, improving customer accessibility, and second, that demand for small-packaged products increased. Viewing this trend, convenience store sales are projected to surpass hypermarkets in 2023.","partnerLabel":"11주차 2강 교안 11쪽 핵심 문장 템플릿 4가지","partnerText":"1. 정체 표현: 24조 2천억 원이었던 것이 24조 3천억 원으로 큰 변화가 없었다.\n2. 대조 증가: 그에 비해 편의점 매출액은 ~ 크게 증가한 것을 알 수 있었다.\n3. 두 가지 원인 나열: 첫째, 편의점 수가 증가하여 고객 접근성이 향상되고, 둘째, 소포장 상품의 수요가 증가했기 때문이다.\n4. 추월 전망 ('편의점 > 대형 마트'): 이런 추세로 볼 때 2023년에는 편의점의 매출액이 대형 마트를 넘어설 것으로 전망된다.","partnerExplain":"Extracted word-for-word from The Week 11 Lecture 2 Learning Material (Page 11)! Notice how '편의점 > 대형 마트' under '전망' is written: '편의점의 매출액이 대형 마트를 넘어설 것으로 전망된다' (projected to surpass)!","mem":"11주차 2강 Slide Page 11 (Q53 '편의점과 대형 마트 매출액'): 1) Almost no change: '큰 변화가 없었다'; 2) Two causes: '첫째, ~ 향상되고, 둘째, ~ 증가했기 때문이다'; 3) Forecast '>' ('편의점 > 대형 마트'): '편의점의 매출액이 대형 마트를 넘어설 것으로 전망된다'!"}
 ]
 },
 "12주차 (제96회)": {
 "1강": [
-{
-"frontTag": "12주차 1강 Slide Page 12 · 제96회 쓰기 51번 기출문제 (에르덴의 이사 동네 추천 문의 글)",
-"frontMain": "[자유 게시판]\n제목: 어디로 이사하는 것이 좋을까요? | 작성자: 에르덴\n\n안녕하세요. 외국인 유학생입니다.\n기숙사 생활이 불편해서 이번 방학에 이사를 ( ㉠ ).\n집값이 싸고 좀 깨끗한 동네면 좋겠습니다.\n그런데 어느 ( ㉡ ) 잘 모르겠습니다.\n좋은 곳을 아시면 추천 부탁드립니다.",
-"frontSub": "[12주차 1강 교안 12쪽 원문] '이번 방학에 이사를 ( ㉠ ).'과 '그런데 어느 ( ㉡ ) 잘 모르겠습니다.'를 격식체(-(스)ㅂ니다) 문맥에 맞게 완성하세요!",
-"hintText": "㉠ 하려고 합니다 / 하고 싶습니다 / 갈까 합니다 | ㉡ 동네가 좋은지 / 곳으로 이사하면 좋을지 / 동네로 가야 할지",
-"backKo": "㉠ 하려고 합니다 (하고 싶습니다 / 갈까 합니다)\n㉡ 동네가 좋은지 (곳으로 이사하면 좋을지 / 동네가 살기 좋은지)",
-"backEn": "㉠ Because dormitory life is inconvenient, I plan to (would like to) move during this vacation.\n㉡ However, I do not know well which neighborhood is good (which place would be good to move to).",
-"partnerLabel": "12주차 1강 51번 의도·간접의문문 공식",
-"partnerText": "• ㉠ '기숙사 생활이 불편해서 이번 방학에 이사를 ( ㉠ ).' → 계획·희망 표현: '하려고 합니다 / 하고 싶습니다'\n• ㉡ 제목('어디로 이사하는 것이 좋을까요?') + 앞문장('집값이 싸고 좀 깨끗한 동네') + '그런데 어느 ( ㉡ ) 잘 모르겠습니다' → 간접의문문: '동네가 좋은지 / 곳으로 이사하면 좋을지'",
-"partnerExplain": "Verified directly from The Week 12 Lecture 1 Learning Material (Page 12)! In ㉠, pair the noun '이사를' with '하다' + intention ending '-(으)려고 합니다'. In ㉡, after the determiner '어느' (which) and before '잘 모르겠습니다' (I don't know well), use a noun ('동네/곳') + indirect question ending ('-ㄴ지/는지/-(으)ㄹ지')!",
-"mem": "12주차 1강 Slide Page 12 (Q51 '에르덴 — 어디로 이사하는 것이 좋을까요?'): 1) '이번 방학에 이사를 ( ㉠ ).' → '하려고 합니다 / 하고 싶습니다'; 2) '그런데 어느 ( ㉡ ) 잘 모르겠습니다.' → '동네가 좋은지 / 곳으로 이사하면 좋을지'!"
-},
-{
-"frontTag": "12주차 1강 Slide Page 13 · 제96회 쓰기 52번 기출문제 (개구리의 긴 잠과 체온 조절)",
-"frontMain": "개구리가 겨울에 추위를 피해 겨울잠을 잔다는 것은 잘 알려져 있다. 그런데 개구리가 꼭 추운 겨울에만 긴 잠을 ( ㉠ ). 더운 지역에 사는 개구리는 기온이 매우 높은 기간에 긴 잠을 자기도 한다. 왜냐하면 개구리는 사람과 달리 체내에서 체온 조절을 ( ㉡ ). 개구리처럼 체온 조절을 못하는 동물에게는 추위뿐만 아니라 더위도 생존에 위협이 되는 것이다.",
-"frontSub": "[12주차 1강 교안 13쪽 원문] '꼭 추운 겨울에만 긴 잠을 ( ㉠ ).'과 '왜냐하면 개구리는 사람과 달리 체내에서 체온 조절을 ( ㉡ ).'을 평서형(-다)으로 완성하세요!",
-"hintText": "㉠ 자는 것은 아니다 (부분 부정: 꼭 ~만 ~는 것은 아니다) | ㉡ 하지 못하기 때문이다 / 할 수 없기 때문이다 (뒷문장 '체온 조절을 못하는' 힌트!)",
-"backKo": "㉠ 자는 것은 아니다\n㉡ 하지 못하기 때문이다 (할 수 없기 때문이다 / 못하기 때문이다)",
-"backEn": "㉠ However, it is not the case that frogs sleep a long sleep only in the cold winter.\n㉡ This is because, unlike humans, frogs cannot regulate their body temperature inside their bodies.",
-"partnerLabel": "12주차 1강 52번 부분 부정 & 이유 호응 공식",
-"partnerText": "• ㉠ '그런데 개구리가 꼭 추운 겨울에만 긴 잠을 ( ㉠ ).' → '꼭 ~만' 짝꿍 부분 부정 공식: '자는 것은 아니다'\n• ㉡ '왜냐하면 ~ 체온 조절을 ( ㉡ ).' + 뒷문장 '개구리처럼 체온 조절을 못하는 동물에게는' → '하지 못하기 때문이다 / 할 수 없기 때문이다'",
-"partnerExplain": "Verified directly from The Week 12 Lecture 1 Learning Material (Page 13)! In ㉠, '꼭 ~만' (necessarily only ~) always pairs with partial negation '-는 것은 아니다' ('자는 것은 아니다'). In ㉡, the sentence starts with '왜냐하면' (because) and the very next sentence gives away the exact words: '개구리처럼 체온 조절을 못하는 동물에게는' → '하지 못하기 때문이다'!",
-"mem": "12주차 1강 Slide Page 13 (Q52 '개구리 체온 조절'): 1) '꼭 추운 겨울에만 긴 잠을 ( ㉠ )' → '자는 것은 아니다' (not necessarily only in winter); 2) '왜냐하면' + next sentence '체온 조절을 못하는' → '하지 못하기 때문이다 / 할 수 없기 때문이다'!"
-}
+{"frontTag":"12주차 1강 Slide Page 12 · 제96회 쓰기 51번 기출문제 (에르덴의 이사 동네 추천 문의 글)","frontMain":"[자유 게시판]\n제목: 어디로 이사하는 것이 좋을까요? | 작성자: 에르덴\n\n안녕하세요. 외국인 유학생입니다.\n기숙사 생활이 불편해서 이번 방학에 이사를 ( ㉠ ).\n집값이 싸고 좀 깨끗한 동네면 좋겠습니다.\n그런데 어느 ( ㉡ ) 잘 모르겠습니다.\n좋은 곳을 아시면 추천 부탁드립니다.","frontSub":"[12주차 1강 교안 12쪽 원문] '이번 방학에 이사를 ( ㉠ ).'과 '그런데 어느 ( ㉡ ) 잘 모르겠습니다.'를 격식체(-(스)ㅂ니다) 문맥에 맞게 완성하세요!","hintText":"㉠ 하려고 합니다 / 하고 싶습니다 / 갈까 합니다 | ㉡ 동네가 좋은지 / 곳으로 이사하면 좋을지 / 동네로 가야 할지","backKo":"㉠ 하려고 합니다 (하고 싶습니다 / 갈까 합니다)\n㉡ 동네가 좋은지 (곳으로 이사하면 좋을지 / 동네가 살기 좋은지)","backEn":"㉠ Because dormitory life is inconvenient, I plan to (would like to) move during this vacation.\n㉡ However, I do not know well which neighborhood is good (which place would be good to move to).","partnerLabel":"12주차 1강 51번 의도·간접의문문 공식","partnerText":"• ㉠ '기숙사 생활이 불편해서 이번 방학에 이사를 ( ㉠ ).' → 계획·희망 표현: '하려고 합니다 / 하고 싶습니다'\n• ㉡ 제목('어디로 이사하는 것이 좋을까요?') + 앞문장('집값이 싸고 좀 깨끗한 동네') + '그런데 어느 ( ㉡ ) 잘 모르겠습니다' → 간접의문문: '동네가 좋은지 / 곳으로 이사하면 좋을지'","partnerExplain":"Verified directly from The Week 12 Lecture 1 Learning Material (Page 12)! In ㉠, pair the noun '이사를' with '하다' + intention ending '-(으)려고 합니다'. In ㉡, after the determiner '어느' (which) and before '잘 모르겠습니다' (I don't know well), use a noun ('동네/곳') + indirect question ending ('-ㄴ지/는지/-(으)ㄹ지')!","mem":"12주차 1강 Slide Page 12 (Q51 '에르덴 — 어디로 이사하는 것이 좋을까요?'): 1) '이번 방학에 이사를 ( ㉠ ).' → '하려고 합니다 / 하고 싶습니다'; 2) '그런데 어느 ( ㉡ ) 잘 모르겠습니다.' → '동네가 좋은지 / 곳으로 이사하면 좋을지'!"},
+{"frontTag":"12주차 1강 Slide Page 13 · 제96회 쓰기 52번 기출문제 (개구리의 긴 잠과 체온 조절)","frontMain":"개구리가 겨울에 추위를 피해 겨울잠을 잔다는 것은 잘 알려져 있다. 그런데 개구리가 꼭 추운 겨울에만 긴 잠을 ( ㉠ ). 더운 지역에 사는 개구리는 기온이 매우 높은 기간에 긴 잠을 자기도 한다. 왜냐하면 개구리는 사람과 달리 체내에서 체온 조절을 ( ㉡ ). 개구리처럼 체온 조절을 못하는 동물에게는 추위뿐만 아니라 더위도 생존에 위협이 되는 것이다.","frontSub":"[12주차 1강 교안 13쪽 원문] '꼭 추운 겨울에만 긴 잠을 ( ㉠ ).'과 '왜냐하면 개구리는 사람과 달리 체내에서 체온 조절을 ( ㉡ ).'을 평서형(-다)으로 완성하세요!","hintText":"㉠ 자는 것은 아니다 (부분 부정: 꼭 ~만 ~는 것은 아니다) | ㉡ 하지 못하기 때문이다 / 할 수 없기 때문이다 (뒷문장 '체온 조절을 못하는' 힌트!)","backKo":"㉠ 자는 것은 아니다\n㉡ 하지 못하기 때문이다 (할 수 없기 때문이다 / 못하기 때문이다)","backEn":"㉠ However, it is not the case that frogs sleep a long sleep only in the cold winter.\n㉡ This is because, unlike humans, frogs cannot regulate their body temperature inside their bodies.","partnerLabel":"12주차 1강 52번 부분 부정 & 이유 호응 공식","partnerText":"• ㉠ '그런데 개구리가 꼭 추운 겨울에만 긴 잠을 ( ㉠ ).' → '꼭 ~만' 짝꿍 부분 부정 공식: '자는 것은 아니다'\n• ㉡ '왜냐하면 ~ 체온 조절을 ( ㉡ ).' + 뒷문장 '개구리처럼 체온 조절을 못하는 동물에게는' → '하지 못하기 때문이다 / 할 수 없기 때문이다'","partnerExplain":"Verified directly from The Week 12 Lecture 1 Learning Material (Page 13)! In ㉠, '꼭 ~만' (necessarily only ~) always pairs with partial negation '-는 것은 아니다' ('자는 것은 아니다'). In ㉡, the sentence starts with '왜냐하면' (because) and the very next sentence gives away the exact words: '개구리처럼 체온 조절을 못하는 동물에게는' → '하지 못하기 때문이다'!","mem":"12주차 1강 Slide Page 13 (Q52 '개구리 체온 조절'): 1) '꼭 추운 겨울에만 긴 잠을 ( ㉠ )' → '자는 것은 아니다' (not necessarily only in winter); 2) '왜냐하면' + next sentence '체온 조절을 못하는' → '하지 못하기 때문이다 / 할 수 없기 때문이다'!"}
 ],
 "2강": [
-{
-"frontTag": "12주차 2강 Slide Pages 10~11 · 제96회 쓰기 53번 기출문제 (인주시 마라톤 대회 참가자 수의 변화)",
-"frontMain": "[53번 도표: 인주시 마라톤 대회 참가자 수의 변화 (200~300자)]\n• 조사 기관: 한국스포츠연구소\n• 인주시 마라톤 대회 참가자 수 (단위: 명):\n  - 2013년 40만 → 2023년 100만 (2.5배 ↑)\n• 연령별 참가자 수 (2013년 → 2023년):\n  - 20~30대: 4배 ↑\n  - 40~50대: 1.3배 ↑\n• 원인:\n  1) 건강 관리에 대한 관심 ↑ ➡ 달리기 문화 확산\n  2) SNS를 통한 마라톤 모임 활성화 ➡ 20~30대 참가자 ↑",
-"frontSub": "[12주차 2강 교안 10~11쪽 원문] 카드를 뒤집어 교안 11쪽에 수록된 모범 답안 원문을 확인하세요!",
-"hintText": "한국스포츠연구소에서 ... 조사하였다. 그 결과 ... 2.5배 증가한 것으로 나타났다. 이를 연령별로 살펴보면 20~30대는 지난 10년간 4배 증가한 반면 40~50대는 같은 기간에 1.3배 증가하는 데에 그쳤다. 이러한 변화의 원인은 ... 때문인 것으로 보인다.",
-"backKo": "[교안 11쪽 모범 답안 원문 (오타 교정본)]\n한국스포츠연구소에서 인주시 마라톤 대회 참가자 수의 변화를 조사하였다. 그 결과 인주시의 마라톤 대회 참가자 수는 2013년 40만 명에서 2023년 100만 명으로 2.5배 증가한 것으로 나타났다. 이를 연령별로 살펴보면 20~30대는 지난 10년간 4배 증가한 반면 40~50대는 같은 기간에 1.3배 증가하는 데에 그쳤다. 이러한 변화의 원인은 건강 관리에 대한 관심이 높아져 달리기 문화가 확산되었고 SNS를 통한 마라톤 모임이 활성화되어 20~30대 참가자가 증가하였기 때문인 것으로 보인다.",
-"backEn": "[Slide Page 11 Official Model Answer]\nKorea Sports Research Institute surveyed changes in the number of participants in the Inju City Marathon. As a result, the number of participants in the Inju City Marathon increased 2.5 times from 400,000 in 2013 to 1,000,000 in 2023. Examining this by age group, those in their 20s–30s increased 4 times over the past 10 years, whereas those in their 40s–50s only increased 1.3 times during the same period. The causes of this change appear to be that interest in health management rose, spreading the running culture, and marathon clubs via SNS were vitalized, increasing participants in their 20s–30s.",
-"partnerLabel": "12주차 2강 교안 11쪽 핵심 문장 템플릿 4가지",
-"partnerText": "1. 전체 배수 증가: 2013년 40만 명에서 2023년 100만 명으로 2.5배 증가한 것으로 나타났다.\n2. 세부 항목 전환: 이를 연령별로 살펴보면 ~\n3. 큰 폭 vs 작은 폭 증가 대조: 20~30대는 지난 10년간 4배 증가한 반면 40~50대는 같은 기간에 1.3배 증가하는 데에 그쳤다.\n4. 화살표(➡) 원인 연결: 관심이 높아져 달리기 문화가 확산되었고 SNS를 통한 마라톤 모임이 활성화되어 20~30대 참가자가 증가하였기 때문인 것으로 보인다.",
-"partnerExplain": "Extracted word-for-word from The Week 12 Lecture 2 Learning Material (Page 11)! Pay special attention to the high-scoring expression '1.3배 증가하는 데에 그쳤다' (only increased by 1.3 times / stopped at a 1.3x increase) when contrasting a small increase against a 4x surge!",
-"mem": "12주차 2강 Slide Page 11 (Q53 '인주시 마라톤 대회'): 1) Transition to age breakdown: '이를 연령별로 살펴보면'; 2) Contrast 4x vs 1.3x: '20~30대는 4배 증가한 반면 40~50대는 1.3배 증가하는 데에 그쳤다'; 3) Causes: '~확산되었고 ~활성화되어 ~증가하였기 때문인 것으로 보인다'!"
-}
+{"frontTag":"12주차 2강 Slide Pages 10~11 · 제96회 쓰기 53번 기출문제 (인주시 마라톤 대회 참가자 수의 변화)","frontMain":"[53번 도표: 인주시 마라톤 대회 참가자 수의 변화 (200~300자)]\n• 조사 기관: 한국스포츠연구소\n• 인주시 마라톤 대회 참가자 수 (단위: 명):\n  - 2013년 40만 → 2023년 100만 (2.5배 ↑)\n• 연령별 참가자 수 (2013년 → 2023년):\n  - 20~30대: 4배 ↑\n  - 40~50대: 1.3배 ↑\n• 원인:\n  1) 건강 관리에 대한 관심 ↑ ➡ 달리기 문화 확산\n  2) SNS를 통한 마라톤 모임 활성화 ➡ 20~30대 참가자 ↑","frontSub":"[12주차 2강 교안 10~11쪽 원문] 카드를 뒤집어 교안 11쪽에 수록된 모범 답안 원문을 확인하세요!","hintText":"한국스포츠연구소에서 ... 조사하였다. 그 결과 ... 2.5배 증가한 것으로 나타났다. 이를 연령별로 살펴보면 20~30대는 지난 10년간 4배 증가한 반면 40~50대는 같은 기간에 1.3배 증가하는 데에 그쳤다. 이러한 변화의 원인은 ... 때문인 것으로 보인다.","backKo":"[교안 11쪽 모범 답안 원문 (오타 교정본)]\n한국스포츠연구소에서 인주시 마라톤 대회 참가자 수의 변화를 조사하였다. 그 결과 인주시의 마라톤 대회 참가자 수는 2013년 40만 명에서 2023년 100만 명으로 2.5배 증가한 것으로 나타났다. 이를 연령별로 살펴보면 20~30대는 지난 10년간 4배 증가한 반면 40~50대는 같은 기간에 1.3배 증가하는 데에 그쳤다. 이러한 변화의 원인은 건강 관리에 대한 관심이 높아져 달리기 문화가 확산되었고 SNS를 통한 마라톤 모임이 활성화되어 20~30대 참가자가 증가하였기 때문인 것으로 보인다.","backEn":"[Slide Page 11 Official Model Answer]\nKorea Sports Research Institute surveyed changes in the number of participants in the Inju City Marathon. As a result, the number of participants in the Inju City Marathon increased 2.5 times from 400,000 in 2013 to 1,000,000 in 2023. Examining this by age group, those in their 20s–30s increased 4 times over the past 10 years, whereas those in their 40s–50s only increased 1.3 times during the same period. The causes of this change appear to be that interest in health management rose, spreading the running culture, and marathon clubs via SNS were vitalized, increasing participants in their 20s–30s.","partnerLabel":"12주차 2강 교안 11쪽 핵심 문장 템플릿 4가지","partnerText":"1. 전체 배수 증가: 2013년 40만 명에서 2023년 100만 명으로 2.5배 증가한 것으로 나타났다.\n2. 세부 항목 전환: 이를 연령별로 살펴보면 ~\n3. 큰 폭 vs 작은 폭 증가 대조: 20~30대는 지난 10년간 4배 증가한 반면 40~50대는 같은 기간에 1.3배 증가하는 데에 그쳤다.\n4. 화살표(➡) 원인 연결: 관심이 높아져 달리기 문화가 확산되었고 SNS를 통한 마라톤 모임이 활성화되어 20~30대 참가자가 증가하였기 때문인 것으로 보인다.","partnerExplain":"Extracted word-for-word from The Week 12 Lecture 2 Learning Material (Page 11)! Pay special attention to the high-scoring expression '1.3배 증가하는 데에 그쳤다' (only increased by 1.3 times / stopped at a 1.3x increase) when contrasting a small increase against a 4x surge!","mem":"12주차 2강 Slide Page 11 (Q53 '인주시 마라톤 대회'): 1) Transition to age breakdown: '이를 연령별로 살펴보면'; 2) Contrast 4x vs 1.3x: '20~30대는 4배 증가한 반면 40~50대는 1.3배 증가하는 데에 그쳤다'; 3) Causes: '~확산되었고 ~활성화되어 ~증가하였기 때문인 것으로 보인다'!"}
 ]
 }
 }
